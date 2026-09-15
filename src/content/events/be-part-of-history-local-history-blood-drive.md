@@ -2,6 +2,7 @@
 title: "\"Be Part of History\" Local History Blood Drive"
 start: 2023-10-19T10:00:00-0400
 end: 2023-10-19T15:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Celebrate October as Local History Month in Virginia with the Martinsville-Henry County Historical Society at its \"Be Part of History\" Fall Blood Drive on Thursday,…"
 image: /media/events/be-part-of-history-local-history-blood-drive.webp
 imageAlt: "\"Be Part of History\" Local History Blood Drive"

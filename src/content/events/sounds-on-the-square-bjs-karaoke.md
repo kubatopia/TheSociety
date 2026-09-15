@@ -2,6 +2,7 @@
 title: "Sounds on the Square: BJ's Karaoke"
 start: 2023-08-04T17:30:00-0400
 end: 2023-08-04T22:00:00-0400
+location: "The Square, 1 East Main Street, Martinsville, VA"
 summary: "Do YOU want to be the STAR of the show? Join us for “Courthouse Karaoke” and be the Sounds on the Square on Friday, August 4, 2023, on the beautiful brick Plaza of the…"
 image: /media/events/sounds-on-the-square-bjs-karaoke.webp
 imageAlt: "Sounds on the Square: BJ's Karaoke"

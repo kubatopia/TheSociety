@@ -2,6 +2,7 @@
 title: "Sunday Afternoon Lecture: Historic Gardens"
 start: 2026-03-15T15:00:00-0400
 end: 2026-03-15T16:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Not only buildings but also the grounds and landscape bring us back to the past. Join the MHC Historical Society on March 15 as Debbie Lewis, a former Garden Club of…"
 image: /media/events/sunday-afternoon-lecture-historic-gardens.webp
 imageAlt: "Sunday Afternoon Lecture: Historic Gardens"

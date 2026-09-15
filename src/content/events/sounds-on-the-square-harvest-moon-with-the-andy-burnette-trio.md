@@ -2,6 +2,7 @@
 title: "Sounds on the Square: Harvest Moon with the Andy Burnette Trio"
 start: 2023-10-06T17:30:00-0400
 end: 2023-10-06T22:00:00-0400
+location: "The Square, 1 East Main Street, Martinsville, VA"
 summary: "On behalf of the Martinsville-Henry County Historical Society, thank you to the community and beyond for the overwhelming support of our 2023 Sounds on the Square…"
 image: /media/events/sounds-on-the-square-harvest-moon-with-the-andy-burnette-trio.webp
 imageAlt: "Sounds on the Square: Harvest Moon with the Andy Burnette Trio"

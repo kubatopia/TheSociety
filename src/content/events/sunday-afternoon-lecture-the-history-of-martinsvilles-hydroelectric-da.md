@@ -2,6 +2,7 @@
 title: "Sunday Afternoon Lecture: \"The History of Martinsville's Hydroelectric Dam and Powerhouse at the Smith River\""
 start: 2025-06-15T15:00:00-0400
 end: 2025-06-15T16:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Jake Keller and Thomas Slaydon will present the program “Three Dudes, Three Dams, and a Troll: The Pursuit of Electrical Power for Martinsville” at 3 p.m. Sunday in the…"
 image: /media/events/sunday-afternoon-lecture-the-history-of-martinsvilles-hydroelectric-da.webp
 imageAlt: "Sunday Afternoon Lecture: \"The History of Martinsville's Hydroelectric Dam and Powerhouse at the Smith River\""

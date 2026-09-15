@@ -2,6 +2,7 @@
 title: "Blue Jeans & Bling"
 start: 2026-10-03T18:00:00-0400
 end: 2026-10-03T22:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "The MHC Historical Society’s annual music, dinner and social event—the Blue Jeans & Bling fundraiser–will be held on Saturday, Oct. 3! The social will begin at 6 p.m.,…"
 image: /media/events/blue-jeans-bling-2.webp
 imageAlt: "Blue Jeans & Bling"

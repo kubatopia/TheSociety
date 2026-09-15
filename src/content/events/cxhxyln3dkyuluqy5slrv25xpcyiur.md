@@ -2,6 +2,7 @@
 title: "Ghost Walk"
 start: 2024-10-19T18:00:00-0400
 end: 2024-10-19T20:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "TICKETS HAVE BEEN SOLD OUT Step back in time and uncover the hidden tales of our most notable residents with the Martinsville-Henry County Historical Society's Ghost…"
 image: /media/events/cxhxyln3dkyuluqy5slrv25xpcyiur.webp
 imageAlt: "Ghost Walk"

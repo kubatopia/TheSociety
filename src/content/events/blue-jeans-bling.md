@@ -2,6 +2,7 @@
 title: "Blue Jeans & Bling"
 start: 2023-10-07T18:00:00-0400
 end: 2023-10-07T22:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Join the Martinsville-Henry County Historical Society for its annual and largest fundraiser, Blue Jeans & Bling, on Saturday, October 7, 2023, on the beautiful Historic…"
 image: /media/events/blue-jeans-bling.webp
 imageAlt: "Blue Jeans & Bling"

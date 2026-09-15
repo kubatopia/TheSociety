@@ -2,6 +2,7 @@
 title: "Annual Meeting & Distinguished Lecture: \"Campus to Counter: Civil Rights Activism\""
 start: 2024-05-19T15:00:00-0400
 end: 2024-05-19T16:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "The Martinsville-Henry County Historical Society will hold its Annual Meeting & Distinguished Lecture, “Campus to Counter: Civil Rights Activism,” on Sunday, May 19,…"
 image: /media/events/annual-meeting-distinguished-lecture-campus-to-counter-civil-rights-ac.webp
 imageAlt: "Annual Meeting & Distinguished Lecture: \"Campus to Counter: Civil Rights Activism\""

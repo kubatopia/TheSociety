@@ -2,6 +2,7 @@
 title: "The Maps of Thomas Jefferson"
 start: 2023-11-12T15:00:00-0500
 end: 2023-11-12T16:00:00-0500
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Join the Martinsville-Henry County Historical Society for its monthly Sunday Afternoon Lecture, “The Maps of Thomas Jefferson” with Zack Fleming, Cartographer, on…"
 image: /media/events/the-maps-of-thomas-jefferson.webp
 imageAlt: "The Maps of Thomas Jefferson"

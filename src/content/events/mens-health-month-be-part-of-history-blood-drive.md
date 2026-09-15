@@ -2,6 +2,7 @@
 title: "Men's Health Month \"Be Part of History\" Blood Drive"
 start: 2023-06-06T10:00:00-0400
 end: 2023-06-26T15:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Celebrate Men’s Health Month with the Martinsville-Henry County Historical Society at its American Red Cross “Be Part of History” Blood Drive on Monday, June 26, 2023,…"
 image: /media/events/mens-health-month-be-part-of-history-blood-drive.webp
 imageAlt: "Men's Health Month \"Be Part of History\" Blood Drive"

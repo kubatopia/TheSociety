@@ -2,6 +2,7 @@
 title: "The Other Side of Gen. William Jackson Palmer"
 start: 2024-08-18T15:00:00-0400
 end: 2024-08-18T16:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Join the Martinsville-Henry County Historical Society for our monthly Sunday Afternoon Lecture, “The Other Side of General William Jackson Palmer” with Jan Mackell on…"
 image: /media/events/the-other-side-of-gen-william-jackson-palmer.webp
 imageAlt: "The Other Side of Gen. William Jackson Palmer"

@@ -2,6 +2,7 @@
 title: "Patriotic Sounds on the Square"
 start: 2026-07-03T17:00:00-0400
 end: 2026-07-03T21:00:00-0400
+location: "The Square, 1 East Main Street, Martinsville, VA"
 summary: "Celebrate the nation’s 250th anniversary of independence with a special patriotic-themed Sounds on the Square! Da Capo will perform music. Food will be for sale, along…"
 image: /media/events/patriotic-sounds-on-the-square.webp
 imageAlt: "Patriotic Sounds on the Square"

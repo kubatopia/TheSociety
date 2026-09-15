@@ -2,6 +2,7 @@
 title: "“Readjusting the Old Dominion: The Forgotten Rise and Fall of Virginia’s Readjuster Movement”"
 start: 2025-02-16T15:00:00-0500
 end: 2025-02-16T16:00:00-0500
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Join the Martinsville-Henry County Historical Society for its Sunday Afternoon Lecture Series and discover a secret chapter in Virginia’s Reconstruction era history with…"
 image: /media/events/readjusting-the-old-dominion-the-forgotten-rise-and-fall-of-virginias-.webp
 imageAlt: "“Readjusting the Old Dominion: The Forgotten Rise and Fall of Virginia’s Readjuster Movement”"

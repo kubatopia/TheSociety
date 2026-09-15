@@ -2,6 +2,7 @@
 title: "Blue Jeans & Bling"
 start: 2025-10-04T17:30:00-0400
 end: 2025-10-04T20:30:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "UPDATE: Blue Jeans & Bling has been sold out. If you missed this year, join us next year! Blue Jeans & Bling, where fancy and laid back meet, is the MHC Historical…"
 image: /media/events/blue-jeans-bling-1.webp
 imageAlt: "Blue Jeans & Bling"

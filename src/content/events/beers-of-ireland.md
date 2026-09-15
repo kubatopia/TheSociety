@@ -2,6 +2,7 @@
 title: "Beers of Ireland"
 start: 2024-03-16T14:00:00-0400
 end: 2024-03-16T16:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Join the Martinsville-Henry County Historical Society and Scuffle Hill Brewing Company for “Beers of Ireland” on Saturday, March 16, 2024, 2:00-4:00 P.M., at the…"
 image: /media/events/beers-of-ireland.webp
 imageAlt: "Beers of Ireland"

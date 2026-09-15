@@ -2,6 +2,7 @@
 title: "Flag Day Ceremony"
 start: 2025-06-14T11:00:00-0400
 end: 2025-06-14T12:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "The Patrick Henry and General Joseph Martin Chapters of the Daughters of the American Revolution will present a Flag Day Ceremony at 11 a.m. Saturday, June 14, at the…"
 image: /media/events/flag-day-ceremony.webp
 imageAlt: "Flag Day Ceremony"

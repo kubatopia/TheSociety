@@ -2,6 +2,7 @@
 title: "Exhibits Opening Reception"
 start: 2026-01-09T17:30:00-0500
 end: 2026-01-09T19:30:00-0500
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Two new exhibits will kick off the new year at the MHC Heritage Museum: “From Still to Speed: A History of NASCAR” and “A History of Setting Style.” The exhibits will…"
 image: /media/events/ndajt16wk0kkxa1xdmgzxixf8oi0vw.webp
 imageAlt: "Exhibits Opening Reception"

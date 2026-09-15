@@ -2,6 +2,7 @@
 title: "\"Living with Black Bears\""
 start: 2025-04-13T15:00:00-0400
 end: 2025-04-13T16:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Join the Martinsville-Henry County Historical Society for its Sunday Afternoon Lecture Series, “Living with Black Bears” with Regina Flora, on Sunday, April 13, 2025, at…"
 image: /media/events/living-with-black-bears.webp
 imageAlt: "\"Living with Black Bears\""

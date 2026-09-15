@@ -2,6 +2,7 @@
 title: "Sharing the Spirit of America"
 start: 2026-07-08T17:30:00-0400
 end: 2026-07-08T19:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Celebrate “Sharing the Spirit of America” on Wednesday, July 8, 2026, at the Martinsville-Henry County Heritage Museum, 1 East Main Street, Uptown Martinsville!…"
 image: /media/events/sharing-the-spirit-of-america.webp
 imageAlt: "Sharing the Spirit of America"

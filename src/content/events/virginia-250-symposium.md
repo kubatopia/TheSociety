@@ -2,6 +2,7 @@
 title: "Virginia 250 Symposium"
 start: 2025-08-03T15:00:00-0400
 end: 2025-08-03T18:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "The Virginia 250 Symposium on August 3 will celebrate the 250th anniversary of Virginia with three speakers: VA250 Executive Director Cheryl Wilson, Jeff Briggs, and…"
 image: /media/events/virginia-250-symposium.webp
 imageAlt: "Virginia 250 Symposium"

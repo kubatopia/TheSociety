@@ -2,6 +2,7 @@
 title: "Exhibit-Opening Reception for \"Pan-tastic Journey: Cookware through time\""
 start: 2025-04-25T17:30:00-0400
 end: 2025-04-25T19:30:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "An opening reception for the new exhibit “Pan-tastic Journey: Cookware Through Time” will be held from 5:30-7:30 p.m. Friday, April 25, at the MCH Heritage Museum. The…"
 image: /media/events/exhibit-opening-reception-for-pan-tastic-journey-cookware-through-time.webp
 imageAlt: "Exhibit-Opening Reception for \"Pan-tastic Journey: Cookware through time\""

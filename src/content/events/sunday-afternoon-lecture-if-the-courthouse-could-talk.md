@@ -2,6 +2,7 @@
 title: "Sunday Afternoon Lecture: \"If The Courthouse Could Talk\""
 start: 2024-10-20T15:00:00-0400
 end: 2024-10-20T16:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "In celebration of the 200th birthday of the Historic Henry County Courthouse and October as Local History Month in Virginia, the Martinsville-Henry County Historical…"
 image: /media/events/sunday-afternoon-lecture-if-the-courthouse-could-talk.webp
 imageAlt: "Sunday Afternoon Lecture: \"If The Courthouse Could Talk\""

@@ -2,6 +2,7 @@
 title: "Sounds on the Square 2026 Premiere: Andy Burnette Trio"
 start: 2026-05-01T19:00:00-0400
 end: 2026-05-01T22:00:00-0400
+location: "The Square, 1 East Main Street, Martinsville, VA"
 summary: "Yes! The area’s favorite Friday night event is back: Sounds on the Square, held on the first Friday of the warm months at the Martinsville-Henry County Heritage Museum.…"
 image: /media/events/sounds-on-the-square-2026-premiere-andy-burnette-trio.webp
 imageAlt: "Sounds on the Square 2026 Premiere: Andy Burnette Trio"

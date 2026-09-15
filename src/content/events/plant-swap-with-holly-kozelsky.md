@@ -2,6 +2,7 @@
 title: "Plant Swap with Holly Kozelsky"
 start: 2023-10-14T12:00:00-0400
 end: 2023-10-14T14:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Hosted by the Martinsville-Henry County Historical Society, “Plant Swap with Holly Kozelsky” will be held on Saturday, October 14, 2023., at the Historic Henry County…"
 image: /media/events/plant-swap-with-holly-kozelsky.webp
 imageAlt: "Plant Swap with Holly Kozelsky"

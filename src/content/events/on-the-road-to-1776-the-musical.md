@@ -2,6 +2,7 @@
 title: "On the Road to \"1776 The Musical\""
 start: 2023-06-29T19:30:00-0400
 end: 2023-06-29T22:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Join the Martinsville-Henry County Historical Society as we travel to Thomas Jefferson’s Poplar Forest for “1776 The Musical” on Thursday, June 29, 2023, for an evening…"
 image: /media/events/on-the-road-to-1776-the-musical.webp
 imageAlt: "On the Road to \"1776 The Musical\""

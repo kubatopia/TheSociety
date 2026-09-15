@@ -2,6 +2,7 @@
 title: "Sunday Afternoon Lecture: Distilling"
 start: 2025-09-21T15:00:00-0400
 end: 2025-09-21T16:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Graves Anthony and Hunter Haskins will present “Patrick & Henry Distilled: A Look at the History of Legal Distilling at Patrick and Henry Counties\" at 3 p.m. Sunday,…"
 image: /media/events/distilling.webp
 imageAlt: "Sunday Afternoon Lecture: Distilling"

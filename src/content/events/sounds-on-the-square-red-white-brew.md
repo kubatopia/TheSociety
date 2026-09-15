@@ -2,6 +2,7 @@
 title: "Sounds on the Square: Red, White & Brew with Elena Flores Duo"
 start: 2023-07-07T17:30:00-0400
 end: 2023-07-07T22:00:00-0400
+location: "The Square, 1 East Main Street, Martinsville, VA"
 summary: "Join Sounds on the Square as we celebrate “Red, White, & Brew with Elena Flores Duo” on Friday, July 7, 2023, on the beautiful brick Plaza of the Historic Henry County…"
 image: /media/events/sounds-on-the-square-red-white-brew.webp
 imageAlt: "Sounds on the Square: Red, White & Brew with Elena Flores Duo"

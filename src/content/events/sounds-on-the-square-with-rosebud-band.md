@@ -2,6 +2,7 @@
 title: "Sounds on the Square with Rosebud Band"
 start: 2026-09-19T19:00:00-0400
 end: 2026-09-19T22:00:00-0400
+location: "The Square, 1 East Main Street, Martinsville, VA"
 summary: "UPDATE MADE ON SEPTEMBER 2: Because of forecasted high heat and potential rain, the Sounds on the Square featuring Rosebud Band originally set for Sept. 4 has been…"
 image: /media/events/sounds-on-the-square-with-rosebud-band.webp
 imageAlt: "Sounds on the Square with Rosebud Band"

@@ -2,6 +2,7 @@
 title: "Thomas Jefferson's Architecture"
 start: 2023-07-16T15:00:00-0400
 end: 2023-07-16T16:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "Join the Martinsville-Henry County Historical Society for “Thomas Jefferson’s Architecture\" with Peter Marshall on Sunday, July 16, 2023, at 3:00 P.M.! Thomas Jefferson…"
 image: /media/events/thomas-jeffersons-architecture.webp
 imageAlt: "Thomas Jefferson's Architecture"

@@ -2,6 +2,7 @@
 title: "VA 250 Mobile Museum"
 start: 2026-08-09T13:00:00-0400
 end: 2026-08-09T18:00:00-0400
+location: "MHC Heritage Center & Museum, 1 East Main Street, Martinsville, VA"
 summary: "A hands-on, interactive, and immersive “museum on wheels,” the VA250 Mobile Museum Experience titled “Out of Many, One” is housed in an expandable tractor trailer that…"
 image: /media/events/va-250-mobile-museum.webp
 imageAlt: "VA 250 Mobile Museum"
