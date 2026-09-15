@@ -1,7 +1,9 @@
 ---
 import site from '../data/site.json';
+import SocialLinks from './SocialLinks.astro';
 
 const links = [
+  { href: '/visit', label: 'Plan your visit' },
   { href: '/events', label: 'Events' },
   { href: '/museum', label: 'Museum' },
   { href: '/about', label: 'About' },
@@ -52,17 +54,14 @@ const { overlay = false } = Astro.props;
       </ul>
     </nav>
 
-    <a
-      href="/visit"
-      aria-current={isCurrent('/visit') ? 'page' : undefined}
-      class="rounded-full bg-gold px-5 py-2.5 text-sm font-semibold whitespace-nowrap text-gold-ink transition-colors hover:bg-sand aria-[current=page]:bg-sand"
-    >
-      Plan your visit
-    </a>
+    {/* Over the hero photograph the footer tone reads correctly: pale on dark. */}
+    <div class="flex-none">
+      <SocialLinks tone={overlay ? 'footer' : 'inline'} />
+    </div>
   </div>
 
   <!-- Narrow screens: the nav moves below the wordmark rather than into a menu
-       nobody opens. Four links and the gold button fit without one. -->
+       nobody opens. Five links fit on two lines. -->
   <nav aria-label="Main" class="border-t border-rule/40 md:hidden">
     <ul class="mx-auto flex max-w-6xl flex-wrap gap-x-5 gap-y-1 px-5 py-2.5 text-sm">
       {
