@@ -34,4 +34,4 @@ ANCHOR (A New Chance Organization) got its second probation home, a girls’ hom
 
 Martinsville Christian School, which was operated by Druid Hills Baptist Church (Michael Bender, pastor), closed. It had been in operation for 23 years. At its peak, it had 125 students, but in 1998-99, only 68.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

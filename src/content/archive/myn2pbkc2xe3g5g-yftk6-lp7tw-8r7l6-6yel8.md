@@ -26,4 +26,4 @@ In recent years, antifreeze had gone up in price and at times been scarce – be
 
 At least three tons of trash including 75 tires were pulled from a 1-mile stretch of the Smith River by 10 volunteers, including a few teenagers serving their court-ordered community service. That wasn’t as bad as previous year – 4 tons in 1999, 8 tons in 1998 and 8.5 tons in 1997.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -28,4 +28,4 @@ Henry County Administrator Sid Clower talked about the negative effects NAFTA ha
 
 A dozen students in Margie Kraska’s Computer Systems Technology class at Martinsville High School spent half the day at Martinsville Middle School installing new I-Mac computers and printers in classrooms.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -26,4 +26,4 @@ Mrs. Frances Ramsey of 1100 Cherokee Trail was named Foster Parent of the Year. 
 
 Larry Aydlett, who had been the vice president of the MHC Chamber of Commerce for 32 years, received the Heck Ford Award, at the Chamber’s 41st Annual Meeting and Leadership Recognition Dinner at the Dutch Inn. It was the chamber’s highest honor.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

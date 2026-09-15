@@ -38,4 +38,4 @@ Yellow Cab and Gravely Cab gave free rides home (but not to other parties) on Ne
 
 Kenneth King of Horsepasture and Sherry Dixon of Roanoke spent the night before their wedding at the Horsepasture Fire Department, where King had volunteered to man his amateur radio station un case anything went wrong with Y2K. Two dozen members of the local Amateur Radio Emergency Service group, including King, had volunteered to provide the county’s emergency service personnel at each fire department and rescue squad with a means of communication in case the power or phone systems were interrupted. Pete Stolbunov was the local AIRES coordinator and had set up his radio at the county’s Emergency Operations Center.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

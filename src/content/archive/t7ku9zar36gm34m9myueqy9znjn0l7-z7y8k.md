@@ -32,4 +32,4 @@ Shoe World on 220 North in Collinsville, next to King’s, offered their normall
 
 Courthouse Days were held at the former Henry County Courthouse. Some area residents dressed in clothing from the late 1800s and early 1900s and put on a mock trial on the case of a drunk man, Bushrot Figgins, played by Carl deHart, who had stolen a horse.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

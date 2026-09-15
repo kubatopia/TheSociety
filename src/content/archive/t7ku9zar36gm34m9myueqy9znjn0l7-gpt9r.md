@@ -38,4 +38,4 @@ The Women’s Auxiliary of Memorial Hospital was getting ready to throw away all
 
 Wendell Scott Jr., Frank Scott and Earl B. Reynolds Jr. were guests for the Patrick Henry Elementary School PTO meeting.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

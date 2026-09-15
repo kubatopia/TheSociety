@@ -32,4 +32,4 @@ Roy Stone Transfer Corp. of Martinsville laid off about 200 employees who would 
 
 The famous Dutch Inn windmill was photographed to be used as a program cover for the 53rd annual Southwest Virginia Firemen’s Association convention. It was pictured with two fire trucks backed up to it, one on each side, with their ladders extended upward toward the windmill blades.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfiche at the *[*Martinsville Branch Library*](https://Martinsville Branch Library)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfiche at the *[*Martinsville Branch Library*](https://Martinsville Branch Library)*.*

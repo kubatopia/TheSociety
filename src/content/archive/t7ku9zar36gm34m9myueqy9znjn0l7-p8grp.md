@@ -34,4 +34,4 @@ Randolph “Randy” Alez Ware, 11, of 208 Mason Court, Gaynor Heights (the area
 
 Teenagers enrolled in the Summer Youth Employment Training Program in Martinsville, through Pittsylvania County Community Action Agency, spruced up Jackson Street Children’s Park and washed and cleaned playground equipment. (Jackson Street runs between Fayette Street and West Church Street and a little bit further.) They were Danny Smallwood Jr., Shawn Reynolds, RaShonda Gilbert, Angela Mahan, Adriane Adams, Shekima Hayes, George Hairston III, Andre Adams and Joel Lawless.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

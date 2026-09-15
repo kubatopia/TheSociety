@@ -36,4 +36,4 @@ Dentist Dr. George Stermer was among those who were helping out one of the two r
 
 Dinosaur bones excavated in Wyoming by staff and associates of Virginia Museum of Natural History arrived at VMNH, delivered by the 1710th Transportation Company, Virginia Army National Guard. They were brought packed in 40 boxes.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

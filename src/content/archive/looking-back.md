@@ -5,14 +5,14 @@ type: Looking Back
 topics:
   - Downtown and Main Street
   - Families and people
-summary: The Society's daily column on Martinsville and Henry County — the stores and businesses, the clubs and churches, the politics and the big news, as it was.
+summary: The Society's daily column on Martinsville and Henry County - the stores and businesses, the clubs and churches, the politics and the big news, as it was.
 featured: true
 draft: false
 ---
 
 Every day, *Looking Back* returns to the same four distances: a century ago,
 seventy-five years, fifty, and twenty-five. Read together they do something a
-single date never manages — they show how fast a place changes, and how much of
+single date never manages - they show how fast a place changes, and how much of
 it stays put.
 
 The column covers the legendary and the forgotten in equal measure: stores and
@@ -21,7 +21,7 @@ news that week.
 
 ## Where the material comes from
 
-Everything is drawn from the Society's own holdings — the local newspaper runs,
+Everything is drawn from the Society's own holdings - the local newspaper runs,
 the photographic archive, and the records handed over by families across the
 county.
 

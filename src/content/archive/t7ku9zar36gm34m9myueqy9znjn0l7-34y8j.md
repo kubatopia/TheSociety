@@ -30,4 +30,4 @@ Two hundred ninety Boy Scouts went on a weekend Winter Camporee at Lake Sugartre
 
 The House of Delegates voted 49-48 to bring back portions of the Textile Workers Relief Act that would increase benefits for out-of-work textile workers and other people who lived in area of Virginia with high unemployment. It was revived as an amendment to legislation sponsored by De. Robert Hull, D-Falls Church, to raise unemployment benefits by $36 statewide.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

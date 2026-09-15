@@ -28,4 +28,4 @@ A NuTone smoke alarm, normally $39.95, was on sale for $39.95 at Graves Supply a
 
 Lisa Barker was the new executive director of Martinsville Uptown Revitalization Association, which had the mission of attracting visitors to the area and recruiting new merchants.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

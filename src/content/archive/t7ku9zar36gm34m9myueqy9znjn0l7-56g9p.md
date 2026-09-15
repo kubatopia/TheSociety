@@ -30,4 +30,4 @@ State legislators unveiled bills to help displaced textile workers by expanding 
 
 Vickie Helmstutler took her oath of office to become Henry County’s new circuit court clerk.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

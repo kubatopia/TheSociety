@@ -38,4 +38,4 @@ The first planning director for Henry County was hired: Dennis R. Patton, 27 of 
 
 Eight dilapidated houses had been torn down from Moss Street, but a massive, graceful oak tree was saved. Mildred Sink, who lived across the road from the tree, said it was over 100 years old but could have been older than 200.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

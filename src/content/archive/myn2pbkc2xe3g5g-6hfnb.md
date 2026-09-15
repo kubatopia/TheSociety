@@ -32,4 +32,4 @@ The first TGIF 2000 concert of the season was held in the Bridge Street parking 
 
 The ribbon-cutting for Piedmont Community Service’s new office building on Clay Street was held. Jim Tobin was the PCS director.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

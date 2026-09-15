@@ -32,4 +32,4 @@ The Patrick Henry Boy Scout District announced a two-week Canadian canoe trip ta
 
 City Manager Thomas B. Noland issued a parade permit to allow protesters of the county’s proposed land subdivision ordinance to march around the courthouse. About 1,000 protesters were expected to participate. Opponents of the ordinance included Joseph C. Hankins and Samuel Amos.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

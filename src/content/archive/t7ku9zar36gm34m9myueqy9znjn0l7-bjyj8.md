@@ -39,4 +39,4 @@ The City was in danger of losing one of its five elementary schools if enrollmen
 
 TechEra Computers at 1878 Virginia Ave. (the Holiday Shopping Center) was running a fall special. The AMD K6-11 266 cost $499. Parts were available. Printer installation was free. The fee for upgrades and repairs was $25 an hour.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

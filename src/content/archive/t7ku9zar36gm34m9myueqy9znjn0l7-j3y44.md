@@ -34,4 +34,4 @@ The House passed and sent to President Eisenhower a bill providing for court-app
 
 Henry County Supervisors Melvin Brown of Horsepasture and Andrew Hodges of Ridgeway were threatened with bodily harm for supporting adoption of a proposed subdivision ordinance. Brown was the board chairmen who led the drive for the ordinance.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

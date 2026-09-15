@@ -22,4 +22,4 @@ A metal glider was the epitome of restful and stylish front-porch sitting. Henry
 
 Henry County Administrator Sid Clower announced to the Henry County Board of Supervisors that he thought the Martinsville and Henry County governments should merge. Having two governments over such as small geographic and population area was a luxury, he said.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

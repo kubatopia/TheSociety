@@ -30,4 +30,4 @@ The Martinsville Rotary Club held its annual Lobsterfest at National Guard Armor
 
 Five area organizations which served the area’s out-of-work residents each received donations of $40,000 from the Martinsville Bulletin and the Public Welfare Foundation. Those organizations were: Family Life Services’ Medical Clinic on East Church Street, with Dr. Keith Nichols; For the Children, a pregnancy prevention agency; Citizens Against Family Violence, with assistant director Robin McCoy; The Family YMCA, with director Dave DePriest and assistant director Jo Ellen Hylton; Patrick Henry Community College Foundation, where Max Wingett was president of the college. Larry Kressley was executive director of the Public Welfare Foundation; Antoinette Haskell was board chairman of the Martinsville Bulletin, and her son, Robert Haskell, was the publisher.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

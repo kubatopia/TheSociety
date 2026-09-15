@@ -168,4 +168,4 @@ Local Civilian Defense Coordinator Clay A. Easterly announced that several air r
 
 Icy roads caused at least 50 traffic accidents in both Henry County and Martinsville. In Ridgeway, seven cars piled up on Va. 87 and U.S. 220. At least five cars skidded off Lings Mountain Road. Trooper M.C. Holley’s police car was hit while the trooper was out helping another motorist. ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

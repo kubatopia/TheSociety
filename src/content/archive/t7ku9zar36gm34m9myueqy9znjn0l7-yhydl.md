@@ -34,4 +34,4 @@ Bassett Furniture Industries employed 3,500 at 10 manufacturing plants in Martin
 
 Tultex posted a $35.4 million loss for the third quarter and announced it would cut 420 jobs, bringing the total number of lost jobs to 800 for the year.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

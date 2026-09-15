@@ -32,4 +32,4 @@ Nautica Enterprises, a clothing manufacturer, announced that it planned to creat
 
 At the meeting of the Martinsville Toastmasters Club No. 3115 at the Dutch Inn, Tim Mills was the Toastmaster of the Evening, assigned the speech “My Favorite Pet.” Audrey Kuykendall gave Table Topics; Pauline Lawson drew the topic “The Best Man for the Presidency” and Barbara Mabe drew “My Favorite Game.” Speakers who gave prepared speeches were Hesta Anderson on “How to Apply for Unemployment Benefits,” Jerry Dalton on “Memories” and Jo Dykes on “My Two Sons.” Christine Bennett critiqued the speakers; Mabe and Mills tied for best. Toastmasters met twice a month.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

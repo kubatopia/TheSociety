@@ -30,4 +30,4 @@ Amy Elizabeth Shupe, 16, of Martinsville, died in a car wreck. The Laurel Park H
 
 Martinsville City Councilman Bruce H.T. Dallas announced that he was resigning his posts in the Democratic Party and would become an independent. He said he had been a Democrat for 40 years. Dallas supported U.S. Rep. Virgil Goode, an independent, and was helping post signs for Goode. A photograph of Dallas removing signs for Republicans had been published in the local newspaper.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

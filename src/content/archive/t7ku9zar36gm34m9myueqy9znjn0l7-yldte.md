@@ -36,4 +36,4 @@ Do remember phone books? And paper drives? This was the time of year new phone b
 
 Martinsville stores had plenty of the new Star Wars toys everyone was expecting to be such a big hit – but no one seemed to be buying. It was two weeks before “Episode 1 – The Phantom Menace” would be released. Carolyn Basham of Kmart told the Martinsville Bulletin that sales of the toys were “not that great. We’ve got plenty of it left.” Brian Strand of Kay-Bee Toys at Liberty Fair Mall said, “I don’t think we’ll sell any until the movie comes out.”
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

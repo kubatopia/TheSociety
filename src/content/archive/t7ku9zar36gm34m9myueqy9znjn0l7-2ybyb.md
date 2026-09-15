@@ -38,4 +38,4 @@ Henry County Sheriff C.P. Witt officially received the keys to the new county ja
 
 The Blue Ridge Regional Library got computerized. It changed how books would be checked out at the library: library staff scanned the books at checkout and gave the patron a printed receipt, instead of the earlier method of stamping the books with return dates. The library also offered several services through its website, [www.brrl.lib.va.us](http://www.brrl.lib.va.us), including reserving books and doing some research.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

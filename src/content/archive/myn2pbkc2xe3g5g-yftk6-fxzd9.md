@@ -26,4 +26,4 @@ Henry County had a high technology way of law enforcement communications. It was
 
 Diana Echols of Axton and her husband, the Rev. Thurman Echols, and their daughter, Cecily, attended the graduation of their son, Phillip Echols, from Hampton University. Cecily, 26, was in the master’s degree program at Christoper Newport University and in her fourth year as a teacher in Hampton. Apart from having two children of her own, Mrs. Echols had mothered dozens of children over the past 30 years. She had taught school for 30 years, most of them at Mt. Olivet Elementary School, and won one of Girl Scouts’ highest awards, the “Thanks Badge for Girl Scouting.” Her husband was the pastor of Moral Hill Missionary Baptist Church.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

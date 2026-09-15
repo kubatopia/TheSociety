@@ -34,4 +34,4 @@ Sureway Food Fairs on Church Street and Memorial Boulevard in Collinsville offer
 
 The three-story, 45,000-square-foot Jobbers Pant Factory building on Market Street near Fayette Street was torn down. It has been built in the 1930s and after Jobbers housed a food market, a transmission belt company and job training.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfiche at the *[*Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfiche at the *[*Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

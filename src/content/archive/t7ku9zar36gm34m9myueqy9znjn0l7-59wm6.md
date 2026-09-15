@@ -40,4 +40,4 @@ During February teachers from all 21 Henry County schools were taking classes on
 
 **PHOTO: 1933** - Interior view of the Horsepasture Store from inside the front door; looking toward the rear of the store. Historic American Buildings Survey, Creator, John Atkinson, Benjamin Watkins, Paul Clifton, James Lester Roberson, John H Schoolfield, Robert A Schoolfield, et al., Ryan, Robert A, photographer. Horsepasture Store, U.S. Route 58 & State Route 687, Horse Pasture, Henry County, VA. Horse Pasture Henry County Virginia, 1933. translated by Christianson, Justinemitter, and Mcpartland, Marymitter Documentation Compiled After. Photograph. https://www.loc.gov/item/va1719/.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -34,4 +34,4 @@ Demolition began on the buildings on the block that now is the parking lot in fr
 
 Announcement was made that Ashmore Sportswear Inc. would close in January, putting 105 people out of work. The plant was on Virginia Avenue in Collinsville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

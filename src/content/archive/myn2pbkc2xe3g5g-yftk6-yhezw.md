@@ -30,4 +30,4 @@ In 1975 Dr. Phillip Sprinkle, who was from Martinsville and died in Martinsville
 
 John Dowdy opened American College of Martial Arts at 3100 Virginia Ave. in Collinsville. ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -38,4 +38,4 @@ It was announced that Blue Ridge Technology Inc. would open a plant in Henry Cou
 
 American of Martinsville filed suit in U.S. District Court in Danville saying that Pulaski Furniture Co. Inc. intentionally copied American’s Carmel line of hotel furniture with Pulaski’s Millbrook Collection. American said that its former employee, William Perdue, took the overall look of the Carmell line with him when he went to work at Pulaski.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

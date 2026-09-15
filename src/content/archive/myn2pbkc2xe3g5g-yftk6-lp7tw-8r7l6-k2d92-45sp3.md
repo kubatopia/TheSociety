@@ -28,4 +28,4 @@ In elections, state Sen. Virgil Goode Jr. held on to his seat, as did Henry Coun
 
 Sharon D. Dodson was hired as superintendent of Henry County Public Schools.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

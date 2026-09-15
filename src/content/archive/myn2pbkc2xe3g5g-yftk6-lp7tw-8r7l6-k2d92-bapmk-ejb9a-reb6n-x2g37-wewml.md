@@ -232,4 +232,4 @@ Four local men made presentations in the American Legion’s roundtable discussi
 
 Ninety employees were laid off at Pulaski Furniture’s Ridgeway plant due to what the company called stagnat sales of grandfather clocks and curio cabinets. About 350 people worked for Pulaski in Henry County. John Wampler was the president and chief information officer.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

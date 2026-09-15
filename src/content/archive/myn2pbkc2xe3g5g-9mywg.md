@@ -32,4 +32,4 @@ Nine apartments in Rivermont Apartments were damaged by fire, displacing nine ad
 
 The first novel of Patrick County Circuit Court Judge Martin Clark was out, and it was receiving rave reviews, and on this date he autographed books at an event at the Martinsville Branch Library. It was “The Many Aspects of Mobile Home Living.” Over the 25 years since, the now-65-year-old is a best-selling author, called “our finest legal-thriller writer” by Entertainment weekly and “not only the thinking man’s John Grisham but, maybe better, the drinking man’s John Grisham.” His books since then were “Heathen Mischief,” “The Legal Limit,” “The Jezebel Remedy,” “The Substitution Order” and “The Plinko Bounce.”** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

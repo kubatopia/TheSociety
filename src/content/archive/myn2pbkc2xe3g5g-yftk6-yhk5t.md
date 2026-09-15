@@ -32,4 +32,4 @@ Corporal punishment of students was upheld in Patrick County by Judge J. English
 
 Retired firefighter Ted Largen was elected president of a group of more than 50 people in Huntington Hills, Ridgeway, who were against the planned expansion in size of a nearby apartment complex from eight to 24 apartments.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

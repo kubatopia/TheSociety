@@ -34,4 +34,4 @@ Billy, the pet cat of Robert D. Williams of Route 3, Bassett, turned 23 years ol
 
 Tultex announced that it would let go about 285 salaried and hourly employees in part of its steps to save $9 million per year. The 135 salaried workers were 17% of all the salaried employees.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

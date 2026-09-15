@@ -31,4 +31,4 @@ Corey Mayo, 13, had been hit by a car on the first day of school as he was walki
 
 Lucy, a Walker hound owned by Sue Brown of Sunset Road in Bassett, fell into a dry abandoned well and was rescued by Kathy McGrady of the Bassett Volunteer Rescue Squad, Harry Byrd of the SPCA, Junior Lynch of the Bassett Volunteer Fire Department, two deputies and another fireman.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

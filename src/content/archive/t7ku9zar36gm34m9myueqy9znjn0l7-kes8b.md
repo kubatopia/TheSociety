@@ -30,4 +30,4 @@ Richard Morris, who had been the chaplain for Good News Jail and Prison Ministry
 
 Fieldale began the new year without its own police department. The Fieldale Police Department had one officer, David Deisher, who made $30,000 a year. Henry County paid $4,477 of his salary, and the Fieldale Sanitary District paid the rest. Fieldale was the last community to have a special police force; others, closed many years before, included Bassett and Ridgeway. District board chair Hoyt Wiggonton said that the District no longer could afford it.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

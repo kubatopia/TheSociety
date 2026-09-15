@@ -34,4 +34,4 @@ One South Carolina man was dead and two adults and five children were burned or 
 
 David Edwards retired as Martinsville’s police chief, and Mike Rogers was named to the role.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

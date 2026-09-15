@@ -26,4 +26,4 @@ Martinsville High School students received the highest awards for four publicati
 
 Lois Christensen, executive director of Gateway Streetscape Foundation, was awarded with Keep Virginia Beautiful Inc.’s Distinguished Service Citation, honoring the King’s Mountain Road beautification project. That included the planting of 250 trees and 50 shrubs along 2 miles of the road, near the Henry County Administration Building and the Patriot Center. The project began in 1993. Gateway was formed in 1991 and ended in 2020, when the County and the City each assigned landscape work to one employee.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

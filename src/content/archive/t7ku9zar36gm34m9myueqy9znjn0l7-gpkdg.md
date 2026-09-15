@@ -36,4 +36,4 @@ This entry in the Stroller column: “The Martinsville High School bed-pushers h
 
 Playing at the Rives Cinema: “The Matrix” with Keanu Rives and Laurence Fishburne; “Never Been Kissed” with Drew Barrymore and David Arquette; “Doug’s 1st Movie.”
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -26,4 +26,4 @@ Workers of Fieldcrest Mills Inc. would work seven-day work weeks every other wee
 
 Six of 20 people who passed an EMT course were teenagers: Melissa Hatcher, 16; Jonathan Joyce, 16, of Martinsville; Jenna Strom, 17, of Fieldale; Marilyn Novell, 17, of Collinsville; Will Joyce, 16, of Martinsville; and Evan Holiday, 16, of Axton.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

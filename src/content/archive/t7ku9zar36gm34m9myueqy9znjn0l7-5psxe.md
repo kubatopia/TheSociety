@@ -32,4 +32,4 @@ St. Paul High Street Baptist Church and Albert Harris Intermediate School formed
 
 National Catalog Corp., a division of Distributions Associations of Greenwich, Connecticut, announced that it was expanding operations and would create 200 new jobs in Martinsville and Henry County. Its new e-commerce and catalog fulfillment center would be in the former Pluma building in the Bowles Industrial Park.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

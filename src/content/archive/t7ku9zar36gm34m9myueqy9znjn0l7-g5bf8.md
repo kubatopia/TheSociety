@@ -116,7 +116,7 @@ Bob Hetzel was the executive director of the Southern Virginia Economic Developm
 
 Martinsville Bakery made Quality Bread and Cake, phones 28 and 95. Its advertisement recommends slicing through the loaf as much bread as you’d want for the meal, “press the slices closely together. Pop in on hot oven until heated through. Then pop out. You’ll enjoy it so much you’ll want to eat twice your regular Bread portion. And not a crumb wasted.”
 
-Ad for Schilbes’s Bakery, Martinsville: “It is rumored that a certain fastidious young lady of town kneads bread with gloves on. This incident may be peculiar, but there are others. NOW, we NEED bread our showed on. We need bread with our shirts on. We need bread with our pants on, and unless we can corral more of the business of this vicinity, we will soon need bread without a d------- thing on, and this town will be a Garden of Eden. – Get Busy and Send Your Orders for Home-Made Bread to Schilbe’s Bakery, Martinsville, Virginia.
+Ad for Schilbes’s Bakery, Martinsville: “It is rumored that a certain fastidious young lady of town kneads bread with gloves on. This incident may be peculiar, but there are others. NOW, we NEED bread our showed on. We need bread with our shirts on. We need bread with our pants on, and unless we can corral more of the business of this vicinity, we will soon need bread without a d\-\-\-\-\-\-\- thing on, and this town will be a Garden of Eden. – Get Busy and Send Your Orders for Home-Made Bread to Schilbe’s Bakery, Martinsville, Virginia.
 
 1949
 
@@ -683,4 +683,4 @@ NAFTA – the North American Free Trade Agreement – just had its fifth anniver
 
 ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

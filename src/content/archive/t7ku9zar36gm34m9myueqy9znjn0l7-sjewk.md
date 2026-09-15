@@ -28,4 +28,4 @@ Tim Spivey, 9, of South Askin Street, won a class competition to see who could m
 
 For Read Across America, people across the community read Dr. Seuss books in local classrooms. They included Dr. Lynn Wolf, principal of Mt. Olivet Elementary School, Martinsville Police Chief Mike Rogers, Fieldale Elementary School Librarian Jannie Koumparakis, School Board Member Randolph Wade and Martinsville Schools Superintendent Dr. Ira Trollinger.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

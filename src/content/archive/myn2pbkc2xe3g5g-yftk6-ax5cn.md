@@ -30,4 +30,4 @@ Martinsville police were investigating a string of break-ins in which $150,000 w
 
 BB&T created an advisory board for the Martinsville area, and its first members were Christopher Beeler of Virginia Glass, Terry Cundiff of G.S. Industries, Keven Farrell of Tri State Foam Products, Michael Farrington of Furniture Crafters of Virginia, Michael P. Haley of American of Martinsville, Larry Hutchens of Hutchens Petroleum, Langhorne Maucke, retired educator, Rev. Tyler Millner, James E. Rountree of Piedmont Community Services and Paulette Simington of Patrick Henry Elementary School.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

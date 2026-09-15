@@ -32,4 +32,4 @@ Fieldcrest Mills reported a loss of $2 million, or 58 cents a share. William C. 
 
 Public hearings by the State Corporation Commission began, with the first one in Roanoke, on the topic of creating a new area code out of the 540 district, which would run out of phone numbers by 2001. The 540 area code included areas around Martinsville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

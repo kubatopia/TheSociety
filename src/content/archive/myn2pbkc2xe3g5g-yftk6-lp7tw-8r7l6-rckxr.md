@@ -28,4 +28,4 @@ Martinsville Police cars got a new logo: The work “POLICE” in a large sans-s
 
 Patrick County High School senior Kathy Aldridge of Meadows of Dan was crowned homecoming queen. The announcement and crowning were held during halftime of the football game – in which she was playing so she was crowned while wearing her football uniform. The Patrick County football team won 34-6 over the Bassett High School Bengals.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

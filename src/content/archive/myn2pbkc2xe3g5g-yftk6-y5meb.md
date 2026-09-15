@@ -26,4 +26,4 @@ Bassett police officers J.L. Carter and B.A. Smith recovered a safe that had nea
 
 Thirty-three houses were being worked on as part of the City’s Southside Revitalization Project. That included the area of Union, Oak, Knowle, Summit and Askin streets. It was funded by the Community Block Grant program.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

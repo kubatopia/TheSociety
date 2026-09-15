@@ -30,4 +30,4 @@ Carlisle School students under the direction of John Metzger erected a totem pol
 
 Trish Wells was the manager of the Uptown Farmers Market, operated by Martinsville Uptown Revitalization Association (MURA). It had been a close call that year on whether or not the farmers market, and the manager’s job, would have been funded. The farmers market on the corner of Church and Moss streets had just opened in October. Some of the vendors included Tressi’s Greenhouse in Spencer, Betty Watkins of Ridgeway and Moir Bingman of Critz.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -32,4 +32,4 @@ Opposition to the Martinsville Drive-in Theater, which showed X-rated movies and
 
 The Philpott family – 100 relatives from five generations -- held their annual 4th of July celebration in Philpott. The tradition had been started by A.L. Philpott.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

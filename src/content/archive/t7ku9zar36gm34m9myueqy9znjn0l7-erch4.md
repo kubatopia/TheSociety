@@ -34,4 +34,4 @@ Goody’s in Liberty Fair Mall was a popular clothing store, and it had a sale o
 
 Several hundred former employees of the former Pannill Knitting Co. held a reunion at Southside Park in Martinsville. Pannill formed in 1928, was sold to Sara Lee Knit Products in 1988 and closed in 1994.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

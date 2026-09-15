@@ -28,4 +28,4 @@ Across Martinsville and Henry County, 2,340 students were enrolled in summer sch
 
 Lillian Foster retired after 24 years as the crossing guard at Albert Harris Elementary School.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

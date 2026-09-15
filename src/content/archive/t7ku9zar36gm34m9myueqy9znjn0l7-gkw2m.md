@@ -34,4 +34,4 @@ Charles White’s Chevyland offered for sale a 1998 Ford Explorer, Eddie Bauer e
 
 Jesse J. Jones Jr. had a bad surprise at his Curtis Mathes Showstopper Movie Club at 515 W. Church St. His 1992 Cadillac was parked in front of it. A wrecker tow truck that had been parked nearby rolled backward down Church Street and knocked Jones’ car into his store. It went in through the window.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

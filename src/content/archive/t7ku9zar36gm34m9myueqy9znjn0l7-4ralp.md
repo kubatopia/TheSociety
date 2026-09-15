@@ -32,4 +32,4 @@ Martinsville Disco Drug Centers Inc. was formed by four Martinsville-area pharma
 
 The family of the late Sallie Mason Clark received a Senate proclamation commending her efforts to beauty the local area. Sen. Roscoe Reynolds read the proclamation which said she was instrumental in beautifying the grounds of the old Henry County Courthouse, Patrick Henry Community College, the MHC Rescue Squad and First Baptist Church. She also was credited with being a force behind the creation of Gateway Streetscape.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

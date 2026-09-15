@@ -26,4 +26,4 @@ The City needed to bring its budget into balance with more income and less expen
 
 When they brought out the applications for Supervisor, Henry County discovered that the forms were more than necessary. According to the Board of Elections, all that was required was for the candidate to live in the district and have the signatures of 125 registered voters. This form required authorization for a criminal records check and credit history as well as information on medical, education and past and present employment.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

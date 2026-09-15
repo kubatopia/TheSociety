@@ -26,4 +26,4 @@ Six juniors and 11 seniors at Patrick County High School were building a three-b
 
 Nationwide Homes of Martinsville announced a record-breaking year, with revenues of $600 million during 2000, an increase of 8.5% over the 1999 figure of $55.5 million.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

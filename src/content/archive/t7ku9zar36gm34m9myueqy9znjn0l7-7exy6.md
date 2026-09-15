@@ -44,4 +44,4 @@ Bassett-Walker announced that it would close its plants in Ferrum and Commerce ,
 
 PHOTO: Timothy Alan Slate of Patrick County packs tobacco. Blue Ridge Parkway Folklife Project collection, 1977-1981 (AFC 1982/009), Owen, Blanton, 1949-1998 (Research team member) Fleischhauer, Carl (Photographer); Library of Congress.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

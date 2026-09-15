@@ -36,4 +36,4 @@ It was a shake-up on City Council as Barry Greene, 33, and G.S. “Sandy” Fitz
 
 The Henry County Public Schools system was planning to buy surveillance cameras for all of its school buses and high school hallways. The total cost for 101 Bus Watch systems was $86,860. Cameras already had been up in the halls of Basett Middle School for a year. To have them in all four county high schools, it would cost $140,000.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

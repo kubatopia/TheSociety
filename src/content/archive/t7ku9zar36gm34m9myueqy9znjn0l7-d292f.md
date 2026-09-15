@@ -30,4 +30,4 @@ Mrs. Charles Lemons of Figsboro Road told the newspaper’s Stroller column that
 
 Morning Star Holy Church in Axton celebrated its 50th anniversary. Brothers Tyler and Rufus Millner, both pastors, honored the church’s founder, their mother, Almeda F. Millner. She was the pastor of the church from 1950 until her death in 1989. She was the first minister to sustain a ministry in local jails, Tyler Millner said during the celebration, and also the first person to start vacation Bible school in the black community. Her plan was for the pastor to be paid by the third and fourth Sundays’ collections, and for the church’s bills to be paid by the collections of the first and second Sundays.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

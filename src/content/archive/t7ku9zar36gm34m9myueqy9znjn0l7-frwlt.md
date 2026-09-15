@@ -32,4 +32,4 @@ Ad: “If He’s Tall – Thin and Terrific!! He Needs Extra Long Clothing from 
 
 Henry County was one of the first in Virginia to have a dog trained to sniff explosives in addition to drugs.  The dog, Spike, worked with Deputy L.S. Austin. Rocko, a black Labrador, worked with Deputy W.R. Hairston. That was the first the Sheriffs office had a drug dog since 1995.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

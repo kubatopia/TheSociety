@@ -30,4 +30,4 @@ Ad: “Shop Without Going Shopping – The Amway Way – Call Your Local Distrib
 
 Danny and Wanda Willard had been running the Twin Ridge Marina at Philpott Lake, but the U.S. Army Corps of Engineers would not renew their lease. In January 2000 a fire destroyed the building, which housed a restaurant, general store and gas station. Three months after the fire, the Willards received a letter saying that their lease would not be renewed, but they would have to restore the property by April 30, 2001.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

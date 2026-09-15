@@ -38,4 +38,4 @@ King’s Grant was a step closer in adding apartments to its retirement communit
 
 About 20 members of the Needletrades, Industrial and Textiles Employees (UNITE), in front of the Tultex Corp. plant on Franklin Street, protested the proposal to allow China into the World Trade Organization. They marched down Liberty Street Extension. “We got tricked into NAFTA,” Kenneth Hairston, a 22-year employee of Tultex told the Bulletin. He said that the workers wanted legislators to know that jobs should remain in the U.S., not go overseas.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

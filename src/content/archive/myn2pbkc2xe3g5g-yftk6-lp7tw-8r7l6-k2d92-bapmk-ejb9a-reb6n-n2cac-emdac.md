@@ -32,4 +32,4 @@ Baxter C. Hairston, 27, of 908 W. Fayette St., died when the car he was driving 
 
 The Martinsville High School Bulldogs won the state AA basketball championship with a win against Caroline High School played in Lynchburg.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

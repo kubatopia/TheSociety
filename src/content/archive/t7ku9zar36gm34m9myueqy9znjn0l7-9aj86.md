@@ -36,4 +36,4 @@ Substitute teachers in Martinsville were enjoying raise in pay from $54 a day to
 
 Martinsville City Council agreed to buy the Tultex building at 20 E. Church St. for $700,000 to use for school board office space. At the time, it was paying $66,000 a year to rent offices on Market Street. That is the building now owned and occupied by TAD Space.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

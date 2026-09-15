@@ -32,4 +32,4 @@ Fire victim Terry Wayne Millner, 25 of 1422 Rivermont Heights, was improving in 
 
 School had not yet released for summer break, but Superintendent David Martin let county students out of schools a few hours early: temperatures had reached 97 degrees the day before and June 8 also was expected to reach the 90s.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

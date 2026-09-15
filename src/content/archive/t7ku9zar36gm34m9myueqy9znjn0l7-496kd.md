@@ -28,4 +28,4 @@ Over 1,000 people in Botetourt, Carroll, Craig, Floyd, Franklin, Grayson, Henry,
 
 The Collinsville Jaycees had raised $43,000 of the $50,000 they were aiming for to build a new park in Collinsville near Kings Mountain Road and Colonial Drive. William H. Crabtree was the park project chairman. After the park would be completed, it would be maintained by Henry County, with a full-time supervisor and five full-time employees.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -30,4 +30,4 @@ The returns for recycling aluminum went up from 10 cents to 12 cents per pound, 
 
 At Belk you got Estee Lauder’s free gift set of Resilience Eye Cream, mascara, lotion cleanser, toner, two perfume samples, comb with mirrored handle and choice eyeshadow or lipstick if you spent $20 or more.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

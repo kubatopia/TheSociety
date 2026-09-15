@@ -34,4 +34,4 @@ An estimated 888 people attended a mass meeting on Henry County’s proposed sub
 
 Memorial Boulevard’s Korean Memorial finally could be seen, after having been cleared of brush. Mayor Mark Crabtree told City Council a few days before that Memorial Boulevard had built in the late 1950s or early 19602 and was named in honor of city residents who had died in the Korean war. A memorial service was being planned to be held at the Korean War memorial, which was across the road from the former Williamsburg Cafeteria, but had become covered by brush.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

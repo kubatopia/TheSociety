@@ -28,4 +28,4 @@ Anthony Trevior Martin, 18, of Bassett was killed when the car he was driving co
 
 Students at Mount Olivet Elementary School raised $8,389 at a Jump Rope for the Heart event for the American Heart Association. The top money-raisers were Ryan Gravely, Brittany Shelton, Wade Dove, Hannah Shrader, Robbie Agee, Magen Richardson and Crystal Clowers. P.E. teacher Melissa Blair was in charge.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

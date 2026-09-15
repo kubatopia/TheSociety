@@ -32,4 +32,4 @@ Inflation had driven the cost of growing tobacco up by as much as 40% from the y
 
 City workers took down a wall on Park Street which had become a hangout spot for teenagers at night. The area’s Neighborhood Watch (Elaine Hedrick was the co-captain) had asked for help with that spot once teenagers had been causing problems such as throwing eggs at houses, slashing tires and throwing wine bottles at vehicles. (Park Street is off Memorial Boulevard and runs sort of parallel to Askin Street.)
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

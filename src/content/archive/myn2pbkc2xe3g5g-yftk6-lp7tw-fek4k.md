@@ -32,4 +32,4 @@ Clearview Elementary School principal John Vartensian announced that the student
 
 Kevin Belcher, 27, of Stuart was killed in a wreck on Virginia 8 near Stuart.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

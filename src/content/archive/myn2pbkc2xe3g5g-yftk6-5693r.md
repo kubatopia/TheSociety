@@ -34,4 +34,4 @@ Lester Home Center sold “Economy Studs” for 69 cents: “We are not proud en
 
 Items left over from the plants that used to be operated by Tultex Corp. were on auction for three days: on the 13th and 14th in Martinsville, at its plant on Commonwealth Boulevard (now the Clocktower office building); and then the 15th in South Boston.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

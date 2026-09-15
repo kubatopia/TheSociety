@@ -36,4 +36,4 @@ Hooker Printing Inc. in the Patrick Henry Mall advertised for an opening for an 
 
 ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

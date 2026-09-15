@@ -42,4 +42,4 @@ Captain Mike Rogers of the Martinsville Police Department was promoted to the po
 
 Bassett Furniture Industries opened a Bassett Furniture Direct store on Wendover Avenue in Greensboro, N.C. It was the 44th BFD store. Now there are about 100.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

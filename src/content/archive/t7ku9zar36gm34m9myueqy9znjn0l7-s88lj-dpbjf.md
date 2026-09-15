@@ -34,4 +34,4 @@ Beauty pageants … The Stroller newspaper column noted that Mrs. Stella Spencer
 
 Pluma announced that it filed Chapter 11 bankruptcy. John Wigodsky had just been named its new president. The company had lost $36 million in 1998.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

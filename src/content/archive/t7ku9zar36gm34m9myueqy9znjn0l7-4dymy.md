@@ -32,4 +32,4 @@ Martinsville Uptown Revitalization Association (MURA) was holding the TGIF conce
 
 DeWitt House, 36, a former Martinsville High School principal, was named as assistant superintendent of instruction for Henry County Public Schools, replacing Betsy Mattox.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

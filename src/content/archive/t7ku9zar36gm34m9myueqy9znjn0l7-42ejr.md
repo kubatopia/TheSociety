@@ -36,4 +36,4 @@ Collinsville Furniture Mart had a sale: a four-drawer chest for $34.99 (one per 
 
 A ground-breaking ceremony was held at Albert Harris Elementary School for a $9.1 million renovation. It had undergone a $6.7 million renovation from 1995-1997. Joan Montgomery was the principal during both renovations.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

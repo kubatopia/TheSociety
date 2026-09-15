@@ -26,4 +26,4 @@ William Edward “Billy” Mize, 47, of Highland Street in Bassett was sentenced
 
 Between 500 and 600 people attended the funeral of 13-year-old Brandon Lee Moore of Collinsville, who had died when he and a friend were playing with guns. The Rev. Joe Geriatelli told people at the funeral that the boys was known as the “king of roller skates” at Roll-A-Bout Skating Center.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

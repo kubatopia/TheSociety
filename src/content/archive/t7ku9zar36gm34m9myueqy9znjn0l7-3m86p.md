@@ -34,4 +34,4 @@ Veterans of Company F, 187th Paraglider Infantry Regiment, 11th Airborne Divisio
 
 American of Martinsville received $600,000 from the Governor’s Opportunity Fund for ongoing expansion efforts.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -42,4 +42,4 @@ The Henry County Board of Supervisors authorized architects to seek bids for a f
 
 Hal Prillaman was recognized by the Virginia Economic Development Association as Virginia’s Volunteer of the Year. Prillaman was the vice chairman of the Patrick Henry Development Council’s board of directors. In 1955, after graduation from Virgina Tech, he started the Prillaman Chemical Corp. in Martinsville. He was lauded as being instrumental in the construction of two shell buildings to attract new business to the area.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

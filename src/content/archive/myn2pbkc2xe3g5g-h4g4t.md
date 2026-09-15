@@ -28,4 +28,4 @@ Salem Carpet Mills Inc. Factory Warehouse Store in the Cloverleaf Shopping Cente
 
 The first online City Council form was held. While most in-person forums had audiences of five or six people, this “eTown” forum had 300 computers logged on to it. The online forum was the idea of candidate R.M. “Ronnie” Stone. It was broadcast online by Neocom Microspecialists Inc. at the company office on Main Street, and a simulcast was broadcast on WHEE Radio. The domain name, etownmeeting.neocom.net, was purchased by Rod Berry, who moderated the forum, Danny Turner and Neocom executive vice president Joe Albanese. Albanese and Turner ran the broadcasting equipment. The candidates were Dave Gilbert, Nancy Carter, Ron Ferrell, Vice Mayor Gene Teague and Stone.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

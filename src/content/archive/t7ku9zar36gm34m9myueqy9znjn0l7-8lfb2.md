@@ -38,4 +38,4 @@ An advertisement for Virginia National Bank/Henry County, Downtown and Rives Roa
 
 American of Martinsville announced that it would add 200 jobs over a 2-year period. It had at the time 1,000 employees, and it was negotiating for the purchase of the former Tri Wood Inc. Building on Route 785.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

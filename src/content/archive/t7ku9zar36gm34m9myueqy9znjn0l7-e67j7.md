@@ -32,4 +32,4 @@ Consultants Wiley and Watson, who prepared a comprehensive plan for Martinsville
 
 JCPenney Outlet Store was a great place to go Christmas shopping and get something for yourself while you were at it: men’s solid-color crewneck sweater, $9.99; tape player or walkie-talkie, $9.99; 2-piece English Garden floral tapestry luggage set, $49.99; Capezio watches, $19.99; men’s embroidered NBA jacket, $29.99; women’s Mickey Mouse sweatshirt, $6.99; ladies Christie & Jill tuxedo blouse, $12.99; misses short-sleeve knit sportshirts, $1.99; ladies Worthington cardigan sweater, $12.99.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

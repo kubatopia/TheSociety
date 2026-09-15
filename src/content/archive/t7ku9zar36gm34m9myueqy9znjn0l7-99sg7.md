@@ -40,4 +40,4 @@ Mrs. Elizabeth Stockton, 27, of Axton and her niece, Miss Beverly Marie Hairston
 
 The Rotary Club hosted five people from Bangladesh who were part of a Rotary Club Group Study Exchange program. Patrick Henry Community College was one of the places they visited.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

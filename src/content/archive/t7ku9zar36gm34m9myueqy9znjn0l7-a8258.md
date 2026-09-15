@@ -32,4 +32,4 @@ Major companies in the area, except for DuPont, were closed for vacation for the
 
 If you wanted to get the free gift with your purchase, you only had to spend $19.50 at the Lancome counter at Belk. Similar to now, the free gift was a full-size nail and lip duo, with mascara, eye makeup remover and a black canvas tote bag – but something we don’t see these days – “and when you come to the Lancome counter, a FREE, freshly-baked loaf of French bread is yours!” the advertisement touts.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

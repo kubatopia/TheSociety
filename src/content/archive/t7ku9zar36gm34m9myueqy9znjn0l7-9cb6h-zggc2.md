@@ -28,4 +28,4 @@ Officials from the Department of Environmental Quality were in Martinsville to i
 
 A total of 4,500 people attended the Chamber of Commerce’s Business 2000 Trade Show.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

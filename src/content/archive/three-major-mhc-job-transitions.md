@@ -3,7 +3,7 @@ title: "Three major MHC job transitions"
 date: 2023-12-04
 type: Article
 author: "Holly Kozelsky"
-summary: "By Dr. Barry M. Dorsey, May 15, 2018 From its inception in October 1776, Henry County—and the entire region–have undergone at least three major job transitions, along with several…"
+summary: "By Dr. Barry M. Dorsey, May 15, 2018 From its inception in October 1776, Henry County - and the entire region–have undergone at least three major job transitions, along with several…"
 image: /media/archive/three-major-mhc-job-transitions.webp
 imageAlt: "Three major MHC job transitions"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/three-major-mhc-job-transitions
@@ -12,7 +12,7 @@ draft: false
 
 By **Dr. Barry M. Dorsey**, May 15, 2018
 
-From its inception in October 1776, Henry County—and the entire region–have undergone at least three major job transitions, along with several “lesser” changes.  The region is still adjusting to the last of the changes.
+From its inception in October 1776, Henry County - and the entire region–have undergone at least three major job transitions, along with several “lesser” changes.  The region is still adjusting to the last of the changes.
 
 **The Early Years**
 
@@ -42,11 +42,11 @@ Ultimately, the combination of lower labor costs, NAFTA (the North American Free
 
 **Other Major Job Industries**
 
-Nylon—In 1941, the E.I. DuPont de Nemours Company built on the Smith River the largest nylon plant in the world.  Initially, the plant produced the company’s new product, women’s nylon hosiery, with the first pair of stockings going to Eleanor Roosevelt.  But it soon turned to the war effort, churning out items from parachutes to B-29 bomber tires. The plant employed approximately 4600 employees and greatly influenced the economic as well as the cultural life of the city and county.  Its employees included engineers, scientists, and technicians. Following boom times in the 1960s, there was a sharp economic downturn.  After several years of downsizing, the plant closed completely in 1998.  Many of the employees retired in Martinsville and throughout the Henry County area.
+Nylon - In 1941, the E.I. DuPont de Nemours Company built on the Smith River the largest nylon plant in the world.  Initially, the plant produced the company’s new product, women’s nylon hosiery, with the first pair of stockings going to Eleanor Roosevelt.  But it soon turned to the war effort, churning out items from parachutes to B-29 bomber tires. The plant employed approximately 4600 employees and greatly influenced the economic as well as the cultural life of the city and county.  Its employees included engineers, scientists, and technicians. Following boom times in the 1960s, there was a sharp economic downturn.  After several years of downsizing, the plant closed completely in 1998.  Many of the employees retired in Martinsville and throughout the Henry County area.
 
-Mirrors—In 1913, M.R. and N.S. Schottland opened a mirror factory in Martinsville, the Virginia Mirror Company.  It continues in operation today and was, at one time, noted as the largest mirror plant under one roof in the nation.
+Mirrors - In 1913, M.R. and N.S. Schottland opened a mirror factory in Martinsville, the Virginia Mirror Company.  It continues in operation today and was, at one time, noted as the largest mirror plant under one roof in the nation.
 
-Lumber—In 1914, Lester Lumber Company moved to the Martinsville area.  It was founded by G.T. Lester at Dyer’s Store in 1896.  Cap’n Till, as he was known, also launched the first airport project in the area by sending steam shovels out to level Liberty Heights in 1934.  His son, G.T. Lester, Jr., was the first to own an airplane in Martinsville.  After a fire destroyed the company in 1919, Cap’n Till had it re-built and added a 2 million-gallon water reservoir, which later was converted to be used also as a swimming pool.
+Lumber - In 1914, Lester Lumber Company moved to the Martinsville area.  It was founded by G.T. Lester at Dyer’s Store in 1896.  Cap’n Till, as he was known, also launched the first airport project in the area by sending steam shovels out to level Liberty Heights in 1934.  His son, G.T. Lester, Jr., was the first to own an airplane in Martinsville.  After a fire destroyed the company in 1919, Cap’n Till had it re-built and added a 2 million-gallon water reservoir, which later was converted to be used also as a swimming pool.
 
 Another lumber-associated industry is Nationwide Homes. Organized in 1959 by Ralph C. Lester to build and finance homes on an owner’s property, the company began to manufacture modular homes in 1969.
 
@@ -54,7 +54,7 @@ Both of these businesses continue in operation today. The Lester Lumber Company 
 
 **The Future of Jobs in Martinsville and Henry County**
 
-Martinsville was approved by the General Assembly as a Virginia city in 1929; it had a population of over 7000.  Since that time, the city grew to 19,653 (U.S. Census of 1970), but instead of gaining further population, the city lost it—not unusual for a rural city, especially one which saw a demise of its manufacturing base in the 1980s, 1990s, and early 2000s. According to an article in the Bulletin on July 2 of this year, the Weldon Cooper Center at the University of Virginia projects a decline by the year 2045 in Martinsville’s population to 9500 (from the 2010 census of 13,821), while Henry County can expect a decrease to 41,328 (from the 2010 census of 54,151) by that same year. The area also has an older population. The county’s population was 22% “persons over 65,” according to the 2010 census.
+Martinsville was approved by the General Assembly as a Virginia city in 1929; it had a population of over 7000.  Since that time, the city grew to 19,653 (U.S. Census of 1970), but instead of gaining further population, the city lost it - not unusual for a rural city, especially one which saw a demise of its manufacturing base in the 1980s, 1990s, and early 2000s. According to an article in the Bulletin on July 2 of this year, the Weldon Cooper Center at the University of Virginia projects a decline by the year 2045 in Martinsville’s population to 9500 (from the 2010 census of 13,821), while Henry County can expect a decrease to 41,328 (from the 2010 census of 54,151) by that same year. The area also has an older population. The county’s population was 22% “persons over 65,” according to the 2010 census.
 
 The city and county currently own two industrial parks (a third is coming online) with defined revenue to the two governmental entities.  Some of the businesses in the parks seem to be doing exceptionally well, such as Drake Extrusion or Monogram Foods.  The variety of businesses in the industrial parks is indeed impressive, everything from West Windows to Georgia Pacific to Blue Ridge Aquaculture to J.G. Edelen & Co’s “Knobs and Pulls.”  A review of the Chamber of Commerce’s current list of members (more than 600) shows a great deal of diversity in the businesses/industries in the industrial parks as well as in the area.
 
@@ -64,4 +64,4 @@ This area has much to commend it.  A potential resident would be hard-pressed t
 
 Another impressive local group of organizations is the non-profits, not only the cultural organizations (some of which might be left over from the DuPont days), but entities such as Grace Network, United Way, Boys and Girls Clubs, Charity League, Boy and Girl Scouts, Community Foundation, MHC Historical Society, etc. People jokingly say that the same population contributes to all the non-profit organizations.
 
-Yet the area lacks a single business or group of businesses—such as textiles– which employ large numbers of Henry Countians.   In this void, residents and governments alike seem to be coalescing  around three areas:  Education (with Patrick Henry Community College, New College Institute, a revamped public school system, and a private, college-preparation institution), Healthcare (with a reorganized hospital into a regional arrangement, SOVAH, the Piedmont Virginia Dental Health Foundation, and the MHC Coalition for Health and Wellness), and a Regional Farming Network.
+Yet the area lacks a single business or group of businesses - such as textiles– which employ large numbers of Henry Countians.   In this void, residents and governments alike seem to be coalescing  around three areas:  Education (with Patrick Henry Community College, New College Institute, a revamped public school system, and a private, college-preparation institution), Healthcare (with a reorganized hospital into a regional arrangement, SOVAH, the Piedmont Virginia Dental Health Foundation, and the MHC Coalition for Health and Wellness), and a Regional Farming Network.

@@ -36,4 +36,4 @@ The family of Beverly Marie Hairston, 19, offered a $1,000 reward leading to the
 
 The furniture industry was looking good, as American of Martinsville was planning to add 200 jobs, and Stanley Furniture was planning to add 300 jobs when it opened a $15 million home office – furniture plant.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

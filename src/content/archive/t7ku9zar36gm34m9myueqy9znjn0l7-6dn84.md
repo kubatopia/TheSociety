@@ -32,4 +32,4 @@ Gospel Fest ’99 at Mount Olivet Holiness Church on Cabell Street featured New 
 
 Bishop Robert L. Kellam led more than 100 people in an anti-drug march from Liberty Fair Mall up Market Street, onto Church Street and ending at the Martinsville Municipal Building. Speeches, singing and other anti-drug activities were held there.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

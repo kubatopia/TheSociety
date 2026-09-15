@@ -1,11 +1,11 @@
 ---
-title: "Feb. 1, 1925 - 1950 - 1961 - 1975 - 2000"
+title: "Feb. 1, 1925-1950-1961-1975-2000"
 date: 2025-02-02
 type: Looking Back
 author: "Holly Kozelsky"
 summary: "100 Years ago – 1925 Dentist Dr. N.R. Mitchell of Bassett took over the practice of Dr. C.T. Womack, who retired from dentistry to become president of the newly organized Pannill…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-d2ljd.webp
-imageAlt: "Feb. 1, 1925 - 1950 - 1961 - 1975 - 2000"
+imageAlt: "Feb. 1, 1925-1950-1961-1975-2000"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-d2ljd
 draft: false
 ---
@@ -34,4 +34,4 @@ Mrs. Frances Hodges of Stultz Road shared a surprising delicious way to serve re
 
 Martinsville Superintendent Ira Trollinger took Juelyan Via, 9, and five other students from Clearview Elementary School to the hospital to see how cardiac probes were used, and other aspects of medical care. It was their break between sessions; Clearview was a year-round school.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

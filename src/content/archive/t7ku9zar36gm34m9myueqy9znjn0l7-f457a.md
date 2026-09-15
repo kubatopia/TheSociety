@@ -30,4 +30,4 @@ Two sewing classes were being offered at Patrick Henry Community College. One wa
 
 John R. Redd, a member of the American Legion Post 78, was named Veteran of The Year. Simon C. Spencer was the guest speaker at Veterans Day 1999 celebration at Martinsville High School. He said that he was ready to declare “The Fifth Great War of This Century.” That war would be fought with the mind instead of with weapons. “We are in a war for survival, economically and educationally,” he said. “We have to win this global war in order for our children, all of our children, to have a prosperous future.” Spencer is a retired Lieutenant Colonel in the Army Reserve.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

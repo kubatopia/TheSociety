@@ -28,4 +28,4 @@ Kmart advertised 5 by 7 color portraits at 38 cents ($2.28 in today’s money) e
 
 Henry County deputies got signatures from people across the county to haul away about five dozen junked vehicles. It was a few years into a program by Horsepasture Supervisor Debra Parsons Buchanan by which car owners would receive $50 for each junk vehicle hauled away.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

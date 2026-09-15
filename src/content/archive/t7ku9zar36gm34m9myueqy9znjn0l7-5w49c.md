@@ -38,4 +38,4 @@ Hampton Industries Inc. of Martinsville was making 90 percent of men’s bathrob
 
 The trailer of a tractor-trailer got stuck under the canopy over gas tanks, and knocked over gas tanks, at People’s Gas Station at 1315 S. Memorial Blvd.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

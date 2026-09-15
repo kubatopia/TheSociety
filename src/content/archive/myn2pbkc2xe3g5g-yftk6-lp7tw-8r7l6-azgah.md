@@ -32,4 +32,4 @@ The Harvest Festival at Reynolds Homestead in Critz featured a barbershop singin
 
 Jerry Falwell with the Old-Time Gospel Hour Team and the Liberty Baptist College Chorale led the afternoon service at Temple Baptist Church in the Collinsville Shopping Center. The Rev. Julious Bradshaw was the pastor there.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

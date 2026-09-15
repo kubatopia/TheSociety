@@ -26,4 +26,4 @@ Bill Prillaman, who operated a grocery store in Martinsville, had a 1,900-foot l
 
 The Martinsville Bulletin and staff won awards from the Virginia Press Association competition, with reporters John Hale and Bernard Baker and editor Ginny Wray receiving special commendations including for their coverage of the demise of Tultex.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -32,4 +32,4 @@ Dwight Dillon of Bassett was elected a director of the Virginia Association of I
 
 National Catalog Corp., based in Connecticut, announced that it would open a customer service center at Patrick Henry Mall in Martinsville. It would start with 250 employees and have more than 700 by 2005.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

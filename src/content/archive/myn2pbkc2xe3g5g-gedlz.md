@@ -32,4 +32,4 @@ A father and son were indicted by a Martinsville Circuit Court grand jury on cha
 
 Aaron B. Quinn, 72, of Ferndale Court, Collinsville, was found dead after a crazy chain of car wrecks. The wrecks started with a silver Toyota Corolla hitting a car on the intersection of Virginia Boulevard and Commonwealth Avenue. The Corolla continued along toward Martinsville High School, where police were finally able to stop it. It caused several other wrecks, including one with Helen Howell and her teenage daughter, and the car hit Thomas Grant Jr. When police finally caught up with the driver, Vicki E. Gammon, what she told them led them to discover the body of her stepfather in his Collinsville house.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

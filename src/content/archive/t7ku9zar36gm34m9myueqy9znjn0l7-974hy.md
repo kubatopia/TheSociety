@@ -22,4 +22,4 @@ The Martinsville School Board decided to use the building of the former Central 
 
 Tultex assets from three plants in North Carolina were sold during hearings in the U.S. Bankruptcy Court. Aiken Equipment Sales Inc. bought the equipment for $4.75 million.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

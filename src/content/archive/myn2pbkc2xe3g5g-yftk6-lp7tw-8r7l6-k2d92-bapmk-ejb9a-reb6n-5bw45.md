@@ -30,4 +30,4 @@ The local SPCA took on the cause of prohibiting the spaying of animals by unauth
 
 Martinsville Mayor Mark Crabtree and the other members of City Council began five special council sessions over a 3-month period to examine the operations of municipal departments to determine how efficiently they operated. The departments with their subdepartments, and their budgets, were: Community Development, $81,312;  Housing, planning and zoning, $23,450; Inspections, $233,920; Leisure Services, $184,327; Park Maintenance, $253,967; Senior Center, $133,632; Armory, $51,916; Police Department, $3,013,135; Fire Department, $1,268,565; EMS, $90,685; Public Works office staff, $63,933; Engineering, $171,291; Garage, $412,748; City Hall maintenance, $403,834.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

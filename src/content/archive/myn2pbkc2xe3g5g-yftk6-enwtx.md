@@ -32,4 +32,4 @@ Three generations of one family completed Defensive Driving Courses: Mrs. Gora G
 
 Witcher Paing and Body Shop, at 969 Stultz Road, and 15 vehicles that had been parked there were destroyed by fire. It was a wooden building with a tin ceiling. The Collinsville Fire Department responded.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

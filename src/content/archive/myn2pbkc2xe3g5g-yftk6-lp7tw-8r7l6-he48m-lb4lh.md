@@ -30,4 +30,4 @@ Construction on the new First Federal Savings and Loan Association of Martinsvil
 
 Henry County Public Schools students went through a character education program called Character Counts. Henry County Parks and Recreation Program Supervisor and Events Coordinator Susan Kanode and Lynn Berry, extension agent for 4-H youth development, were coordinators. After taking training from the state 4-H program, Kanode brought the program to Henry County. She trained the school guidance counselors.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

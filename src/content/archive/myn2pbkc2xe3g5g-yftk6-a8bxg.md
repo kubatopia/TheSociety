@@ -24,4 +24,4 @@ Classified ads, General Services: Berlou mothproofing for winter clothes, by Vir
 
 Two Bassett teenagers were charged in connection with the theft of a safe that had held $50,000 in bonds, certificates of deposit, guns and silver dollars. The safe had been stolen from the home of H.D. Eanes, the former owner of Eanes Grocery Store in Bassett. Everything except some of the silver coins was recovered.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

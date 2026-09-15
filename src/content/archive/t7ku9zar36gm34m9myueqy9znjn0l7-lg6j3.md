@@ -34,4 +34,4 @@ Henry County had proposed a subdivision ordinance which had a split in the Board
 
 It was Good Friday, and at least 235 children hunted for treasure-filled Easter eggs – and the Easter Bunny arrived by helicopter – at a large event sponsored by Henry County Parks & Recreation.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

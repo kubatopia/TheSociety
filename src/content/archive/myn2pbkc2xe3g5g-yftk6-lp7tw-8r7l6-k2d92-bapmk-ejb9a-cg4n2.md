@@ -32,4 +32,4 @@ A Kroger store opened at Martinsville Shopping Plaza, U.S. 220 at Armory Road. I
 
 A blanket showing scenes of Martinsville and Henry County was offered for sale at $49.95. It was jacquard woven in cranberry, hunter green and natural, 50 inches wide and 65 inches long. The blanket was sold by Caroline Designs of 1112 Cherokee Trail, Martinsville.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

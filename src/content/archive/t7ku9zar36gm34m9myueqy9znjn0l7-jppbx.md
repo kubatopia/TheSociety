@@ -36,4 +36,4 @@ The Martinsville Police Department had 10 patrol cars with laptop computers. The
 
 Corey Mayo, 13, woke from the coma he had been in since Aug. 25. He had been hit by a vehicle on the first day of school when he was walking to the bus stop.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

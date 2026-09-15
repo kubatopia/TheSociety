@@ -34,4 +34,4 @@ The Henry County Board of Supervisors set Nov. 21 as the date to open bids on th
 
 The body of Maria Soledad Dillard, 41, of Axton was found in a car submerged in the Smith River.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

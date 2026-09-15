@@ -26,4 +26,4 @@ Sam Craig of 605 Forest St. tended a triangle-shaped garden plot at Forest and C
 
 At Larry & Alley, you could get a 30-inch Frigidaire electric range for $229.95, a 24-inch dishwasher for $169.95, a Frigidaire front-load washing machine for $595 and a Frigidaire washer/dryer set for $549.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

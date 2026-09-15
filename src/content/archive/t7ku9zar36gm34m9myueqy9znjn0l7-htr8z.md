@@ -30,4 +30,4 @@ The Dyers Store Ruritan Club sold Brunswick stew and home-cooked food at the Dye
 
 Simone H. Redd, 39, was in her first month as president of Imperial Savings and Loan Association. She had been with the S&L for 17 years. The S&L was started in 1929 by William Spencer and his Sunday school class. He was its first president, followed by Dr. Harry P. Williams, William B. Muse and then Kelvin Perry. Located on Fayette Street, Imperial had $8.4 million in assets and was owned by depositors and borrowers. She also was involved with Rock Hill Baptist Church, where her husband, Carlton Redd, was the president. The FDIC closed Imperial in 2010, at a cost to the FCIC of $3.5 million, and turned over operations of Imperial to River Community Bank, N.A.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

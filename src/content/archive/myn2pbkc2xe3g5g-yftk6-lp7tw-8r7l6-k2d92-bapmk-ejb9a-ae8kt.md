@@ -26,4 +26,4 @@ The new Catholic priest (back when the Catholic church was on the corner of Chur
 
 The wreckage of a plane which had been missing since Nov. 10 was found on Bull Mountain in Patrick County. The Piper PA 28 single-engine plane was found badly burned and with one person confirmed dead. A search for the plane had been going on since Nov. 10, and the plane was found by the Civil Air Patrol.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

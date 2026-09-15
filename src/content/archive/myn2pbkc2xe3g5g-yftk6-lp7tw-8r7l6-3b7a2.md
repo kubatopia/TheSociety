@@ -36,4 +36,4 @@ Taylor Junior Solomon, 43, of Ridgeway dies in a single-vehicle wreck on U.S. 22
 
 The nation was crazed over the new television show “Survivor.” On this night, Richard Hatch won the $1 million prize by being the last person to make it on a tropical island.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -28,4 +28,4 @@ St. Joseph Catholic Church held a homecoming service for accident victim Corey M
 
 Two workers died in an explosion that sparked fires in two mountains of wood shavings at the International Paper plant in Stuart, Gene F. Gobble, 38, of High Point, and Williams Walls, 43, of Greensboro.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

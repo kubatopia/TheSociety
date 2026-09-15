@@ -162,4 +162,4 @@ The Uptown Community Christmas Tree Lighting Ceremony was held at 5:30 p.m. at t
 
 At a school board meeting, it was announced that Henry County would consolidate its four high schools into two. Bassett and Magna Vista high schools would remain high schools, with about a dozen new classrooms to accommodate 1,200 more students. Fieldale-Collinsville and Laural Park high schools would become middle schools by the 2003-2004 school year. Bassett and Drewy Mason middle schools would be renovated by 2005, Axton Middle School would be turned into an elementary school, and there were no plans made yet for Carver Middle School.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

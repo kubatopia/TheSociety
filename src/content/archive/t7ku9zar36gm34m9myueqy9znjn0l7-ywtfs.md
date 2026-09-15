@@ -48,4 +48,4 @@ About 30 parents met with their children’s teachers and the principal at John 
 
 Henry County Administrator Sid Clower announced that Henry County was buying land in the Beaver Creek Industrial Park from Tultex to use for two economic development projects.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

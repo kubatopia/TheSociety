@@ -40,4 +40,4 @@ It was the last day of work for hundreds of Tultex’s employees as the company 
 
 For the past year, the well at Spencer-Penn Elementary School had been contaminated with nitrates. The school had been using bottled water in food preparation and for the children to drink. Nitrates were said not to pose a danger to the general public, just to pregnant women and young children.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

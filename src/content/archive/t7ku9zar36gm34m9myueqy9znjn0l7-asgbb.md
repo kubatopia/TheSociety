@@ -30,4 +30,4 @@ The MHC Voters League recommended that its members in the city vote against the 
 
 More than 60% of registered voters went to the polls in Henry and Patrick counties. Results: Henry County Board of Supervisors, incumbent Debra Buchanan got 2,085 votes to Simon Spencer’s 982, and Frances Zehr slipped past incumbent H.G. Vaughn at 1,313 to 1,303. For sheriff, incumbent Frank Cassell won with 10,808, and Barry Stowe got 4,858; clerk of court, Vickie Helmstutler beat seven opponents; treasurer, Scott Grindstaff beat three opponents. In Patrick County, Sheriff David E. Hubbard beat challenger Jay Gregory; Commonwealth’s Attorney, Christopher Corbett; Supervisors: Riger L. Martin, Michael W. Hudson and James D. East won; and Commissioner of Revenue, C. Jerry Love won. Incumbent Barnie Day won 10th District House of Delegates.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

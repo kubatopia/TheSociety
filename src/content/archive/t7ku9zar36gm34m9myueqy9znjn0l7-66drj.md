@@ -32,6 +32,6 @@ Chain letters were big in the 1970s, and they were going around Martinsville at 
 
 **25 years ago - 1999**
 
-“Operation Lightning Strike”, the day before in Rocky Mount, was a series of raids in Franklin, Pittsylvania and Craig Counties of a multi-million-dollar moonshine operation. The property, bank accounts and other records seized would be evaluated by the U.S. District Attorney’s office. No arrests had been made --- yet.
+“Operation Lightning Strike”, the day before in Rocky Mount, was a series of raids in Franklin, Pittsylvania and Craig Counties of a multi-million-dollar moonshine operation. The property, bank accounts and other records seized would be evaluated by the U.S. District Attorney’s office. No arrests had been made - yet.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -26,4 +26,4 @@ Martinsville Drive-In Theatre in Rich Acres previously had been showing Rated X 
 
 Rives S. Brown salespeople of the month were Cathy Spencer and Teresa Weaver.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

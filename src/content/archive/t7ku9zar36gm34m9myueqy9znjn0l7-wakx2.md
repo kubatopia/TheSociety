@@ -30,4 +30,4 @@ It was the day of the annual Christmas Cheer drive. People would just need to le
 
 Sanville Elementary School was using a paper recycling program developed by fifth-grade teacher Lori Morse.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

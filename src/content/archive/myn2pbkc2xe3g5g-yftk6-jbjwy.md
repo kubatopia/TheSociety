@@ -26,4 +26,4 @@ The Martinsville Fire Department received a new American LaFrance fire truck. It
 
 Reed Creek District Supervisor R.E. “Mike” Seidle was elected as chairman of the Henry County Board of Supervisors, the position held by Jack Dalton, who had died on May 24. The board was looking for people to apply to fill Dalton’s spot on the board, representing the Collinsville District.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -36,4 +36,4 @@ In the article “New Way to Rate TV” in the June 27, 1974 Martinsville Bullet
 
 Pluma, which had 500 employees in Martinsville and about 1,500 overall, had a net loss of $36 million the year before. It planned to make its comeback through scaling down and focusing on high-quality niche products. An example of this was a basic crew-neck sweatshirt versus a high-end sweatshirt: zipped and hooded. Thirty to 40% of Pluma’s sales were to Sam’s Club.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

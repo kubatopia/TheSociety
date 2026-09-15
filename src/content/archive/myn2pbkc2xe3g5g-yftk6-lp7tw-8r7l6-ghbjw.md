@@ -28,4 +28,4 @@ To celebrate its grand opening, the Jean Machine store in the Collinsville Cente
 
 Commonwealth’s attorney Joan Ziglar said that it could take a year or two before anyone is arrested in the shooting death of Lisa Thomas. Other local murders had taken about that long, she explained. Lisa Thomas had been shot to death in her husband’s store on Walnut Street.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -34,4 +34,4 @@ Safety Net Inc. made a $100,000 cash donation to the Salvation Army to help loca
 
 Former Henry County Commonwealth’s Attorney Cary Jacuelin Randolph died at age 96. Randolph was famous for his anecdotes.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

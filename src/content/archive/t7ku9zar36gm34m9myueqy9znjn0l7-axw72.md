@@ -40,4 +40,4 @@ Postal worker Sheila A. Heyeck, 51, died in a freak accident while she was deliv
 
 The Patrick Community Hospital cut 20% of its workforce – 40 jobs – and did not offer its laid-off workers severance packages. The hospital was under Chapter 11 bankruptcy.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

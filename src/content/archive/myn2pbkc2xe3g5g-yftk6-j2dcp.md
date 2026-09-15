@@ -30,4 +30,4 @@ Bryant’s Sport Center at 107 E. Main St. had hunting and fishing licenses on s
 
 The Patrick Henry Development Council was working on a strategic plan to create at least 750 jobs for the area, which paid the high salary of at least $30,000.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

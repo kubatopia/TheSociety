@@ -30,4 +30,4 @@ The Spencer Ruritan Club was renovating the Spencer-Penn School, which was built
 
 Dr. Abdul Alim Muhammad, a physician in Washington D.C. and a spokesman for the Nation of Islam, said the shooting death of Lisa Thomas appeared to be a hate crime or ritualistic killing, based on the location of the wounds on her body, and he asked police to look at the murder from that perspective.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

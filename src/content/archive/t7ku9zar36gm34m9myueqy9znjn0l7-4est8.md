@@ -36,4 +36,4 @@ Mrs. Lula B. Shires was the guest of honor at the potluck supper held by the Mar
 
 Martinsville native Sherri Sharpe was graduated from the Virginia Women’s Institute for Leadership at Mary Baldwin College and commissioned Second Lieutenant. She has gone on to have a long and illustrious career in the military.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

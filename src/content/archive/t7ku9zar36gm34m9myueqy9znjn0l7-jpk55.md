@@ -30,4 +30,4 @@ Two hundred more students than usual enrolled in Patrick Henry Community College
 
 Family Medical Center opened at 315 Hospital Drive. It was made possible through a $125,000 grant from the Virginia HealthCare Foundation to help pay salaries, and a second grant would be used for capital needs.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

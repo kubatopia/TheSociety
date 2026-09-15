@@ -30,4 +30,4 @@ The Patriot Centre at Beaver Creek branch of the Collinsville Fire Department re
 
 Sara Lee Activeware signed an agreement of interest to buy the Tultex Customer Service Center at Beaver Creek. Tultex also was expected to sign a contract for the sale of its complex on the corner of Franklin Street and Commonwealth Boulevard by the end of the week.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -32,4 +32,4 @@ The Jack’s Creek Covered Bridge was officially turned over to the Patrick Coun
 
 The SPCA was conducting a stuffed animal collection drive to distribute stuffed animals to needy area children through Christmas Cheer.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -28,4 +28,4 @@ W.C. Bill Lynch, general manager of the Martinsville Theater Management Corporat
 
 When poultry farmers Jay and Donna Gregory sat down to their Thanksgiving meal, the turkey on their table was from the story. Jay Gregory, a former Patrick County sheriff and in 2000 an investigator for Henry County, had raised thousands of birds, including turkeys, during his lifetime, but had never eaten any of those he had raised. His father, a cattle farmer, also never ate his own beef.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

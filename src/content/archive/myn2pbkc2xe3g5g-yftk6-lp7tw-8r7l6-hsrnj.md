@@ -38,4 +38,4 @@ It was revealed in court that no attorney was present to advise Eddie Lee “Sha
 
 Cogentrix Energy Inc. held a public meeting at Mount Calvary Pentecostal Holiness Church to describe the $400 million to $600 million power plant it was intending to build in Axton. About 75 people attended. The power plant would be gas powered and would provide energy to wholesale customers using an AEP transmission line.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

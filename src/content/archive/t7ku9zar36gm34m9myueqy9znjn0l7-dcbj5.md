@@ -34,4 +34,4 @@ Flora Angela Weaver of Collinsville was a contestant in the Little Miss Martinsv
 
 At Grayson’s Barbershop, “Where We Make Less Look Better” at 321 E. Market St., the slogan was “Nobody Walks Til The Clippers Talk.”
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -26,4 +26,4 @@ Martinsville Cablevision at 111 E. Main St. offered installation, which normally
 
 Two area Tupperware managers were recognized at the Believe and Achieve Jubilee 2000 in Orlando, Florida: Colene Fackler of Collinsville and Avis Turner of Bassett Forks received Circle of Honor pins and product gifts.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

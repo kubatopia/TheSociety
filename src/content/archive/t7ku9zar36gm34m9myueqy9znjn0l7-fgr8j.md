@@ -1,11 +1,11 @@
 ---
-title: "Feb. 2 1925 - 1950 - 1975 - 2000"
+title: "Feb. 2 1925-1950-1975-2000"
 date: 2025-02-03
 type: Looking Back
 author: "Holly Kozelsky"
 summary: "100 Years ago – 1925 The initial/organization meeting of the stockholders of the Pannill Knitting Co. was held. The proposed knitting mill would make men’s undergarments.…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-fgr8j.webp
-imageAlt: "Feb. 2 1925 - 1950 - 1975 - 2000"
+imageAlt: "Feb. 2 1925-1950-1975-2000"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-fgr8j
 draft: false
 ---
@@ -34,4 +34,4 @@ Almost 200 people went to Richmond by bus to speak at a General Assembly public 
 
 Jerry Greenwood Rigney, 42, of Applewood Road, died when his 1969 Chevrolet pickup was hit by a transfer truck/car hauler on Highway 220 in Bassett Forks.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

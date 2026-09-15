@@ -32,4 +32,4 @@ Spencer-Penn and Axton schools operated canneries where people would bring their
 
 Eltham Manor, built in 1936 for W.M. Bassett, was added to the Virginia Landmarks Register and was nominated for the National Register of Historic Places. It was in 1999 the home of Butch and Virginia Hamlet.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

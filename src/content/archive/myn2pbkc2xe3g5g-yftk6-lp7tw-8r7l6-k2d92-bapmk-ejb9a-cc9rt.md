@@ -26,4 +26,4 @@ Do you remember the popularity of Raggedy Ann and Raggedy Andy dolls in the 1970
 
 U.S. Cellular sold an Audiovox CDM digital phone and hands-free earpiece for 1 cent, with 2,000 bonus minutes and free activation. Plans were: for $30, 300 minutes per month; $50, 550 minutes per month; and $75, 900 minutes per month. Each plan included 2,000 bonus minutes.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ Seven hundred fifty people attended the Prillaman reunion at Fairystone Park. Du
 
 Tultex announced that it cut its losses by more than half, but sales were still lower than expected for the second quarter of 1999. It posted $19.3 million in net income for the quarter because of refinancing its debt into a $150 million secured line of credit.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

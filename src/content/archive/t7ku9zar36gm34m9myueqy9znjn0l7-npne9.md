@@ -36,4 +36,4 @@ Fifth District U.S. Rep. Virgil Goode, a lifelong Democrat whose father, Virgil 
 
 The Textile Worker Relief Act of 2000 was introduced in the General Assembly. It had 83 co-patrons – quite a large amount; most bills had only three or four.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

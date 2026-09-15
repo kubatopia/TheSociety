@@ -38,4 +38,4 @@ Computerized stop lights were put in at Bridge and Church streets and 12 other i
 
 Shelly Frith Drane, 49, of 1231 Sam Lions Trail, was killed in a single-car accident on Figsboro Road. She was the daughter of Mary Kathryn N. Frith of Martinsville (who died in 2011) and the late J. Burness Frith, the founder of Frith Construction Co., and she had been the company’s director since 1993. She and her husband, Lewis T. Drane II, had one daughter, Peyton. The SPCA’s Shelley Frith Drane Adoption Center was named in her honor. The center opened in January 2008. In two years, $1.5 million was raised to construct that building off the Joseph Martin Highway. Leslie Hervey was the SPCA’s director then.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

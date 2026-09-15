@@ -34,4 +34,4 @@ Pillowtex announced that it had signed a licensing agreement and distribution ag
 
 About 1,500 people attended the first services in the new sanctuary of Blackberry Baptist Church in Sanville. The pastor was the Rev. Lee Kirkman. The new sanctuary, with a seating capacity of 600 and with seven multi-purpose rooms, cost about $240,000.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

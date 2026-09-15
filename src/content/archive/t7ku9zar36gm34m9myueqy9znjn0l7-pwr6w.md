@@ -36,4 +36,4 @@ Mrs. Rives Brown Jr. told the Stroller newspaper column about two unusual street
 
 The local area fared fine through Y2K – the fear that chaos would result by computer systems not working properly in the change of year from 1999 to 2000. However, Martinsville High School senior Matt Ashburn, 17, was keeping track of Y2K problems with his website, kwikware.com/y2kmistakes. After just a couple of days it listed 100.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

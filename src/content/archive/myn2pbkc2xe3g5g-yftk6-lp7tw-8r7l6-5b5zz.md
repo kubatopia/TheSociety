@@ -36,4 +36,4 @@ The gate of Southside Park had to start being locked following damages caused by
 
 Hooker furniture Corp. Stock Ownership Plan was completed, offering more than 3.5 million shares of Hooker common stock to the company. The Stock Ownership Plan accepted 1.8 million of the shares at $12.50 a share ($22.5 total), making 31% of the company’s employees the largest stockholder of the company.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

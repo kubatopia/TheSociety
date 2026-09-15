@@ -24,4 +24,4 @@ Ginny Wray was a longtime Martinsville Bulletin editor who retired in 2015, and 
 
 Martinsville High School junior Stefan Mlot, 17, scored a perfect 800 on the verbal section of the Scholastic Aptitude Test (SAT). He scored 730 out of 800 on the math portion of the SAT. Fieldale-Collinsville High School senior James Bradley “Brad” Rogers of Collinsville scored a perfect 800 on the math section of the SAT II. He planned to attend the  University of Virginia and had also gotten acceptance letters from Harvard, Brown and Duke universities and the College of William and Mary.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

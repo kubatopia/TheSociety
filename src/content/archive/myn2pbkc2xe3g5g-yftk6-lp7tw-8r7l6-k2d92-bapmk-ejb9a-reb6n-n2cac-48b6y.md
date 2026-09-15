@@ -26,4 +26,4 @@ The six candidates running for the three open seats on the Martinsville City Cou
 
 Devon Robinson, 7, of Figsboro was named Little Miss Martinsville-Henry County; Amanda Herndon, 9, of Axton was named Young Miss MHC; and Indya Penn of Martinsville and Lauren Martin, 10, of Bassett were named Miss Hospitality of their age groups.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

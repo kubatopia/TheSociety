@@ -36,4 +36,4 @@ Six people were injured, three critically, in an explosion and fire at Glazed Pr
 
 Piedmont Arts Association hosted a concert by the Martinsville Community Band and a book-signing, both in the museum. The book-signing was of Charity League’s new cookbook “Barracuda in Velvet Gloves,” the cover of which was illustrated by Wanda Prillaman. She signed the books, and Charity League members served samples made from some of the book’s recipes.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

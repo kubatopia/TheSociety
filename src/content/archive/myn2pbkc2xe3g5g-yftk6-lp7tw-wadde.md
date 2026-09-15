@@ -28,4 +28,4 @@ Chuck and Judie Freels discovered that about $6,000 worth of peaches had been st
 
 Jobs advertised in the classified ads included inventory counters, machinists, maintenance, mechanics, machine designers, OTR drivers, MIS help desk, general laborers, spray booth operators, upholsterers, nurses, forklift operators, sales, telemarketing, tire changers and more.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

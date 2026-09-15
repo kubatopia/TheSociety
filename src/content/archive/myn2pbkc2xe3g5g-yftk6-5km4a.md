@@ -28,4 +28,4 @@ A house fire at 104 Azalea St., Stanleytown, killed James Newbill, 19, of Martin
 
 Dewey S. Odell of Ridgeway had an effective way of making sure three people who broke into the neighbor’s house would get caught: He went over to that house and got into the pickup which had been left with its doors open and engine running and drove it away. The neighbor whom the adult and two teenagers were attempting to rob was Odell’s son, at 600 Old Leaksville Road. Dewey Odell drove the truck from his son’s house to his own house and hid it in back, then went in and called 911. Meanwhile, the robber left the son’s house and were caught on Highway 87 near a Citgo gas station.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

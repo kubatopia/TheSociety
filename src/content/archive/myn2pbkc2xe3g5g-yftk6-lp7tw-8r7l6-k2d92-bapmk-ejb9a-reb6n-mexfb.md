@@ -28,4 +28,4 @@ Advertisement: “Give Your Valentine an Admiral Appliance. She’ll love you fo
 
 The Virginia State Bar suspended Martinsville attorney Rickey Gene Young’s license for 18 months based on how it assessed his handling of three separate civil matters: a wrongful death suit, a personal injury/liability suit and a sexual harassment claim.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ Two local drug stores had petitions to have Martinsville overturn the Blue Law, 
 
 The unemployment rate for the MHC area was reported as double that of a year before – up to 8.3% for June 1999 as opposed to 3.8% in June 1998.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

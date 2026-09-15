@@ -202,4 +202,4 @@ Cedrics Fish & Chips opened on U.S. 220 North. Martin L. Godrey was the owner, a
 
 Six parents in Patrick County were charged with failing to send children to school. Their children’s absences ranged from 60 to 70 days absent out of 141 days of school.
 
-[*— Information f*](mailto:ctoufas@afap.com)*rom museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+[*Information f*](mailto:ctoufas@afap.com)*rom museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ The new runway at Blue Ridge Airport was dedicated during Airport Appreciation D
 
 The 16th Annual Indian Heritage Festival was held at Kings Mountain Park. It was sponsored by the Virginia Museum of Natural History and Henry County Parks and Recreation.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

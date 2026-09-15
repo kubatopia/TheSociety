@@ -36,4 +36,4 @@ Irisburg Elementary School [which has since closed and now is the home of Compas
 
 Henry Gilbert died at the age of 61, in the Ridgeway home of his son, Mark Gilbert. Henry Gilbert worked in local media for more than 25 years before becoming the local E-911 director. He had been a news director WHEE Radio and had done some correspondence work for WDBJ-TV in Roanoke and the Roanoke Times and World News.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

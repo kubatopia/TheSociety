@@ -28,4 +28,4 @@ Martinsville High School’s magazine was called “Perspectives.” Its staff i
 
 The Rev. Nancy Stanton McDaniel had been an associate pastor of First Baptist Church on Starling Avenue for 20 years. The Southern Baptist Convention just had issued a proclamation stating that women should not preach from the pulpit. McDaniel said that the proclamation would not stop her and she would continue to do what she felt called to do – though she was now moving away, to be the pastor of a church in Rhoadesville, Virginia.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

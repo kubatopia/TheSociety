@@ -30,4 +30,4 @@ It was announced that the Goose Point area of Philpott Lake would be made into a
 
 Del. Ward Armstrong held his ninth annual barbecue picnic. It was held at Patrick Henry Community College, and it raised $32,000. Del. Barnie Day was there, along with potential Democratic gubernatorial candidate Mark Warner and state Sen. Roscoe Reynolds.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

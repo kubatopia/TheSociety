@@ -26,4 +26,4 @@ At First Federal Savings of Danville, open an account with $1,000 and get for fr
 
 McCabe Memorial Baptist Church got a steeple put on for the first time since a storm in the 1960s destroyed the previous steeple.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

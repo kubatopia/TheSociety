@@ -32,4 +32,4 @@ A crowed of at least 10,000 danced like crazy when Ricky Scaggs and Kentucky Thu
 
 Walk for the Heart raised about $37,500 for local aid and for the American Heart Association. Hundreds of volunteers walked from Cleveland Avenue and down Mulberry Road. Carrie Collins was the director of the local chapter.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

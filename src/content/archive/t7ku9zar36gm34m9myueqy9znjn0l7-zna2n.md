@@ -28,4 +28,4 @@ In Martinsville, school lunch cost 50 cents at the high school and 45 cents in t
 
 The Danville Association for Retarded Citizens Inc. filed a seven-count lawsuit against the Henry County Board of Supervisors in efforts to get the use of the Fieldcrest Lodge as a school. The Henry County Planning Commission twice had recommended rezoning 334 of the 493 acres from Industrial 1-1 to Agricultural A-1, which would allow a school. The Danville Association of Retarded Citizens wanted the Lodge to be the site of White Oak School.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

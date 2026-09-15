@@ -30,4 +30,4 @@ Restaurants and entertainment: Putt-Putt Golf Course, Laurel Park Plaza; 220 Dri
 
 The Virginia Department of Health requested that people cease all contact with Blackberry Creek in the Stones Dairy area, because samples it had collected and analyzed showed high levels of contamination in the water. It wasn’t clear where the fecal contamination had originated, but the creek was near the Fairway Acres Sewage Treatment Plant.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

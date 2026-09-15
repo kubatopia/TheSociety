@@ -18,7 +18,7 @@ Henry County met its quota of young men in applications for training at the C.M.
 
 **75 years ago – 1949**
 
-These classified ads: “CLUB BILLARD PARLOR—Be happy and you’ll be beautiful, a beauty expert tells women. And here they’ve been trying to be beautiful in order to be happy.” / “A NEW YORKER—Fell three stories to the first floor and wasn’t hurt. If he had landed in the basement, ’twould have been another story. Martinsville Printing Co. / JOE—Get your own record of “Riders in The Sky” at Al’s Music Center. I don’t want to have to get up at 2 a.m. anymore and play mine for you. – Pete.”
+These classified ads: “CLUB BILLARD PARLOR - Be happy and you’ll be beautiful, a beauty expert tells women. And here they’ve been trying to be beautiful in order to be happy.” / “A NEW YORKER - Fell three stories to the first floor and wasn’t hurt. If he had landed in the basement, ’twould have been another story. Martinsville Printing Co. / JOE - Get your own record of “Riders in The Sky” at Al’s Music Center. I don’t want to have to get up at 2 a.m. anymore and play mine for you. – Pete.”
 
 **1960**
 
@@ -36,4 +36,4 @@ Things weren’t looking good for Tultex Corp. The company lost $36.5 million in
 
 A ribbon-cutting ceremony for Sherry’s Gifts at 11 Walnut St. was held. It was run by Sherry Preston, and Joyce Tarpley was the shop coordinator.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

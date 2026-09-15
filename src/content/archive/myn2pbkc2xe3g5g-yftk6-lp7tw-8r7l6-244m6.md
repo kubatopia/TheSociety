@@ -28,4 +28,4 @@ The United Way of Henry County and Martinsville voted to continue providing fund
 
 Seven Martinsville High School students were suspended after a fight at the school. It started when one student hit another in the school’s common area around 9:35 a.m., the aftermath of an unresolved argument between the two during summer school. Their friends jumped in. All seven of the boys were charged with disorderly conduct, and six were charged with assault.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

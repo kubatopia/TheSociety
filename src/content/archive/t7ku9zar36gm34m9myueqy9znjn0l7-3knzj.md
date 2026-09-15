@@ -32,4 +32,4 @@ Water in Axton, including at Axton Elementary School, Eanes Drive-In restaurant 
 
 Roads were iced over after 3 to 4 inches of a wintry mix fell over the area over the weekend, marking the fourth time of snow or ice over a week and keeping schools closed. A bus trip to Richmond for area displaced textile workers was postponed to Feb. 2.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

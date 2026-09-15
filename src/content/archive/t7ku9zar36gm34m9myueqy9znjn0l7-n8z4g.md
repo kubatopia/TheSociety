@@ -28,4 +28,4 @@ Mental tests that were given to Eddie Lee “Shangai” Thomas showed that he wa
 
 The Senate unanimously approved a budget amendment that would provide insurance for displaced textile workers in the West Piedmont Planning District and Carroll County, and the House Appropriations Committee approved a budget bill that would authorize the governor to create a health care program for NAFTA-displaced workers who lived below 185% of the poverty level.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -28,4 +28,4 @@ Renovation work was being done on the courthouse grounds. Henderson Inc., a gene
 
 Kim Adkins, the executive director of the Martinsville-Henry County Chamber of Commerce, was recommending that the area join in on regional tourism marketing efforts. Statistics showed that the city received $300,000 in tax revenue each year thanks to tourism, and the county received about $680,000.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

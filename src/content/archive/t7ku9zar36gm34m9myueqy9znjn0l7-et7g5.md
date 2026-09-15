@@ -34,4 +34,4 @@ Collinsville Postmaster D.S. Smith and postal worker Mrs. Margaret Norman checke
 
 The Martinsville Branch Library installed a handicapped access parking lot between the side of its building and neighboring Lee’s Tire and Wheel. Ellen Bell was the library director.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

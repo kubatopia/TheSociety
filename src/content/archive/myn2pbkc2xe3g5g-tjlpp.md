@@ -26,4 +26,4 @@ The new Family YMCA on Cleveland Avenue (now part of Martinsville Middle School)
 
 A new furniture company opened its sales floor for business at the International Home Furnishings Market in High Point, N.C., and would open a location in Henry County soon after. It was Shenandoah Clocks and Curios. The company president was Richard Yang; the director of operations was Will Gravely; and the director of sales and marketing was Sonny Cassaday.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

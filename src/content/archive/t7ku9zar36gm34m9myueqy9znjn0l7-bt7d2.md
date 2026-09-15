@@ -30,4 +30,4 @@ One or two $50 deposits to a new or existing savings account at Piedmont Bank go
 
 Henry County Schools students and staff raised more than $4,000 for relief for victims of Hurricane Floyd flooding.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

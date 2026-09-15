@@ -40,4 +40,4 @@ Some Martinsville City Council members were considering imposing a city-wide cur
 
 The Henry County Board of Supervisors passed an ordinance prohibiting mobile homes made before 1976 from being moved into the county.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

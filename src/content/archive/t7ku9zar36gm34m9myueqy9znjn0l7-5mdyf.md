@@ -32,4 +32,4 @@ The Martinsville Drive-In in Rich Acres, which had been the subject of complaint
 
 Virginia State Police high command came to the area to warn local law enforcement officers that they should not be doing any political campaigning. That came about after a trooper gave candidate Barry Stowe and his wife a ride to the Martinsville Speedway the previous week.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

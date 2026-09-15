@@ -28,4 +28,4 @@ The Town and Country Garden Club of Bassett was in its 50th year. It began with 
 
 
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -40,4 +40,4 @@ The State Corporation commission dropped a quality-of-service case against the V
 
 Residents of Axton were expression impatience in their wait and desire to get public water service, but meanwhile, the proposed project was having trouble moving ahead because only about a quarter of the property owners there had granted the easements that Public Service Authority needed to provide that service. Two hundred easements were needed, but only 51 had been granted. Meanwhile, between 150 and 200 houses in Rangeley would be connected to sewage lines thanks to a $1 million grant awarded by the Virginia Department of Environmental Quality to the PSA.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

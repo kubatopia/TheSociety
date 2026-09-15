@@ -26,4 +26,4 @@ The cartoon giraffe that was Martinsville’s new mascot was given a name: “Hi
 
 Virginia Hall Stanley died. She was the first woman to serves as the chairman of the Martinsville Democratic Party, a role she held for 25 years. She was the first woman president of the Retail Merchants Association. She was an active member of the Martinsville Planning Commission; she worked in the display advertising department of the Martinsville Bulletin for 26 years; and she wrote the column “Around Town with Virginia. She also worked with the Salvation Army, the Cancer Crusade, the business women’s association, the local hospital auxiliary and the Cerebral Palsy fund drive. She organized the Martinsville Christmas Parade for several years. She also served on boards outside the community. She was a graduate of the John Powers School of Modeling, and she had taught modeling. ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

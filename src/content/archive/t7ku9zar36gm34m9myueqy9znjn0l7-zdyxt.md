@@ -37,4 +37,4 @@ Martinsville Bulletin: “Several hundred magazines, sexual devices and what pol
 
 The Virginia Museum of Natural History held an Arbor Day celebration. One of the presenters was Steve Sims, who showed primitive living skills including how to build a fire without matches.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

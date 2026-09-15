@@ -38,4 +38,4 @@ It was announced that a start-up lumber company, Ed Brammer’s Old Dominion, wo
 
 Also 1999, Save-A-Lot opened in Collinsville Shopping Center on Virginia Avenue. ([It closed in March 2020.](https://martinsvillebulletin.com/news/local/franchiser-closing-save-a-lot-grocery-in-collinsvile/article_f2e01fba-963f-5232-8ba5-e6e85be21191.html))
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin *](https://martinsvillebulletin.com/)*accessed on microfiche at the *[*Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin *](https://martinsvillebulletin.com/)*accessed on microfiche at the *[*Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -30,4 +30,4 @@ A public meeting about applying for Community Development Block Grants was held 
 
 A 12-year-old driving a family member’s car led police in a chase in the neighborhood around Paul Street. The child was charged with disregarding a signal by law enforcement, driving on the sidewalk, reckless driving and driving without a license. Paul Street resident Elaine Clark told the Martinsville Bulletin, “When I heard the sirens last night, I thought ‘what in the world?’ I thought someone had done committed murder. … You could see blue lights flashing everywhere. I told my husband, ‘Lord, come and look. I ain’t never seen so many blue lights.’”
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -36,4 +36,4 @@ The playground equipment at Carlisle School was dedicated to the late Archie Vip
 
 John Floyd, the director of the Henry County Parks & Recreation Department since 1982, was named its special projects manager, a newly created position, at the start of an initiative to revamp that organization, including with dozens of beautification and enhancement projects. He attributed that to the improved economy.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

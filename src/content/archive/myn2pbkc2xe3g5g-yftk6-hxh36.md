@@ -32,4 +32,4 @@ Judy and Jimmie Dalton opened Jimmie’s Discount at 6311 Virginia Ave. in Basse
 
 Virginia’s Center for Innovative Technology gave $25,000 to the Southern Piedmont Technology Council. Five thousand of that would be used in Martinsville to help local companies learn how to use the internet to help their businesses. Michael Scaffidi was the telecommunications and traffic coordinator for Martinsville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

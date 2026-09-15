@@ -28,4 +28,4 @@ County Central Accountant Lawrence M. Martin was fired by the Henry County Board
 
 The Henry County Industrial Authority approved issuing $3 million in bonds to help finance Arrington Manufacturing’s new plant in the Patriot Centre. The 50,000-square-foot building, run by Joey Arrington, would be used to build Dodge racing engines for the motorsports industry.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

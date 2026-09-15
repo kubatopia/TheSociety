@@ -30,4 +30,4 @@ The Fieldale Mill closed for the week, affecting 1,000 employees at the towel mi
 
 A free community Thanksgiving meal was served at The Gallery on Memorial Boulevard. Owner Richard Sarver donated the use of the facility for the event. Frank and Jeannie Draper organized the cooks. They cooked 50 pounds of turkey and other fixings the night before Thanksgiving. The Sportsman’s Club held a dinner at the club building on Fayette Street; Melvin Carter was the club president. Club members cooked 12 turkeys, 10 hams, dressing, yams, green beans, potato salad, dinner rolls, sweet potatoes and cakes. It was the club’s sixth year of serving that dinner. At Fontaine Baptist Church, Sheilla Coplin organized a dinner. Santa Fe Southwest Grill on Virginia Avenue in Collinsville offered a free traditional American Thanksgiving meal to Hispanic residents.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

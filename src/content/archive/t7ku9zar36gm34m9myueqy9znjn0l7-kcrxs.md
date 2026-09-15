@@ -32,4 +32,4 @@ Larry Jefferson, 24, died in a crash at the Blue Ridge Airport when the 1974 Ces
 
 Flamboyant boxing promotor Don King was in town to testify on behalf of heavyweight boxer Oliver McCall. McCall was in jail on charges of resisting arrest and assault and battery of a law enforcement officer. King’s testimony lasted 40 minutes, urging McCall’s release so that he could resume training. The judge agreed to release him on May 1 on condition he remain in a drug rehabilitation program. King said that he would provide help for McCall in a training camp in Ohio.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

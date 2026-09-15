@@ -26,4 +26,4 @@ The members of New Light Holiness Church in Bassett honored their pastor, Mrs. R
 
 Some local furniture store must have been going out of business around this time, because a few days before Jesse & Shumate’s ad touched on the theme, and now Collinsville Furniture Mart’s ad did: “Shop – Then Compare! Compare our prices with a going out of business sale. Them – Delivery – No; Us – Deliver – Yes; Them – Help Load – No; Us – Help Load – Yes” etc.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

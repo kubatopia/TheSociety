@@ -26,4 +26,4 @@ For the first time ever, City utility bills were on computerized tickets. It was
 
 Seventeen Albert Harris Intermediate School students were injured slightly when a station wagon pulled in front of the bus, which was driven by Robert Lamont Brown, near the Corner Market in Brosville. The students had been on their was back from a field trip to the Danville Science Center. Four of the injured students were taken to Memorial Hospital by the Axton Life Saving Crew, and 14 others were taking to Danville Regional Medical Center by other rescue squads.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

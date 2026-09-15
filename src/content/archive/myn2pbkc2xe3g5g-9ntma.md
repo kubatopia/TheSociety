@@ -30,4 +30,4 @@ Nylstar, a European fiber manufacturer for textiles, announced plans to open a p
 
 Also, Rock-Tenn Co. Alliance Group announced that it would begin operating at the DDI plant at 500 Frith Road, making corrugated cardboard. Their announcement surprised even city officials: They announced it at a job fair, where they took in 100 applications.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -40,4 +40,4 @@ The area’s annual community Christmas dinner, Richard’s Dinner, serves about
 
 Popular Christmas decorations this year remain Modern Farmhouse style - neutrals (grey and “greige,” buffalo check, old pickup trucks with Christmas trees in the back, wooden beads, nutcrackers.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com)* accessed on microfiche at the Martinsville Branch Library.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com)* accessed on microfiche at the Martinsville Branch Library.*

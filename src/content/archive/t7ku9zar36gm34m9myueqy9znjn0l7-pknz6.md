@@ -1,11 +1,11 @@
 ---
-title: "Feb. 3 1925 - 1950 - 1975 - 2000"
+title: "Feb. 3 1925-1950-1975-2000"
 date: 2025-02-03
 type: Looking Back
 author: "Holly Kozelsky"
 summary: "100 Years ago – 1925 B.W. Boulware, staying at the Henry Hotel, advertised “Chestnut Poles Wanted for Sanders Hydro-Electric Plant, Eggleston Falls. 30 feet long, 7-inch tip, and…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-pknz6.webp
-imageAlt: "Feb. 3 1925 - 1950 - 1975 - 2000"
+imageAlt: "Feb. 3 1925-1950-1975-2000"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-pknz6
 draft: false
 ---
@@ -34,4 +34,4 @@ Virginia Poytechnic Institute and State University (which we now call Virginia T
 
 Metal detectors were used for the first time in a local high school basketball game, at Martinsville High School in the game against Laurel Park Middle School.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

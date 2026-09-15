@@ -28,4 +28,4 @@ Mrs. Joan Van Vleck of Bassett was one of 28 people across Virgina named to the 
 
 The Martinsville-Henry County Historical Society, of which Carl deHart was president, were looking into ways to make the former Henry County courthouse into a museum. They would hold a public meeting in 3 days’ time to gather ideas on how to save and use the courthouse. The historical society had been storing some historical photos and relics in the old courthouse, but members thought that they possibly could have a museum open in there by October 2000. The estimated cost for restoring the old courthouse was between $1.5 million and $2 million.  ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -176,4 +176,4 @@ The City of Martinsville had been considering getting its water from Philpott La
 
 Almost 400 people attended the March of Dimes ball at Club Martinque, to raise money for the National Foundation for Infantile Paralysis (polio). The weeklong campaign raised $8,382.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

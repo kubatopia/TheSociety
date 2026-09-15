@@ -26,4 +26,4 @@ The keynote speaker at the 28th annual Memorial Day service at Roselawn Burial P
 
 Calvary Christian Church on Mulberry Road was getting a new roof and a steeple. Stanley W Bowles Corp. was the contractor doing the work.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

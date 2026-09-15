@@ -166,4 +166,4 @@ Investors Corp. announced that it was buying the former Pulaski Furniture Corp. 
 
 Cinergy Capital & Trading Inc. announced that it wanted to build a $150 million power plant on Commerce Court on the north side of Martinsville (between the mall and Stultz Road). It would be a 330 megawatt natural gas-fired plant. It would be the largest business investment in Martinsville’s history and would generate an annual tax revenue of $1.4 million for the city. (The plant never ended up being built.)
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

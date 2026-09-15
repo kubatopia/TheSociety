@@ -30,4 +30,4 @@ Patrick Henry Community College was advertising three new classes: “Knitting f
 
 People brought donations to help flood victims in North and South Carolina to a tractor-trailer in the parking lot of First Baptist Church at the corner of Starling Avenue and Mulberry Road. The pastor was the Rev. Thomas McCann, and David Doss was the local truck driver.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

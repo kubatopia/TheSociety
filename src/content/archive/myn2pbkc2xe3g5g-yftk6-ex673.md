@@ -28,4 +28,4 @@ Scupltor Allen Weidhass of Stuart was commissioned by the board of directors of 
 
 London Police Officer Amit Sarkar spent three days on Martinsville patrol with local Officer Brian K. Davis. The friends had met four years earlier through an ad which Sarkar had placed in a police magazine, looking to trade police insignia patches. Each of the men had a collection of hundreds.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

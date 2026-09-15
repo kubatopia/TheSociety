@@ -32,4 +32,4 @@ Four black citizens were injured by people wielding chains, blackjacks and stick
 
 At Piedmont Dodge on Commonwealth Boulevard: 1972 Pinto, $1,995; 1968 Pontiac 4-door sedan, $895; 1969 Chevy pickup, $1,295; 1962 Cadillac 4-door, $395; new 2-door Dodge Dart “Swinger Special” with power steering, AM radio, 3-speed wipers, remote control mirror, deluxe wheel covers, whitewashed tires, front & rear bumper guards, vinyl side mouldings, torque flite transmission, 225 C.I.D. 6-cylindar engine, $3,285
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

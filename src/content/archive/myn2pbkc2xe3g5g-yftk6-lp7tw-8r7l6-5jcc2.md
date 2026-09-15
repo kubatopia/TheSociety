@@ -30,4 +30,4 @@ Mr. and Mrs. E.M. Clark of Critz were looking for the owner of a goat which had 
 
 General Surgeon Dr. Tom Berry moved his office to 15 Cleveland Ave., Suite 10. Before that, he was at Commonwealth Surgical Associates.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

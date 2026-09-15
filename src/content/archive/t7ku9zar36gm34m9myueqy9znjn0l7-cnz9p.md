@@ -30,4 +30,4 @@ A new Henry County program was “Recreation on Wheels:” a van with three work
 
 It was a really hot summer. Southern Area Agency on Aging, CONTACT and HomeCare of Memorial Hospital were providing fans and air conditioning to the elderly. One group of people who had no such luck was inmates and workers at the old part of the city jail, which did not have air conditioning. The inside of the jail would be about 100 degrees hotter than outside. In the summer before, the thermometer had reached 100 degrees, but in the summer of 1999 they didn’t bother posting the temperature.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

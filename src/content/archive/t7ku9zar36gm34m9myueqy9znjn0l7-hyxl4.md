@@ -38,4 +38,4 @@ It was Mayor Francis T. West’s final City Council meeting, and also the last o
 
 Three men from Bronx N.Y., thought to have been originally from Yugoslavia, were arrested by the FBI for breaking and entering and other problems at the Express Mart and Taco Bell on U.S. 58 East.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

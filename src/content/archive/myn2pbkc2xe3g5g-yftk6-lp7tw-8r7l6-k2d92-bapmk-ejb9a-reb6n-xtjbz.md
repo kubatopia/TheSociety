@@ -188,4 +188,4 @@ Former Henry County Central Accountant Lawrence M. Martin was hired by the Henry
 
 R.J. Reynolds Patrick County Memorial Hospital would lose its obstetrics and ambulance services as part of a court-ordered reorganization. The ambulance service would shut down within 60 days, and people would have to get ambulances through fire departments equipped with EMS and also through Stone Ambulance Service in Martinsville.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

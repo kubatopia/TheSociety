@@ -30,4 +30,4 @@ Frank’s Food Fair offered sirloin steak for 89 cents a pound, corn 3 ears for 
 
 About 1,000 people were expected to participate in a protest march around the Henry County Courthouse over the proposed subdivision ordinance, but the crowd estimate came to between 400 and 500. Gerda Law and Joseph C. Hankins led the marchers around the courthouse and through City streets. The Henry County Board of Supervisors were meeting at the courthouse that day, but the ordinance was not on the agenda.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

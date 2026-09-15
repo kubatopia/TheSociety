@@ -26,4 +26,4 @@ The Martinsville-Henry County Public Library’s name was changed to Blue Ridge 
 
 Martinsville City Council approved a special use permit for a florist and gift shop to open at 301 Starling Ave. Connie and Elliot Stone owned the property and requested the permit to rent the building to a florist. Elliott Stone’s company, Business Development Resources, had kept its office in the building since 1995, but recently had moved the office into his house. The law firm of Giles and Lambert PC also used the building, but with a separate entrance. Lisa Hurrell planned to open Artistic Florist and Gifts Inc., offering 24-hour service, and also sell art on display there. Six women with professional florist experience planned to operate the business, which would open on July 24.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

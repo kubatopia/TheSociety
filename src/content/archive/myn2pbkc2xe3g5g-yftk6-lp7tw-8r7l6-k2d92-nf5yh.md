@@ -26,4 +26,4 @@ Lake Sugar Tree Motocross Track in Axton finished its first season. It named two
 
 Shumate & Jessie Furniture ad: “Attention! We Want To Be Your Furniture Store! If You Are Currently Dealing With A Store That’s Going Out of Business, WE WANT TO MEET YOU!” The ad advertised console TVs, ranges, chest freezers (“In Time For Deer Season!”} and a closeout sale on all remaining dishwashers (“Think Christmas! Let Us Help With The Clean-Up!”). The ad pointed out that it was a family-owned business started in 1958. You could also go there to pay your power bill. The store was at 30 Franklin St., now home to NCI.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ The Drunken Springs community was just a few miles east of Martinsville. The are
 
 The Patrick County Industrial Development Authority (IDA) would help the Patrick Community Hospital get out of bankruptcy, but only under one condition – that the hospital’s board of directors resign. If they would, then the County would provide the IDA with $1.75 million to negotiate with BB&T to pay off the hospital’s loan to the bank. Seven of the 10 directors said right off that they’d resign in order to get that deal for the hospital.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -28,4 +28,4 @@ The Martinsville-Henry County Oilers won the first round of the Connie Mack Worl
 
 Martinsville Circuit Court Clerk’s office records were among the first such records in the state to be available online. Installing the system cost $130,000, which came from a grant by the state Technology Trust Fund. It would cost $5,800 a year to maintain, significantly cheaper than the $15,000 per year it cost to put records on microfilm.  The website was [www.ci.martinsville.va.us/crms/](http://www.ci.martinsville.va.us/crms/). Ashby Pritchett was the circuit court clerk. [That site no longer is active, probably because such records now are available on a state-maintained website.]
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -34,4 +34,4 @@ City Planning, Zoning and Housing Manager Wayne Knox told members of the Martins
 
 Glenda Hall won the Woman of the Year Award by the Martinsville Business and Professional Women’s Club. She was very active in BPW, the Exchange Club, MHC Junior Miss Committee, on the board of directors of FOCUS, ACTEENs, Henry County Baptist Association and more, plus she had a daycare in her home.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

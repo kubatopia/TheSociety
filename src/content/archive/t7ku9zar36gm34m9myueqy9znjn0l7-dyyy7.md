@@ -28,4 +28,4 @@ Smith Mountain Gap in Pittsylvania and Bedford Counties was the scene of major u
 
 Want Ads: Part-time Barmaid – Experience preferred but not necessary. No phone calls. Apply in person to Al Groden, Dutch Inn. / Quarry Personnel of all types, time and half over 40 hours, now working 52 hours. Paid vacation plus other benefits. Apply Martinsville Stone Quarry, State Road 684, Fieldale. / Wanted immediately, ladies for direct selling of Sarah Coventry jewelry. Supplies and kit free. Win prizes and awards. No delivery. Call for more information.  ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

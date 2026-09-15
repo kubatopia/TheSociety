@@ -26,4 +26,4 @@ The Martinsville-Henry County Voters League Chairman Joseph W. Pritchett had sai
 
 Helen Richman, the daughter of Dr. Donald and Barbara Richman of Martinsville, was back in town to perform in music concerts. She and Jenny Mitchell, a pianist and native of Ottawa, Canada, played music together as the duo Essence. Both met while students at McGill University. They performed traditional piano and flute repertoire. The Richmans lived on Knollwood Drive in a large brick house with breathtakingly beautiful terraced gardens in their side and back yards.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

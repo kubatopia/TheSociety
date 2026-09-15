@@ -30,4 +30,4 @@ Paul Stolbun, 80, of 505 E. Church St., testified in the case in the death of hi
 
 Former Albert Harris High School student athletes funded a scholarship in honor of Clyde L. Williams. Williams, 85, was a teacher and administrator for 32 years, had been a City Council member for 12 years and was the vice mayor for 4 years.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

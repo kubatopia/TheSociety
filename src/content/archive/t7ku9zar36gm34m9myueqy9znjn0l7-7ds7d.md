@@ -38,4 +38,4 @@ Martinsville Bulletin - Lodge Notices: ATTENTION SIR KNIGHTS: A slated conclave 
 
 Stanley Furniture Co. Inc. announced that it would spend $15 million on a new home office furniture-producing plant, creating about 300 jobs. The 300,000-square-foot building was in the Bowles Industrial Park. Albert L. Prillaman was the chairman, president and chief executive officer of Stanley. On the same day, American of Martinsville made a formal announcement that it would have a $5.2 million expansion in Henry County, saving 200 jobs and creating another 200 jobs. Mike Haley was the president and chief executive officer of American.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

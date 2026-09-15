@@ -36,4 +36,4 @@ Miss Martinsville-Henry County Patice Holland was in Roanoke competing in the Mi
 
 Henry County Supervisors R.E. “Mike” Seidle and Paula Burnette were named to the committee that would look at historic significance of properties affected by the potential I-73 (which ended up never getting off the ground).
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

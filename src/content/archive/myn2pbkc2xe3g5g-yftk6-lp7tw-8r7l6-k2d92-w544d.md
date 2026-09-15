@@ -22,4 +22,4 @@ Three-year-old Jesse Carter of City Route 3 was diagnosed with polio and was bei
 
 Whether or not Al Gore or George Bush became the 43rd president was up to Florida election officials who were still working their way for results. Locally, Don Lawson was the president of the Henry County Republican Committee, and he advocated for officials taking their time to get the results right. Phil Burnette, the president of the Henry County Democratic Party, said the same.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

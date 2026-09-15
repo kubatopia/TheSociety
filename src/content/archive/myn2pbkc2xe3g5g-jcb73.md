@@ -28,4 +28,4 @@ Carver High School Band Boosters, with the cooperation of Martinsville Speedway 
 
 H.L. Altice caught a 48-pound, 10-ounce striped bass in Smith Mountain Lake. He estimated that the fish was 14 years old and thought it to be the second largest ever caught in Virginia. His catch was within two weeks of seeing his buddies catch large bass – Jerry Oakes, 29 pounds, and Gary Kendrick, 18 ½ pounds, both caught also at Smith Mountain Lake. Jerry and Gary lived in Mountain Valley.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ American Furniture Co laid off between 200 and 250 employees, about 10% of the c
 
 The case against Richard Anthony, owner of Sanville Utilities, was sent to federal court by Henry County’s chief prosecutor. Anthony, 69, of 921 Mulberry Road, was charged with failure to properly maintain a sewage treatment plant after fecal coliform levels from the Sanville Utilities plant were measured at 180 times more than the maximum allowable levels, Virginia Department of Environmental Quality reports stated.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

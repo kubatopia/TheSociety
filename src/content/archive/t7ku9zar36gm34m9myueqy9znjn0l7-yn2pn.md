@@ -32,4 +32,4 @@ More Fieldale nicknames, from the Stroller column of the Bulletin, shared by Rob
 
 Day Star Ministries, up on a hill on U.S. 220 in Bassett Forks, raised $45,000 in 3 years by recycling aluminum to build a bridge needed to access the church. The Rev. Sammy Caldwell was the pastor. The church used to be Collinsville Church of God of Prophecy in a building it owned in Collinsville, and then the congregation rented a building on U.S. 220 while the new sanctuary and fellowship hall were being built.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

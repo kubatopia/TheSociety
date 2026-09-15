@@ -38,4 +38,4 @@ Jennifer Bell and Todd Jenkins did something unusual at their wedding, which was
 
 Mark Cooper of Collinsville won a bronze spittoon and over $5,000 fishing at Buggs Island. He weighed in 20 pounds, 6 ounces of bass at the Piedmont Division Redman Tournament.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

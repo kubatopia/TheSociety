@@ -28,4 +28,4 @@ The Collinsville Alcohol Treatment Center was operated by the Patrick Henry Drug
 
 Jacques Jewelers in Liberty Fair mall had for sale: a channel-set sapphire and diamond heart pendant for $159; a 1-carat total weight diamond-in-line bracelet for $399; a 14-karat charm bracelet for $239; a diamond cluster ring of .33 ct. t.w. for $499; a garnet and diamond ring for $139; and a blue sapphire and trilliant diamond ring for $100.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

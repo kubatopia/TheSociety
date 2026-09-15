@@ -28,4 +28,4 @@ Martinsville Fire Chief J. Lloyd Gregory and his firemen conducted the Martinsvi
 
 The Virginia General Assembly issued a resolution recognizing the work of long time area attorney and former House of Delegates member William Carter. Sen. Roscoe Reynolds, E-Ridgeway, presented the resolution to widow Ella Stringey Carter.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

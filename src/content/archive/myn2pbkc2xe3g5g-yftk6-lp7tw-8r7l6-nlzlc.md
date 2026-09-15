@@ -30,4 +30,4 @@ Congress sent to President Ford a bill that would raise price supports for flue-
 
 State Sen. Roscoe Reynolds spoke to Martinsville High School students in Denise Morrison’s advanced placement government class. His visit coincided with the first nationwide America’s Legislators Back to School Day, sponsored by the National Conference of State Legislatures. He also spoke to students at Magna Vista High School.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

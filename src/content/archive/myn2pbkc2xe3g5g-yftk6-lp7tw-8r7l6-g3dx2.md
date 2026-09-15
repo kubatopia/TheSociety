@@ -30,4 +30,4 @@ The members of Altrusa International of MHC made plans to raise as much as $60,0
 
 Patrick & Henry Community College received $857,142 from the Virginia Tobacco Indemnification and Community Revitalization Commission, part of $6 million of tobacco settlement money that went to seven of Virginia’s community colleges. PHCC proposed to use the money to help the 307 local tobacco producers and their families by advancing information technology, use seed money for regional programs in motorsports and furniture, and to use the money to support economic development. The president of PHCC was Max Wingett.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

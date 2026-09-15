@@ -32,4 +32,4 @@ At the Thomas Systems recycling company, all the ornaments on their Christmas tr
 
 For the fifth straight year, Steven Goff, 47, decorated his property at 4666 The Great Road for Christmas, and Santa Claus would sit outside and visit with passersby. Other people with well decorated yards included John Brooks of Second Street, Lorene Hartis of Whitby Acres with her gazebo done up in gingerbread style, and Frances and Ervin Hairston of Fifth Street.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -34,4 +34,4 @@ The City of Martinsville began a campaign to promote its water to 400 area compa
 
 The Henry County Public Service Authority voted to enact a 90-day moratorium on penalties and interest on the water and sewer service bills for displaced textile employees. A similar policy also was enacted on property tax bills.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

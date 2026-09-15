@@ -28,4 +28,4 @@ Ron Shealer’s technology class at Bassett Middle School had a pumpkin-dropping
 
 Fifth District U.S. Rep. Virgil Goode of Rocky Mount announced that President Bill Clinton had signed a bill that included $750,000 for a regional “Martinsville-Henry County Industrial Park” and $2 million for water and sewer infrastructure for that park.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

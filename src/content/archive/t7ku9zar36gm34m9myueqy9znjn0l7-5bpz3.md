@@ -30,4 +30,4 @@ Woolwine native J.W. Hubbard was a nationally famous oil painter whose paintings
 
 The Roanoke office of the Department of Environmental Quality was investigating alleged public health violations by Sanville Utilities. Numerous complaints have been made about untreated sewage being dumped into Blackberry Creek and other problems.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

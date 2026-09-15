@@ -30,4 +30,4 @@ The 141 residents of Martinsville Convalescent Home were treated to visits, gift
 
 Patrick County launched its Enhanced 911 system, with Mildred “Mickie” Martin as its coordinator and chief of communications. The system provided an automatic number identification and automatic location identification of a 911 caller, and it had a telecommunication device for the deaf.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

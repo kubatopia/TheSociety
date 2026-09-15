@@ -28,4 +28,4 @@ Martinsville had the highest unemployment rate in Virginia, at 16.3%, and Henry 
 
 The ribbon-cutting was held for the new Carilion Health System clinic on Brookdale Street. Tammy Hagar was the Carilion regional practice manager and Peny Turner was the site manager. Doctors were Matthew Arroyo, Merris Stambaugh, W.D. Prince, Will Zimmer, Sinclair Harcus and W. Benton Lewis.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -26,4 +26,4 @@ Paul Tommie Overby, a former Patrick County deputy, was convicted of petty larce
 
 Mr. Mac – Robert F. McMillan  - retired after 35 years as a band director in Martinsville. He had taught more than 26,000 students.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

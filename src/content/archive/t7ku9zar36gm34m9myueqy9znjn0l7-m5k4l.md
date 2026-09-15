@@ -32,4 +32,4 @@ A proposed Rail Trail path (now the Dick & Willie Trail) would link the proposed
 
 Charles W. Davies Jr., who had been an executive at Tultex, was the leading candidate to become the executive director of the A.L. Philpott Manufacturing Extension Partnership.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

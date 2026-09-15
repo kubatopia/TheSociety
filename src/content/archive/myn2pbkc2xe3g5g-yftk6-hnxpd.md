@@ -26,4 +26,4 @@ A merged MHC-Patrick County library was closer to being reality when the Martins
 
 Crestar Bank merged into SunTrust. The Crestar/SunTrust building in uptown Martinsville now is the home of Harvest Foundation.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ Stee-Fers Flower Shop and Wedding Chapel opened at 21845 Jeb Stuart Highway in S
 
 Marie Lackey received the Commander’s Award for Public Service from the U.S. Army for her work in organizing the annual Memorial Day Service at Roselawn Burial Park for more than 20 year.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ Sixteen severely handicapped Henry County students aged 5 to 17 attended a new s
 
 Race Weekend had begun, with 1,800 workers at the Martinsville Speedway.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

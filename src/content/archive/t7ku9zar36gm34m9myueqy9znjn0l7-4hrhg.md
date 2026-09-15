@@ -34,4 +34,4 @@ A trade school was beginning operation at Patrick Henry Correctional Field Unit 
 
 Hooker Furniture Corp., Stanley Furniture Co. and Henry County together hosted Celebration 75 at the Martinsville Speedway. The two companies did it as part of the celebration of their 75th anniversaries. The County had hosted a fireworks celebration in past years, but with the involvement of the two companies, the event was four to five times bigger than it had been. Music was performed by B’Natural Band, Cimarron and Confederate Railroad. Games included Giant Moonwalk, Velcro Wall and Bungee Run. Everything was free to the public. All sorts of food was offered for sale. Twenty-eight thousand people attended.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

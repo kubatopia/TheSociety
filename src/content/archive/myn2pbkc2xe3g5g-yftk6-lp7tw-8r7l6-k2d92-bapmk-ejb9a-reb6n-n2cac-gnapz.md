@@ -28,4 +28,4 @@ The MS Walk committee members were Kristi Banks, Tammy Darnell, Judy Cloud, Lou 
 
 The Fast Track 2001 Trade Show began, held at Martin Plaza in uptown Martinsville. It had displays by 132 area businesses, 10 more than the year before, but 18 shy of the high of about 150 several years back when it was held at Patrick Henry Mall. An estimated 7,000 people attended, about 2,000 more than the year before. Steve Shepherd was the president of the Chamber, and Kim Adkins was the executive vice president.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

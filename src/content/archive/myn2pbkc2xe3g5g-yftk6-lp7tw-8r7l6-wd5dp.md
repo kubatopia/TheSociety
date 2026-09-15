@@ -26,4 +26,4 @@ Two centers for depositing aluminum cans for recycling were set up by the Reynol
 
 Sara Lee Activewear signs an “agreement of interest” to buy Tultex Corp.’s Customer Service Center and was expected to sign a contract for the sale of its complex at Franklin Street and Commonwealth Boulevard. The Customer Service Center was in the Patriot Centre Industrial Park.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

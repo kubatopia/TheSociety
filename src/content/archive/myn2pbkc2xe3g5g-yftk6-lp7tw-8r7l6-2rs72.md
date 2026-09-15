@@ -26,4 +26,4 @@ Mayor Harry Boaz had declared National Business Woman’s Week in Martinsville. 
 
 The State Corporation Commission proposed cutting Virginia’s area code of 540 into three sections. Southwest Virginia, including Martinsville and the Roanoke Valley, would get a new area code. It was expected that the 540 area code would run out of phone numbers by October 2002.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

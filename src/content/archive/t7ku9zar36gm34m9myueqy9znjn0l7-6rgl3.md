@@ -34,4 +34,4 @@ Both voluntary and mandatory water restrictions for residents served by the Marr
 
 Tultex Corp., under new CEO Randy Rollins, held a pep rally as Rollins outlined how “Team Tultex” would succeed. Employees chanted “Let’s get it done.” The plan included: sell, ship and deliver $243 million in products; cut inventories by $75 million to $147 million; improve products, delivery and decorative logos or graphics or however the customer wants his order; operate united as one company, not as five.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -32,4 +32,4 @@ Two 17-year-olds were ordered in court to pay a total of $20,180.66 for damage t
 
 Equipment including sewing machines, yarn and office furniture that had belonged to Ashmore Sportswear Inc.’s apparel factory in Collinsville was sold at auction.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -28,4 +28,4 @@ Janlen’s Steakhouse and Parlour in the Laurel Park Plaza sold strawberry pie a
 
 Thousands of people attended the Hot Fun in the Summertime XIX beach music festival in Patrick County.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

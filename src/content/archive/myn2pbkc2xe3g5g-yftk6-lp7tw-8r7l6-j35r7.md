@@ -30,4 +30,4 @@ Crystal Gravely had just begun a job as the public relations representative of M
 
 The local chapter of Habitat for Humanity was building its 16th house, this one on Stoney Mountain Road. Thomas Biggs was one of the volunteers working on it. The house was for a family with eight children. Bill Adkins was the chapter president.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

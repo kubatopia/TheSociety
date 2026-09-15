@@ -36,4 +36,4 @@ The Martinville-Henry County Chamber of Commerce scrambled for ways to recruit n
 
 Martinsville High School social studies teacher Jason D. Turner was one of 10 teachers across Virginia to attend the two-week Teachers’ Study Seminar in Germany, to study material that would be covered on Virginia’s new Standards of Learning (SOL’s).
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -26,4 +26,4 @@ Globman’s had a bathrobe trade-in: Bring in our old bathrobe, regardless of co
 
 Natalie Ann Beard, 18, of 1507 Meadowview Lane, and Shannan Faye Bridges, 21, of Martinsville, died in a wreck on U.S. 58.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ Construction had begun on a new $850,000 plant for Jessup Furniture Corp., on 39
 
 Teachers from Japan spent an afternoon at Bassett High School giving the BHS teachers classes on Japanese culture and education techniques. The Japanese teachers were on a 3-month visit to the US and spent five weeks in Henry County living with host families.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

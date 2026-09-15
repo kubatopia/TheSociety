@@ -26,4 +26,4 @@ Computers were starting to be used in local businesses and industries. JCPenney 
 
 Bassett Furniture Co. Inc. announced that it was cutting 50 jobs in administration and management but had no plans to close.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

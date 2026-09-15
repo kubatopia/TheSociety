@@ -144,4 +144,4 @@ Gary Bailey’s Cycle Barn opened  just inside the entrance to Lake Sugartree M
 
 Plans for the former site of R.P. Thomas Trucking Terminal on Fayette Street were revealed: If the City could get federal funding for most of the project’s estimated cost of $1.68 million, the site would be divided into 23 lots, with most of them reserved for sale to low- to moderate-income families. The City also would buy three vacant, dilapidated structures, to fix up one and to tear down and rebuild the other two.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

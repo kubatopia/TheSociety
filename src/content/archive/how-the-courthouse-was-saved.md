@@ -5,7 +5,7 @@ type: Article
 topics:
   - The courthouse
   - Downtown and Main Street
-summary: Built in 1824, expanded in 1929, retired from county use in 1996 — and the year it stopped being a courthouse is the year it started being a museum.
+summary: Built in 1824, expanded in 1929, retired from county use in 1996 - and the year it stopped being a courthouse is the year it started being a museum.
 featured: true
 draft: false
 ---
@@ -20,7 +20,7 @@ future. The Society took it on, and the courthouse became the MHC Heritage
 Center & Museum.
 
 The grounds are now a Garden Club of Virginia historic restoration site, and
-the courtroom upstairs is open to visitors — left much as it was when the
+the courtroom upstairs is open to visitors - left much as it was when the
 county moved out.
 
 *A short piece to start the archive off. The board can expand it with the

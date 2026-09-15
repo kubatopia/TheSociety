@@ -26,4 +26,4 @@ Virgil Goode Sr. died at age 74. He was the Franklin County commonwealth’s att
 
 It was Black Friday, and at Liberty Fair Mall, Belk and J.C. Penney Outlet reported their best sales days ever. Hugh Hagood was the manager of Belk, and Mike Self was the manager of the outlet.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

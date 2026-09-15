@@ -38,4 +38,4 @@ Coupons for Mason’s, U.S. 220 and State Road 667: Breck Shampoo, 15 oz., $1.19
 
 The 1999 Blue Ridge Business Expo in Patrick County was held Monday, March 22, and Tuesday, March 23, at Rotary Field in Stuart. Eighty businesses and industries participated -- more than 80% of Patrick County’s businesses and industries, Economic Development Coordinator Michael Burnette had estimated. About 700 people attended opening night. On the second day, about 1,300 people attended, including juniors and seniors from Patrick County High School.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

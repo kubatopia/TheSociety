@@ -32,4 +32,4 @@ Housing sales were in a slump. Mr. and Mrs. Hyman Sater put their house at 709 C
 
 Charlie “Junior” Lynch Jr., 23, was honored with the Bassett Volunteer Fire Department’s Fireman of the Year award – for the second time in his 3 years in the department. He accepted the award eith bandaged hands. His face, hands and legs were covered in third-degree burns he received during a Dec. 2 fire at the J.D. Bassett manufacturing plant. It happened while he was working there as a Bassett employee, doing regular maintenance with his father, Charlie Lynch Sr., and another man. The men spotted a fire on a roof and while Junior Lynch was preparing the fire house, sawdust nearby ignited. Lynch Senior was a member of the fire department and the chief of the J.D. Bassett Fire Brigade, where Lynch Junior was assistant chief.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

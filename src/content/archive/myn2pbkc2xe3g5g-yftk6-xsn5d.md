@@ -30,4 +30,4 @@ Henry and Patrick counties and the City of Martinsville formally agreed to merge
 
 The Dodson Five, the Bassett choir, Chatham Choir and Henry County 200 voice community choir (ages 6-15) held a fundraising gospel concert “Feed the Children” at the Bassett High School auditorium. The theme was “Children Helping Children.”
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

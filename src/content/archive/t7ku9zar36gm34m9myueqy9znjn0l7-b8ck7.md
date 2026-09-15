@@ -32,4 +32,4 @@ Eyvonne Hairston, 36, and her daughter, Melvina Lavonne Hairston, were shot dead
 
 Larry George of Pinnacle Drive in Villa Heights made a six-room haunted house in his yard which people were welcome to visit.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

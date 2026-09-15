@@ -32,4 +32,4 @@ A study was being conducted by a graduate student of Virginia Tech on the declin
 
 Stanley Furniture announced that it would hire between 200 and 250 new employees for its new plant in the Bowles Industrial Park. Most would be hired between Dec. 20 and Jan. 8. Pay would range from $7.50 to $10 an hour, based on experience. Bob Sitler was the vice president of human resources at Stanley.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

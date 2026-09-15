@@ -30,4 +30,4 @@ The Henry County Baptist Association, composed of 26 churches, including six in 
 
 Belk had a fall shoe sale with clogs and slides priced from $29.99 to $49.99. Calico & Madison Studio shoes (loafer style) cost $39.99. Pumps cost from $29.99 (for Lifestride) to $49.99 (Etienne Aigner).
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

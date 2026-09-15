@@ -36,4 +36,4 @@ The U.S. 220-58 Martinsville bypass was under construction at a cost of $30 mill
 
 It was Career Day at Figsboro Elementary School. Kindergartener Hunter Wells, son of William and Sandra Wells, dressed up as a veterinarian; Tiffany Smith, daughter of Dennis and Deborah Smith, was a hairdresser; and Benjamin Compson-Lawson, son of Mary Compson, was a chef. Speakers included R.E. Mike Seidle, Henry County supervisor; Donald “Jay Scott” Fields of WMVA; Charles Roark of Star News; and Patricia Kroger of Henry County Public Schools (talking about newspapers and public relations).
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

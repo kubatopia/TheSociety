@@ -38,4 +38,4 @@ Former Martinsville Commonwealth’s Attorney J. Randolph Smith Jr. was named ex
 
 Mehler Engineered Products of Germany, which was setting up operations in a $1.5 million shell building at the Patriot Centre Industrial Park, announced it would hire more than 100 workers within its first year. Initially, it had said it would need only 50 workers.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

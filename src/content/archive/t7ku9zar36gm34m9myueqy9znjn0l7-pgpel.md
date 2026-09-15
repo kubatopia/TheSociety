@@ -32,4 +32,4 @@ The U.S. 220-58 Martinsville bypass was expecting to cost between $40 and $45 mi
 
 It was the first day of the bank being BB&T – the former Piedmont Trust Bank and its parent company, 60 Main Street Financial, closed on the prior Friday and reopened Monday, July 19, as a branch of BB&T. About 60 employees made the transition.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

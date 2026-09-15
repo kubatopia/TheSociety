@@ -26,4 +26,4 @@ The draft board ordered 64 men from the City and 16 from Henry County to report 
 
 The Rev. Clyde Dupin was leading a week-long crusade in Martinsville. He called the area’s economic decline an opportunity for spiritual awakening. Seven hundred people attended his first service, which was held at Martinsville High School.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

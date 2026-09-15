@@ -29,4 +29,4 @@ The new computer for Henry County was in Roanoke being tested out before it woul
 **25 years ago - 1999**
 McCabe Memorial Baptist Church offered $10,000 to help people who had lost their jobs at Tultex. Half of that was for McCabe members, and the other half for the general public. “We are concerned about the people laid off from jobs here, and not just Tultex employees,” deacon I.D. Oakes of Martinsville told the Bulletin.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

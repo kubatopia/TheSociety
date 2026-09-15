@@ -32,4 +32,4 @@ The Martin Theatre on Starling Avenue was ending the run of A Dog of Flanders. J
 
 Ad: POSEY MIZE Motor Co., 1104 Memorial Blvd., Gives You A LOT OF DRIVE FOR A LITTLE DOLLAR! See the selection of economical, dependable, late-model used cars on the lot now.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

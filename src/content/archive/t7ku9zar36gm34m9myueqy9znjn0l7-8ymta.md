@@ -36,4 +36,4 @@ A log cabin at the end of Blankenship Road, which is off Chatham Heights Road, w
 
 Tultex’s new loan was approved by the bankruptcy court. It allowed Tultex to continue day-to-day operations but pay only post-bankruptcy obligations and a limited number of pre-petition debts (filed before Dec. 3 and approved by the court).
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

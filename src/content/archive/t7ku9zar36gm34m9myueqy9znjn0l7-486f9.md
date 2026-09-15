@@ -30,4 +30,4 @@ Figsboro Community Building hosted turkey shoots every other Friday night, start
 
 Hooker Furniture Outlet had a sale of $100 off all entertainment centers and 25% off occasional tables. The store was at 105 Church St. (Martin Plaza).
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

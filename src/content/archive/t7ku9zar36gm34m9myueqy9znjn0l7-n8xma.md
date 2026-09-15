@@ -34,4 +34,4 @@ The Henry County Board of Supervisors voted to establish and industrial developm
 
 A police officer from Germany, Udo Moeller, came to the United States to learn more about law enforcement here. Part of his orientation was to spend a couple of days with Henry County Sheriff Frank Cassell.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

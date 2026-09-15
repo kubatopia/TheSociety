@@ -28,4 +28,4 @@ Martinsville had the second highest unemployment rate in the state: 17.3%, down 
 
 USA Today featured Dr. Elizabeth Vaughan of Martinsville, describing her as rural medicine’s version of the character “Erin Brockovich.” The article, which was about whether or not sexy clothes have a place in the workplace, showed a picture of her wearing a shiny blue miniskirt, a gold top and gold backless heels.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -32,4 +32,4 @@ Martinsville led the state in unemployment at 19.6%, while the rest of the state
 
 
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

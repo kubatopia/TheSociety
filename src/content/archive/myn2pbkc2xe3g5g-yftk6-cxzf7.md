@@ -26,4 +26,4 @@ Memorial Hospital of Martinsville and Henry County Executive Director Clyde Brit
 
 Shirley Fink had created a tapestry symbolizing the effect AIDS had on people around the world. It hung on the wall in the West Piedmont AIDS Task Force office at Memorial Hospital. The tapestry was part of the AIDS education work she and her husband, James, were doing, carrying on the role of their son, Art Prillaman, who died of AIDS in 1997 at the age of 35. The couple began volunteering with the task force after he died, and they had taken the 40-hour Red Cross certification in HIV education, which allowed them to speak to groups about HIV and AIDS.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

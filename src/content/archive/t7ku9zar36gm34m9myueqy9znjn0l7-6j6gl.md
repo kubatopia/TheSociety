@@ -32,4 +32,4 @@ The Fairystone Squares square dance club met one night a week and had membership
 
 NEOCOM Microspeclialist In., back in the days when internet was new, was running this ad: “Imagine you could have a 100% digital, high speed data connection to your home, complete with full internet access, two voice lines featuring caller ID and call waiting, including all telco and ISP fees for under $59.95 a month.”
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -222,4 +222,4 @@ The Town of Stuart grew by 18.03 acres as about 16 to 18 houses in the Mountain 
 
 Brian M. Root was named news editor of the Martinsville Bulletin. His role was to oversee the daily news coverage of the Bulletin and work with reporters on story development. He came to the Bulletin from The Daily Progress, where he was the assistant city editor, in Charlottesville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

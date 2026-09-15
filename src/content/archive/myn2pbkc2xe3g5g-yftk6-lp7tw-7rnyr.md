@@ -32,4 +32,4 @@ Clearview Baptist Church set up the “Gail P. Fulcher Fund” to help with medi
 
 Martinsville-Henry County E-911 had a new $200,000 computer system which allowed dispatchers to send police, fire and rescue calls by simply touching a space on a computer screen. The department purchased six new computers and their 21-inch screens through Sprint. Wes Ashley was the director of the E-911 Communications Center, and J.R. Powell was the operations director at the center.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -28,4 +28,4 @@ Former Cable 6 talk show host Bob Sharp, 43, received a suspended prison term on
 
 It wasn’t much of a candidates forum: The audience only had four family members, Realtor Rod Berry and one reporter. The candidates were Vice Mayor Gene Teague, Ronald Stone, David Gilbert, Nancy Carter and Ronald Ferrill. Councilman Bruce Dallas did not attend. The forum was held at Albert Harris Intermediate School.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

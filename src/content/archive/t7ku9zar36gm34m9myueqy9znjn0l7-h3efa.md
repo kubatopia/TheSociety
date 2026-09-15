@@ -38,4 +38,4 @@ Kathy Hylton Anthony taught baton classes Thursday evenings at Bassett American 
 
 The probation office moved into a new building at the corner of Bridge and Market streets, after 26 years in Collinsville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

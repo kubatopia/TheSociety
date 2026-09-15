@@ -28,4 +28,4 @@ The Martinsville-Henry County Exchange Club sponsored its first fair, with a mid
 
 Tommy Grimes became the manager of the Blue Ridge Regional Airport in Spencer.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

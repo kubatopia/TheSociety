@@ -32,4 +32,4 @@ Circuit City sold the Nokia flip phone and a phone plan of 25 minutes per month,
 
 Lester Home Center sold key copies for 2 for $1; 10-10-10 fertilizer for $4.95; smoke detectors for $4.99; a Poulan 16-inch chain saw for $144.49 and a Poulan electric leaf blower for $29.99.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

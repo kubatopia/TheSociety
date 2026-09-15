@@ -34,4 +34,4 @@ In addressing Vanderbilt University’s Politics Center in Nashville, Tenn., Gov
 
 Susan S. Hylton was murdered and two other women were shot and left for dead at Taylor’s Little Grocery on U.S. 58. The man accused of their shootings was caught and charged with nine felonies.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -36,4 +36,4 @@ President Richard M. Nixon resigned. Vice President Gerald Ford became president
 
 Frith Construction was rebuilding First Presbyterian Church of Collinsville. The Kings Mountain Road church had been destroyed on Nov. 16, 1998, by an electrical fire. Jim Frith assured that the church would be rebuilt in time for Christmas services.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

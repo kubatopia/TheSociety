@@ -26,4 +26,4 @@ Ronda Pack, 9, of Vesta, had surgery at Memorial Hospital in Martinsville to rem
 
 Classes offered at Patrick Henry Community College included “Introduction to the Internet” and “How to Buy a Computer.”
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

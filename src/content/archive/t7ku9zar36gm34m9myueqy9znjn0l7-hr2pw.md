@@ -30,4 +30,4 @@ Larry Engle Hankins, 26, was shot and killed by a 12-gauge shotgun during an arg
 
 Bassett Middle School students had two remote-control planes for hands-on lessons in topics such as math, science and technology. That was thanks to a $1,190 grant from the Toshiba America Foundation. Their teacher Ron Shealer coordinated the lessons. Meanwhile, the County of Henry gave the use of land behind the Henry County Administration Building through the Parks and Recreation Department to use as an airstrip for remote controlled planes. Susan Kanoke worked for the County’s Parks and Recreation Department.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

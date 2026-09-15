@@ -44,4 +44,4 @@ About 150 Dominion LOF production workers were laid off for 2 weeks to compensat
 
 Three area schools were vandalized on Halloween weekend. Twenty-six wire-grated windows were broken, a security camera was damaged and a sidewalk was spray-painted at Bassett High School; four windows were broken out and a sidewalk was painted at Magna Vista High School; and at Woolwine Elementary School in Patrick County, a break-in was reported and glue was sprayed into the lock cylinders and a vulgarity was scratched onto the gym wall.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

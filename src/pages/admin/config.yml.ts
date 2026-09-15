@@ -114,7 +114,7 @@ ${collections}`;
   if (nonCore.length > 0) {
     throw new Error(
       `src/cms/collections.yml uses widget(s) outside Decap's core set: ${nonCore.join(', ')}. ` +
-        `See DECISIONS.md (DECISION-001) — we stay Decap-compatible so editors can ` +
+        `See DECISIONS.md (DECISION-001) - we stay Decap-compatible so editors can ` +
         `sign in with Google. Pick a core widget, or amend the decision first.`,
     );
   }
@@ -126,7 +126,7 @@ ${collections}`;
     throw new Error('DecapBridge backend auth_endpoint does not carry the site id.');
   }
   if (!parsed.site_url) {
-    throw new Error('CMS config has no site_url — is PUBLIC_SITE_URL set?');
+    throw new Error('CMS config has no site_url - is PUBLIC_SITE_URL set?');
   }
 
   return new Response(yaml, {

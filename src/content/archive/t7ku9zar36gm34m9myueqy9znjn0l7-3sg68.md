@@ -32,4 +32,4 @@ Martinsville voters rejected a referendum which would have allowed liquor by the
 
 A committee of Rich Acres Elementary School faculty and staff was looking into the school taking the year-round school year. They attended a state conference on the matter and visited such a school in Danville. Under that model, the school would operate on a 45-day basis, followed by a 10-day intersession, which provided additional instructional time for students who needed help; then a 15-day break. Clearview Elementary School was in its first year of year-round.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

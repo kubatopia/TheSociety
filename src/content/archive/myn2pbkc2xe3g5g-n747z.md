@@ -26,4 +26,4 @@ Imperial Savings and Loan Association at 33 Spencer St. advertised to tell peopl
 
 Irisburg Elementary School got new playground equipment, purchased with a $4,200 contribution from its Parent Teacher Organization. PTO officers were Joyce Childress, James Adams, Lisa Taylor, Hope Thompson and Doris Merriman. During ceremonies to celebrate the playground equipment, a time capsule full of items from Irisburg students was buried. Did anyone imagine then that the school would close in 2011? The property now is the home of Compassion Church.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

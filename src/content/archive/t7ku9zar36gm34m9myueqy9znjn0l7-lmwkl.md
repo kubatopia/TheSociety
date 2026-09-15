@@ -30,4 +30,4 @@ Martinsville officials learned that the City may have to add new employees to it
 
 A campaign rally for Vickie Helmstutler for Clerk was held at Fieldale Ball Park. For $5, attendees got Redpole’s hotdogs and music by Johnny Moran and The Country Hillbillies.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

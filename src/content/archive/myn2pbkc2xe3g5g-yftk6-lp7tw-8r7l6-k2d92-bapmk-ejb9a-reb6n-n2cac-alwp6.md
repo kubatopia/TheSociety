@@ -26,4 +26,4 @@ Local historian Virginia Windle of Mulberry Court had an exhibit of American clo
 
 The county was working to create a new economic development organization, with the first step in planning a committee about it. The City, under Mayor Mark Crabtree and Vice Mayor Gene Teague, decided it wanted to investigate the idea also, so Teague suggested the City plan a committee to look into the matter as well.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

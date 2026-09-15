@@ -28,4 +28,4 @@ The “Montel Williams Show” which featured Martinsville’s Dr. Elizabeth Vau
 
 Homes open for the 2000 Historic Garden Week tour were: James and Dot Montgomery, “Hills and Hollows” at 203 Westover Lane; Mrs. Gorman T. White, 202 Westover Lane; Dr. W.D. and Lauren Prince at 201 Westover Lane; and Barbara and Morgan Holland, 721 Mulberry Road, with Master Gardeners on site to answer questions and give advice.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -26,4 +26,4 @@ New 3-bedroom houses were for sale at Carver Estates. Billy Grogan was the build
 
 The Rev. Ron Mateer was in his first month as pastor of First United Methodist Church, and he was heading out to spend 2 weeks on a mission trip in Russia.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

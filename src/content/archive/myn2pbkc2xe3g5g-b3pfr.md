@@ -28,4 +28,4 @@ Patrick County Sheriff Calvin C. Harbour and 11 of his employees took lie detect
 
 Nationwide Homes Inc., the first company to take advantage of the enterprise zones (1996), also was the first to participate in Martinsville’s free-land-for-jobs program. It would build a 200,000-square-foot building on 15 acres along Rives Road and add 170 new jobs over the next 2 years.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

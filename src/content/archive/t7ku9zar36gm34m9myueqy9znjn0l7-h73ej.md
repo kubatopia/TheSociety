@@ -30,4 +30,4 @@ Wilbur Sims, assistant director of the Martinsville-Henry County Public Library,
 
 A 14-light traffic signal was installed at the intersection of U.S. 220 and Water Plant Road. Several fatal accidents had happened there in prior years, including one that killed Stephen Craig Allen, 16, in 1995. In September 1996, as VDOT had begun to address the safety concerns of that intersection, Magna Vista High School Coach Jim Young was killed there, and a month later, as VDOT was installing flashing lights and rumble strips, a four-car crash left several people severely injured.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

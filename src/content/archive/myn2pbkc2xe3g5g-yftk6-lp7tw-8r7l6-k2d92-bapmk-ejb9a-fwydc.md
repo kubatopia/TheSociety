@@ -26,4 +26,4 @@ The Broadway musical hit “1776” by the Continental Theatre Company was prese
 
 Landlord William W. “Billy” Bennett, 51, of 190 Douglas Road, was facing a charge of involuntary manslaughter. He posted a $5,000 bond. The charges came from the death of one of his tenants, Henry Francis Wilson, who had died in a fire on Sept. 6, 2000. Wilson was in his bedroom when the house was on fire. He could not get through the bedroom door because of flames, and he could not get out through either of the two windows of his bedroom either. Neighbors tried to break through the windows, but they were blocked from both outside and inside by other materials nailed over them and could not be opened. Bennett died in October 2023.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

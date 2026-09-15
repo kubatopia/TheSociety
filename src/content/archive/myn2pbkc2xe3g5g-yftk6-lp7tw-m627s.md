@@ -34,4 +34,4 @@ Frances Fowler, 26, directed her first play in Martinsville, “Story Theater”
 
 Some places that offered child care in the area were Abundant Life Daycare at 231 Ford St., Collinsville; Piedmont Child Care; and Stanleytown Baptist Children’s Center #2 at the Bassett Community Center.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

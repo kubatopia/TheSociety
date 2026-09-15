@@ -34,4 +34,4 @@ On the farm of Mrs. Geneva Wilson of Route 3, Axton, was the oldest known cow, W
 
 The Martinsville-Henry County Junior Miss was Shauna Rose, daughter of Mr. and Mrs. Steve Rose and the Southern Piedmont’s Junior Miss was Alexis Hairston, daughter of Mr. and Mrs. William Hairston. Junior Miss was sponsored by the Martinsville Business and Professional Women. The two local Junior Misses were scheduled to compete in the Virginia Junior Miss Scholarship Program Jan. 7 and 8 in Roanoke.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

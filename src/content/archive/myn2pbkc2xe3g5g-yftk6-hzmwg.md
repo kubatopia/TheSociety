@@ -28,4 +28,4 @@ The principal of Stuart Elementary School was charged with child abuse in connec
 
 Brandon Lee Moore, 13, of 338 S. Creek Court in Collinsville died while he and a friend were playing with a revolver in a house on Dillons Fork Road.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

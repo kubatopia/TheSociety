@@ -38,4 +38,4 @@ Abot 100 people gathered at Mayo Baptist Church in Horsepasture to voice opposit
 
 Ronald A. Norelli was the interim chief executive officer at Pluma, hired to oversee the company’s organizational and financial restructuring.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

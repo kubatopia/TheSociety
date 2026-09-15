@@ -38,4 +38,4 @@ In the Stroller column in the Bulletin: Lewis Walker and Kenneth Meece of Collin
 
 JC Penney announced that it would convert its department store at Liberty Fair Mall to a catalog outlet store. The merchandise from the catalog distribution system would be priced at 20% to 60% off original prices. JC Penney staff at the time included Frances Nance in basic logic management; Teresa Barnes, supervisor of customer service; Store Manager Mike Self; Karen Stegal, shoes and jewelry departments manager; Dawn Hawks, visual merchant manager; and another 55 full- and part-time employees.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

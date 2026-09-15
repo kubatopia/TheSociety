@@ -30,4 +30,4 @@ Between 5,000 and 6,000 people attended the National Night Out event in uptown M
 
 County administrator Sid Clowder, Iriswood District Supervisor Paula Burnette, Henry County Planning Commission Chairman Paul Setliff, Director of Planning and Community Development Kevin Reed and Zoning Administrator Lee Clark toured a Cogentrix Energy Inc. plant in Wisconsin. The company had planned to build a plant costing between $400 million and $600 million in Axton.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

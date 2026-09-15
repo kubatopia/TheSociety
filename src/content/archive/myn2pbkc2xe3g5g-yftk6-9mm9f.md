@@ -32,4 +32,4 @@ State Police raided a gambling ring in the abandoned Oak Level School on Virgini
 
 Residents of the Huntington Hills subdivision in Ridgeway were banding together to oppose the zoning approval of the expansion of a nearby apartment complex. The complex had eight apartments but the Board of Zoning Appeals approved it going up to 24 units.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ A Skate-a-Thon was held from noon to midnight at Interskate on U.S. 220 South. S
 
 The Dutch Inn offered breakfast buffet for $4.95 and dinner buffet for $8.95. If you wanted to get fancied up before a date there, you could get your nails done at L.A. Nails: full set for $19.99, gel nails for $30, fill-ins for $12.99 or a manicure & pedicure for $30.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

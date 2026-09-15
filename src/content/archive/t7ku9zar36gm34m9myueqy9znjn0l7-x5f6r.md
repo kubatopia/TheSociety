@@ -36,4 +36,4 @@ Joe Taylor Hayden, 43, of Patrick Springs died when he was struck on the head by
 
 A dedication ceremony was held for the new J. Burness Frith Economic Development Center at Patrick Henry Community College. The 15,000-square-foot building came from a $1.5 million gift from Mary Kathryn Frith in memory of her late husband. The building was for continuing education and work force development, and it had several classrooms.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

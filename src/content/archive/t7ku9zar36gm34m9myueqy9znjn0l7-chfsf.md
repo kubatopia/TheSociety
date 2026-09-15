@@ -36,4 +36,4 @@ It was graduation day for Martinsville High School, and the school’s teachers 
 
 Butch Hamlet won his first Late Model Stock race, during the seventh race of his third season at New River Valley Speedway. He took the lead over Rodney Cundiff on the 10th of 75 laps.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

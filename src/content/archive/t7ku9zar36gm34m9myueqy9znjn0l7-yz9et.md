@@ -36,4 +36,4 @@ A benefit football game was held at Laurel Park High School to raise money to bu
 
 Harry Wiencek, author of “The Hairstons,” a book about the white family and the people they enslaved on the Beaver Creek Plantation, spoke at a program at Piedmont Arts Association.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

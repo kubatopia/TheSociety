@@ -30,4 +30,4 @@ At Martinsville High School football games, Bunny Stadler dressed in a bulldog c
 
 Douglas Hairston renovated the Wizard of Car business at 35 Lee St. in Collinsville and opened a second Wizard of Cars location at 814 Brookdale Road, Martinsville. The car wash had self-service bays with unlimited water and vacuuming. Employees were Phaedra Philpott and Carl Anderson.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

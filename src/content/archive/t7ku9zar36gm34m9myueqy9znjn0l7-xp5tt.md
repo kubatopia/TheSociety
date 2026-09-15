@@ -32,4 +32,4 @@ The list of nicknames of men in their 30s and 40s in Fieldale continued … Davi
 
 The County of Henry was its third year into a program of cleaning up neighborhoods by removing junked cars, by paying owners $50 per junked cars to remove them. Four pairs of deputies and auto salvage dealers removed made arrangements to remove more than 90 cars, but there still were another 20 that they decided to pick up later in the fall.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -32,4 +32,4 @@ Children in Villa Heights held a neighborhood carnival to raise money to fight m
 
 Memorial Hospital had recently released its 1998 annual report, which said the hospital would be focusing on financials, seeking to cut costs to both itself and to customers. The report stated that the average length of stay for inpatients went from 5.8 days in 1993 to 4.3 days. Joe Roach was the chief executive officer.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

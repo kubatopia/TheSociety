@@ -36,4 +36,4 @@ Charming handwritten ad for Kwick Knit, Patrick Henry Mall: “Lovely gowns, lac
 
 Eight members of the National Society of Black Engineers local junior chapter attended NSBE’s Pre-College Initiative in Kansas City: Martinsville High School teacher Helen Howell, the leader; her daughter, Erika Howell, a middle-schooler; and high-schoolers Matthew Ashburn, Robbie Williams Jr., Michelle Rodriguez, Alison Manuel, Keisha Martin and Jennifer Payne. These were the early days of Howell’s local NSBE chapter, which now is recognizes as one of the top in the nation.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

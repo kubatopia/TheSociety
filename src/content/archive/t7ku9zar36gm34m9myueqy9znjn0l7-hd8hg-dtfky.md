@@ -36,4 +36,4 @@ Attorney Charles M. Aaron won a ruling before the Virgnia Supreme Court to allow
 
 PHOTO: Sallie Hall Slate and her son, Tim Slate, bag tobacco leaves on their Patrick County Farm, 1978. Photo by Carl Fleischhauer, Blue Ridge Parkway Folklife Project collection, 1977-1981 (AFC 1982/009), Library of Congress.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

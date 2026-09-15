@@ -26,4 +26,4 @@ The nation’s bicentennial was less than a year away, and local furniture compa
 
 Villa Heights is a neighborhood in the Collinsville area, with Stultz Road as its core. It had started going downhill, with crime, trash and disrepair, so neighbors got together to make improvements, including through regular Villa Heights Community Clean Up events. Alice Russell was one of the coordinators, working with Clean Community Executive Director Lesley Cornett. Sheriff Frank Cassell increased surveillance of the area.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

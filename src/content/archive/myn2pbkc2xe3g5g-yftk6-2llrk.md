@@ -26,4 +26,4 @@ Tobacco was growing more slowly than expected, which would likely postpone the o
 
 Four Huntington Hills subdivision residents filed a lawsuit with Henry County Circuit Court to overturn a Henry County Board of Zoning Appeals decision to let an apartment complex near their neighborhood expand to quadruple in size. They were Mayor Ed and Mrs. Shirley Page and Teddy R. and Mary M. Largen. ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

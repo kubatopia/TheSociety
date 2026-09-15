@@ -26,4 +26,4 @@ On sale at Roses Dollar Days: Picture frames, $1; T1-1200 calculator, $18.87; Mr
 
 Ron “Fish” Clifton of Ridgeway created art out of scrap metal and all sorts of other found objects. He was 53 at the time. Passersby could see a dinosaur made of meat hooks horseshoes, rims from barrel tops and more outside his singlewide trailer not far up Old Leaksville Road from Highway 87, and a 1976 FLH Harley Davison Electra Glide to which he had been adding metal artwork for 20 years. He would continue making the art for decades more.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

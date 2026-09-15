@@ -32,4 +32,4 @@ A state Rapid Response Team set up in Martinsville to help laid-off Tultex emplo
 
 Nearly 100 former Tultex Corp. employees were in the Virginia Employment Commission office by 8:30 a.m. to file for unemployment benefits. More than 1,100 Tultex employees locally had been laid off the week before.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

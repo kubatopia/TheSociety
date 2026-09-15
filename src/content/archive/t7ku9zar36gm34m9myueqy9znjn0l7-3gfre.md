@@ -34,4 +34,4 @@ The Martinsville Corvette Club held an autocross at the K-Mart parking lot, with
 
 Bassett Middle School was in the beginning stages of having web pages for all of its teachers, encouraging parents to check the web pages for information on the classes. The project started with teacher training in the summer. Staff members Ron Shealer and Warren Fisher created a template for teachers to use for their web pages.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

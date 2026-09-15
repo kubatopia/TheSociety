@@ -30,4 +30,4 @@ National School Lunch Day took on a revolutionary theme at Joseph Martin School.
 
 At least 150 people from Martinsville and Henry County were taking part in the Million Family March in Washington D.C. They went there on two buses which let from the corner of Fayette and Spencer streets. The trip was sponsored by the Rev. Kenneth Muhammad of Nation of Islam. Ronald X, the owner of Reel Shop, and electronics repair shop on Fayette Street, said that at the march Abdul Alim Muhammad told the crowd that Thomas lost her live because of a letter to the editor she had written which had been published in the Martinsville Bulletin. That letter gave information about the Million Family March. She was shot to death four days later, on Sept. 26. Muhammad had said that her murder was a hate crime.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

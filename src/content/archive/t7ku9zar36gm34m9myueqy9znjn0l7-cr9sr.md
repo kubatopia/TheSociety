@@ -34,4 +34,4 @@ Easy Spirit sneakers were on sale at Belk, with three choices at $59.99, one at 
 
 An ad for Taylor’s Supermarket promised “New Produce Management – Friendly Courteous Service – Guaranteed Fresh.” Prices included chicken breast for 99 cents a pound, chicken thighs for 89 cents, chicken legs for $1.09, Jamestown sausage for 89 cents and ribeye steaks for $5.29.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

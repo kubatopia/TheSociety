@@ -28,4 +28,4 @@ John D. Epperly was inducted into the American College of Trial Lawyers at the a
 
 A new highway marker commemorating Fort Trial was erected alongside U.S. 220 at Bassett Forks. The fort protected settlers from attacks by hostile Indians. It replaced a marker erected in 1974 about a mile away which was hard to read. The fort was built in 1756 near Beaver Creek on the bank of the Smith River, 6 miles northwest of Martinsville. It had square walls about 16 feet high, made of 20-foot split timers. A frame house was in the center of the fort. It had 6-foot-high walls filled with stones and dirt.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

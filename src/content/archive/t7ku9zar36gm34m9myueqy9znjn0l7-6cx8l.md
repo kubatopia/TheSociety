@@ -32,4 +32,4 @@ The Henry County Board of Supervisors put the supervision of the two county dog 
 
 Walter “Rocky” Reynolds, a Martinsville High School graduate and 1978 graduate of Virginia State University, was playing to role of Edward in a production of “Whistle Don the Wind” in London.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

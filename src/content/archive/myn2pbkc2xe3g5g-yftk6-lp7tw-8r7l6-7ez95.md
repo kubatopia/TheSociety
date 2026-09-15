@@ -26,4 +26,4 @@ Eddie Lee “Shanghai” Thomas, who charged with killing Sally Aliff of Preston
 
 A miniature-air-show was held at Kings Mountain Park, and about 500 spectators attended. People including from the Patrick Henry Remote Control Club flew remote-control airplanes. Local flyers and members of the Flights Unlimited group of Danville gave a show similar to the barnstorming shows of the 1930s. They also had chances to pilot a plane under the supervision and co-piloting of a club member.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

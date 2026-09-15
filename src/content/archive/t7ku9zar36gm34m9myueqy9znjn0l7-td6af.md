@@ -36,4 +36,4 @@ Oliver McCall, a former World Boxing Heavyweight champion, fought Sampson Cohen 
 
 The Axton Fireman’s Fair and Annual Horseshoe Tournament was held starting at noon. It featured bingo, prizes, Sparky, exhibits, games, balloons, stew, dancing, live bands, cookbooks, a dunking booth, a contest and an auction.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

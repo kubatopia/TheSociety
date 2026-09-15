@@ -34,4 +34,4 @@ There were 2,000 flue-cured tobacco farmers in Frankin, Henry and Patrick Counti
 
 At the Fieldcrest Cannon Factory Outlet in Eden, you could get a gift-boxed towel set (1 bath, one hand and one washcloth) for $8.99; bed pillows for $3.99; bath rugs for lids, $1, contours $2.50, and floor, from $4 to $7.50; bath towels for $3.69; hand towels for $1.69; washcloths for 67 cents; bath mats for $3.69; and bath sheets for $6.99.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

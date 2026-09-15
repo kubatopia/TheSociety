@@ -28,4 +28,4 @@ The old Community Hospital building on Armstead Avenue was put up for sale by it
 
 Teen pregnancies in Martinsville and Henry County were decreasing, but there was an increase in out-of-wedlock births by women in their 20s. In 1998, 34 of every 1,000 births in Henry County and 71 of every 1,000 births in the city were to single women in their 20s. Patricia Carter was the co-director of For the Children Partners in Prevention, which was its second year into an Enrichment Center that taught women in their 20s how to improve their lives.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

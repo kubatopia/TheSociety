@@ -28,4 +28,4 @@ More women were breastfeeding their babies, after the practice had become very r
 
 Professional Baseball Association consultant Gould-Evans informed the City that to meet professional baseball standards, Hooker Field would need new dugouts which would cost $30,000 each. The current ones were too small and did not have the necessary amenities. The standards would have to be met for the Houston Astros team to stay in Martinsville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

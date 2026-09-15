@@ -30,4 +30,4 @@ Henry County Schools’ mobile health clinic, Health Connections, was featured b
 
 At Horsepasture District Supervisor Debra Buchanan’s community meeting at Fieldale Elementary School, Fieldale residents told state highway officials that they wanted a new bridge built where the town’s historic iron bridge crossed the Smith River, not upstream from it. The Virginia Department of Transportation was looking at three options for replacing the 1931 iron bridge: build a new bridge upstream for about $6.5 million; expand a bridge upstream on Virgniia 609 for $3.6 million; or replace the iron bridge with a new bridge for $3.2 million.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

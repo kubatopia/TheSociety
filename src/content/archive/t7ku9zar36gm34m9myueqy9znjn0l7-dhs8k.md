@@ -30,4 +30,4 @@ The Bassett Country Club was under construction and nearly finished. The 19,291-
 
 Tultex officially was in Chapter 11 bankruptcy, which is a filing for protection from creditors while a company reorganizes. However, the company’s attorney, Bruce Matson, said in U.S. Bankruptcy Court that the company was liquidating assets, and there would not be any more manufacturing in Martinsville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

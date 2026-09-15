@@ -36,4 +36,4 @@ The Stroller column shared this tip from R.W. Jones, horticulture teacher at Lau
 
 Riddle Chrysler, Plymouth and Dodge on Rt. 220 South, Martinsville: 1997 Passport LXW, $20,988; 1998 Caravan, $16,999; 1998 Accord EX, $19,999; 1995 Civic LX, $8,998; 1993 Ranger XLT, $5,999
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -36,4 +36,4 @@ In the Martinsville Bulletin: “A crowd of about 800 people filled the Fieldale
 
 Hugh Gerlach, the owner of Blue Ridge Gymnastics with his wife, Donna, had recently received the boy’s gymnastics coach-of-the-year award in North Carolina. The award-winner was decided by dozens of gymnastics coaches.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

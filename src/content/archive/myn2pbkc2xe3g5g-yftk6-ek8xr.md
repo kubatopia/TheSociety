@@ -26,4 +26,4 @@ Sheriff Morton Prillaman ordered four two-way radio units for the cars of specia
 
 American Furniture Co. employee Clyde Gilley received a patent for a “profile grinder” that the company began using. It was an attachment that automatically ground a knife to the desired shape in a manner much more efficient than before. It took him about two years to invent the device and another two to get it patented. He put $3,323 into the project.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

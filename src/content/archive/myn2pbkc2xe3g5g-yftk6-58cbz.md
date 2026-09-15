@@ -28,4 +28,4 @@ The FBI joined local authorities in an investigation in Patrick County, in which
 
 Bike South 2000 was a bike race that passed through Martinsville, and Handy John, a Martinsville-based company which supplied portable toilets, provided 230 porta-johns for the bicyclists, from Winston-Salem, N.C., to Batesville, Va. Handy John also supplied toilets for races at the Martinsville Speedway. The company was owned by Cecil Handy, and his daughter, Kelly Handy Baliles, was the company secretary. The company is now Handy Rentals Inc. and Handy’s Septic & Drain Cleaning, at 13040 A.L. Philpott Hwy. It was founded in 1975 by Cecil Handy and now is run by his children, Kelly and Richard. It rents out tools and equipment and does drain and septic cleaning.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

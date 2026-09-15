@@ -34,4 +34,4 @@ Three Kosovar families had been in Martinsville for a year. Nancy Moore was one 
 
 A 15-year-old boy and a 17-year-old boy broke into the wrong home: that of Martinsville Police Officer Coretha Gravely. She wasn’t at her Laurel Drive home at the time, but her sister went to the house and encountered the teenagers. They ran off, and she called the law. Officers found the kids hiding in ravines near U.S. 58. They were charged with breaking and entering and grand larceny and taken to the juvenile detention center in Danville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

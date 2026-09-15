@@ -34,4 +34,4 @@ At a Dec. 22 reception in the White House, local gospel group Dodson 5 met Presi
 
 Members of the Blue Ridge Ski and Outing Club took a trip Jan. 29-Feb. 9 in Switzerland and Paris: Denis Reeves, Monica Coper, Ralph Martin, Betty Branch, Bob Branch, Courtney Edwards, Dickie Globman, Pam Koch, Sharon Reeves, Charlie Brown, Susie Brown, Tim Hale, Becky Hale, Marty Staiger, Karen Bradshaw, Winston Edwards, James Roop and Marie Roop. Norm Biersback was the club president.
 
-*— Information from museum records and the Henry Bulletin and the*[* Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfiche at the *[*Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the*[* Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfiche at the *[*Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

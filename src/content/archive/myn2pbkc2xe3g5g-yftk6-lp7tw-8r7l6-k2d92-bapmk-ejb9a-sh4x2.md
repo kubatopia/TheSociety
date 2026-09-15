@@ -30,4 +30,4 @@ Playing at the Castle Drive-In Theatre in Collinsville was “Tommy,” with mus
 
 George Lester, president of the Lester Development Corp., signed a contract to buy the former Tultex mill on Franklin Street for $750,000. The 1998 assessed value of that property was nearly $13 million. Lester said he believed it would cost between $1.5 million and $2 million. That site now is home to the Clocktower business center.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

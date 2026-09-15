@@ -30,4 +30,4 @@ Martinsville GoKart Club got the green light from city council to begin construc
 
 The Axton-Laurel Park Lions Club recently had formed, and it was planning a $225,000 recreation and park project on Route 620 just past the new Axton post office. It would have a building, ballfield, swimming pool, tennis courts, picnic shelters, playground and other amenities. The first fundraiser would be an auction of donated items and a rummage sale. Officers of the new club were John Jones, Harry Eanes, Kennon Robertson, Gene Wales, Doug Harris, Hugh Dickerson, Dan Robertson, Bud Helton, James Holland, Howard Freeman and James Merricks.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

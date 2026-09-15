@@ -32,4 +32,4 @@ At King’s Family Center – 8 by 10 color portrait by Colorama, 48 cents: One 
 
 Local Nationwide insurance agents were Junior Lee Lawless, with an office at The Dye Plant Road; Lynn Prillaman Mabe, 3289 Virginia Ave.; Brad Parker, at 1103B Brookdale St.; and Roy L. Thomas at 711 Starling Ave.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

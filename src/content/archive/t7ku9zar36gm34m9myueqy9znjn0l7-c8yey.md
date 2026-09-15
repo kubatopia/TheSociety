@@ -32,4 +32,4 @@ Memorial Hospital was developing a psychiatric ward and was searching for a full
 
 The level of Philpott Lake was about 14 feet below normal, and if the summer would be dry, the water level was expected to drop even more.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -32,4 +32,4 @@ At Grayson’s Barber Shop at 321 E. Market St., “Nobody Walks Till The Clippe
 
 McCollum-Ferrell in uptown Martinsville was promoting the Siesta tie shoe (black, navy, wine, mocha, bone, white, antiqued walnut) and Softie slip-on (black, navy, mocha, white), “For Every Occasion.”
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

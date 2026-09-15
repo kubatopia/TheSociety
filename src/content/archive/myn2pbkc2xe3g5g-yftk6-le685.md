@@ -30,4 +30,4 @@ Habitat for Humanity finished its 16th house in the area, on Pine Street in Fiel
 
 When Elizabeth Haskell had her last meeting as a City Council member, she was given several gifts: a key to the city, a clock and a proclamation announcing June 27-30 as Elizabeth Haskell Week in the city. She had not run for re-election in the last elections. Ron Ferrill was elected then, and Bruce Dallas and Gene Teague were re-elected.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

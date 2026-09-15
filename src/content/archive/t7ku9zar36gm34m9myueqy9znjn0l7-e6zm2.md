@@ -34,4 +34,4 @@ Ridgeway Tire and Auto won the Martinsville-Henry County Chamber of Commerce’s
 
 Paul B. Toms Jr. was named president and chief operating officer of Hooker Furniture Co., succeeding Frank Hooker Jr., who retired over the summer. Doug Williams Sr. was named executive vice president-manufacturing.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -34,4 +34,4 @@ The Stroller column still was listing nicknames for the men of Fieldale; this li
 
 Students from Martinsville High School raised nearly $1,200 for a refugee family from Kosova by selling red ribbons for $1 each.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

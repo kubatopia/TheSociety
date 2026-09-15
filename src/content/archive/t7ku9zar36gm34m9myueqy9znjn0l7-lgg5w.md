@@ -32,4 +32,4 @@ Nine people applied for the job as Henry County Registrar. The previous Registra
 
 Nashville recording star and Axton native Clinton Gregory gave a concert in the Martinsville High School auditorium. Between 500 and 600 people attended.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

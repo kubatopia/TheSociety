@@ -32,4 +32,4 @@ Tensions were high between doctors and rescue squad workers in the summer of 197
 
 The annual Henry July 4th Parade was held, and Aaron L. Clark of Martinsville participated in the parade as Ziggy the Clown.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

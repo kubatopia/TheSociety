@@ -28,4 +28,4 @@ Eight hundred DuPont workers who had been on short time, working every other wee
 
 Joann Fabrics at Liberty Fair Mall collected knitted and crocheted squares from area residents to assemble into afghans to distribute at local nursing homes. They ended up with 17 afghans made of 49 squares. People involved included Diane Kester, a member of the Needlework Guild of First Presbyterian Church; Joann Fabrics Manager Betty Lowe; Hairston Home for Adults Director of Nursing Barbara Mabe; sewing volunteer Jean Chitwood; and Blue Ridge Rehab resident Daisy Walker.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

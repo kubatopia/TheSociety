@@ -36,4 +36,4 @@ About 100 people attended a Dr. Martin Luther King birthday observance at the Na
 
 Dr. Elizabeth Roycroft, director of the Henry-Martinsville Health Department, reported that nearly 1,000 people had received flu shots at the health department. Dr. Elizabeth Vaughan at Vaughan Medical Center was giving flu shots as well, including to Connie Hairston of The Great Road.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

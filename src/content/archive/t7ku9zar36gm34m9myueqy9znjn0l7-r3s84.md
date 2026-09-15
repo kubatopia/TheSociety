@@ -32,4 +32,4 @@ Clarence Monday was Martinsville’s fire marshal, and Rodney Howell was the fir
 
 Martinsville Uptown Revitalization Association and Gateway Streetscape sold wreaths and swags for holiday decorating.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

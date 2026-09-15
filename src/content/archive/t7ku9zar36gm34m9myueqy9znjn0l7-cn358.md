@@ -38,4 +38,4 @@ The $2.50 Cleaners at 1320 Memorial Blvd., in the old Mann’s Building, had a s
 
 **The Photo:** Taken in 1941 by Marion Post Wolcott, archived in the Library of Congress, with this caption: Floyd W. Fleming, defense worker from Spencer, North Carolina, who lives in new rural home built by FSA Farm Security Administration on T.H. Walters farm near Radford, Virginia
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

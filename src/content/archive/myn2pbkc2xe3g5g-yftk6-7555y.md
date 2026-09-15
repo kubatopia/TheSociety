@@ -30,4 +30,4 @@ The largest horse show in the history of Henry County was held for 3 days: more 
 
 Tultex Corp., which previously had employed 2,500 people in Martinsville and Henry County, had gotten down to just 11 employees over the span of less than a year. Within two weeks, five of those 11 would be laid off. The company had declared bankruptcy on Dec. 3.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

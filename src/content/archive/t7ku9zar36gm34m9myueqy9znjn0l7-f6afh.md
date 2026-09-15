@@ -40,4 +40,4 @@ Memorial Hospital of Martinsville and Henry County had just begun plans to creat
 
 The Henry County Board of Zoning Appeals rejected a request by Aiken Summit Wesleyan Church for a larger sign than rules allowed (which was 50 square feet). Pastor David Marcum said he would probably appeal that ruling in court.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -22,4 +22,4 @@ ATU and ABC agents seized an 800-gallon-capacity still and destroyed 4,000 gallo
 
 Is it hearing loss or just an earwax build-up? Belton Audiology & Hearing Aid Center at 218 E. Main St. promised to answer that question for you with a “Video Ear Inspection” – but only from Nov. 6 through Nov. 10. ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -28,4 +28,4 @@ The Eagles store at the corner of Main and Bridge streets was told by the city t
 
 Elegant Design & Consulting Ltd., owned by Jerry and Jennie Blankenship, planned weddings and parties and sold gift items and home accessories at327 E Church St. They offered free gift-wrap and delivery.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

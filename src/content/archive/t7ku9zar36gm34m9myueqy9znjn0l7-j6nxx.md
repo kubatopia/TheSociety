@@ -38,4 +38,4 @@ Martinsville native Col. Richard L. Prillaman was nominated by President Richard
 
 The Horsepasture Volunteer Rescue Squad was expanding its building on U.S. 58 West with a 30- by 50-foot, two story addition which would have a meeting room, kitchen, two dorm rooms, offices and storage. The cost was expected to be near $80,000, with all labor donated.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

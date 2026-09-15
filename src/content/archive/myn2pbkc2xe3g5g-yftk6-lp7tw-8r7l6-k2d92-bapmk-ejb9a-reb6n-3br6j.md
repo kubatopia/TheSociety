@@ -28,4 +28,4 @@ Twenty-one-year-old Christopher Noel Francisco died in his sleep of apparent nat
 
 Piedmont Arts Executive Director Toy Cobbe showed attendees of a meeting of the MHC Chamber of Commerce a proposal to buy, decorate and position 50 sculpted dinosaurs around the area. With “Dinos on Parade,” a donor would pay $2,000 to sponsor a 4- by 8-foot fiberglass dinosaur, select its design from a book of prototypes developed by area artists and choose its location from a list. The artist would be paid $500 for each dinosaur. The dinosaurs would be put on display in October 2002. The project was inspired by “Cows on Parade” in Chicago.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

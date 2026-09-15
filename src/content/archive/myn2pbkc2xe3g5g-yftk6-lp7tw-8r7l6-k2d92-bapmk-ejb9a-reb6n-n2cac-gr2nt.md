@@ -38,4 +38,4 @@ At the American Legion Post 11 dance in Bassett, The Blue Ridge Partners perform
 
 Under Sheriff H. Frank Cassell, the Henry County Sheriff’s Office was cracking down on dance hall regulations. A law required establishments to be zoned as dance halls if anyone were to dance there, and dancing was required to end at midnight. Business owners said they were worried that if someone danced in their business and a Virginia Alcoholic Beverage Control agent walked in, the business could be cited for a violation. Some places where people would dance include Ten Pin Alley and Sportlanes on Virginia Avenue, owned by Will Pearson, and the Dutch Inn, owned by Howard Grodensky.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

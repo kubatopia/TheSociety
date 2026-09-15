@@ -36,4 +36,4 @@ The State Highway Department reported having spent $8,231.33 to pick up litter a
 
 Big news in industry: Courtauld’s Performance Films, of which Ken Vickers was the president and chief executive officer, was sold to Solutia. Courtaulds at the time employed about 500. Applied Felts Ltd. announced that it would invest $3 million to expand its local pipe sleeve operations and would add 25 workers. Drake Extrusion announced that it would invest $3.8 million to expand its filament plant in Henry County.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

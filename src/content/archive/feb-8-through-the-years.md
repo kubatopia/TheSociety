@@ -40,4 +40,4 @@ In a case that made national news, Alfred Odell Martin, who had escaped from Mar
 
 The Governor's Office announced Wednesday that the city of Martinsville will receive $189,500 for site remediation at the former BB&T building at 1 Ellsworth St.,[ the Martinsville Bulletin reported](https://martinsvillebulletin.com/news/local/business/development/bb-t-renovation-project-awarded-brownfield-money/article_e4363f40-c604-11ee-95d0-cf1ce555aa2d.html). Brownfields are properties in which redevelopment or reuse is complicated by the presence of hazardous materials, pollution, or contaminants.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the *[*Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the *[*Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

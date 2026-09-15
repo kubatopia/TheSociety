@@ -28,4 +28,4 @@ The Virginia Association of Rescue Squads cleared the Martinsville-Henry County 
 
 The area population had gone down over the past decade, preliminary estimates from the Census Bureau showed: a 7.2% loss for Martinsville and 2.3% for Henry County. For Martinsville, the decrease followed a three-decade trend. Martinsville’s top population was 19,653 in 1970, and down to 14,996 in July 1999. Henry County’s population was 50,901 in 1970, 56,942 in 1990 and 55,634 in 1999.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

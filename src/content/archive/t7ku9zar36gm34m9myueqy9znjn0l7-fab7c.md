@@ -34,4 +34,4 @@ Quality Stamp Redemption Store opened in Collinsville, next to Kings. Ann Southa
 
 The Virginia Museum of Natural History’s 15th annual Indian Heritage Festival and Powwow was held at the Martinsville High School practice field. A new feature of it was a living history Powhatan Indian village showing life in the 17th century.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

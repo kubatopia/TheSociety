@@ -30,4 +30,4 @@ National Catalog Corp. announce that it would expand with a $2.5 million investm
 
 The Chamber of Commerce honored Howard Huff, president of Fitness Connection; Patsy Akridge, owner of Akridge Insurance Services Inc.; Dan Cahill, owner of Heritage Home Center; and GS Industries, Terry Cundiff, president, at its annual awards luncheon at the Gallery Banquet and Convention Center.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

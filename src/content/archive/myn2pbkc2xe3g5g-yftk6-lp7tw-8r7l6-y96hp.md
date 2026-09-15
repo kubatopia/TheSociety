@@ -28,4 +28,4 @@ A power failure at DuPont damaged machinery, causing an extensive loss of produc
 
 The Industrial Development Association received $700,000 to buy the former Tultex building on Church Street to turn it into a business incubator. Sen. Chuck Robb presented the check of federal grant money, saying that the idea came from Bulletin Editor Ginny Wray. In January, Wray had written a letter to Robb, President Bill Clinton and others suggesting that Martinsville be used as an example for other areas affected by the new economy.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

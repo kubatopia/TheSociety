@@ -10,7 +10,7 @@ collections:
     folder: src/content/archive
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: "{{type}} — {{title}}"
+    summary: "{{type}} - {{title}}"
     sortable_fields: [date, title, type]
     fields:
       - { label: Title, name: title, widget: string }
@@ -31,8 +31,8 @@ collections:
         required: false
         allow_add: true
         field: { label: Topic, name: topic, widget: string }
-        hint: 'Subjects, not exhibit names — e.g. Folk music, The courthouse, Downtown and Main Street, Schools, Churches, Railroads, Mills and manufacturing, Farms, Civil rights, Sport, Families. Reuse existing wording so entries group together.'
-      - { label: Link to the coverage, name: externalUrl, widget: string, required: false, hint: 'For "In the news" — the URL on the newspaper or station site.' }
+        hint: 'Subjects, not exhibit names - e.g. Folk music, The courthouse, Downtown and Main Street, Schools, Churches, Railroads, Mills and manufacturing, Farms, Civil rights, Sport, Families. Reuse existing wording so entries group together.'
+      - { label: Link to the coverage, name: externalUrl, widget: string, required: false, hint: 'For "In the news" - the URL on the newspaper or station site.' }
       - { label: Publication, name: publication, widget: string, required: false, hint: 'Who published it, e.g. Martinsville Bulletin.' }
       - { label: Video link, name: videoUrl, widget: string, required: false, hint: 'For a programme or talk recording.' }
       - { label: Photograph, name: image, widget: image, required: false }
@@ -46,7 +46,7 @@ collections:
     folder: src/content/events
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: "{{start | date('MMM D, YYYY')}} — {{title}}"
+    summary: "{{start | date('MMM D, YYYY')}} - {{title}}"
     sortable_fields: [start, title]
     fields:
       - { label: Title, name: title, widget: string }
@@ -85,7 +85,7 @@ collections:
     folder: src/content/board
     create: true
     slug: '{{slug}}'
-    summary: '{{name}} — {{role}}'
+    summary: '{{name}} - {{role}}'
     sortable_fields: [order, name]
     fields:
       - { label: Name, name: name, widget: string }
@@ -103,7 +103,7 @@ collections:
     folder: src/content/minutes
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: "{{date | date('MMM D, YYYY')}} — {{title}}"
+    summary: "{{date | date('MMM D, YYYY')}} - {{title}}"
     sortable_fields: [date, title]
     fields:
       - { label: Title, name: title, widget: string }
@@ -169,14 +169,14 @@ collections:
           - { label: How long to allow, name: allowTime, widget: string, required: false, hint: 'e.g. 90 minutes. Left empty, the line is hidden.' }
           - { label: Parking, name: parking, widget: text, required: false, hint: 'Where to park and whether it costs anything. Left empty, the section is hidden.' }
           - { label: Accessibility, name: accessibility, widget: text, required: false, hint: 'Step-free access, lifts, accessible parking and toilets. Left empty, the section is hidden.' }
-          - { label: Getting here, name: gettingHere, widget: text, required: false, hint: 'Extra directions — landmarks, which road to come in on, drive times from nearby towns.' }
-          - { label: Photo — groups and schools, name: groupsImage, widget: image, required: false, hint: A class or group visiting. }
-          - { label: Photo description — groups, name: groupsImageAlt, widget: string, required: false }
-          - { label: Photo — renting the building, name: rentalsImage, widget: image, required: false, hint: An event in the building. }
-          - { label: Photo description — rentals, name: rentalsImageAlt, widget: string, required: false }
+          - { label: Getting here, name: gettingHere, widget: text, required: false, hint: 'Extra directions - landmarks, which road to come in on, drive times from nearby towns.' }
+          - { label: Photo - groups and schools, name: groupsImage, widget: image, required: false, hint: A class or group visiting. }
+          - { label: Photo description - groups, name: groupsImageAlt, widget: string, required: false }
+          - { label: Photo - renting the building, name: rentalsImage, widget: image, required: false, hint: An event in the building. }
+          - { label: Photo description - rentals, name: rentalsImageAlt, widget: string, required: false }
           - { label: Board meeting note, name: meetingNote, widget: text, required: false }
           - { label: Facebook URL, name: facebook, widget: string, required: false }
           - { label: Instagram URL, name: instagram, widget: string, required: false }
           - { label: TikTok URL, name: tiktok, widget: string, required: false }
-          - { label: Sponsors — opening line, name: sponsorsIntro, widget: text, required: false, hint: 'Update the fiscal year here each time. Left empty, the whole thank-you is hidden.' }
-          - { label: Sponsors — names, name: sponsors, widget: text, required: false, hint: One name per line. }
+          - { label: Sponsors - opening line, name: sponsorsIntro, widget: text, required: false, hint: 'Update the fiscal year here each time. Left empty, the whole thank-you is hidden.' }
+          - { label: Sponsors - names, name: sponsors, widget: text, required: false, hint: One name per line. }

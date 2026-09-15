@@ -32,4 +32,4 @@ Adele Dillard Pannill Carter of Martinsville died, at the age of 88. She support
 
 Marvin Eugene Edwards Jr., 33, of 394 Koehler Road, died of injuries he received when the motorcycle he was riding was in a crash.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

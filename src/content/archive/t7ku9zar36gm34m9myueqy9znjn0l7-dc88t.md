@@ -36,4 +36,4 @@ Holding books in one arm, 9-year-old Julia Harrell rode her unicycle to Druid Hi
 
 The Fieldale Community Center Booster Club had just bought a new pitching machine for the center. Buster Ferguson was the director of the center.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

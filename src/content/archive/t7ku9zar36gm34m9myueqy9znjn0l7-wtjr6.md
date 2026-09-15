@@ -32,4 +32,4 @@ Martinsville High School students beat the world bed-pushing record at Dan Green
 
 Martinsville native William F. Stone Jr. was selected as the new U.S. Bankruptcy Court judge for the Western District of Virginia.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

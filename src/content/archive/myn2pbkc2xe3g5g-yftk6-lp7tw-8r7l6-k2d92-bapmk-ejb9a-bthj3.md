@@ -24,4 +24,4 @@ Nationwide phone service was nearly back to normal after a strike had started, b
 
 Larry and Alley inc. held an Uptown Christmas Extravaganza “with a wonderland of furniture, decorations, festive table settings and flower arrangements. Santa Claus was there, and apples and sweets were served. Prizes were given: first, $800 value bedding; second, $500 cash; third, a Bosch dishwasher; fourth, a Henry Link wicker cocktail table; and fifth, a pair of pillows.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

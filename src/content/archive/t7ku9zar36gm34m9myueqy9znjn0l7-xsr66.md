@@ -36,4 +36,4 @@ A “large giant size” 3-pound, 1-ounce box of Tide detergent cost 89 cents at
 
 Pluma announced that it would close, and the 375 employees in the Martinsville-Henry County area would lose their jobs over the following 13 weeks. Jim Wigodsky was the company’s president and chief executive officer. The closing of Pluma would add at least four vacant buildings to those local officials were marketing to industries and businesses. It had one building in Bowles Industrial Park and leased two others in that part from Stanley Bowles.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

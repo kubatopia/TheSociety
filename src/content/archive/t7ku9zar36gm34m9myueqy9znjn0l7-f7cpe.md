@@ -36,4 +36,4 @@ On Tuesdays and Wednesdays Akers Supermarket in Stanleytown gave double S&H Gree
 
 Karen Zehr’s recipe for Zucchini Bread: Preheat oven to 350 degrees. Grease and flour loaf pans. Beat 3 eggs until foamy. Add 1 cup oil, 2 cups sugar, 2 cups grated zucchini and 3 teaspoons vanilla. Mix together 3 cups flour, 1 teaspoon each of salt, baking powder, baking soda and nutmeg, 1 ½ teaspoon of cinnamon and ½ teaspoon of cloves. Stir together wet and dry ingredients. Pour into pans and bake for 40 to 45 minutes, when a toothpick inserted into the middle comes out clean.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

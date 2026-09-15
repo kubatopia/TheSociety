@@ -30,4 +30,4 @@ A senior citizen dance was held at the Best Western with music by Johnny Moran a
 
 About 2,000 people attended the 13th annual Patrick County Peach Festival at Rotary Field in Stuart.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

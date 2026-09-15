@@ -30,4 +30,4 @@ The restaurant and gift shop at Mabry Mill were just renovated. It was the first
 
 Henry County School Superintendent Dr. J. David Martin announced his resignation.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

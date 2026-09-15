@@ -30,4 +30,4 @@ A mobile lunchroom (now we call them food trucks) had “Dope Wagon” written a
 
 In a ceremony, Lt. Col. Dennis L. Via, 42, had colonel’s insignia pinned to his shoulders by the chairman of Gen. Hugh Shelton, the chairman of the Joint Chiefs of Staff, the highest ranking military officer in the nation. Via had called teacher Edward Fontaine his mentor, and in 1988 Edward Fontaine and his wife, Ruby Fontaine, visited Via at Fort Bragg, N.C. Via, now retired, concluded his career as a four-star general who last served as the 18th commanding general of the U.S. Army Materiel Command.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

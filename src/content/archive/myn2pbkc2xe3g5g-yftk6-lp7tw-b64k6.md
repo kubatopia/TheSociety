@@ -28,4 +28,4 @@ Clover Brand Dairy of Martinsville advertised its milk, in a bottle or paper car
 
 Harrison Toms was the new chairman of the local chapter of the American Red Cross, replacing Sam Owens. Cindi Showalter was the first vice chairman, Beth Sibbick second vice chairman and Sarah V. Wells, secretary. New directors were Mervin Brown, Sherri Haley, Lori Hurt, Barbara Jackman and Karen Warlitner. Ruth Dickerson, Harry Rhett and Suzanne Steele rotated off the board.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

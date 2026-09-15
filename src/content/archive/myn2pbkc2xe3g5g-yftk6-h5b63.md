@@ -28,4 +28,4 @@ It was opening day of Fairy Stone State Park’s summer season, and a 9-year-old
 
 Henry County Board of Supervisors Chairman Jack Dalton, 72, died. For 24 years he represented the Collinsville District. He had been sick since the start of the year and spent the week before his death in the hospital. He was remembered as a hardworking, fair and honest public servant.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

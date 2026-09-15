@@ -16,7 +16,7 @@ By **Dr. Barry Dorsey**, May 15, 2018
 
 The roles of frontier women were, among others, to serve as wives, mothers, and housekeepers.  They found it impossible to escape their surroundings even if they wanted to, because they were most often dominated by their husbands.  Yet they were perhaps the strongest people on the frontier.
 
-Scholars make a distinction between “frontier women” and “pioneer women.”  The first group came to the American colony by 1608 (Jamestown, in fact), while the latter group later settled the West and Pacific regions.  Therefore, this piece will be about the early colonists and settlers—the frontier women from about 1608 through the Revolutionary War.
+Scholars make a distinction between “frontier women” and “pioneer women.”  The first group came to the American colony by 1608 (Jamestown, in fact), while the latter group later settled the West and Pacific regions.  Therefore, this piece will be about the early colonists and settlers - the frontier women from about 1608 through the Revolutionary War.
 
 Two women came to Virginia in late 1608 and a few more arrived in 1609, but women were always in the minority.  The first two English women were Mistress Forrest (who came with her husband, Thomas Forrest) and her maid, Ann Burras.  Then in 1620-1622, the Virginia Company recruited and sent about 140 “maids” to the colony.  They came at the request of planters to become their wives, provided the planters reimbursed the Company for their passage at the rate of 120 pounds of tobacco.  Other English women signed on to go to Virginia as indentured servants for four to seven years.
 

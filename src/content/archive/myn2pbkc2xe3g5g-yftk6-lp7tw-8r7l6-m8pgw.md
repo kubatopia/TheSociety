@@ -28,4 +28,4 @@ Fire Chief Lloyd Gregory reported that at least $6,300 was raised locally for th
 
 Henry County middle school principals had been in a committee since spring looking into having mandatory school uniforms for the middle schools of Axton, Drewry Mason, Carver and Bassett. That was because of problems created by students dressed in skimpy clothing and clothes with references to gangs or sex.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

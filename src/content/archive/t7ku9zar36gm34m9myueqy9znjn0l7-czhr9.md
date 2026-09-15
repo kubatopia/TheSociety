@@ -32,4 +32,4 @@ Stanley Knott, a retired postal worker, helped Memorial Hospital purchase nearly
 
 Dr. Elizabeth Vaughan was named the Martinsville Police Department’s Outstanding Citizen of the Year. Her charitable contributions over 16 years included raffling off her car to raise money for the police department in 1995, serving as honorary chairperson of the March of Dimes Walkathon and donating health care to any child on Christmas day.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

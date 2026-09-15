@@ -26,4 +26,4 @@ The Virginia Highway Safety Division awarded a $30,000 grant to make a driver ed
 
 As part of ways law enforcement was trying to control criminal activities at Rivermont Apartments, people on probation were barred from going there without permission. The ban was the idea of 21st Circuit Department of Probation Director Karl Hellriegel. Probation officers were driving through the Rivermont parking lots seeing if their probationers were hanging around there. Apartment complex manager Bessie Kent told the Martinsville Bulletin that it was a good idea but probably not feasible to enforce.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

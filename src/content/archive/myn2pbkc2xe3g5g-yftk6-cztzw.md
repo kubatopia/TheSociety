@@ -26,4 +26,4 @@ Three major Fourth of July events were held in Patrick County. An Independence D
 
 Montgomery Gentry was the headline band in Celebration 2000, the free holiday event at the Martinsville Speedway. Bands Fatz and the Drifters opened the show. Thirty thousand people attended the event, which included carnival games** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

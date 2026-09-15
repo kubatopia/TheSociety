@@ -34,4 +34,4 @@ Pollution of the water and air was a big problem locally in the 1970s. In the fi
 
 Carolyn Beale had just begun a job as assistant director of Reynolds Homestead.  Before that, she had taught at schools and also worked at the W.C. Ham Center in Martinsville and for the Virginia Rehabilitative Services. She was a founding board member of Gateway Streetscape. In the 1990s Reynolds Homestead’s three yearly signature events were Victorian Christmas, Spring Frolic and Children’s Art Vacation, and it was getting ready to start Art and Jazz on the Lawn.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

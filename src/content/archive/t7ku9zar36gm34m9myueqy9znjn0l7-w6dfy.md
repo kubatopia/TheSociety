@@ -34,4 +34,4 @@ At Bob White’s Chevyland Used Parts and Salvage, 220 North at Villa Heights, y
 
 Patrick Community Hospital filed for Chapter 11 bankruptcy. That would allow the hospital to remain operating for the following 120 days while it devised a financial reorganization plan.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

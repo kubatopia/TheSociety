@@ -30,4 +30,4 @@ Rudy’s Upholstery and Decorating on 334 Memorial Blvd. had been open since 195
 
 Federal records showed that 5th District Rep. Virgil Goode, I-Rocky Mount, had received almost $30,000 in contributions from residents of Martinsville and Henry County, bringing the funding for his campaign to almost $500,000. He received donations of $1,000 or more from Ruth Chaney, John Clark, Jacob E. Frith, Mary Katherine Frith, Irving M. Groves Jr., J. Clyde Hooker, Billy Lawrence, David H. Lewis, William R. Martin Jr., Betty Jo Martin, Chris F. Mohr and Janet D. Mohr, Susan Pannill, William L. Pannill, Kennon G. Robertson and Lynn Robertson, Mattie Sheppard, Irma H. Short, Robert Spilman, Elizabeth Walker and the Virginia Reform Party.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

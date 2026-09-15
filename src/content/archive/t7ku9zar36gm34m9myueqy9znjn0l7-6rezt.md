@@ -30,4 +30,4 @@ Robert McReynolds, 36, was awarded $1 million in Henry County Circuit Court afte
 
 The Henry County Board of Supervisors voted to award a contract to build the new $3.2 million county administration building to John W. Daniel Inc. of Danville. That firm’s bid was for $2,519,737 for the four-story building. Bids for pre-cast concrete for the main part of the building had been awarded in September for $518,300 to a Roanoke firm and for steel, $267,000.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

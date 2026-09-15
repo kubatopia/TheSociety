@@ -30,4 +30,4 @@ Of the Martinsville School Board, Chairman Rev. William Shackleford and Vice Cha
 
 The Class of 2000 was graduated from area high schools. Students who had been followed during their school careers since kindergarten in an article series in the Martinsville Bulletin opened a time capsule. The box included toys, clothes, books, pictures the children had of themselves when they were in third grade and their statements of favorite television shows and what they would like to do when they grew up.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

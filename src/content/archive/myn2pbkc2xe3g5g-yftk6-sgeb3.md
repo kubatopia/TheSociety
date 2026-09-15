@@ -26,4 +26,4 @@ William F. Franck was honored with the MHC Chamber of Commerce’s Heck Ford Awa
 
 Henry County Public Service Authority was told that it was responsible for fixing the problems at the former Sanville Utilities, it learned during a meeting with state Department of Education staff.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

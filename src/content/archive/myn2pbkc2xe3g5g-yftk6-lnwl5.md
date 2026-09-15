@@ -32,4 +32,4 @@ Martinsville Mayor Mark Crabtree invited the Henry County Board of Supervisors t
 
 People who went on the Virginia Museum of Natural History’s dinosaur dig in Wyoming include Nancy Bell, the public relations coordinator and grant writer for City schools; Nancy Counts, a Martinsville High School special education teacher; John Johnson, an earth science teacher at MHS, and students Chad Flanagan, Mary McGregor Knighten and Mary Catherine McGinn (whose essays on why they wanted to join the expedition won them the experience).
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

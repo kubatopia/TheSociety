@@ -30,4 +30,4 @@ Central Home Builders advertised a 3-bedroom house for $20 down and payments of 
 
 A new exhibit, “Dinosaurs!”, opened at the Virginia Museum of Natural History. The exhibit featured accurate, full-size dinosaur skeletons, fossils, fleshed out models and a walk-through rib cage displayed across 4,000 square feet.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

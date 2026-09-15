@@ -30,4 +30,4 @@ Groundbreaking was held for the $890,000 new building of First Federal Savings a
 
 Tests by the Virginia Department of Environmental Quality showed that fecal contamination in the privately-owned Fairway Acres Treatment Plant near Blackberry Creek was at least 160 times the maximum allowable levels. Lori Kendrick, who lived in the area, said she paid Anthony $23 a month for service, and PSA charged $16 a month for service, and she would rather pay PSA the higher $23 a month if PSA would just take over. Other residents, including Don and Pam Rhodes, said sewage has come from their sinks, toilet and tub. Bobby Warf, who owned Warf Trailer Park in the area, said he has seen sewage blow manhole covers in the air and shoot 3 feet high from the holes.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

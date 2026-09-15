@@ -36,4 +36,4 @@ Top bowling scores: Jo Bigs of Jimmy White Sheet Metal League at Sportlanes hit 
 
 Henry County bought the 5 B’s building for $3.8 million at an auction in front of the county courthouse. The 170,000-square-foot building was on 25 acres in the Patriot Centre at Beaver Creek Industrial Park. It was hoped that the county could sell it to another industry.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

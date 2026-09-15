@@ -32,4 +32,4 @@ Jim Katsifos, the owner of the Busy Bee Café, was under a deadline: He had unti
 
 “What Would Jesus Do?” was the catchphrase of 1999, and it also was the name of a musical program put on under the direction of youth minister Tony Gray of Villa Heights Baptist Church, with teen members of that church, McCabe Memorial Baptist Church and Wesley Memorial United Methodist Church.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

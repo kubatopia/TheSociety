@@ -36,4 +36,4 @@ High winds knocked down tress across the area, causing power outages and startin
 
 The town of Ridgeway was ready to take on the County of Henry in Court: The Town Council voted unanimously to appropriate up to $2,500 in legal expenses for a utility tax dispute. The issue was whether a town utilities tax could replace the county’s existing tax, which brought in about $34,000 a year for Henry County. Henry County’s attorney was Robert Haley.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

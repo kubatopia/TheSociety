@@ -36,4 +36,4 @@ Bassett people went to great lengths to recover a child’s wheelchair from Phil
 
 The Dan Greene Memorial Stadium at Martinsville High School was nearing completion in construction. Greene died in 1970. More than 300 donors contributed toward construction costs, and their names were engraved on bronze a plaque at MHS.   **    **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

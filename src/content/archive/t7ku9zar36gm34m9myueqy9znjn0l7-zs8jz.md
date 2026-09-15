@@ -26,4 +26,4 @@ James E. Cox Jr., 11, of Martinsville, was hospitalized after his right hand was
 
 [Regular readers of this column will notice that 1974 and 1999 have been left off. We’ve gotten behind and will add those in on June 20.]
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

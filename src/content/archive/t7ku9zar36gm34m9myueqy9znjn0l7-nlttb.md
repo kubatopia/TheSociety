@@ -36,4 +36,4 @@ A 2-story building on the corner of Chatham Road (Route 57) and Mountain Mist Dr
 
 Martinsville-Henry County Junior Miss Nancy Redd won the position of second alternate Saturday night in the Virginia Junior Miss competition in Roanoke. In 2003, she was crowned Miss Virginia and finished in the Top 10 in the Miss America pageant.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

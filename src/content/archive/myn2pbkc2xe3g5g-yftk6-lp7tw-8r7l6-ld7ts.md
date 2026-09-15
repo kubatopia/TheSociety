@@ -28,4 +28,4 @@ The Virginia Department of Motor Vehicles chose as location for a new building a
 
 Trivette Studios was at Starling Pharmacy for 2 days to take photographs of children and families. A color package of three 8x10’s, three 5x7’s and 15 billfold photos cost $13.95, with a $3 deposit upon sitting for the photos.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

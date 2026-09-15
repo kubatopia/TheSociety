@@ -26,4 +26,4 @@ On Feb. 21 Mrs. James M. Ingram of Colonial Drive, Collinsville, planted some â€
 
 Rives S. Brown Salespeople of the Month were Alice Elmore and Susan Preston.
 
-*â€” Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

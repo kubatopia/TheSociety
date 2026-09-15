@@ -34,4 +34,4 @@ Marie Jamerson Handy of Collinsville was promoted from loan interviewer and tell
 
 School started back in Henry County and Martinsville. One difference that affected schools across the state was a 60-second moment of silence at the start of each day. Some county schools, such as John Redd Smith Elementary School and Drewry Mason Middle School, did not have air conditioning, and school officials were planning to monitor how hot it was in the schools and make schedule changes as needed. Both the Martinsville and Henry County school systems did not allow students to bring pagers or wireless phones to school.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

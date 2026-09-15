@@ -36,4 +36,4 @@ First United Methodist Church’s teenagers and adults conducted a Summer Fun fr
 
 Crestar was re-opening its Church Street office after a renovation. As part of the promotion advertising the reopening, it held a drawing with prizes being a $250 Kroger gift certificate, a $100 Belk gift certificate and a Coleman cooler camping set.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

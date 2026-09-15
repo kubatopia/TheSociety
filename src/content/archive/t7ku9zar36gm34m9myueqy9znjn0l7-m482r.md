@@ -32,4 +32,4 @@ A meeting was held at the Monroe Koger Hall of Fairway Baptist Church for reside
 
 The new Martinsville Farmer’s Market opened where it is now, between Church and Main streets by Moss Street. Martinsville Mayor Mark Crabtree welcomed the crowd.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

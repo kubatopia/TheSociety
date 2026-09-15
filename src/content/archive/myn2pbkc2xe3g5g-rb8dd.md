@@ -30,4 +30,4 @@ Both Henry County Sheriff C.P. Witt and Patrick County Sheriff Calvin Harbour we
 
 During Local Government Day 2000, about 100 students from Spencer-Penn and Fieldale Elementary Schools toured Henry County’s governmental offices. Their activities were organized by Sgt. R.D. Minter. They visited Supervisors Debra Buchanan and Paula Burnette. They played a price-guessing game, of uniform pieces and equipment, with Deputy Chris Stovall. They learned that it cost $2,000 to outfit a deputy with basic items, and adding a special radio brought the cost up to $5,400. Spencer-Penn school closed in 2004, and Fieldale closed in 2005.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -26,4 +26,4 @@ A new garbage-collection policy took effect in the city: People had to put their
 
 Dr. Calvin Rains was sworn in as Collinsville District Supervisor, filling the role left vacant since May 24, when Jack Dalton died. Other candidates had been Stuart Bowman, Nora Jenkins, Cindy Summit, Tony L. Millner Jr., Wilhelmina Foster, Richard Ephgrave, John Scott and George Lyle.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

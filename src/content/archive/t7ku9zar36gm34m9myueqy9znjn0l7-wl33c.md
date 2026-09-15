@@ -36,4 +36,4 @@ There was no Feb. 29, 1999, since 1999 was not a leap year, but to have an entry
 
 **PHOTO:** Tim Slate on his family tobacco farm in Patrick County, 1978. Photo by Carl Fleischhauer, Blue Ridge Parkway Folklife Project collection, 1977-1981 (AFC 1982/009)
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

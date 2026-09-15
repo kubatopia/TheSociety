@@ -30,4 +30,4 @@ The Railroad Nuts met informally now and then. The group was headed by Assistant
 
 A local family inspired a bill that, if enacted into Virginia law, would require insurance companies to cover the cost of the equipment needed for the care of diabetes at home. Chris and Karen Starnes’s 17-month-old baby, Carriella Starnes, had diabetes, and the couple paid more than $200 per month for needles, syringes, blood sugar testing equipment and other supplies. De. Ward Armstrong, D-Collinsville, introduced the House bill, and the Starneses testified in support of the bill before the House Corporations, Insurance and Banking Committee in Richmond.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

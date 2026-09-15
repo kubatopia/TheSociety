@@ -30,4 +30,4 @@ It was the first day of school at Rich Acres Elementary, which had just begun th
 
 Jim Beckner was named interim superintendent of the Henry County School Board, since Superintendent J. David Martin announced that his resignation would be effective Aug. 4, moved up from a previous announced date of Aug. 25. Martin said that he wanted to move the date up since his wife was already working in Williamsburg.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

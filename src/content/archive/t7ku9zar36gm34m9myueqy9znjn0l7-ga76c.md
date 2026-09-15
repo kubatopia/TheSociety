@@ -30,4 +30,4 @@ ale at People’s Drug Store, Patrick Henry Mall: spray paint, 68 cents; folding
 
 All but one member of the Prince Edward County School Board resigned in protest of the continuing closure of public schools throughout Prince Edward County and Farmville. The county’s schools were shut down the prior year when the supervisors, unwilling to accept federally ordered desegregation, withheld operating funds. The members’ resignation reflected their unwillingness to declare the county’s unused public school buildings surplus.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

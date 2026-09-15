@@ -32,4 +32,4 @@ The price of sugar had gone way up. Laurel Park Grocery didn’t even have any g
 
 Kantilal “Kenny” Patel, prorprietor of the Days Inn on Greensboro Road, was robbed in his parking lot while getting things out of his van. Two North Carolina men were arrested the next night.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

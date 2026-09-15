@@ -30,4 +30,4 @@ Patrick Henry Community College’s Class of 2000, which was graduated on this d
 
 Steve Harris of Cascade died from burns he received in a fire in April, when he and his cousin, Ronnie Harris, were working on a vehicle at Chatmoss Auto Parts. Ronnie Harris had died the week before.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

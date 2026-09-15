@@ -36,4 +36,4 @@ James Edward Gallimore, 21, of Ararat died instantly when his head struck a rail
 
 First United Methodist Church held a free clothing give-away, “Clothe-A-Child Project,” at its Warehouse on Lester Street. The warehouse had been renovated in the past year and was being used as a “Clothes Closet” to give clothes to people in need, open one weekend a month. Clothe-A-Child was co-sponsored by the Clothes Closet and a cluster of 17 Methodist churches. Jennifer Booker of Fieldale UMC was the Clothe-A-Child coordinator Two-way radios were placed on the cars of O.T. McCray, Arto Haley and Rex Voss of Bassett and J.A. Stegall of Fieldale.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

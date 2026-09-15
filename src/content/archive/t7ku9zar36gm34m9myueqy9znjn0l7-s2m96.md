@@ -34,4 +34,4 @@ Martinsville Bulletin reporter Gail Dudley went undercover for three days as an 
 
 Henry County debuted a new 24-hour telephone message line which would give fast automated answers to common questions. The phone number was 634-4636. It cost $25,000 to set up and would cost about $2,000 a year to operate. The phone number was 634-4636 (634-INFO). Three-digit telephone codes would bring the callers to individual topics, and brochures with those codes were available at places around town.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

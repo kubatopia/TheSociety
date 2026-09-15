@@ -38,4 +38,4 @@ The County of Henry bought 21 acres along the Smith River near Koehler from Fiel
 
 Enrollment at Patrick Henry Community College reached a record high of 3,115 students. (Enrollment for Fall 2023 was 1,932, according to SCHEV.)
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

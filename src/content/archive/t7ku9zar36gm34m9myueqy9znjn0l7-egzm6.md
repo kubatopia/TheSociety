@@ -30,4 +30,4 @@ Vehicle purchases by staff of the Henry County Sheriff’s Office were under rev
 
 The Toy Store opened for three days in the former Acme grocery store in the Dutch Inn Plaza in Collinsville. The Toy Store was a joint project between the Salvation Army and Christmas Cheer to provide toys and food at no cost to displaced textile employees and their families. Fifteen to 20 volunteers each day walked through the store with each patron. Lt. Erik Nickell was the head of the Salvation Army.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

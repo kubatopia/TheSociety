@@ -28,4 +28,4 @@ Greg Morton, 18, the son of Spencer Morton of Bassett, had received an unusual s
 
 The Martinsville Garden Club Memorial Garden was planted at the Martinsville Branch Library. Women who helped create it included Lynne Beeler, president of the club; Page Beeler, president of the library garden; Catherine Harcus, co-chairman of the library garden; Lori Hurt, club member; and Janie Davies of Field of Dreams nursery. Plants included Nelly Stephens holly, dogwood, crepe myrtle, laurel and Kawson cherry trees. Initially it was done in memory of Shelley Drane, who was killed in an auto accident at age 49. The Martinsville Garden Club had maintained the gardens of the library since at least 1980, when club member Frances Leavitt started the project. Since January, each club member had spent at least 3 hours a month and one work day a year at the library.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

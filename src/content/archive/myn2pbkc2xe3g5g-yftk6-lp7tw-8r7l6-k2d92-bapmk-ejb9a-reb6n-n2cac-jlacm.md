@@ -30,4 +30,4 @@ Letter printed in the March 16 Martinsville Bulletin: “Dear Friends of the Axt
 
 Nine of the 10 employees of the Virginia Museum of Natural History who had been laid off in February 1976 were called back to work. The layoffs had been done in reaction to an expected loss of state funding, but the governor later announced that budget cuts were aimed at avoiding state employee layoffs. The staff, with the resumed positions, numbered 38 full time and 15 part time.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

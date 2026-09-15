@@ -26,4 +26,4 @@ The Martinsville Fire Department was restoring its 1934 American LaFrance fire t
 
 A construction and expansion project at Calvary Christian Church, on Mulberry Road across from Rives Road, including installing a new steeple.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

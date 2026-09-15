@@ -28,4 +28,4 @@ The Virginia Employment Commission received funding for about 60 summer jobs for
 
 Terrence Nowlin was a Patrick County High School graduate and a rising junior at James Madison University. He spent the summer as an intern at the Martinsville Bulletin.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

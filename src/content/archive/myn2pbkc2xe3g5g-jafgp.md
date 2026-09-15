@@ -28,4 +28,4 @@ A new slogan and logo were unveiled by the Martinsville-Henry County Chamber of 
 
 Nationwide media attention kept up for 47-year-old Dr. Elizabeth Vaughan, because of the way she dressed in sexy clothes for work. She first was featured in USA Today, and then NBC’s Today Show; then “Dateline NBC,” “Inside Edition” and the “Montel Williams Show,” all within the span of about a week.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

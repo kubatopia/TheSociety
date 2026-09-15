@@ -42,4 +42,4 @@ Henry County Pallet and Box in Ridgeway had a fire, which began from workers try
 
 Clearview Elementary School was the only local school that went year-round instead of the traditional school year. It was the students’ break time, but some third-graders got a field trip. They went along with City Schools Superintendent Ira Trollinger to Memorial Hospital to see some of what happens in cardiology. Trollinger, who had had a heart attack a few months earlier, had on cardiac probes and showed the students. Nurse Terry Nolen also showed cardiac probes to the students.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

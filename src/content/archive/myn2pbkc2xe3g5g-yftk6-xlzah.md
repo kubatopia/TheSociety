@@ -32,4 +32,4 @@ U.S. Cellular at 391 Liberty St. offered unlimited cell phone night and weekend 
 
 Sanville Elementary School Principal Deborah Nemec kissed a pig – in keeping a promise to her students that if they read a total of more than 638,000 hours, she’d do it. ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

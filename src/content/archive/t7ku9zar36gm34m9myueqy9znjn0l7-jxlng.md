@@ -40,4 +40,4 @@ Unemployment benefits ranged from $50 to $230 per week, for a maximum of 26 week
 
 The Ridgeway Town Council was Mayor Ed Page, Vice Mayor William C. Hairston, Brenda Campbell, Alice Turner, Gary Johnson, Craig O’Der Jr., C.W. “Ace” Adkins and Duke Secrest.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

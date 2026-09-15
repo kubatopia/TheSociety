@@ -32,4 +32,4 @@ For Valentines Day, you could get your sweetheart – a “Meaningful” 10K hea
 
 Martinsville Ford Body Shop at 201 Commonwealth Blvd. was offering a “Valentine’s Special” – Complete Paint for $675, with a free ’99 Ford Classic calendar.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfiche at the *[*Martinsville Branch Library*](https://Martinsville Branch Library)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfiche at the *[*Martinsville Branch Library*](https://Martinsville Branch Library)*.*

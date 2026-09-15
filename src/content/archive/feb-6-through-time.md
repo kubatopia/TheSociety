@@ -34,4 +34,4 @@ In the 1970s, special police forces in Stanleytown (3 officers) and Fieldale (2 
 
 Kids went to school on Saturday, Feb. 6, as a makeup school day. Sandi Roberts was a senior then at Fieldale-Collinsville High School, and she told a Bulletin reporter that at least it was better than losing a day of spring break. Her friend Elizabeth Martin agreed.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfiche at the *[*Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfiche at the *[*Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

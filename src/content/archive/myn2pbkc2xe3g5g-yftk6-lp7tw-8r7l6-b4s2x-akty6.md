@@ -28,4 +28,4 @@ Following 5 years of planning by the Martinsville-Henry County Chamber of Commer
 
 The dropout prevention program in Martinsville City Schools was Project YES, and Bill Maxwell was its dropout prevention specialist. His office was in Martinsville Middle School, and he visited each student in his program once a week. His students ranged across all the grade levels.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

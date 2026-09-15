@@ -30,4 +30,4 @@ Jimmy and Kathy Mullins opened Mullins Custom Exhaust and Auto Repair at 5839 Oa
 
 Gubernatorial candidate Mark Warner visited Martinsville. He addressed about 75 laid off textile workers at The Gallery on Memorial Boulevard and attended a private fundraiser at the Dutch Inn in Collinsville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ In a contest sponsored by Frith Construction Co. on what the Native American fis
 
 Law enforcement officers and apparel industry officials raided a building in Ridgeway and discovered $300,000 in suspected counterfeit clothing and merchandise. The clothing was discovered during an undercover operation at The Eden Flea Market, and it was traced to a screen-printing operation on Main Street, next to the mayor’s office, in Ridgeway. Items included T-shirts, sweatshirts, pants, jackets, coats, sunglasses and other items with names such as Nike and Tommy Hilfiger.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

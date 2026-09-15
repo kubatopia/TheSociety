@@ -34,4 +34,4 @@ It was reported that during June, the Martinsville building inspection departmen
 
 Carter’s at 29 E. Main St. advertised its “Biggest Sale of the Year!” Men’s suits, hundreds to choose from – Buy 1, get one free; same with pant sets, and slacks. Sportswear was 50% off. Men’s jeans and short sets were 50% off, and dress shirts, 25% off. Tie sets, shoes, sportscoats and boys’ clothes were also half off; boys’ shoes were 25% off. The entire ladies department – suits, dresses, hats, pant sets and more – was 40% off. Sandy Carter is still selling suits in the same location today, and you’ll often see him (always sharply dressed, of course) out on the sidewalk, and he’ll throw up his hand and wave a greeting.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

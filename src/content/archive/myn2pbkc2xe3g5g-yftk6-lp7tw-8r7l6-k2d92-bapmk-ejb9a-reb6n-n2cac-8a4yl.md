@@ -30,4 +30,4 @@ Martinsville High School students presented the comic strip musical comedy “Li
 
 Martinsville police said they had eliminated by use of polygraph test a number of suspects in the September murder of Lisa Thomas. They had asked both Malvester Muhammed and Maverick Thomas, Lisa’s husband, to take the polygraph tests, but both men refused, with Muhammed stating a belief that the test could give a false answer.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

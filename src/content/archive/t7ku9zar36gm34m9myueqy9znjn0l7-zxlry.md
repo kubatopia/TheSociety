@@ -40,4 +40,4 @@ Brig. Gen. Richard L. Prillaman, 46, had just been promoted to brigadier general
 
 Jessie Hairston of Cordover Drive was saved from a house fire by his cousin and neighbor, Loretta Hairston, who was knocking on his door after she saw smoke at the house. When he got out of the house, Dyers Store firefighter Louis Redd was pulling up and getting hoses from the truck. Mike Reynolds and Robert “Peter Rabbit” Walker starting spraying water on the flames. By the time the rest of the fire department arrived, the fire was pretty much put out.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

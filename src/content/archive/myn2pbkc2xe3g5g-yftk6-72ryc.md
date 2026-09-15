@@ -30,4 +30,4 @@ Druid Hills Baptist Church with its pastor, the Rev. C.E. Blankenship, was tryin
 
 Winners of the City Council election were vice mayor Gene Teague and incumbent Councilman Bruce Dallas. Planning Commission Chairman Ron Ferrill won the seat vacated by Elizabeth Haskell, who did not seek reelection.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

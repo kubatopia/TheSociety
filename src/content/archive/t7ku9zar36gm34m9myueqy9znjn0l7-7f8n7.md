@@ -32,4 +32,4 @@ In 1974 Ralph C. Lester was the general chairman for the United Way Campaign in 
 
 The Martinsville Sheriff’s Office had begun fingerprinting with a computer (fingers were placed on the glass screen of a scanner) rather than the old system of pressing fingers into ink and then onto paper. The new system allowed print verifications to be done in just 15 minutes as opposed to the several days it took when they had to be mailed out. The $64,000 equipment was purchased with a grant from the Virginia State Compensation Board.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

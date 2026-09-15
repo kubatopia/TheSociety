@@ -40,4 +40,4 @@ Mrs. Mary S. Martin was nearly the end of year year-long reign as “Mother of t
 
 American Electric Power (which became Appalachian Power Company) had to pay the City of Martinsville a $1.64 million refund, in two installments, by the terms of a 1992 rate suit settlement.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

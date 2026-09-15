@@ -32,4 +32,4 @@ James George Cristall II, 18, of 23 Corse Ave., Villa Heights; Calvin Major Hair
 
 The Toy Store by Salvation Army and Christmas Cheer, which allowed displaced factory workers to shop for gifts at no charge, served 2,670. Fundraising for Christmas Cheer raised $33,694, an danother $80,000 to $100,000 worth of toys had been donated. The Salvation Army spent $13,500 on food and $500 on fuel and payroll expenses to send people to pick up toys.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

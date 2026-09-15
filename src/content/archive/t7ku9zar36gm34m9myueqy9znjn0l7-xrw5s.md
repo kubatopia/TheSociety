@@ -32,4 +32,4 @@ Winners of the Gen. Joseph Martin Chapter Daughters of the American Revolution G
 
 Barbara Prillaman was 1974-75 Secretery of the Year. She was crowned by 1973-74 Secretary of the Year Sharon Lawrence. William Franck was awarded Boss of the Year.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

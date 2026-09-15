@@ -32,4 +32,4 @@ About 4,000 people converged on Leatherwood for the fourth annual Virginia-Carol
 
 The Axton cannery opened for the season. Hildred Moorman, who had been canning at home for more than 30 years by then, had worked at the cannery for 6 years. Harry Hairston, a retired DuPont man, also worked at the cannery. The cannery was open on Tuesdays and Thursdays through Dec. 16. Area residents would bring food they’d grown at home to be canned and preserved, usually between 200 and 1,000 quart-sized tin cans each day.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

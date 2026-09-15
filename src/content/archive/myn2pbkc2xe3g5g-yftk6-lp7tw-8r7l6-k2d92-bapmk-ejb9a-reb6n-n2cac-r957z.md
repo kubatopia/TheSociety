@@ -26,4 +26,4 @@ Safari Club, the “Home of the Good Time,” featured disco music ever Friday a
 
 Pulaski Furniture Corp. was identified as the first tenant to come into the Commonwealth Centre (now also called the Clocktower), the former Tultex Corp. building on Franklin Street. George Lester had bought the $1-million-plus-square-foot building through the U.S. Bankruptcy Court in December for $750,000.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

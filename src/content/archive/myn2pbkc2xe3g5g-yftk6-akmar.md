@@ -26,4 +26,4 @@ Richard P. Gravely was the speaker at a meeting of the Shannon Hills Extension H
 
 Ten candidates were vying for the one vacant Collinsville Supervisor seat, left empty after the death of Jack Dalton: Stuart Bowman, Andy Parker, Nora Jenkins, Dr. Calvin Rains, Cindy Summit, Tony L. Millner Jr., Wilhelmina Foster, Richard Ephgrave, John Scott and George Lyle. However, it was discovered that Parker lived just past the district’s dividing line, so he ended up ineligible to run. Rains ended up being chosen to take the role. He was sworn in on June 28.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

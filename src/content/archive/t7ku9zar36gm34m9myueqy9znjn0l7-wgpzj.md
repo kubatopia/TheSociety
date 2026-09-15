@@ -32,4 +32,4 @@ In a project funded mostly by the Virginia State Library, “loose papers” at 
 
 The family of the late Teresa Hairston of 32 Bethel Lane Extension experienced a shock as they were gathered to mourn her passing. During a bad storm, a popular tree fell onto the back of the house, and the roof caved in. The tree first struck the room where Hairston’s mother was sitting with relatives Tyroshelle Hairston and Olga Hairston. Then it hit the dining room, where the family’s pastor, Mark Price Sr., of Greater New Bethel Apostolic Church, was eating.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

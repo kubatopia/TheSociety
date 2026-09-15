@@ -24,4 +24,4 @@ Here was a funny (to us now) letter to the Ann Landers advice column. Imagine if
 
 New members named to the Patrick Henry Community College Board were Elizabeth Haskell and Tim Martin, both of Martinsville’ Patricia Henry of Collinsville; Terri W. Birkett of Stuart and Betty L. Gereau of Moneta.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

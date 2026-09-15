@@ -30,4 +30,4 @@ Richmond police made Valentine’s Day sweeter for Michael Adkins, a third-grade
 
 Four hundred people, most of them teenagers, attended a True Love Waits program at The Warehouse, a building on Main Street owned by First United Methodist Church. A magician and speaker used tricks to punctuate his points. The Feedback Band of New Life Community Church performed music. More than 200 teenagers signed a banner saying they’d remain virgins until marriage.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

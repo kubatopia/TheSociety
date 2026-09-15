@@ -30,4 +30,4 @@ The Martinsville-Henry County Oilers won their second victory in the Connie Mack
 
 Heilig-Meyers furniture stores filed for Chapter 11 bankruptcy and announced plans to close two stores locally, one in Martinsville and the other in Collinsville, They had two dozen employees between them.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -26,4 +26,4 @@ Fieldale Towel Mill was hiring the following positions for second and third shif
 
 The Sportsman’s Club donated $1,000 to the Martinsville Fire Department to go toward the purchase of a thermal imaging camera. Melvin Carter was the club’s president.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

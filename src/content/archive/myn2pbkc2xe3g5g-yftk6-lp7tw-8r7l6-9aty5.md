@@ -28,4 +28,4 @@ The class “The Total Woman” was taught for four Thursday nights in a row at 
 
 The annual Sportsman’s Charity Club Labor Day picnic was held at the old farmers market on Fayette Street. A least 1,000 people came to the free meal of 500 pounds of fried fish, 12 hams and 1,000 grilled hamburgers, as well as hot dogs, barbecue, baked beans, cole slaw and sodas. The club had been holding those picnics for 7 years. Melvin Carter was the club president, and Earl Preston was the head chef.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

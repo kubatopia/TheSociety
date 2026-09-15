@@ -34,4 +34,4 @@ Martinsville Jaycees and Jaycettes presented the comedy “Harvey” Friday and 
 
 Vehicles advertised for sale: 1990 Honda Prelude SI, $3,000; 1997 Nissan Maxima, $13,900; 1999 Explorer Sport, $22,000; 1998 Ford Taurus, $8,600; 1998 Ford Contour, $7,650.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

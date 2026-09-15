@@ -26,4 +26,4 @@ Agent James B. Holley of 507 Mason Court, Martinsville, was named “Man of the 
 
 Matt Ashburn, a 2000 graduate of Martinsville High School, was ahead of the curve when it came to learning the internet and computers. He had experience in programing, web development, technical support and video production support. He helped set up the “e-town meeting” (a city council-related meeting broadcast online) on April 29. Ashburn also had set up his own websites: geekswap.com, an auction site, and another that tracked and recorded computer-generated errors related to Y2K.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

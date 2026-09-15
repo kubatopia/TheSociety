@@ -30,4 +30,4 @@ Bathroom rugs were in style, and JCPenney had all the configurations in stock an
 
 Chip Joyce and Blake Thomas opened a Prudential Insurance office at 103 E. Main St. Margary H. Scales opened Scales Styling Salon at 64 Idlewild Drive, Fieldale.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -26,4 +26,4 @@ The curve on U.S. 58 over Lover’s Leap was called Greasy Bend because so many 
 
 Kindergarten teachers and longtime friends Pat Walker of Spencer Penn Elementary School and Brenda Strickland of Snow Creek Elementary School developed a series of books that taught about historical figures such as Davy Crockett, Booker T. Washington, Harriet Tubman and Betsy Ross. The copyrighted books were called “Primary Points in History.” The books have fun features such as pop-ups, flaps, rhyme, simple facts, fake fur trimming Davy Crockett’s book and stripes that open one layer at a time in Betsy Ross’s flag-shaped book.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

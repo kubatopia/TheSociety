@@ -240,4 +240,4 @@ The newly renovated grounds of the Henry County Courthouse were dedicated. The d
 
 The plants in the islands of the parking lot at Martinsville Middle School were planted by the school’s Beta Club members, with help from Gateway Streetscape Foundation.
 
-[*— Information f*](mailto:ctoufas@afap.com)*rom museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+[*Information f*](mailto:ctoufas@afap.com)*rom museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

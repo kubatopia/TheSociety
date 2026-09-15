@@ -30,4 +30,4 @@ President Gerald Ford, who just had taken over the presidency from the disgraced
 
 Gateway Streetscape Foundation Inc. had hanging baskets and pots of flowers uptown and 45 planted sites around the area. It was so hot and dry that summer that Gateway’s executive director Lois Christensen was spending about 4 hours a day keeping everything watered, using about 1,500 gallons of water each week.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

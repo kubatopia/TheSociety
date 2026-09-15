@@ -38,4 +38,4 @@ More than two dozen legislators from across Virginia met with people laid off fr
 
 A snow storm added more snow on top of snow that already had been there. Lt. Jim Minter of the Martinsville Police Department reported that there were five wrecks alone just after it started snowing at 6:30 p.m.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

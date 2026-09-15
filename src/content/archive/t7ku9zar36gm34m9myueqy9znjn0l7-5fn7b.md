@@ -34,4 +34,4 @@ The Henry County Courthouse was one of four places to get automatic external def
 
 PHOTO: Tim and Sallie Hall Slate lift the bottomless tub on their tobacco farm, 1978, Patrick County. Photo by Carl Fleischhauer, Blue Ridge Parkway Folklife Project collection, 1977-1981 (AFC 1982/009), Library of Congress.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

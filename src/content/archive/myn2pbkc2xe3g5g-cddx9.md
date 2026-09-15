@@ -26,4 +26,4 @@ Dentist C.E. Ayers won the quilt and Clarence Jenkins of 22 Clay St. won the afg
 
 More than 250 children searched for their share of 2,000 Easter eggs at Easter Egg Hunt 2000 at Kings Mountain Park. The hunt was co-sponsored by Henry County Parks & Recreation Department and the Collinsville Jaycees. Susan Kanode of the Parks & Recreation Department helped organize it.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

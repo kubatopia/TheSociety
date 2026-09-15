@@ -1,11 +1,11 @@
 ---
-title: "Feb. 4, 1925 - 1950 - 1975 - 2000"
+title: "Feb. 4, 1925-1950-1975-2000"
 date: 2025-02-06
 type: Looking Back
 author: "Holly Kozelsky"
 summary: "100 Years ago – 1925 Mr. John Crews, who had recently come from Martinsville to Bassett to work in the Hooker-Bassett Furniture Co., had a very painful, but not dangerously,…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-dfbwj.webp
-imageAlt: "Feb. 4, 1925 - 1950 - 1975 - 2000"
+imageAlt: "Feb. 4, 1925-1950-1975-2000"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-dfbwj
 draft: false
 ---
@@ -30,4 +30,4 @@ Thirty-eight local residents were planning to take a bus trip to Richmond for an
 
 The Virginia Health Care Foundation issued a $123,500 grant to establish the Martinsville Family Medical Center to serve area residents in need. The center would open in the spring.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

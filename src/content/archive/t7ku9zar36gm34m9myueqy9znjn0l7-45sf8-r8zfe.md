@@ -34,4 +34,4 @@ Andrew W. Cooper, one of the owners and the president of Cooper & Ratcliff Super
 
 Jeffrey Curtis Clark, 31, of Skyview and JoAnn Alice Craig, 41, of Bassett died in an overnight house fire at 2500 Wingfield Orchard Road, Bassett.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

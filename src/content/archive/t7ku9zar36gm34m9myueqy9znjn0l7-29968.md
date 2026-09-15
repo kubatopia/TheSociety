@@ -32,4 +32,4 @@ The Martinsville-Henry County Woman’s Club raised more than $1,200 over 10 mon
 
 Water restrictions were made mandatory for the 2,800 customers in the southern part of Henry County, served by the Marrowbone Water Plant. Rules included: No watering lawns; no watering gardens between 6 a.m. and 7 p.m.; no filling swimming pool or construction tank trucks; no washing cars at home; no running dishwashers or washing machines with less than a full load; and no washing pavement or buildings.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

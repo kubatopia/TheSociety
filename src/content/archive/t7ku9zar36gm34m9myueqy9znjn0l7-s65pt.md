@@ -34,4 +34,4 @@ By popular demand, Drewry Mason High School’s Touchdown Club staged a repeat p
 
 Eight hundred and eighty seniors were getting ready to be graduated from high school June 6-7. The five Henry County high schools were Bassett, Fieldale-Collinsville, Drewry Mason, George Washington Carver and Laurel Park. There also was Martinsville High School, with 271 seniors, and Carlisle School, with its first graduating class, of 27 students.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

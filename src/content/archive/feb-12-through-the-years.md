@@ -38,4 +38,4 @@ The Martinsville-Henry County Women’s Club was doing its monthly scrap paper d
 
 The community learned that Lowe’s was coming, to locate behind the “new” Walmart. Work was expected to begin in 1999 to level the ridge behind Walmart including by bulldozing and blasting.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the *[*Martinsville Branch Library.*](https://www.brrl.lib.va.us/)
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the *[*Martinsville Branch Library.*](https://www.brrl.lib.va.us/)

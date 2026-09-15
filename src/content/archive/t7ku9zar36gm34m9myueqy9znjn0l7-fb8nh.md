@@ -36,4 +36,4 @@ Patrick Henry Community College named its administration building for Francis T.
 
 **PHOTO:** Phyllis Fleming, daughter of defense worker, Floyd W. Fleming from Spencer, who lives in new rural home built by FSA Farm Security Administration on T.H. Walters farm near Radford, Virginia (Library of Congress)
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

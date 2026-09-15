@@ -34,4 +34,4 @@ Henry County School offered general education classes at Fieldale-Collinsville H
 
 Showing at MovieTown were “Stir of Echoes,” “For the Love of the Game,” “Double Jeopardy,” “Blue Streak” and “The Sixth Sense.”
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

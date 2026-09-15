@@ -32,4 +32,4 @@ Open an account at First National Bank of Bassett and get a free gift: $50 to $4
 
 Southeastern Eye Center was in Mountain View Plaza beside Cato, and cataract surgeon C. Richard Epes, M.D., worked there.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

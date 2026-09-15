@@ -188,4 +188,4 @@ M. Eugene Boaz of Route 4, Martinsville, was named technical instructor on aircr
 
 Public Service Authority came up with an incentive to get its customers to sign up for electronic payment: Any customer who would sign up for it by January would get a year’s worth of water for free. PSA finance director Steve Kenrick said at a PSA board meeting he figured at least 3,000 of PSA’s 11,571 customers would sign up for electronic payment under that plan, saving PSA more money in the long run on billing fees.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

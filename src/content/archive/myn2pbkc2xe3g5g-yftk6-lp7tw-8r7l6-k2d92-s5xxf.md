@@ -26,4 +26,4 @@ Lumber company president Wilbur S. Doyle, independent, was challenging incumbent
 
 Reebok sneakers were on sale at Shoe Dept. in Mountain View Plaza. The ladies’ princess style cost $29.99; men’s & women’s classic leather, $54.99; kids’ Hyper Hoop II, $29.99; and Kids’ Radiate, $26.99.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

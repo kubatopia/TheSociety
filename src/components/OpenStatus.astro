@@ -69,7 +69,7 @@ const fallback = summarise(hours)[0] ?? '';
     return h * 60 + m;
   };
 
-  /** The museum's own local time, not the visitor's — someone browsing from
+  /** The museum's own local time, not the visitor's - someone browsing from
       another time zone still wants to know whether Martinsville is open. */
   function nowThere(timezone: string) {
     const parts = new Intl.DateTimeFormat('en-US', {

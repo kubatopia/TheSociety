@@ -34,4 +34,4 @@ Stanley Furniture posted record sales for 1999 – net sales of $264.7 million. 
 
 EMI Imaging announced plans to hire 30 employees for jobs in Stuart, bringing the total number of workers there to 104. Six employees worked in Bassett and the rest at its plant on Commerce Street in Stuart which had opened in November. Starting pay would be $6.50 an hour, with bonuses. David Wright was the president.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

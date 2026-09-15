@@ -34,4 +34,4 @@ Andre Terdell Pace, 17, of Carver Road, dies from injuries sustained after a bik
 
 A car crashed into the Post Office on Spruce Street. Annie Shelton, 85, of Martinsville, had parked in front of the entrance to the building and meant to back out, thinking her 1989 Ford Escort was in reverse – but it wasn’t. Her car crashed through both sets of double glass doors and took out a stamp machine before it came to rest against a counter.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

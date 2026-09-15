@@ -26,4 +26,4 @@ Mrs. J.R. Pyle of 505 Monroe St., Martinsville, was the winner of a fire and ste
 
 Lawrence Severt, the son of Eliza and Jim Severt of Corn Tassel Trail, was running the seven-day, 150-mile ultramarathon in the Sahara Desert. A month later, he would be graduated from medical school with degrees in neurology.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

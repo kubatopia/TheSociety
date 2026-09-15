@@ -26,4 +26,4 @@ The Collinsville Furniture Mart sold black metal bunkbeds, with room for three, 
 
 At Lester Home Center, Glidden wall paint cost between $14.99 and $20.99 per gallon. A gallon of Kilz sealer-primer-stain blocker cost between $12.99 and $14.99.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

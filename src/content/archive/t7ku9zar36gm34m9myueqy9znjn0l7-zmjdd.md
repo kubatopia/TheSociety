@@ -34,4 +34,4 @@ In the General Assembly, Del. Ward Armstrong, D-Collinsville, gave a presentatio
 
 Cecil Byrd, 55, was shot to death by robbers in his home in Mozambique, Africa. He was a former area resident who had been a missionary in Africa for at least 25 years.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

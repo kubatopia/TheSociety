@@ -30,4 +30,4 @@ John Early Dillard, 32, a convicted murderer from Oak Level, was one of seven st
 
 The fine arts department of Magna Vista High School presented its fourth annual dinner theater. Performers were Jason Helms, Brittany Rorrer, Van Hussey II, Samantha Diaz, Jeremiah Hedgecock, Charles Hird, Heather Weeks and Carla Doughty.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -38,4 +38,4 @@ Jimmy Frith, the 15-year-old son of J. Burness Frith, jumped his bike over a row
 
 Scott Grindstaff of Bassett announced that he would run for Henry County Treasurer. He was 36 at the time and had been an assistant cashier and managing officer of the Collinsville branch of Patrick Henry National Bank. [In 2024 he is the still the Henry County Treasurer.]
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -12,7 +12,7 @@ draft: false
 
 Join the Martinsville-Henry County Historical Society as we travel to Thomas Jefferson’s Poplar Forest for “1776 The Musical” on Thursday, June 29, 2023, for an evening of theatre under the stars, 7:30-10:00 P.M.!
 
-Revel in the revolutionary spirit of America’s Founding Fathers at Poplar Forest’s presentation of 1776—the Tony Award-winning comedy by Sherman Edwards and Peter Stone based on the events leading up to the drafting and signing of the Declaration of Independence. View these events through the eyes of Ben (Franklin), Richard Henry (Lee), John (Adams) and Tom (Jefferson). Celebrate their contributions to our country’s history.
+Revel in the revolutionary spirit of America’s Founding Fathers at Poplar Forest’s presentation of 1776 - the Tony Award-winning comedy by Sherman Edwards and Peter Stone based on the events leading up to the drafting and signing of the Declaration of Independence. View these events through the eyes of Ben (Franklin), Richard Henry (Lee), John (Adams) and Tom (Jefferson). Celebrate their contributions to our country’s history.
 
 Bring a lawn chair or a blanket. Please be considerate of those sitting behind and around you. Bug spray is highly encouraged. Outside food and non-alcoholic beverages are permitted. Concessions will be available for purchase including wine, beer, soda, and snacks. You must show ID to purchase alcohol.
 

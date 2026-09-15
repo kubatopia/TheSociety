@@ -36,4 +36,4 @@ J.L. Pace of Ridgeway counted that there were 5,310,000 leaves in the yard of hi
 
 It was announced that a new housing subdivision would be built off Blankenship Road near Hooker Field: Pebble Creek Subdivision, with 37 dwellings at estimated costs of $90,000 to $95,000.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

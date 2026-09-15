@@ -34,4 +34,4 @@ The 1974 tobacco sale season had opened in Martinsville with prices ranging from
 
 Martinsville Sheriff Steve Draper said that horseplay was the reason behind a recent officer shooting, and that officers should never engage in horseplay. On July 19, 1999, city deputies David Floyd and Bobby Branch were suspended from the department for about 20 days following an investigation in which, on July 19, Floyd was shot in the hip outside a Martinsville courtroom, and Branch was charged with misdemeanor of a reckless driving of a firearm. They also were required to become requalified to handle a gun.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

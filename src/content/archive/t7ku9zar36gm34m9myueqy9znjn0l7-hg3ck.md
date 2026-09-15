@@ -34,4 +34,4 @@ A smoking section was being considered for Martinsville’s buses. It was in rea
 
 Construction began on the Blue Ridge Rehab Center to double its size, which was 300 beds at the time. The expansion included building the 68-bed assisted living center.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -32,4 +32,4 @@ The annual Christmas parade started at 2 p.m. and had 89 entries, making it a sm
 
 Construction had begun on a branch of the Collinsville Volunteer Fire Department at the Beaver Creek at Patriot Centre Industrial Park.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

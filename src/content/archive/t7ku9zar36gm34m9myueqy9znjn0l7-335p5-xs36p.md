@@ -36,4 +36,4 @@ Bassett Furniture donated a six-piece living room furniture set for the Kosovo r
 
 SPC/E4 Michael Pernell, the son of Lidia Hairston, was killed in an automobile accident in Denmark. He had been stationed with the army in Kitzinger, Germany was traveling with a bride-to-be, groom-to-be and the bride’s sister to be the best man in the wedding.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

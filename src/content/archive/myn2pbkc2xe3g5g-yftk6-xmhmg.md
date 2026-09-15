@@ -28,4 +28,4 @@ The ribbon-cutting ceremony was held for the new Blue Ridge Manor, part of Blue 
 
 The Pulaski Furniture Corp. plant on Church Street was for sale.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -28,4 +28,4 @@ The Martinsville Jaycees’ Haunted Castle reopened in the old Western Auto stor
 
 Tiffany and D.J. Adkins opened DJ’s Billiards on Greensboro Road across from Kmart.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

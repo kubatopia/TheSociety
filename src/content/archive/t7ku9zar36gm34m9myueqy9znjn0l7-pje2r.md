@@ -36,4 +36,4 @@ The 5 B’s embroidery firm filed for Chapter 11 bankruptcy and closed its plant
 
 Electrician Wayne Goins, 28, died at a jobsite in Franklin County, working for Martinsville Concrete Products, when the boom he had been using touched power lines, carrying 7,200 volts of electricity. He had been using the boom to unload blocks.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

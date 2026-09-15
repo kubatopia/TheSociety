@@ -36,4 +36,4 @@ Top bassmaster Tomm Mann of Eufaula, Alabama, “The Old Injun,” brought his f
 
 Nancy Amanda Redd recently had won the Coca-Cola Scholars Program’s $20,000 college scholarship. It was awarded to her at a ceremony at Laurel Park High School by Lucy Holmes, a vending account manager for Coca-Cola Bottling Co. Consolidated in Martinsville. Redd won the scholarship after competing in rounds of interviews one weekend in Atlanta, and was one of more than 137,000 applicants overall.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

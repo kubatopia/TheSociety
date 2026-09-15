@@ -26,4 +26,4 @@ The Mother of the Year, as named by the Retail Merchants Association of Martinsv
 
 Owner Mark Tosh of Town Police Supply store was working toward supplying the 2000 Olympics in Sydney, Australia, with 950 walk-through metal detectors.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

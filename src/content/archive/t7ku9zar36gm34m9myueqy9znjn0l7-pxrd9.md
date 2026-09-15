@@ -30,4 +30,4 @@ A flash flood from heavy rains caused thousands of dollars in damages in Henry, 
 
 Both American Electric Power Company and the Martinsville Electric Departments asked people to cut back on their use of electricity because of expected unusually high demand caused by hot weather. An AEP spokesperson said that if the situation got any worse, rotating blackouts of 10 to 15 minutes might be instituted.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

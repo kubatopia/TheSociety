@@ -28,4 +28,4 @@ Henry County Public Service Authority voted for the construction of a $1 million
 
 In the “Wanted to Buy” section of the Martinsville Bulletin’s Classified Ads: “Looking for 9-foot pool table – Invisible Fence (for dog) – Rabbit Ear Shot Gun” / “Scrap Batteries Southwest Virginia Battery Distributor, South Daniels Creek Road, Collinsville” / Speedweigh Recycling Inc. 2-cent bonus with ad; Aluminum, copper, brass, radiators & stainless steel. 608 Stulz Road.”** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

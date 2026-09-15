@@ -30,4 +30,4 @@ Villa Heights Recreation Center held a field day, including an open house for sw
 
 Southern Virginia Optical opened on Brookdale Street. Mike Wimmer was the licensed dispensing optician.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

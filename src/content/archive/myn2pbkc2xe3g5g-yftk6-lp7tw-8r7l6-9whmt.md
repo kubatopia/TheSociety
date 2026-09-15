@@ -28,4 +28,4 @@ Mrs. Lawrence Kowal of Apache Trail had been growing gourds and squashes for man
 
 Patrick Henry Community College announced that it would offer an associate degree problem for teacher’s aides, starting in the spring semester.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

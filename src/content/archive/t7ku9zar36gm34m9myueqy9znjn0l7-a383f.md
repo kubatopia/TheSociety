@@ -33,4 +33,4 @@ The 21st Army Corps established a firing range on its 283-acre outdoor training 
 
 The Fieldale-Collinsville Cavalier girls volleyball team captured the championship of the MHC league. Teammates were Pam Collins, Deborah Woody (captain), Teresa Hodges, Karen Doss, Rochelle Penn, Pam Martin, Cindy Durrette, Barbara Stone, Karen Turner, Rose Turner, Kathy Turner, Deborah Gwyn (timer) and Natasha Smith (recordkeeper). The coach was Carolyn Smith.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

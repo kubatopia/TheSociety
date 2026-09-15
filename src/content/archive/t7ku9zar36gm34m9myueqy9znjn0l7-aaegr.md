@@ -32,4 +32,4 @@ Local school systems were preparing to follow the new state law which required i
 
 They feared Y2K problem as that many computers or their programs may fail at the turn of the year 1999 to 2000, because many computers read a new year as just “00” instead of “1900” or “2000”. County officials prepared for Y2K by recreating Year 2000 computer problems to test the emergency operation center’s response and to check and improve cooperation among agencies. Fourteen county departments took part in the exercise. Some concerns of what could happen at Y2K included: The 911 system may not work; traffic lights may not work; railroad crossing gates could be closed with flashing lights at all times; electricity goes out; it’s hard to get fuel; the jail security system malfunctions.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

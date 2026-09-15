@@ -15,7 +15,7 @@ interface Props {
 }
 
 const { title, description = site.tagline, bleed = false, overlay = false } = Astro.props;
-const pageTitle = title ? `${title} — ${site.shortName}` : site.name;
+const pageTitle = title ? `${title} · ${site.shortName}` : site.name;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
 

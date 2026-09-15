@@ -32,4 +32,4 @@ Sandy River Community Park held a chicken dinner fundraiser at the home of Laver
 
 A Brunswick stew fundraiser was held at the Sanville Ruritan Club on Stones Dairy Road in Bassett.`
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

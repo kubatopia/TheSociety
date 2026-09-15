@@ -28,4 +28,4 @@ Schools in Martinsville and Henry and Patrick counties were out because of snow,
 
 **25 years ago - 2000**
 
-The General Assembly voted to raise the maximum unemployment benefits from $232 to $268. Several legislators and people from this area had lobbied for much more, in the wake of mass layoffs. The original Textile Workers Relief Act of 2000, sponsored in the House by Del. Ward Armstrong, D-Collinsville, and in the Senate by Sen. Roscoe Reynolds, D-Ridgeway, had called for a 43% increase.*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+The General Assembly voted to raise the maximum unemployment benefits from $232 to $268. Several legislators and people from this area had lobbied for much more, in the wake of mass layoffs. The original Textile Workers Relief Act of 2000, sponsored in the House by Del. Ward Armstrong, D-Collinsville, and in the Senate by Sen. Roscoe Reynolds, D-Ridgeway, had called for a 43% increase.*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

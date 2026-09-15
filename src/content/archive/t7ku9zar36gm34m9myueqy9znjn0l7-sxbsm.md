@@ -34,4 +34,4 @@ Every one of the 81,000 seats at the Martinsville Speedway was filled for the NA
 
 Randy B. Hall of Spencer was injured at the Martinsville Speedway after he fell onto the track from the back of a cleanup truck. He was flown to North Carolina Baptist Hospital in serious condition, with a 4- to 6-inch cut at the back of his head.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

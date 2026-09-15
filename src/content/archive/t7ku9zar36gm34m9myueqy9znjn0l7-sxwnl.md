@@ -32,4 +32,4 @@ Two records were set for most electricity used by local customers of Appalachian
 
 Vice Mayor Gene Teague was one of the hundreds of people who were laid off from Tultex. He had worked there for 16 years, with his final role as the general manager of customer service, managing shipping of customers’ orders. Kim Adkins, who in a few years would become the mayor of Martinsville, had just finished working for a year at , where she was the director of corporate communications. She left Tultex and on Jan. 18 would take over as new executive vice president for the MHC Chamber of Commerce, succeeding Larry Aydlett, who was retiring after 22 years.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

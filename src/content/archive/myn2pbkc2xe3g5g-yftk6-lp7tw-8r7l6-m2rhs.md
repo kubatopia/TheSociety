@@ -26,4 +26,4 @@ Hargrave Military Academy student John K. Wheeler, 17, of 718 Corn Tassel Trail 
 
 Mignon Grant opened Grant’s Unisex Salon at 52 Main St. Beverly Carter and Carol Broadnax worked there with her. Her salon remains open today.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

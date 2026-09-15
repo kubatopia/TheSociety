@@ -32,4 +32,4 @@ Clyde Williams, 85, died. He had been a vice mayor of Martinsville and a princip
 
 Bassett Furniture was undergoing a restructuring which included the layoffs of 100 employees.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -34,4 +34,4 @@ Greyhound buses resumed their Martinsville routes, after a week idled by a natio
 
 The Christmas parade was held, and the theme was “People Helping People – All Year Long.” The grand marshal was the Shriners. Jeanne Lawson was the first vice president of the Christmas Parade Association.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

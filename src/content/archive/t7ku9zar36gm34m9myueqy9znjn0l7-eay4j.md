@@ -30,4 +30,4 @@ Bassett taxicab driver John William Futrell, 38 was shot to death, discovered in
 
 Miscellaneous items you could get from the classified ads: Christmas trees for wholesale – white & scotch pine, $4-$8, and Douglas fir, $15; Curtis Mathes floor model TV; exercise bike & Skimaster; fireplace insert with blower for $100; Nintendo with games for $100; Fisher 25-inch color TV and entertainment center, $200 for both.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

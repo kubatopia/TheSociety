@@ -34,4 +34,4 @@ The Woman’s Christian Temperance Union, which was formed in 1874 and strong in
 
 Hooker Field had just unveiled its new playing surface – Sports Grass, a blend of grass and synthetics. A synthetic base protected the roots of the bluegrass, which had been seeded over land that was graded, drained and implemented with better soil, at a cost of $180,000 ($105,000 from the city and $75,000 from the Houston Astros). Carper Cole was the general manager for the Martinsville Astros, whose season would start in a month. The first players to get to use it were from Martinsville and Laurel Park high schools.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

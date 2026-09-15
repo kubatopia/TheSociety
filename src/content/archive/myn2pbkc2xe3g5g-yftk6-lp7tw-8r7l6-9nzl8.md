@@ -30,4 +30,4 @@ Beverly Lester’s cocker spaniel, Tar Baby, won the best in show award in the K
 
 The Rev. Susanne Schulz Martin, 30, was the chaplain at Kings Grant Retirement Community.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -28,4 +28,4 @@ The West Martinsville Jaycees was the newest civic club in Martinsville. Johnny 
 
 At Chatmoss Auto Parts & Service, a fire on April 25 had severely burned Ronnie Harris, 57, who died from his injuries, and Steve Harris. The Harrises were cousins. Their friends and family members stepped in to keep their business going until Steve Harris could get back to work. Ted Woody of Axton and Lacy Compton of Martinsville did auto repair work for their business. Mary Ruth Brandt of Ridgeway, 75, did the bookkeeping. All their work was volunteer, with all earnings going to help Steve Harris. (Steve Harries died on May 13.)** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

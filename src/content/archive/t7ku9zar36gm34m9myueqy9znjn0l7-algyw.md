@@ -32,4 +32,4 @@ Sale at JC Penney: boys’ polyester/cotton shirts with crewneck collar and shor
 
 Wise Recycling held a kids’ recycling contest which ran for a full year. Winners were Heather Ashby, 11; Susan Gilbert, 10; and Bridgette Greer, 12. Heather collected 4,015 pounds of aluminum to hear a $150 cash award; Susan collected 1,142 pounds, with a $100 reward; and Bridgette, 950 pounds and $50. Heather earned a total of $1,402 over the year in recycling proceeds.  **   **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

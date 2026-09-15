@@ -26,4 +26,4 @@ Patrick County Deputy Zeb Scales was named acting sheriff until Sheriff Calvin C
 
 Papa John’s Pizza on Church Street was victim to an armed robbery, when a man brandished a gun demanding money from the cash register. It was the second time in a month for Papa John’s. Martinsville police offered to escort businesses to their banks to make deposits to help keep them safe.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ Because of a surplus of apples on the market in 1975 and 1974, the price of appl
 
 Martinsville High School senior Trey Deal won the Group AA State Golf Tournament in Abingdon, making him the state golf champion.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

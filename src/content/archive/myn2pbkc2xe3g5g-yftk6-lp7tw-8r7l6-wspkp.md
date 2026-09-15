@@ -30,4 +30,4 @@ Vicky Purdy of Bassett hosted a 17-year-old Brazilian girl as an exchange studen
 
 Three thousand dollars were raised at a fundraiser at the Dutch Inn for Henry County Democratic Congressional candidate John Boyd, 33. Just before the fundraiser, he was in Washington D.C. testifying before the U.S. Senate Agriculture, Nutrition and Forestry Committee about what he viewed as needed reforms in the Department of Agriculture.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

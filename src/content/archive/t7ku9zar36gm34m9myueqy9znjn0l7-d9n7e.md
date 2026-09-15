@@ -34,4 +34,4 @@ Harry Napper considered putting a ball and chain on his new pig. He had purchase
 
 The City of Martinsville donated a 1965 Ford 850 pumper truck (fire truck with a 750-gallon tank) to the new Henry Volunteer Fire Department.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

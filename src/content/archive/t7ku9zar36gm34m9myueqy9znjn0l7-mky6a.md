@@ -36,4 +36,4 @@ Lester Hone Center advertised plants for Christmas: poinsettias in 8-inch pot, $
 
 Top-Toe Designer Resale Shoes, owned by Cindy Lucas, opened at 939 Starling Ave. Members of the musical group Dodson Five attended the grand opening: Daniel Millner, Kasey Lucas, Scotty Lucas and Stuart Hairston.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

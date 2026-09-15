@@ -30,4 +30,4 @@ The interest in the nicknames of Fieldale men in their 30s and 40s continued wit
 
 Carlisle students had their first day of the school year, and dressed in more formal clothes following the new conservative dress code that was expected to project a serious, businesslike image. Colin Ferguson was the headmaster, and Simon Owen-Williams was the assistant headmaster and the director of the upper school. Students were required to wear a collared shirt, khaki pants or other suitable clothing, and were not allowed to wear T-shirts or jeans with holes in them. It also was the first year of Carlisle having an International Baccalaureate program.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

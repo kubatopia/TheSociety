@@ -36,4 +36,4 @@ The Dyers Store Volunteer Fire Department, which was new then, sponsored a motoc
 
 The Rives Theatre showed “Star Wars: Episode I – The Phantom Menace” to a capacity crowd. The theater had done more than $20,000 in upgrades in advance of showing that movie.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

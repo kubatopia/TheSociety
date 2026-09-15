@@ -34,4 +34,4 @@ The Henry County Historical Society held a meeting to discuss Bicentennial plans
 
 Sixty-three people were charged in a drug sting in which officers said they were selling drugs drive-by style in the area of Fayette Street, Armstead Avenue and Terry Street as well as One Hall Road and Wray, Second, Third and A streets; and Sandy Level, Piedmont Estates, Tanglewood Trailer Park and Longview Trailer Park. Thirteen of those arrested were juveniles. Three more people, including another teenager, were arrested the next day.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

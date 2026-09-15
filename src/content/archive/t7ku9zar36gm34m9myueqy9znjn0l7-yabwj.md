@@ -32,4 +32,4 @@ The Carver Road Ruritan Club was issued its charter on July 9, 1974 – the firs
 
 Prices at Taylor’s Supermarket: bananas, 29 cents a pound; tomatoes, 69 cents a pound; cabbage, 15 cents a pound.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

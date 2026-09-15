@@ -112,4 +112,4 @@ The Lester Lumber Co. had a city permit to construct a new tobacco auction wareh
 
 Sharon Dodson had begun her role as superintendent for Henry County Public Schools.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

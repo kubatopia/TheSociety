@@ -28,4 +28,4 @@ Four members of the Brown family died in a murder-suicide at 1302 Carver Court. 
 
 Volunteers were clearing out and cleaning up People’s Cemetery, which was located on about 5 acres of brush and woods at the end of Second Street. People involved included the Rev. William Shackleford of High Street Baptist Church, Vallie Hylton and Gertrude Edwards. The cemetery dates back to the 1800s. Until the 1960s it was called People’s Colored Cemetery, and it was the main cemetery (other than church and family burial grounds) for black people until Carver Cemetery in 1968. Some of the prominent citizens buried there include the Rev. G.P. Watkins, an early owner of Hairston’s Funeral Home; Joe Martin, one of the first black residents of Collinsville; and the Rev. John E. Wade, a former pastor of Pilgrim Baptist Church.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

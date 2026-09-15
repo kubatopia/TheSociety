@@ -32,4 +32,4 @@ A four-man team from the Virginia Association of Volunteer Rescue Squads was put
 
 Clearview Elementary School operated as a year-round school. Students attended 180 days a year just as students at all schools did, but they got three-week breaks at the end of every nine-week grading period.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

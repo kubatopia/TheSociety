@@ -34,4 +34,4 @@ The price of a pickup truckload of firewood rose to $15, up from $12, said to e 
 
 Employees of Hooker Furniture Corp. sent $2,600 to help victims of flooding by Hurricane Floyd.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

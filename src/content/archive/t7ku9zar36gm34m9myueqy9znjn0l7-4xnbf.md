@@ -32,4 +32,4 @@ Salaries for Henry County teachers with no experience:1972-73, $7,000 and 1973-7
 
 More than 1,000 people turned out for the Sportsman Club’s Eighth Annual Easter Egg Hunt and Cookout. Bruce Dallas was a club member and a Martinsville councilman. Casey Porter’s 16-month-old daughter, CaDasha Porter, was one of the raffle prize winners.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

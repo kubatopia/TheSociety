@@ -32,4 +32,4 @@ Jack Burgess, 30, was hired as the director of the Community Recreation Center. 
 
 Mobile homes were dominating the local housing market as inflation and high interest rates had been putting stick-built houses out of reach for many. From Oct. 1, 1973, through May 30, 1974, it was 356 permits for mobile homes versus 199 permits for single-family houses and five or multi-family dwellings.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -30,4 +30,4 @@ Henry County Sheriff C.P. Witt at a meeting of the Board of Supervisors defended
 
 Author Martin Clark of Patrick County gave a book talk on “The Many Aspects of Mobile Home Living” at Piedmont Arts Association. That was his first book, and now he is a national bestselling author.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

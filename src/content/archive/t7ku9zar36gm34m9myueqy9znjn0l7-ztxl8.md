@@ -32,4 +32,4 @@ The Auxiliary of Memorial Hospital of Martinsville and Henry County had about 10
 
 Playing at 220 Drive-In, a Triple Horror Show: “Doctor Death,” “Tales that Witness Madness” and “Vault of Horror,” and coming in three more days, “Dirty Mary Crazy Larry” with Peter Fonda and Susan George; at the Rives Theatre, “Huckleberry Finn,” with “The Sting” coming in three more days; at Martin Theatre, “The Wrestler;” at Town & Country, held over for a third week, “American Graffiti.” At the Castle Drive-In, there are movies, but with at least one title we cannot repeat here.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -34,4 +34,4 @@ Henry County Circuit Court denied the Axton-Laurel Park Lions Club a permit to o
 
 One-Stop Cellular in Liberty Fair Mall offered cell phones on sale. One phone with a cord, case and 100 minutes cost $20 a month, and two phones with two cords, two cases and 100 shared minutes cost $34.95 a month.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

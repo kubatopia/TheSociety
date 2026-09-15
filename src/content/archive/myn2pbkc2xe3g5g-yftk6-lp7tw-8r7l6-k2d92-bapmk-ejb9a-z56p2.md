@@ -28,4 +28,4 @@ The Christmas Parade was held, but amid worries and rumors that it would be Mart
 
 Bassett Furniture Industries Inc. announced that it would stop assembly and finishing operations at the J.D. Bassett Plant, laying off 280 people as it continued to consolidate operations. The rough-end fabricating and glue operations and powerhouse at J.D. Bassett would remain open and service other plants. Rob Spilman Jr. was the president and chief executive officer.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

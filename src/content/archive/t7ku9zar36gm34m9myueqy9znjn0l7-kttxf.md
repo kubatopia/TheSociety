@@ -32,4 +32,4 @@ The Men’s Roundtable Club Inc. and the Men’s Roundtable Foundation held a Sh
 
 The first local baby of the new year was Cameron David Spencer, born on Jan. 2 to Alysia and Jeremy Spencer of Confederate Avenue in Ridgeway.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

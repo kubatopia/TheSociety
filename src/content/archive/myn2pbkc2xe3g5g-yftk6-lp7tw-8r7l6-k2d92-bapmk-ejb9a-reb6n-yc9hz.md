@@ -26,4 +26,4 @@ A three-man team campaigned together for City Council, positioning themselves as
 
 Donna Massey opened No Tan Lines Tanning and Nail Salon on Riverside Drive in Bassett. Lynn Pack was a nail technician there.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

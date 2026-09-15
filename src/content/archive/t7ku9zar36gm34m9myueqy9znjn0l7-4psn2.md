@@ -28,4 +28,4 @@ It was the time of checkered polyester double knit. Globman’s Basement Store o
 
 Family Life Services Medical Clinic, a free clinic at 926 E. Church St., had a record 50 patients. The clinic was open some Saturdays. Funding included $15,000 from Henry County and $5,000 from Martinsville. Volunteers included Sandra Robertson, family nurse practitioner there; Cathy Linscott Via, registration desk; Registered Nurses Brenda Landau and Carolyn Nichols; Helen Wright, answering telephones; and Hannah Nichols, 10, babysitting and entertaining children in the waiting room, and weighing patients.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

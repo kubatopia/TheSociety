@@ -30,4 +30,4 @@ It was the first Martinsville race weekend after Dale Earnhardt had died. Severa
 
 The Ridgeview Apartments (off Church Street, across from Salmon Street) were being built. Regency Development Group was the developer of the apartment complex, which featured two- and three-bedroom dwellings.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

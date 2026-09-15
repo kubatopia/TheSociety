@@ -34,4 +34,4 @@ The body of an unidentified young man was found in the ruins of a burned mobile 
 
 Seven hundred people had Christmas dinner at the Mission Center’s annual holiday dinner. The Mission Center was on Cleveland Avenue. It was Scott Norman’s first year as head chef, filling the role previously held by Stuart Axelrod, who had gone to Myrtle Beach, S.C. It would be the last Christmas dinner at that location, because the building was changing hands. James Ayers was the Mission Center’s manager. Seventy-five volunteers helped. Simon and Betty Jean Pettie gave away fruit baskets, Rainbow Bread donated the rolls, several supermarkets donated food, and MARC Workshop, Quality Catering and Canteen Catering also donated items for the meal.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

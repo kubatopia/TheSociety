@@ -34,4 +34,4 @@ Morton Wade Lester, a Martinsville councilman and president of the Lester Corp.,
 
 Brand new high school graduates Stephanie Brinegar, Jason Biggs and Jeannine Hale completed their education with perfect attendance.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

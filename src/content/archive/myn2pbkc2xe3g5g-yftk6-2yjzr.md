@@ -26,4 +26,4 @@ About 20 residents of Lakewood Trail walked along their road in protest, carryin
 
 Winners of the Sportsman’s Charities Club scholarships were Sheneka Hairston, a graduate of Martinsville High School headed to Virginia Tech; Maria Belcher, a graduate of MHS, headed to Norfolk State University; Soyini-Amma Cross, a graduate of Magna Vista High School and headed to Virginia Commonwealth University; and Keisha Martin, an MHS graduate going to Virginia Tech.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ Globman’s advertised two hours free parking at the Broad Street Parking Lot, w
 
 Globman’s Basement Sale: Steel ironing boards, $4.96 (regular $8); General Electric AM/FM calendar radio, $17.96 (regular $30); men’s nylon jackets $3.59 (regular $6); calculator, $39.96 (regular $60); polyester double knit fabric, $1.96/yard (regular $4 to $6).
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

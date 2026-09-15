@@ -26,4 +26,4 @@ Jerry Rosenbaum and Mike Uram were fishing at Smith Mountain Lake when Rosenbaum
 
 Don Taylor reopened Moorefield’s Cleaners and Laundry at 622 Memorial Blvd. His daughter, Ashley Taylor, was the manager.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

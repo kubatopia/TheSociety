@@ -30,4 +30,4 @@ There was some talk that the Joseph Martin Elementary School, the oldest school 
 
 Textile firm Pluma closed its sewing plants in Martinsville and Vesta and held a going-out-of-business merchandise sale over the weekend, moving toward a December shutdown. It was the last day of work for 220 employees in Martinsville and 80 in Vesta. That left the distribution center in Martinsville with 75 people and 50 employees in the office and support staff, which was headquartered in the former Beaver Creek Plantation on King’s Mountain Road, now the headquarters of Carter Bank & Trust.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -30,4 +30,4 @@ Industrialist William F. Franck and retailer Abe Globman receive the first Natio
 
 Martinsville Uptown Revitalization Association and WHEE Radio sponsored an evening of bluegrass music and clogging. Bands were The Shelton Brothers, Wood & Stell and Inside Track. The Old Dominion Cloggers danced.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

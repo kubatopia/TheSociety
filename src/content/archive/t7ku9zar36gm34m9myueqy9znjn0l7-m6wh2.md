@@ -36,4 +36,4 @@ Residents in the southern and western part of Henry County, along the U.S. 220 c
 
 Judy Philpott, 54, the daughter of the late speaker of the House of Delegates A.L. Philpott and Katherine Philpott, left her home in Richmond for a 27-month tour of service as a Peace Corps volunteer in South Africa.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

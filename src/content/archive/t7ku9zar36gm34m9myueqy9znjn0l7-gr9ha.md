@@ -32,4 +32,4 @@ Representatives of social service departments and various charitable organizatio
 
 Tultex announced that it was cutting 2,600 jobs, including 1,100 in Martinsville, and would close at least seven facilities, all as part of Chapter 11 bankruptcy filing. It would reorganize into a smaller apparel marketing company, selling products made by other companies. Meanwhile, a special claims area of the Virginia Employment Commission would be set up in the following week at Frith Hall in Patrick Henry Community College to help the laid off workers.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

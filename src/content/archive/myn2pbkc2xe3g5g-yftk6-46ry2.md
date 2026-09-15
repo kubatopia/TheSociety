@@ -28,4 +28,4 @@ The Community Hospital Board of Directors agreed to lease the old hospital prope
 
 J&J Trains & Hobbies, a Boy Scout Authorized dealer, sold shirts, boys shorts, T-shirts socks, first aid kits, soap holders and more. The shop was on U.S. 220 South, across from Clarence’s Steakhouse.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

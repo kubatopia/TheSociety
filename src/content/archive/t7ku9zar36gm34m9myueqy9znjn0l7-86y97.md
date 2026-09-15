@@ -36,4 +36,4 @@ The Martinsville Astros was the baseball team here, and in 1999 they won the App
 
 Beanie Babies had been a craze for quite a while – but on this date their maker, Ty Inc., announced that at the end of 1999 all Beanie Babies would be retired.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

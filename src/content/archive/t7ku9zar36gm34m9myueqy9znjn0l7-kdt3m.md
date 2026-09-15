@@ -34,4 +34,4 @@ At Circuit City, you could sign up with US Cellular to get a Motorola StarTAC 30
 
 At the Martinsville School Board’s fall retreat, board member Chuck Davies recommended closing Patrick Henry Elementary School. He said declining enrollment meant that the city would have to close a school, and PHES was the most logical since it needed $2.5 in renovatinos. Its capacity was between 380 and 425 students, but it had only 283. Clearview Elementary School had just undergone a $325,000 renovation, and improvements for Druid Hills were estimated to cost $400,000. Albert Harris Elementary School also was open. Today, only PHES and AHES remain.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

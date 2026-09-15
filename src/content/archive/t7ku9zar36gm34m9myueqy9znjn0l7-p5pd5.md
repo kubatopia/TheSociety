@@ -34,4 +34,4 @@ Three local textile manufacturers make MHC the “Sweatshirt Capital of the Worl
 
 “Cops for a Cure: Ladies Night Out” was a womanless beauty pageant fundraiser at Bassett High School, raising more than $5,500 the American Cancer Society. Fourteen Henry County deputies competed. County Court Magistrate Mike Spence was the emcee. Wayne Green won.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

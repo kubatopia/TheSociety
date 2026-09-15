@@ -34,4 +34,4 @@ John M. Frank, 46, left as chairman of the board of Tultex Corp. and into the po
 
 Dr. Elizabeth Moore of the Virginia Museum of Natural History taught a non-credit class in local archaeology for four Mondays at Patrick Henry Community College. The focus was identifying artifacts and sites of Native American and European artifacts.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

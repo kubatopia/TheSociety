@@ -28,4 +28,4 @@ The Rev. John C. Hill, 64, died from injuries sustained in a car wreck on U.S. 5
 
 The local board of the American Heart Association collected $250 in honor of the late Carolyn Craft and donated in and a plaque to Jerusalem Christian Church. Craft had been an active member of that church and taught in Henry County schools. She received a heart transplant in 1989 and was active in heart association work until her death in 1999. Her husband was Charles Price, and her children were Darris, Briana and Charles Price Jr.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

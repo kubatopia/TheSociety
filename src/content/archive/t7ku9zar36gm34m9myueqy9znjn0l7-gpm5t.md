@@ -34,4 +34,4 @@ About 420 attendees of the American Iris Society convention in Roanoke toured th
 
 Seven families on properties around the former Fieldcrest Lodge united in protest against the idea of White Oak School buying that historic property to be used as housing. Operated by the Danville Association of Retarded Citizens, White Oak School had a location on Virginia Avenue in Collinsville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

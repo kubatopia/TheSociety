@@ -40,4 +40,4 @@ Father and son Greg and Luke Sanford saved their house at 618 Mulberry Road with
 
 EMI Imaging moved into a former Bassett Walker plant in Patrick County. EMI put 82 jobs in that building, which once had been host to 260 jobs with Bassett- Walker. It was a partial relocation from EMI’s first location on Microfilm Road in the County Line community, and 15 employees would stay at that place.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

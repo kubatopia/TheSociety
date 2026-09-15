@@ -30,4 +30,4 @@ The Martinsville Tobacco Market closed for the season, after total sales of almo
 
 Joy Shumate and Cathy Spencer were recognized as Rives S. Brown Salespeople of the Month for October 1999.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

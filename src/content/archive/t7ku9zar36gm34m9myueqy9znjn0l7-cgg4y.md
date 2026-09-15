@@ -30,4 +30,4 @@ The SPCA got a telephone number – 632-7195 – and an answering service 24 hou
 
 Patrick Community Hospital hired two consulting firms to help it come out of Chapter 11 bankruptcy. The hospital filed bankruptcy in November, listing $5.5 million in debts.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

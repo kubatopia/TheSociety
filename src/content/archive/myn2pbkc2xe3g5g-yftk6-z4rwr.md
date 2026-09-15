@@ -36,4 +36,4 @@ Controlling interest in Lacy Manufacturing Co. in Martinsville was purchased by 
 
 At Grayson’s Barber Shop, 321 E. Market St., Martinsville, “Nobody Walks Til The Clippers Talk – Where We Make Less Look Better,” their ad stated. A regular clipper cut cost $5, and a style, shampoo and cut cost $10.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

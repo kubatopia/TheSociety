@@ -32,4 +32,4 @@ The late State Sen. William F. Stone of Martinsville had bequeathed $25,000 to P
 
 Advertisements announced that the JC Penney Outlet Store was opening soon. “It is a totally different JCPenney! We sell overstocked and discontinued merchandise from our distribution network at 20% to 60% off the original price,” they said.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

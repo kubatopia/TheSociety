@@ -26,4 +26,4 @@ JCPenney sales: stereo system with radio, record player and cassette player, wit
 
 Cellphones were new, and an Intelos ad showed that a young businessman was on the golf course saying that a cellphone gave him “the power to give the boss the rundown from the putting green.” The company offered a plan with 1,800 “Bonus Anytime Minutes” with free voice mail, text messaging and caller ID. Regular plans were: $35, 600 minutes in the area, 300 minutes statewide and 275 minutes in the region; $65, with 2,000 area minutes, 1,000 statewide minutes and 650 regional; and a $50 plan in between.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

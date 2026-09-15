@@ -32,4 +32,4 @@ Daniel L. Edwards operated a fruit stand in Bassett Forks on U.S. 58. He was sta
 
 The Mary Anna Jackson and Mildred Lee Chapters of the United Daughters of the Confederacy held a ceremony at Oakwood Cemetery to mark the graves of 75 Confederate soldiers. ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

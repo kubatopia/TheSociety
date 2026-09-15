@@ -42,4 +42,4 @@ Construction was set to begin on the new Lowe’s, in what was called (do we rem
 
 Prices were raising and fees were lowering at Adelphia Cable: Broadcast Service (formerly Basic Service) remained at $11.40/month, and had broadcast networks such as ABC, CBS, NBC and Fox. Satellite Service cost $22.10, a $1.09 increase, and included networks such as ESPN, CNN and A&E. Those two services combined cost $33.50/month. Each of the premium channels – Showtime, HBO, Cinemax and the Movie Channel – cost $11.50 each.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

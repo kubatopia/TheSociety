@@ -30,4 +30,4 @@ More than 3,000 people visited the Haunted Castle sponsored by the four MHC Jayc
 
 Piedmont Arts Association in cooperation with the Virginia Museum of Fine Arts had the exhibit “Splendors of Ancient Egypt,” and PAA also had “Life and Afterlife: Cycles of Nature and Belief in Ancient Egypt.” There also were several activities related to Egypt going on in the area. PAA had made an art cart for local teachers to use; it included a hieroglyph stamp kit, a doll to undergo the mummification process, videos and other activities. At Discover Egypt I, Girl Scouts did face-painting. Dr. Margaret Mayo of the Virginia Museum gave the lecture “Aspects of Ancient Art.” Theatre IV of Richmond performed “The Mystery of the Ancient Egyptian Amulet” at Martinsville Middle School. Nawal Hawash, Galal Saleh and Shirley Martin gave a demonstration in the Egyptian stone-cooking method.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

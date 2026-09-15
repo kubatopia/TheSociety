@@ -36,4 +36,4 @@ Big sale at Roses: Vick’s NyQuil, 6 oz., $1.27; Vicks Formula 44, 99 cents; Vi
 
 Company president Emilie Wooldridge announced that the J.C. Wooldridge Inc. moving company would close. Located on U.S. 220 South, it was the area’s only moving company, both freight and residential. The 50-year-old company had been in business for 50 years. Chamber of Commerce President Larry Aydlett said that the company’s closing would provide an opening for other people to create another moving company and that SCORE, the group of retired business people which advise small businesses, and the Small Business Development Center both would be available to help.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

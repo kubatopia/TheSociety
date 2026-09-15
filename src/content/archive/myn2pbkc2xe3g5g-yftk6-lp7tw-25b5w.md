@@ -28,4 +28,4 @@ Memorial Hospital of MHC had a new linear accelerator to treat cancer patients, 
 
 Social security checks for people in the zip codes 24113, 24114 and 24115 (zip codes of Martinsville post office boxes) had not arrived and were presumed lost in the mail.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

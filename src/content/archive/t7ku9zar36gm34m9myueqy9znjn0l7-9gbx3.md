@@ -30,4 +30,4 @@ O. Randolph “Randy” Rollins resigned as president and CEO of Tultex, a cloth
 
 ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

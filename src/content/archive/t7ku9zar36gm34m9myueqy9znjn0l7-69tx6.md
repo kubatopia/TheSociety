@@ -34,4 +34,4 @@ J.T. Weaver of Figsboro Road asked anyone who could help to look for a whiteface
 
 Bassett Furniture Industries employee Harry Edgar Smith, 58, of Patrick Springs was critically injured after being hit by a train in Bassett. The slow-moving train (18 mph) knocked him 12 feet, leaving him with two broken legs, a dislocated wrist and severe injuries to his face and head.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

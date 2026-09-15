@@ -26,4 +26,4 @@ Margaret Weaver of Indian Trail shared this recipe for Watergate Cake: Combine 1
 
 During a routine safety inspection, the Virginia Department of Transportation found problems with the iron bridge across the Smith River in Fieldale. The bridge had been built in 1931. It was not an immediate danger, but engineers figured the bridge had between 5 and 10 years left of use.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

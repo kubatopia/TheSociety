@@ -34,4 +34,4 @@ Gindy Manufacturing Corp., a Collinsville builder of commercial truck trailers, 
 
 Drake Extrusion was beginning an $11 million expansion that would create three dozen jobs.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bullet*](https://martinsvillebulletin.com/)*in.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bullet*](https://martinsvillebulletin.com/)*in.*

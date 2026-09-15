@@ -34,4 +34,4 @@ The Martinsville Police Department got new cars – blue (on the ends) and white
 
 The American Cancer Society held a Daffodil Days fundraiser with a goal of raising $2,300. The cost was $6 for a bunch of 10 and $8 for potted daffodils. Tom Helmstutler was the organizer.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -30,4 +30,4 @@ Local school systems were preparing to go all metric, and teach their students t
 
 Three options had been proposed for an economic development agency for Martinsville. The MHC Chamber of Commerce offered to become the lead agency for economic development; Vice Mayor Gene Teague proposed that a group named “Economic Development Council” be formed of representatives of existing development groups; and Henry County Board of Supervisors chairman R.E. “Mike” Seidle proposed that Henry County form its own economic development officer under the direction of Henry County Administrator Sid Clower. Clower said the Chamber’s proposal was the right one.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

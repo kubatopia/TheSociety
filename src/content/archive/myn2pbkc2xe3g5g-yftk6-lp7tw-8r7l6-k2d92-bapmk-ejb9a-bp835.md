@@ -26,4 +26,4 @@ Among local families celebrating Thanksgiving were two refugee families from Vie
 
 At Taylor’s Supermarket: cabbage, 29 cents per pound; lettuce, 99 cents a head; ground beef, $1.09 per pound; and boneless chuck roast, $1.79 per pound.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

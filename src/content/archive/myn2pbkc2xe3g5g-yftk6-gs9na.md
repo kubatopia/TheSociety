@@ -28,4 +28,4 @@ Scanners – electronic devices which monitor emergency radio frequencies – we
 
 The Harry Potter books were all the rage, and Bryson Hairston of Bassett, 12, may have read them more times than anyone else. The latest book out was “Harry Potter and the Goblet of Fire,” which he had been waiting for since December, and reserved a copy at the bookstore, which he was at when it opened, to get the copy the moment it was released on July 8. He finished all 700+ pages in 4 days, then went back and reread it. He had read the first three Harry Potter books eight times each. Vera Christensen was the manager of the Waldenbooks store at Liberty Fair Mall. She said the store had sold 105 copies since it was released, and would be selling more but could not get any more at the time.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

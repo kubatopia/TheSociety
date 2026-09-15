@@ -28,4 +28,4 @@ Martin Processing Co. Inc. formed a subsidiary company, Temple Machinery Inc. in
 
 A blood drive in honor of Martinsville High School wrestling coach Spencer Lee Chang was completely full of people donating out of support for him. Coach Chang had had pancreatic cancer so had to retire the year before. He had an experimental procedure done at the Mayo Clinic in Minneapolis, and it worked to cure him.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

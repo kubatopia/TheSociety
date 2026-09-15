@@ -28,4 +28,4 @@ Figsboro Elementary School was the only school in Henry County or Martinsville t
 
 The Postal Rate Commission approved a 1-cent hike in the cost of a first-class stamp, to 34 cents. The postcard stamp remained at 20 cents. Mailing 2 pounds of Priority Mail went from $3.20 to $3.95.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

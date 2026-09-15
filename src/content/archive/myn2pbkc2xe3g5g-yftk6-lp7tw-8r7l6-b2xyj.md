@@ -26,4 +26,4 @@ On sale at Globman’s: ladies leather-look jackets, $14.96; Growing Up Skipper 
 
 Happening on this Saturday was the annual Fall Festival at Blue Ridge Village, Stanleytown Elementary School’s Fall Carnival and Magna Vista High School’s drama department’s first workshop for elementary and middle school students. The Fontaine Ruritan Club was gearing up for its fund-raising steak supper which would be held the next weekend.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

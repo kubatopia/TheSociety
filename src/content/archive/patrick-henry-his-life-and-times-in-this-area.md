@@ -32,7 +32,7 @@ Because of changing views, his support for Marshall, or other reasons, Henry bec
 
 Henry County was first established in 1777 when it was carved from Pittsylvania County and named for Governor Patrick Henry. In 1785, the northern part of Patrick Henry County was combined with part of Bedford County to form Franklin County.  In 1790, the western part of the County became Patrick County and the remainder was known as Henry County, an arrangement which continues today.
 
-Leatherwood Plantation contains several monuments designating the site as one of Patrick Henry’s homes.  A large ten-foot tall granite marker was erected in 1922 by the Daughters of the American Revolution.  (It’s approximately three miles down Old Liberty Dr.—State Route 620—and past the entrance to Chatmoss Village and the turn-off to Carlisle School.)  More recently, a state historical marker was placed on Highway 58 near the site.
+Leatherwood Plantation contains several monuments designating the site as one of Patrick Henry’s homes.  A large ten-foot tall granite marker was erected in 1922 by the Daughters of the American Revolution.  (It’s approximately three miles down Old Liberty Dr. - State Route 620 - and past the entrance to Chatmoss Village and the turn-off to Carlisle School.)  More recently, a state historical marker was placed on Highway 58 near the site.
 
 After passing through several of Henry’s heirs, the locally prominent Hairston family eventually owned Leatherwood Plantation.  It has since been broken into a number of tracts of land.
 

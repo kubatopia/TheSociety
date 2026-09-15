@@ -28,4 +28,4 @@ The Henry County Sheriff’s Department solved the case – mostly – of a roos
 
 Charles M. Hansen Jr., chairman and chief executive officer of Pillowtex Corp., resigned from the company the day after Pillowtex Corp. reported a third-quarter loss of more than $18 million.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

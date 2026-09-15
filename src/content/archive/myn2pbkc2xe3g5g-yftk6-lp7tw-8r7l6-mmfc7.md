@@ -28,4 +28,4 @@ Taylor’s Superette downtown, across from City Parking Lot No. 1, offered hot d
 
 The Virginia General Assembly issued a resolution honoring the late John Evia Tinsley, the husband of Kate Smith Tinsley and the father of the Rev. John W. Tinsley of Bassett and the pastor Shiloh Missionary Baptist Church in Cascade. Tinsley played country blues music.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

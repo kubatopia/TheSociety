@@ -28,4 +28,4 @@ Fitchue Hopper of Bassett grew a sunflower that was 14 ½ feet tall.
 
 Martinsville Speed Fest was a concert aimed at race fans in Martinsville for the NASCAR race. Waylong Jennings was the headline performer Saturday night. The band Backstreet performed at The Warehouse until 2 a.m. Friday, then performed on the Bridge Street stage at 11 a.m. Saturday to open SpeedFest 2000’s activities. The Danville band played popular music from country to 1970s funk. Domino, which had a four-piece horn section, played on the Broad Street stage from 3-5 p.m. The Pythians served hot dogs and curly fries to raise money for charities such as Cystic Fibrosis and United Cerebral Palsey. Wayne Bennett was one of the cooks. A giant dinosaur balloon by the Virginia Museum of Natural History was on site.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

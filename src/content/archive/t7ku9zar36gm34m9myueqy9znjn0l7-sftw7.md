@@ -38,4 +38,4 @@ Robert Jeffrey Clingenpeel, 17, of 1003 Maplewood Court got only small cuts to h
 
 Renovations were made at Fairy Stone State Park on the conference center and the bunkhouse built by the Civilian Conservations Corps in the 1930s. The renovation costs totaled about $600,000.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

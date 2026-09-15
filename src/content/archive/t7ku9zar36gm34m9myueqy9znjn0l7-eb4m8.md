@@ -42,4 +42,4 @@ Martinsville Mayor Francis T. West, who was white, finally accepted an invitatio
 
 Riddle Chrysler, Plymouth and Dodge of Martinsville had the following vehicles for sale: 1995 Voyager, $8,995; 1999 Honda Civic, $14,635; 1999 Ram Quad Cab S: 4X4, $24,999; 1999 Dakota 4X4, $14,995.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

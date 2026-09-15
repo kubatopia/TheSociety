@@ -28,4 +28,4 @@ For the first time, the Martinsville Bulletin (newspaper) published and distribu
 
 National Night Out, an event in which socials were held throughout the community for police officers and citizens to socialize, had between 5,000 and 6,000 people to attend. Events, which included food, were held at the Broad and Church streets parking lot and Kings Mountain Park (now called Jack Dalton Park). It was the first year the City held an event; previously, to mark National Night Out, the police department had just asked residents to keep their porch lights on. At Kings Mountain Park, there was free food, rides, children’s games including an 18-foot inflatable slide and music with a live B-99 radio broadcast.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

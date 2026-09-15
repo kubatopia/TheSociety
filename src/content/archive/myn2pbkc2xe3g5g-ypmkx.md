@@ -26,4 +26,4 @@ A group of Patrick County residents submitted a petition as part of asking for t
 
 During the NASCAR race, the Martinsville Speedway’s new press box was used for the first time. It was five stories above the first and second turns and had 96 seats for print media, with electrical and telephone hookups at each seat. The roof of the press box was set up to accommodate photographers and television crews. Meanwhile, new seats in the first and second turns boosted the seating capacity to 86,000.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

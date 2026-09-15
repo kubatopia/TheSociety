@@ -32,4 +32,4 @@ Martinsville and the counties of Franklin and Patrick had just received $2,000 e
 
 Tultex Director of Corporate Communications and Investor Relations Kim Adkins said that after its 1,100 layoffs, Tultex expected to employ 450 people in Martinsville, about one-fifth of the 2,000 employees Tultex used to have locally. Tultex was making a shift to be a clothing marketing company instead of a manufacturing company.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

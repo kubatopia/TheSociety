@@ -36,4 +36,4 @@ Larry Aydlett retired after 32 years as executive vice president of the MHC Cham
 
 James Robinson became the new chaplain of the Good News Jail and Prison Ministry, replacing Richard Morris, who left to be the pastor of a church in Danville. Robinson was an ordained minister who had taken classes at Teamwork Bible School in Martinsville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

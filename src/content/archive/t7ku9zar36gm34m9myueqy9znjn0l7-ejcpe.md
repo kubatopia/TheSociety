@@ -36,4 +36,4 @@ Martinsville High School was slated to present “Oklahoma!” for their spring 
 
 The Henry County school system held the first of several planned “school safety summits.” The meetings, organized by superintendent David Martin, were to let parents know what safety features schools had in place – in the wake of the school shootings at Columbine.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

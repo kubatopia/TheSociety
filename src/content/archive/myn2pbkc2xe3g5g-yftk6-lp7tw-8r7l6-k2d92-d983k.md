@@ -26,4 +26,4 @@ Community Hospital on Armistead Street was being offered for sale by the hospita
 
 The late Thomas Bahnson Stanley Sr., founder of Stanley Furniture Co., and John Bassett Vaughan, chairman of Vaughan Furniture Company of Galax, were among four people nominated to the American Furniture Hall of Fame. Also at the furniture market, Stanley Furniture Co. won three Pinnacle Design Achievement Awards from the American Society of Furniture Designers. They were for the YA Colors line of kids’ furniture, and the Reflections of the 20th Century line won in the home office and formal dining categories.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

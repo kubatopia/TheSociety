@@ -34,4 +34,4 @@ It snowed again – the third time in a week – this time, though, sneaking pas
 
 The Henry County  Board of Supervisors voted 6-0 to deny a rezoning request at the Fieldale Lodge. White Oak School had been wanting to rezone the property to move its school there, but neighbors had protested against it.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

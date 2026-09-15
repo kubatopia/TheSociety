@@ -22,4 +22,4 @@ Mount Vernon Baptist Church between Mountain Valley and Axton voted to construct
 
 About 20 Martinsville citizens appealed to City Council to enact a leash law for the city. People had been complaining recently, as evidenced by letters to the editor, about hassles and problems of dogs running loose and in their yards. City Council agreed to put the matter to a citywide advisory referendum.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

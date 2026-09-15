@@ -36,4 +36,4 @@ Martinsville High School students made five top-10 finishes in the 21st Annual N
 
 A group of friends held a fundraiser for 3-year-old Blaise Borland, the son of Anne Norman and nephew of Scott Norman. He had a form of brain cancer.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

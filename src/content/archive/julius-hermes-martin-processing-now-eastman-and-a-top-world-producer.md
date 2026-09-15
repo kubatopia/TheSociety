@@ -28,7 +28,7 @@ In the 1970s, she said, Hermes “had the smarts and the brains to open a manufa
 
 That machinery division, where Tate has worked, now is Smart Machines, and the textile division still runs in Rocky Mount as Ronile, she said. Martin Processing is now Eastman Performance Films.
 
-She read a quote from the website of Llumar, the window film manufactured by Eastman Chemical Company: “The entrepreneurial initiative of Julius Hermes in 1956 was the historical cornerstone of the LLumar brand. Known as the father of dyed PET (polyethylene terephthalate) — the polyester now used in most window films — he was the right person, with the right product at the right time that moved the industry forward into the thriving business it is today.”
+She read a quote from the website of Llumar, the window film manufactured by Eastman Chemical Company: “The entrepreneurial initiative of Julius Hermes in 1956 was the historical cornerstone of the LLumar brand. Known as the father of dyed PET (polyethylene terephthalate) - the polyester now used in most window films - he was the right person, with the right product at the right time that moved the industry forward into the thriving business it is today.”
 
 Kristoff Lievens, the site manager for Eastman Performance Films, said that Hermes’ portrait “is still in the hallway of our plant. The legacy continues on as we operate today under the name of Eastman.”
 

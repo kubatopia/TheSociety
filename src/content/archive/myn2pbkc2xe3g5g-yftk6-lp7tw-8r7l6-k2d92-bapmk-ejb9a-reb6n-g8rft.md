@@ -26,4 +26,4 @@ Henry County was having difficulty covering the trash in its landfill with dirt.
 
 The Henry County Board of Supervisors had directed County Administrator Sid Clower to develop some kind of economic development authority. Clower pointed out that though he had not yet written a job description for a county economic developer, for the past 5 years the county had been paying consultant Mary Rae Carter $60,000 to act as a liaison with state and federal governments. ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

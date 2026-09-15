@@ -26,4 +26,4 @@ A fight broke out in the Waffle House in Collinsville. A 23-year-old from Cascad
 
 The Martinsville Safety and Transportation Commission has recommended that the city install a traffic light at the intersection of Mulberry Road with Spruce Street and Jefferson Street. It would cost $26,000.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

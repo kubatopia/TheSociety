@@ -28,4 +28,4 @@ Lake Lanier was partially drained, dropping the water level 3 feet, to allow for
 
 Sara Lee Activewear announced that it would expand its distribution facility in the Patriot Centre rather than move operations to Florida. Sara Lee had bought Tultex’s former 512,000-square-foot building which Tultex used to use for a call center. Sara Lee was adding another 238,000 square feet onto it. The expansion would add 303 jobs on top of the 254 jobs that already were at that Sara Lee building. ** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

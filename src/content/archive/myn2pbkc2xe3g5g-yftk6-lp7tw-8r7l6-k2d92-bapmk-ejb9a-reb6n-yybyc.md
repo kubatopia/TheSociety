@@ -26,4 +26,4 @@ A helicopter crashed in the parking lot of King’s Plaza Shopping Center in Col
 
 National Catalog Corp. announced that it wanted to hire 150 workers, after the company had cut 52 workers from its distribution center. Twenty-seven of those laid-off workers accepted jobs at the company’s call center at Patrick Henry Mall. NCC received, filled and shipped orders for a variety of companies with customers ordering items by catalogs or online.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

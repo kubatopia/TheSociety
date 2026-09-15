@@ -36,4 +36,4 @@ Eduardo Guerrero, then 15, was recognized for having learned English much faster
 
 Magna Vista High School senior Josh DeFriece was finishing up his semester of Oh Henry! Internship with Dr. Tom Berry of Commonwealth Surgical Associates in Martinsville. “Most of what I saw involved cutting the stomach open,” DeFriece told the Martinsville Bulletin.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

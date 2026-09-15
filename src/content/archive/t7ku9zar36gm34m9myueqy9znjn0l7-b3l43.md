@@ -30,4 +30,4 @@ The drive to raise the final $14,000 needed to complete the Martinsville Communi
 
 It was the day of Patrick Henry Community College’s Spring Dance. The six contestants for Miss Patrick Henry Community College, chosen by a vote of the student body from among sophomore girls, were Gail Fretwell, Kathy Robertson, Marilyn Emler, Jennifer Lowe, Jane Lawing and Sandy Turner.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

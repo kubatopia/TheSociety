@@ -30,4 +30,4 @@ A study prepared by the MHC Chamber of Commerce showed that during the previous 
 
 H. Clay Earles, 86, the founder of Martinsville Speedway, died. He and friends Sam Rice and Henry Lawrence opened the speedway in 1947 on a 30-acre site south of Martinsville. At that time, racing ws done mostly on fairground tracks, and having a dedicated speedway was unusual. He put on his first race on Sept. 7, 1947.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

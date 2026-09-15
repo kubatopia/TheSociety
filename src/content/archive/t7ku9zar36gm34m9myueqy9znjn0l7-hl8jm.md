@@ -32,4 +32,4 @@ The Junior Chamber of Commerce announced the list of directors who would operate
 
 The homes open for Historic Garden Week were: The Homestead, Grassdale Farm (in Spencer), home of Mr. and Mrs. Brooks R. Leavitt; Dr. and Mrs. Paul Toms at 920 Mulberry Road; Dr. E. Pierre Sprinkle at 702 Windsor Lane, Mr. and Mrs. Gorman T. White on Westover Lane, Mr. and Mrs. C.L. Bullington at 107 Courtney Terrace.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

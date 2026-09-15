@@ -30,4 +30,4 @@ Grand jury returned six indictments – five for murder and one for rape – aga
 
 The Salvation Army, of which Lt. Erik Nickel was the commander, had assisted so far in 2000 5,742 households. That’s more than double the amount of families it helped the year before, and was attributed to the loss of about 3,300 jobs in the area since September, with 1,100 of them from Tultex.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

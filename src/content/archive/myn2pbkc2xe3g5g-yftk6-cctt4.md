@@ -28,4 +28,4 @@ Between 1,800 and 1,900 residents of Collinsville got their water through Daniel
 
 The Red Birch Country Market at 4801 Greensboro Road, with a Bojangles, opened on this day; the Jameson Inn was almost finished being built on Commonwealth Boulevard; and construction was about to begin on Nautica Enterprise’s $40 million distribution center that would employ 375 people.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

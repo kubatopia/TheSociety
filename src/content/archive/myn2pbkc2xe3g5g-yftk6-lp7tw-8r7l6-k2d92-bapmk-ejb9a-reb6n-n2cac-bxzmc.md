@@ -172,4 +172,4 @@ Groundhog Mountain Corp. was released from bankruptcy. The corporation had 2,505
 
 The U.S. Postal Service had revealed that it was considering closing the uptown post office. Fred Martin, operating as F&L LLC, had bought the uptown post office building at 1 E. Church St. on Feb. 2, 2001, for $95,000. The U.S. Postal Service. Since then, the Martins and city officials worked to convince the Postal Service to stay, with ideas for improvements such as add handicap access and 200 more post office boxes and also improvement of the climate control.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

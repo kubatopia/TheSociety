@@ -32,4 +32,4 @@ About 150 Dominion LOF production workers were laid off for 2 weeks due to a slo
 
 Carver Middle School Principal Dean Randall was doused in cream pies, syrup and feathers by students as the result of their meeting a challenge: Sell more than $20,000 worth of items for a PTO fundraiser. They hit $21,746.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

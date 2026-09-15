@@ -26,4 +26,4 @@ City Sheriff James L. Carter asked Martinsville City Council for funding for two
 
 Ruby Balabanis and Colleen Butker opened Enchanted Garden at 1936 Virginia Ave., Collinsville. They sold floral themed baskets, antiques, artwork and other items, and they rented costumes.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

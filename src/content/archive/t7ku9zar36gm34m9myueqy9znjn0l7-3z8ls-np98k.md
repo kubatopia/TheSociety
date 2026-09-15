@@ -34,4 +34,4 @@ Classes at the Family YMCA [formerly the Community Recreation Center] on Clevela
 
 Kathy McGee’s fifth-grade class at Albert Harris Intermediate School had an unusual project to help prepare them for the state Standards of Learning tests in science: pet rocks. That involved not just the fun stuff of calling it a pet and dressing it up but also studying its characteristics. Two of the students involved were Elizabeth Clark, daughter of Robert and Diane Clark of Collinsville, and Kate Zimmer, daughter of Dr. Will and Cari Zimmer of Martinsville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

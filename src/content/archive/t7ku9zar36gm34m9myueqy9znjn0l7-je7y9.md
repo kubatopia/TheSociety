@@ -34,4 +34,4 @@ Four Patrick Henry Community College students and two of their instructors were 
 
 Piedmont Arts Association and the Virginia Museum of Fine Arts entered into a partnership which would allow PAA more cooperative programs with other institutions.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

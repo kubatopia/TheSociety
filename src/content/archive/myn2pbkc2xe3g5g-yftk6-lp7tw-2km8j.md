@@ -30,4 +30,4 @@ Robert E. “Buddy” Phillips was Martinsville’s new postmaster. The post off
 
 Pulaski Furniture announced that it would close its plant in Martinsville, which ad 284 employees. It would consolidate its production of curio cabinets and grandfather clocks in Pulaski and Ridgeway. John Wampler was the Pulaski president.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

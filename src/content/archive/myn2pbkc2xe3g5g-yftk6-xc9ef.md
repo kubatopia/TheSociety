@@ -30,4 +30,4 @@ The City announced that it was stopping granting garbage privileges to those who
 
 The Exchange Club was in charge of the “Freedom Shrine” at Liberty Fair Mall – a long wall display which displayed framed copies of important national documents. A rededication service was held on this day to put up Dr. Martin Luther King’s “I Have a Dream” speech and a plaque honoring Susan B. Anthony’s women’s rights advocacy, the first time the exhibit had been updated since 1994. James G. McMillan Jr. of the Exchange Club gave a talk, then handed out small U.S. flags during that service.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

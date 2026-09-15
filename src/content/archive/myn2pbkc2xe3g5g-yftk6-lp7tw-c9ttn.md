@@ -30,4 +30,4 @@ The Henry County School Board voted to raise the rental fees of textbooks for al
 
 Patrick Henry Community College offered a class “Build Your Own Web Page” for children in grades 3-6.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

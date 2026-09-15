@@ -32,4 +32,4 @@ E.R. Hall of Sam Lions Trail went through a series of mishaps while out at Smith
 
 Groundbreaking was done for Roselawn’s new four-unit mausoleums. Each of the buildings would be 23 feet wide and 58 feet long and have 392 burial spaces across seven levels. The total cost would be more than $1 million, if all four were built. So far just the first one was going to be constructed. Charley Humkey was the manager.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

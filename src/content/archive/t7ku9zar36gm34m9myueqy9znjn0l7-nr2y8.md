@@ -36,4 +36,4 @@ The PLG (Progressive Ladies and Gentlemen’s) Club held its annual Easter Egg H
 
 April 15 was the deadline to buy Henry County vehicle decals, and the lines were long. The decals served as proof of payment of property tax. The deadline was the same in the City, but that was reported to be a pleasant experience without much waiting or crowding.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

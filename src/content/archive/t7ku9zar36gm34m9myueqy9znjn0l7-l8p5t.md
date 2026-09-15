@@ -34,4 +34,4 @@ The Henry County Board of Supervisors made 23 changes to the highly contested pr
 
 Wanda Jones and others from New Jerusalem Apostle Church on Blue Knob Road brought lunch to the nurses at Stanleytown Health Care Center, Blue Ridge Rehab Center, Beverly Healthcare and in 5 West, the hospice area of Memorial Hospital. Jones was inspired to organize that after appreciating how her mother was cared for at Blue Ridge.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -34,4 +34,4 @@ Harry C. Gravely II, president of Gravely Furniture Co., filed a $5 million dama
 
 School resource officers were new, but with the Columbine shooting just two weeks before, they were getting attention. Back then, Martinsville High School had had a school resource (police) officer only for about four years, and Henry County Public Schools had a pilot program at Magna Vista High School for two years.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

@@ -32,4 +32,4 @@ The Henry County Board of Supervisors voted unanimously to make Henry County dog
 
 Charles White’s Chevyland, Oldsmobile Cadillac Inc. in Martinsville donated four Chevrolet Cavaliers to the Henry County school system and another to Martinsville High School for use in driver’s ed training. Charles White said that he planned to donate another six cars by March and rotate the cars every six weeks.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

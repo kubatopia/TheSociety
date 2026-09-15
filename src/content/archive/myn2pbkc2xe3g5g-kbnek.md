@@ -26,4 +26,4 @@ Gindy Manufacturing Co. of Ridgeway called back to work 40 employees who had bee
 
 The Disc Jockey music store opened in Liberty Fair Mall. Chris Slusher was the store manager, Ursula Hairston was the assistant store manager, Crystal Denton worked there as a sales associate, and Tammy Darnell was the mall coordinator.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

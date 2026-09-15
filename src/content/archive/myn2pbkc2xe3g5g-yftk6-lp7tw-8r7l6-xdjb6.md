@@ -26,4 +26,4 @@ Mrs. Minnie Bell of 207 Moss St. made so much apple butter that not only did her
 
 Martinsville Middle School students were starting to do their research over the internet at the school’s computer lab rather than use encyclopedias. The school’s website had six web pages, but over the course of the school year it was expected to get a total of 36 web pages. The school’s faculty learned how to design instructional web pages during a 2-day workshop. The school’s vice principal, John Hall, said he had learned about web-based instruction when he was working on his doctoral degree at the University of Virginia. He brought experts from Florida to MMS to teach about it.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

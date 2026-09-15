@@ -28,4 +28,4 @@ The Arts and Crafts Club was starting on its 25th year. The club was formed in 1
 
 Linda Young opened Divine Essence hair salon at 912 Brookdale St., Suite No. 3. Stylists included Linda Wilson and MaCray Huff.** **
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

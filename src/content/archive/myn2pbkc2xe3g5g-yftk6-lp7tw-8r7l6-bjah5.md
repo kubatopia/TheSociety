@@ -28,4 +28,4 @@ Martinsville police seized its largest raid of marijuana ever – 15 pounds – 
 
 Dawn Mills, an Arkansas native and the wife of Wes Mills, took on with Berry-Elliot Realtors as a real estate agent. She and her husband recently had bought their house in Martinsville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

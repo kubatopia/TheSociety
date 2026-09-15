@@ -44,4 +44,4 @@ Hendrick Motor Sports racing team would pay for 250 potential donors in the “H
 
 The Martinsville City Council has issued a proclamation recognizing February as Black History Month in the city of Martinsville. Events and/or displays are at the FAHI (Fayette Area Historical Initiative) museum (Executive Director Charisse Hairston), New College Institute, and the Martinsville Library (by the Rev. Tyler Millner).
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the *[*Martinsville Branch Library.*](https://www.brrl.lib.va.us/)
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the *[*Martinsville Branch Library.*](https://www.brrl.lib.va.us/)

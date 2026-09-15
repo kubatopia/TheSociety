@@ -32,4 +32,4 @@ The Henry County Board of Supervisors voted unanimously to approve the construct
 
 Timothy Craig, an employee of Asplundh Tree Experts, was shocked as he was pruning trees from a bucket raised above a truck. It was thought that he had bumped into a power line. He recuperated at North Carolina Baptist Hospital.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

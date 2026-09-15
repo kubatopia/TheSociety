@@ -26,4 +26,4 @@ A free lecture on transcendental meditation was given at Virginia National Bank 
 
 The U.S. Census showed that in 2000 Henry County had a population of 57,930, which was 988 more people than at the 1990 Census. Martinsville’s population in 2000 was 15,416, a decrease from its 1990 count of 16,162.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

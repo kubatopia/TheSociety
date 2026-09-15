@@ -48,4 +48,4 @@ Henry County Circuit Court Deputy Clerk Vicki Helmstutler announced that she wou
 
 The Virginia Museum of Natural History’s next exhibit, [“Masters of the Night: The True Story of Bats,”](https://martinsvillebulletin.com/news/local/new-exhibit-virginia-museum-of-natural-history-bats/article_c6fe4e3e-c430-11ee-a8ee-d31bd7f852d1.html#tracking-source=home-top-story) opens today.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the *[*Martinsville Branch Library.*](https://www.brrl.lib.va.us/)
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the *[*Martinsville Branch Library.*](https://www.brrl.lib.va.us/)

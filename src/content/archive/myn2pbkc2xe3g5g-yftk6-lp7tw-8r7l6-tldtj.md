@@ -30,4 +30,4 @@ Jim Lamkin, 94, and his crew were tearing down the old Gravely Homestead on Chur
 
 The Bassett Kiwanis Club donated $500 to the Students Against Violence Everywhere program at Bassett High School. Patrice Newman was the SAVE program director, David Jeck was the BHS principal and Mike Adkins was with the Kiwanis Club.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

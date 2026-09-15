@@ -28,4 +28,4 @@ Martinsville High School was one of nine high schools in Virginia to test out ha
 
 Marlboro cigarettes cost $20.99 per carton at Figsboro Mart. Winstons, Salems and Camels cost $19.99 per carton. Sunbeam bread cost $1.19 a loaf, and a gallon of milk cost $2.39.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

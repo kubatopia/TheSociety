@@ -38,4 +38,4 @@ The U.S. Comptroller of the Currency turned down applications for the establishm
 
 A refuge family from Kosova were settling into their new home on Forest Street. They were the Hajrullahu family: Mirdita, 14; Leonora, 15; Ramadush, 25; Drillona, 10; Lindita, 21; Sahit, 19; and their mother, Arife. They had come from two months in a refugee camp in Macedonia. Their father was missing, and the older son’s wife had remained in Macedonia to be with her mother. Bill Adkins of Adkins Construction provided the house, and volunteers outfitted it with furniture, linens and food. Hooker Furniture paid the first month’s rent on the house.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

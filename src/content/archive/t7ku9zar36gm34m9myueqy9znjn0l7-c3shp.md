@@ -30,4 +30,4 @@ You could get a meal at Aloha Wok in Collinsville for $6.95, fried baby shrimp o
 
 Kristen Webster in the instrumental division and Roxie Reeves in the vocal division won first place in the Martinsville Lions Club’s annual Music Scholarship Contest.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

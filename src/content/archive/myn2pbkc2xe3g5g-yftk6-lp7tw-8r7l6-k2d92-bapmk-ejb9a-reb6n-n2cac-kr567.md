@@ -28,4 +28,4 @@ Patrick County noted a 54% drop in the number of people receiving food stamps, t
 
 Internet for the general public was new. Sitestar, at 29 W. Main St., advertised: “Discover the Internet. Low Price Guarantee – First-Time User Specialists – Free Training & Support. DSL Available.”
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

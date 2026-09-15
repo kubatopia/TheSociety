@@ -3,14 +3,14 @@ title: "Dec. 13"
 date: 2024-12-12
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "— Information from museum records 100 Years ago – 1924 The Daughters of the Confederacy met at the home of Mrs. I.M. Clingenpeel on Cleveland Avenue. A committee was appointed to…"
+summary: " - Information from museum records 100 Years ago – 1924 The Daughters of the Confederacy met at the home of Mrs. I.M. Clingenpeel on Cleveland Avenue. A committee was appointed to…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-aygmp.webp
 imageAlt: "Dec. 13"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-aygmp
 draft: false
 ---
 
-*— Information from museum records ***100 Years ago – 1924**
+*Information from museum records ***100 Years ago – 1924**
 
 The Daughters of the Confederacy met at the home of Mrs. I.M. Clingenpeel on Cleveland Avenue. A committee was appointed to look after buying and sending out remembrances to the “Boys of Sixty-One.” The committee was Mrs. J.W. Simmons, Mrs. Glenn, Mrs. Ranson and Mrs. James Cheshire. The club also pondered the idea of organizing a Junior Chapter of the UDC.
 

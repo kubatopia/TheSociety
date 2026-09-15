@@ -32,4 +32,4 @@ Classes offered by Patrick Henry Community College’s Continuing Education Depa
 
 It was reported that incumbent Henry County Sheriff H. Frank Cassell had the most campaigning money for fundraising, with $12,303.60 in contributions from July 1 through Aug. 31.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

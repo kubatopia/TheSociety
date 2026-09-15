@@ -30,4 +30,4 @@ Deals in Globman’s Basement Store: Converse Fast Break Sneakers for men and bo
 
 The Patriot Centre Fire and Emergency Medical Facility was dedicated. It had cost $290,000 to build. Personnel would come from the Collinsville Fire Department and the Fieldale Collinsville rescue Squad. Steve Eanes was Henry County’s public safety office.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

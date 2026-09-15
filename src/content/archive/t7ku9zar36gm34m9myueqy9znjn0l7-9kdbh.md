@@ -34,4 +34,4 @@ Harry L. Boaz, a 12-year City Council member, was elected mayor of Martinsville,
 
 Martinsville was in the throes of Beanie Baby panic in the days after the announcement by Ty Inc. that the plush toys were being discontinued. Don Conner of Don’s Collectibles in Liberty Fair Mall sold hundreds of Beanie Babies in two days. Matthew’s Hallmark, where Anuetra Johnson worked, had received a shipment of 100 Beanie Babies which sold out in 2 hours. Nettie Webb of Collinsville collected Beanie Babies and when she heard the news, she rushed out to buy Lips, a multi-colored toy fish, for $35. She had 170 in her collection.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

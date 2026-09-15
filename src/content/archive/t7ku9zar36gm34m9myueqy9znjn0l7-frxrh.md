@@ -34,4 +34,4 @@ The Flower View Garden Club celebrated its 20th anniversary. Mrs. Fred Phillippe
 
 Bassett-Walker was planning to close its Kingston, N.C., textile plant in July, and would add up to 40 pre-sewing jobs at its Rives Road plant in Martinsville. It was part of moves to stay competitive in the weak knitwear market, aiming to reduce expenses and keep a core of U.S. sewing workers for quick turnaround on rush orders while sending most of its sewing work overseas.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

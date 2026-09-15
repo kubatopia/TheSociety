@@ -32,4 +32,4 @@ Eugene Burroughs, the machine foreman at Henry County Plywood Corp. in Ridgeway,
 
 Tultex reported that it had lost $5.6 million on sales of $86.1 million for the second quarter of 1999. Tultex’s T-Shirt City and California Shirt Sales firms had 10 distributorships. The losses were less than those of the year before as Tultex was shifting from becoming more of a marketer than a manufacturer. Charles W. Davies was Tultex’s CEO, and Kim Adkins was Tultex’s director of corporate communications and investor relationships.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

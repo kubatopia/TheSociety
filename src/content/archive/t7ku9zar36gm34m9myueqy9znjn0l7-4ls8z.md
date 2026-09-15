@@ -38,4 +38,4 @@ The weather continued its war on motorists in the area with another spate of ski
 
 At Campbell Court Elementary School, parents attended a program at night in which their children showed them how to use computers and the Internet. Elaine Clower was the service learning coordinator for Henry County Public Schools who coordinated that program. Ashley Hale taught her mother, Rose Hale, and Katie Slate taught her mother, Teresa Slate.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

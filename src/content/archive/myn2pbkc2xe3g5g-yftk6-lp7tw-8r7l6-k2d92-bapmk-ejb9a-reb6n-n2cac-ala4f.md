@@ -28,4 +28,4 @@ Patrick Henry Community College was taking registration for spring-quarter class
 
 Area furniture makers were reducing employees’ work schedules. Bassett Furniture Industries, Hooker Furniture Corp. and Stanley Furniture Co. Inc. had been or would soon work less than 40 hours a week due to low sales. Stanley closed some departments in its Stanleytown plant for a week, a cutback which affected most of the 1,200 employees. The unemployment rate in Henry County was 5.6%, and in Martinsville, 7.9%.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

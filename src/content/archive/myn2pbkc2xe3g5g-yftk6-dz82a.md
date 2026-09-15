@@ -26,4 +26,4 @@ Martinsville’s first CROP Walk was held. It was a planned 15-mile trek through
 
 Fifth District U.S. Rep. Virgil Goode Jr. started out as a Democrat, but he recently had gone independent.  The Fifth District Democratic Committee asked him to return funds contributed to his congressional campaign committee.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

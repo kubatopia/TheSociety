@@ -30,4 +30,4 @@ At Akers’ Supermarket, whole fryer chickens cost 39 cents per pound, lean grou
 
 About 40 people attended a candidates forum at Morning Star Holy Church, where the Rev. Tyler Millner was the pastor. Speakers included Del Barnie Day, D-Meadows of Dan, and Ridgeway District Supervisor H.G.Vaughn. They cited a study that said that the area had gained 3,695 jobs since June 1993 and lost 2,927 jobs in the same time.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

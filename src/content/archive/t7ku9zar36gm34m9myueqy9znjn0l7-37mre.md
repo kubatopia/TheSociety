@@ -30,4 +30,4 @@ E.R. Highfield of 203 Pythian Building called himself “The Loan Arranger” an
 
 For the third consecutive year, Henry County schools received a Learn and Serve grant from the Virginia Department of Education. The $20,821 grant allowed school computer labs to be open in the evenings, when parents could come in with their children for their children to teach them how to use computers.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

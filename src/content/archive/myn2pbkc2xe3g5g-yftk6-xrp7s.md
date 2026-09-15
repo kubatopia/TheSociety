@@ -26,4 +26,4 @@ The City of Martinsville’s electric department was one of 80 utilities that si
 
 Bruce Dallas, a City Council member and local Democratic activist, in support of 5th District U.S. Rep. Virgil Goode, surrendered his credentials to the Virginia Democratic convention. Goode, a former Democrat, recently had left the party to become Independent.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

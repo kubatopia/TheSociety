@@ -36,4 +36,4 @@ The area got 2 inches of snow. The City of Martinsville started clearing roads a
 
 Sen. Chuck Robb, D-Va., met with Henry County Administrator Sid Clower to talk about options for assistance for displaced textile workers.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

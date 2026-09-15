@@ -26,4 +26,4 @@ Deputy Circuit Court Clerk Merrit C. Stultz Jr. enclosed his campaign cards prom
 
 At the Sonic Drive-In’s national convention, Kim Powell of the Collinsville Sonic wone a gold medal in the Carhop competition for delivery, and Phillip Taylor won a gold medal in the Dresser competition among food preparation workers.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

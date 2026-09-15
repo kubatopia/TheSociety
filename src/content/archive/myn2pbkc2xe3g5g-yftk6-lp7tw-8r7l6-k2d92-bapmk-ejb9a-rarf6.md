@@ -28,4 +28,4 @@ It was closing day of the Martinsville Tobacco Market. Auctions were held at New
 
 First-graders at Rich Acres Elementary School celebrated Thanksgiving by moving their desks into the hall and building teepees inside their classrooms. They had a traditional meal of turkey and gravy, stuffing, yams, green beans and rolls.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

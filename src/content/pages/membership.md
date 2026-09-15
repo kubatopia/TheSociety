@@ -8,7 +8,7 @@ showInNav: true
 Members keep the Heritage Center open, the collections cared for, and the lecture
 programme running. They also hear about events before anyone else.
 
-*Dues levels go here — add them in the CMS once the board confirms the current
+*Dues levels go here - add them in the CMS once the board confirms the current
 schedule.*
 
 ## How to join

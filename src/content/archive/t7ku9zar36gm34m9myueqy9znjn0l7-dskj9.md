@@ -32,4 +32,4 @@ Construction on Henry County’s $1.1 million jail was continuing with expected 
 
 Showing at MovieTown: “The Spy Who Shagged Me,” “Notting Hill,” “Trippin’”, “The Mummy” and “Instinct.”
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

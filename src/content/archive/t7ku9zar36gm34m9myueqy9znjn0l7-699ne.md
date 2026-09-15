@@ -34,4 +34,4 @@ The Jeunettes, a Martinsville dance group, appeared on the Winston-Salem March o
 
 Collinsville Primary School had a robust volunteer program, with 78 volunteers. The program was coordinated by retired first-grade teacher Katherine Easterly. The volunteers included Victoria Bowman and Aaron Tucker.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

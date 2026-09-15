@@ -32,4 +32,4 @@ The JCPenney Co. Outlet Store opened, after a quarter of a million dollar conver
 
 The Mental Health Association held a Y2K Seminar in the Walker Fine Arts Center of Patrick Henry Community College.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -32,4 +32,4 @@ Two straight nights of frost destroyed half a million dollars worth of tobacco s
 
 Carl deHart gave a discussion program at the Virgnia Museum of Natural History, sponsored by the Naturalist Club. The topic was Henry Wienek’s book “The Hairstons: An American Family in Black and White.”
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

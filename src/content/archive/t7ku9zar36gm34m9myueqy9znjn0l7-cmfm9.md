@@ -38,4 +38,4 @@ At a recent fundraising supper at the Snow Creek Rescue Squad, the volunteers ra
 
 Volunteers from Gateway Streetscape Foundation were working on beautification at four area schools, Stanleytown Elementary, Patrick Henry Elementary, Bassett middle and Spencer-Penn Elementary. Melissa Hairston was one of the volunteers.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

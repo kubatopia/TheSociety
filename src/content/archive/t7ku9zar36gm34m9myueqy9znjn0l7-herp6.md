@@ -34,4 +34,4 @@ Help Wanted Ads in the Martinsville Bulletin: FEMALE PIANO PLAYER, must be able 
 
 A ribbon-cutting ceremony was held for the new Martinsville Big Kmart. Participating were Big K Manager Mary French, regional director Jim Watkins, team manager Preston E. Hill, managers Judy Graham and Carolyn Basham, and state Sen. Roscoe Reynolds, D-Ridgeway.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the*[* Martinsville Branch Library*](https://www.brrl.lib.va.us/)*.*

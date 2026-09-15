@@ -30,4 +30,4 @@ In 1972 and 1973 before, people were expecting Sugartree Recreation Park to be b
 
 Henry County Administrator Sid Clower declared a state of emergency to handle problems from the privately owned Fairway Acres sewage treatment plant, the Westwood water system and the Rock Hill water system. The three systems made up Sanville Utilities Corp., which was owned by Richard Anthony. The action was done in cooperation with the Department of Environmental Quality, the Health Department and the State Corporation Commission. The Fairway Acres plant served 160 households; Westwood, 20; and Rock Hill, 15.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

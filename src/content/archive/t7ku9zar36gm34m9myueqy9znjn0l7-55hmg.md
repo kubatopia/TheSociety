@@ -30,4 +30,4 @@ When a robber with a stocking over his face stuck a pistol in Annie Saul’s fac
 
 Trans World Connections (TWC) took applications for its first 25 jobs at its new location in Martinsville. Starting pay was $6.20 an hour. The electric cable company from Lynchburg moved into part of the former Sara-Lee building on Cleveland Avenue. John Kern was the director of operations.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

@@ -26,4 +26,4 @@ Martinsville High School students attended a convention of the Southern Intersch
 
 Several hundred children hunted for Easter eggs at the Sportsman’s Club’s sixth annual Easter Egg Hunt and Cookout at Baldwin Park.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

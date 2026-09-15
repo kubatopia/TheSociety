@@ -36,4 +36,4 @@ The talk of Fieldale nicknames continued in the Stroller: Leon “Frog Eyes” I
 
 It was the first day of school in both Henry County and Martinsville. It got off to a bad start, though as 13-year-old Corey J. Mayo of Summit Road. His mother, Linda Mayo, watched in horror from her kitchen window as he was hit by a car and his body thrown into the air. His father, the Rev. Joseph Mayo Sr., ran outside and held him for the 20 minutes it took for the ambulance to arrive. He was stabilized in a critical condition at Memorial Hospital, then taken to North Carolina Baptist Hospital. He had extensive injuries to his face, knee and hand and would have to undergo several surgeries.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

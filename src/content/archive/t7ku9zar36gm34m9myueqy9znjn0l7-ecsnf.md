@@ -34,4 +34,4 @@ Fieldcrest Mills’ Towel Mill in Fieldale was working full production, three sh
 
 Julia Brown, a senior at Martinsville High School and daughter of Debora S. Brown and Thomas H. Brown, was selected as the top first soprano in District VI of All-District Chorus.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

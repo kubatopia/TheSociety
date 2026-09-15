@@ -32,4 +32,4 @@ At Globman’s you could get a Yashica Palmatic 20 Pocket Camera Outfit for $18.
 
 Collinsville Presbyterian Church held the first services in its rebuilt sanctuary, 14 months after the church building had been destroyed by fire. Frith Construction did most of the work, and church members chipped in when possible. The fire happened on Nov. 15, 1998. The church was rebuilt with $700,000 from insurance money. Don Walker was the chairman of the property committee and oversaw much of the process, putting in full-time hours in the beginning, and then settling down to working about 20 hours a week on it. The new church building got a couple of perks the older one did not have, such as a steeple and stained glass windows.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

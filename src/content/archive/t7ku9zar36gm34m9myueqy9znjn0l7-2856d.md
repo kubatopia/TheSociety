@@ -34,4 +34,4 @@ James Cosby, an attorney for the U.S. bankruptcy trustee, conducted a meeting fo
 
 Prices at Aker’s Supermarket in Stanleytown: Chuck roast, $1.79; shoulder roasat, $1.99; ground beef, $1.69; ground chuck, $1.999; boiled ham, $2.69; chicken livers, 89 cents; 10 lb. bag potatoes, $1.79.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

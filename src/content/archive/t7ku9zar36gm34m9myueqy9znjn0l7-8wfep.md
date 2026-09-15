@@ -32,4 +32,4 @@ First United Methodist Church presented a Living Singing Christmas Tree performa
 
 The Henry County Board of Supervisors approved an economic emergency plan in response to nearly 2,600 jobs lost in the area in the past 2 months. The plan included a short-term loan program and emergency funds for residents who had been laid off work plus intense lobbying efforts for the county and other areas by federal free-trade agreements with other countries. County Administrator Sid Clower estimated that Henry County had lost $50 million in wages in that 3-month period.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

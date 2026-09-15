@@ -32,4 +32,4 @@ The Family YMCA was getting ready to start fall classes, such as yoga, beginner�
 
 At Jim Mills Lincoln-Mercury-Jeep on U.S. 220 north of Bassett Forks, if you bought a new 1999 Mercury Mountaineer, you’d get a $1,000 rebate, financing ranging from 0.9% over 3 years to 4.9% over 5 years, and a free Zappy Folding Electric Scooter.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

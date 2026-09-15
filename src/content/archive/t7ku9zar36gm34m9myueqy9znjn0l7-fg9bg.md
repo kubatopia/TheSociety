@@ -32,4 +32,4 @@ Henry County Administrator Sid Clower met with at least 80 displaced textile wor
 
 The national theme for Martin Luther King Jr. Day was “Remember, Celebrate, Act: A Day On, Not a Day Off,” and that theme was used also in local churches for teach-ins. Teach-Ins were held at Mayo Missionary Baptist Church on Horsepasture Price Road in Ridgeway, among other places. Two of the teachers were Rosabelle Holmes and Malisia Watkins.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

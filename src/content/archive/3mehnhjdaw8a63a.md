@@ -36,4 +36,4 @@ NBC’s Today show filmed Dr. Elizabeth Vaughan of Martinsville. Vaughan, known 
 
 The very end of Tultex came when Tultex’s  Discus Athletic inventory was sold to Value City.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

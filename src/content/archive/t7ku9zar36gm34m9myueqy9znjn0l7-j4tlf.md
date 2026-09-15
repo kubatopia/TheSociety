@@ -34,4 +34,4 @@ Area police reported a quiet day, but there was one noteworthy incident at River
 
 Rives S. Brown Salespeople of the Month for July 1999 were announced: Cathy Spencer and Alice Elmore.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

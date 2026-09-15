@@ -26,4 +26,4 @@ Barney Fife impersonator David Browning was at the eighth annual Bassett Heritag
 
 Smith River Community Bank N.A. held a ribbon-cutting ceremony at Patrick Henr Mall. Andy McCullar was the president and chief executive officer of the bank; Bill Clark was the executive vice president; Brenda Smith was the senior vice president and chief financial officer; and Brenda Gibson was the senior credit officer.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

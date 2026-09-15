@@ -38,4 +38,4 @@ SAFETY NET Inc., a private charitable foundation, gave $100,000 to help the fami
 
 Howard Lee Crook was sentenced to two life terms in prison plus 93 years for the carjacking, abduction and shooting of Shannon Wright. Angela Dawn Willis was sentenced to 12 years and 12 month in prison after she entered guilty please to carjacking, robbery and accessory after the fact to attempted capital murder. Wright, 23, on Aug. 7 was abducted from the Maxway parking lot, shot in the back of the head and let for dead in the back of a car on Stoney Mountain Road near Axton. Crook, with his 5-year-old son in the car, drove her there, and Willis followed them from Bassett to Stoney Mountain Road in another vehicle.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

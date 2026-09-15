@@ -38,4 +38,4 @@ Martinsville doctor Chuck Marshall and his wife, Doris, reported that they were 
 
 At the Martinsville Speedway, buildings had been demolished above the first and second turns, replaced with 5,000 high-rise metal bleacher seats. New grandstands were built, with enclosed corporate suites and a press box behind them.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

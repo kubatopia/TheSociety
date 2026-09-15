@@ -40,4 +40,4 @@ The Southern Baptist Convention had just ruled that women could not serve as pas
 
 Baseball season in Martinsville started with the first Martinsville Astros game of the year. The team won 1-0 over the Bluefield Orioles. The number of paid ticket-holders was 1,367.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

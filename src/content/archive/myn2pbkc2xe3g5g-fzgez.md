@@ -28,4 +28,4 @@ It was Keep Virginia Beautiful Week, and volunteers were outside picking up tras
 
 Piedmont Arts hosted the 21st annual Virginia Watercolor Society exhibit, and internationally known painter and art juror Judi Betts presided.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

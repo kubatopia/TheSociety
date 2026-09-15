@@ -32,4 +32,4 @@ Classes offered at Patrick Henry Community College: “Living Religions, East an
 
 The top requested Christmas gifts of 1999 were Pokemon, Barbie dolls and electronic games. At JC Penney, all of the Barbie dolls completely sold out.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

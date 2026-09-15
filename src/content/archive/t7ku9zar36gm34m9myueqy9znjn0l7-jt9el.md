@@ -36,4 +36,4 @@ The open house was held for Anchor House II, a new probation home for girls at 3
 
 The family of artist the late David Yeaman donated his art library to Piedmont Arts. Yeaman died in August 1997 at age 47. His collection had 881 hardcover books, 614 softcover books and 34 VHS videotapes.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

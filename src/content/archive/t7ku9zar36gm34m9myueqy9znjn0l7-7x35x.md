@@ -36,4 +36,4 @@ Applications were opened and would be open through Jan. 5 for a low-interest eme
 
 Between 600 and 700 applicants attended Stanley Furniture’s job fair, which it held to fill 150 positions at its new plant in Beaver Creek Industrial Park.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

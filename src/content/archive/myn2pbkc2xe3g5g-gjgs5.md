@@ -26,4 +26,4 @@ Martinsville High School vocational students built a 64-by-10-foot addition to t
 
 Carilion Health System’s facility next to the vacant Harris Teeter store (now it’s an active Food Lion) on Brookdale Street was under construction, with expected opening date in July.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

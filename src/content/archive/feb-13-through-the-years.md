@@ -36,4 +36,4 @@ Riddle Chrysler-Plymouth-Dodge on Rt. 220 South had these prices: 1999 Town & Co
 
 **PHOTO:** The “Wedding Cake House” is a three-tiered house built by George “Cap’n Till” Lester in the early 1900s at 308 Starling Ave., Martinsville.
 
-*— Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the *[*Martinsville Branch Library.*](https://www.brrl.lib.va.us/)
+*Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the *[*Martinsville Branch Library.*](https://www.brrl.lib.va.us/)
