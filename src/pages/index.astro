@@ -14,7 +14,7 @@ const upcoming = (await getCollection('events', ({ data }) => !data.draft))
   .sort((a, b) => a.data.start.getTime() - b.data.start.getTime())
   .slice(0, 3);
 
-const latest = (await getCollection('news', ({ data }) => !data.draft))
+const latest = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0, 3);
 
@@ -89,14 +89,14 @@ const shortDate = new Intl.DateTimeFormat('en-US', {
     latest.length > 0 && (
       <section class="mx-auto max-w-6xl px-5 pb-20">
         <div class="mb-6 flex flex-wrap items-baseline justify-between gap-4 border-b border-rule pb-3">
-          <h2 class="font-display text-3xl sm:text-4xl">News</h2>
-          <a href="/news" class="text-sm text-brick underline underline-offset-4">All news</a>
+          <h2 class="font-display text-3xl sm:text-4xl">Articles</h2>
+          <a href="/articles" class="text-sm text-brick underline underline-offset-4">All articles</a>
         </div>
         <div class="grid gap-5 sm:grid-cols-3">
           {latest.map((post) => (
             <Card
-              href={`/news/${post.id}`}
-              eyebrow={formatDate.format(post.data.date)}
+              href={`/articles/${post.id}`}
+              eyebrow={post.data.series ?? formatDate.format(post.data.date)}
               title={post.data.title}
               image={post.data.image}
               imageAlt={post.data.imageAlt}

@@ -13,13 +13,19 @@ const pages = defineCollection({
   }),
 });
 
-/** Announcements and newsletter-style posts. */
-const news = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/news' }),
+/**
+ * Evergreen local history: the Looking Back column, features, videos.
+ * Replaces the old news collection -- announcements that genuinely need a
+ * date are events, and a second dated feed only went stale.
+ */
+const articles = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
     summary: z.string().optional(),
+    /** e.g. "Looking Back" — groups a recurring column. */
+    series: z.string().optional(),
     // Public path written by the CMS, e.g. /media/spring-tour.jpg
     image: z.string().optional(),
     imageAlt: z.string().optional(),
@@ -85,4 +91,4 @@ const minutes = defineCollection({
   }),
 });
 
-export const collections = { pages, news, events, exhibits, board, minutes };
+export const collections = { pages, articles, events, exhibits, board, minutes };

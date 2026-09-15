@@ -22,6 +22,12 @@ export default defineConfig({
   adapter: vercel(),
   integrations: [sitemap()],
 
+  // The section was called News before it became Articles.
+  redirects: {
+    '/news': '/articles',
+    '/news/[id]': '/articles/[id]',
+  },
+
   // Fonts are downloaded at build time and served from our own domain:
   // no request to Google from a visitor's browser.
   fonts: [
