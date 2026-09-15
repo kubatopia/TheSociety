@@ -92,22 +92,43 @@ collections:
     label: Site settings
     files:
       - name: site
-        label: Name & contact details
+        label: Name, hours & contact
         file: src/data/site.json
         fields:
           - { label: Society name, name: name, widget: string }
-          - { label: Short name, name: shortName, widget: string, hint: Used in the header and tight spaces. }
+          - { label: Short name, name: shortName, widget: string, hint: Used in page titles. }
           - { label: Venue name, name: venue, widget: string }
-          - { label: Tagline, name: tagline, widget: text }
-          - { label: Hero photograph, name: heroImage, widget: image, required: false, hint: Wide landscape photo for the top of the home page. Leave empty to use the plain banner. }
+          - { label: Tagline, name: tagline, widget: text, hint: The headline over the hero photograph. Keep it under about 60 characters. }
+          - { label: Hero photograph, name: heroImage, widget: image, required: false, hint: Wide landscape photo for the top of the home page. }
           - { label: Hero photo description, name: heroAlt, widget: string, required: false, hint: Describe the photo for screen readers. }
           - { label: Hero photo credit, name: heroCredit, widget: string, required: false }
           - { label: Email, name: email, widget: string, required: false }
           - { label: Phone, name: phone, widget: string, required: false }
           - { label: Street address, name: address, widget: string, required: false }
+          - { label: Town, state and ZIP, name: addressLine2, widget: string, required: false }
           - { label: Mailing address, name: mailingAddress, widget: text, required: false }
-          - { label: Opening hours, name: hours, widget: text, required: false, hint: One line per day or range. }
-          - { label: Admission, name: admission, widget: string, required: false, hint: 'e.g. Free, donations welcome' }
+          - label: Time zone
+            name: timezone
+            widget: select
+            default: America/New_York
+            options: [America/New_York, America/Chicago, America/Denver, America/Los_Angeles]
+            hint: Used to work out whether the museum is open right now.
+          - label: Opening hours
+            name: openingHours
+            widget: list
+            label_singular: Open day
+            summary: '{{fields.day}} {{fields.open}}–{{fields.close}}'
+            hint: Add one row per day the museum is open. Days left out are shown as closed.
+            fields:
+              - label: Day
+                name: day
+                widget: select
+                options: [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]
+              - { label: Opens, name: open, widget: string, default: '10:00', hint: 24-hour time, e.g. 10:00 }
+              - { label: Closes, name: close, widget: string, default: '17:00', hint: 24-hour time, e.g. 17:00 }
+          - { label: Admission, name: admission, widget: string, required: false, hint: 'e.g. Free, donations welcome. Left empty, the line is hidden.' }
+          - { label: How long to allow, name: allowTime, widget: string, required: false, hint: 'e.g. 90 minutes. Left empty, the line is hidden.' }
+          - { label: Parking, name: parking, widget: text, required: false, hint: 'Where to park and whether it costs anything. Left empty, the section is hidden.' }
           - { label: Board meeting note, name: meetingNote, widget: text, required: false }
           - { label: Facebook URL, name: facebook, widget: string, required: false }
           - { label: Instagram URL, name: instagram, widget: string, required: false }

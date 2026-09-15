@@ -1,25 +1,41 @@
 ---
 import site from '../data/site.json';
-const hours = site.hours.split('\n').filter(Boolean);
+import { summarise, type OpeningDay } from '../lib/hours';
+
+const hours = summarise(site.openingHours as OpeningDay[]);
+
+/**
+ * Only render facts the board has actually filled in. An empty admission or
+ * parking field disappears rather than showing a guess — this strip is the
+ * first thing an out-of-town visitor reads, so a wrong line here is worse
+ * than a missing one.
+ */
+const facts = [
+  { term: 'Open', lines: hours },
+  { term: 'Find us', lines: [site.address, site.addressLine2].filter(Boolean) },
+  site.admission && { term: 'Admission', lines: [site.admission] },
+  site.allowTime && { term: 'Allow', lines: [site.allowTime] },
+  site.parking && { term: 'Parking', lines: [site.parking] },
+].filter(Boolean) as Array<{ term: string; lines: string[] }>;
 ---
 
-<!-- The three things a visitor actually came for, above the fold on every path in. -->
 <section class="border-b border-rule bg-parchment-deep">
-  <dl class="mx-auto grid max-w-6xl gap-8 px-5 py-8 sm:grid-cols-3">
+  <dl class="mx-auto grid max-w-6xl gap-8 px-5 py-8 sm:grid-cols-2 lg:grid-cols-4">
+    {
+      facts.map((fact) => (
+        <div>
+          <dt class="text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">{fact.term}</dt>
+          <dd class="mt-2 space-y-0.5 text-[0.9375rem] leading-relaxed">
+            {fact.lines.map((line, index) => (
+              <p class={index === 0 ? '' : 'text-ink-muted'}>{line}</p>
+            ))}
+          </dd>
+        </div>
+      ))
+    }
     <div>
-      <dt class="text-xs font-semibold uppercase tracking-wider text-brick">Open</dt>
-      <dd class="mt-2 space-y-0.5 text-sm">{hours.map((line) => <p>{line}</p>)}</dd>
-    </div>
-    <div>
-      <dt class="text-xs font-semibold uppercase tracking-wider text-brick">Find us</dt>
-      <dd class="mt-2 text-sm">
-        <p>{site.venue}</p>
-        <p class="text-ink-muted">{site.address}</p>
-      </dd>
-    </div>
-    <div>
-      <dt class="text-xs font-semibold uppercase tracking-wider text-brick">Ask us</dt>
-      <dd class="mt-2 text-sm">
+      <dt class="text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Ask us</dt>
+      <dd class="mt-2 space-y-0.5 text-[0.9375rem]">
         <p><a href={`tel:${site.phone.replace(/[^\d+]/g, '')}`} class="hover:text-brick">{site.phone}</a></p>
         <p><a href={`mailto:${site.email}`} class="break-all text-ink-muted hover:text-brick">{site.email}</a></p>
       </dd>

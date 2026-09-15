@@ -27,17 +27,17 @@ export default defineConfig({
   fonts: [
     {
       provider: fontProviders.google(),
-      name: 'Fraunces',
+      name: 'Instrument Serif',
       cssVariable: '--font-display',
-      weights: [400, 600, 700],
-      styles: ['normal'],
+      weights: [400],
+      styles: ['normal', 'italic'],
       subsets: ['latin'],
     },
     {
       provider: fontProviders.google(),
-      name: 'Inter',
+      name: 'Hanken Grotesk',
       cssVariable: '--font-body',
-      weights: [400, 500, 600],
+      weights: [400, 500, 600, 700],
       styles: ['normal'],
       subsets: ['latin'],
     },

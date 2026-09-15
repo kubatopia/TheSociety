@@ -1,64 +1,51 @@
 ---
 import site from '../data/site.json';
+import OpenStatus from './OpenStatus.astro';
 
-// The hero works with or without a photograph. Until a board member uploads
-// one in the CMS, we fall back to a layered brick-and-bark banner rather than
-// shipping a broken image.
+interface Props {
+  title?: string;
+  lede?: string;
+}
+const { title = site.tagline, lede } = Astro.props;
 const hasPhoto = Boolean(site.heroImage);
 ---
 
-<section class:list={['relative isolate overflow-hidden', hasPhoto ? 'bg-bark-deep' : 'bg-bark']}>
+<!--
+  No background colour on the section itself when there is a photograph: the
+  image sits at z-0 and a solid parent background would paint straight over it.
+-->
+<section class:list={['relative', !hasPhoto && 'bg-bark']}>
   {
-    hasPhoto && (
+    hasPhoto ? (
       <>
         <img
           src={site.heroImage}
           alt={site.heroAlt}
           fetchpriority="high"
           decoding="async"
-          class="absolute inset-0 -z-10 h-full w-full object-cover"
+          class="absolute inset-0 z-0 h-full w-full object-cover object-[center_62%]"
         />
+        {/* Two stops, not one: the top scrim carries the nav, the bottom the headline. */}
         <div
-          class="absolute inset-0 -z-10 bg-gradient-to-t from-bark-deep/95 via-bark-deep/60 to-bark-deep/25"
+          class="absolute inset-0 z-[1] bg-[linear-gradient(180deg,rgba(20,14,8,.66)_0%,rgba(20,14,8,.14)_34%,rgba(20,14,8,.82)_100%)]"
           aria-hidden="true"
-        >
-        </div>
+        />
       </>
-    )
-  }
-  {
-    !hasPhoto && (
+    ) : (
       <div
-        class="absolute inset-0 -z-10 bg-[radial-gradient(120%_110%_at_15%_0%,var(--color-brick)_0%,transparent_58%)] opacity-70"
+        class="absolute inset-0 z-0 bg-[radial-gradient(120%_110%_at_15%_0%,var(--color-brick)_0%,transparent_58%)] opacity-70"
         aria-hidden="true"
       />
     )
   }
 
-  <div class="mx-auto max-w-6xl px-5 py-24 sm:py-32 lg:py-40">
-    <p class="text-sm font-medium uppercase tracking-[0.18em] text-gold">Martinsville &amp; Henry County, Virginia</p>
-    <h1 class="mt-5 max-w-3xl font-display text-4xl font-semibold leading-[1.1] text-parchment sm:text-5xl lg:text-6xl">
-      {site.tagline}
+  <div class="relative z-10 mx-auto flex min-h-[26rem] max-w-6xl flex-col justify-end px-5 pt-40 pb-10 sm:min-h-[34rem] sm:pb-14">
+    <OpenStatus tone="hero" />
+    <h1 class="mt-4 max-w-[19ch] font-display text-4xl leading-[1.04] text-card sm:text-5xl lg:text-6xl">
+      {title}
     </h1>
-    <div class="mt-9 flex flex-wrap gap-3">
-      <a
-        href="/museum"
-        class="rounded-sm bg-gold px-5 py-3 text-sm font-semibold text-bark-deep transition-colors hover:bg-parchment"
-      >
-        Visit the museum
-      </a>
-      <a
-        href="/events"
-        class="rounded-sm border border-parchment/40 px-5 py-3 text-sm font-semibold text-parchment transition-colors hover:border-gold hover:text-gold"
-      >
-        What's on
-      </a>
-    </div>
+    {lede && <p class="mt-4 max-w-[46ch] text-card/85">{lede}</p>}
   </div>
 
-  {
-    site.heroCredit && (
-      <p class="absolute bottom-2 right-4 text-[11px] text-parchment/50">{site.heroCredit}</p>
-    )
-  }
+  {site.heroCredit && <p class="absolute right-4 bottom-2 z-10 text-[11px] text-card/50">{site.heroCredit}</p>}
 </section>

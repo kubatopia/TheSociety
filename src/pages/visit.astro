@@ -1,0 +1,105 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHeading from '../components/PageHeading.astro';
+import OpenStatus from '../components/OpenStatus.astro';
+import site from '../data/site.json';
+import { summarise, closedDays, type OpeningDay } from '../lib/hours';
+
+const hours = summarise(site.openingHours as OpeningDay[]);
+const closed = closedDays(site.openingHours as OpeningDay[]);
+
+const directions = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(
+  `${site.venue}, ${site.address}, ${site.addressLine2}`,
+)}`;
+---
+
+<BaseLayout title="Plan your visit" description={`Hours, directions and admission for the ${site.venue}.`}>
+  <PageHeading
+    eyebrow="Plan your visit"
+    title={site.venue}
+    lede="The former Henry County courthouse, on the square at the top of Main Street."
+  />
+
+  <div class="grid gap-12 lg:grid-cols-[1fr_20rem]">
+    <div>
+      <img
+        src="/media/courthouse-lawn.jpg"
+        alt="The Heritage Center & Museum seen across the courthouse lawn"
+        class="w-full rounded-[1.125rem] object-cover"
+        loading="lazy"
+        decoding="async"
+      />
+
+      <h2 class="mt-12 font-display text-2xl">Getting here</h2>
+      <p class="mt-3 max-w-2xl leading-relaxed text-ink-muted">
+        The museum sits on the courthouse square at {site.address}, in downtown Martinsville.
+      </p>
+      <p class="mt-4">
+        <a
+          href={directions}
+          class="inline-block rounded-full bg-brick px-5 py-3 text-sm font-semibold text-card transition-colors hover:bg-brick-bright"
+          rel="noopener"
+        >
+          Get directions
+        </a>
+      </p>
+
+      {
+        site.parking ? (
+          <>
+            <h2 class="mt-12 font-display text-2xl">Parking</h2>
+            <p class="mt-3 max-w-2xl leading-relaxed text-ink-muted">{site.parking}</p>
+          </>
+        ) : null
+      }
+
+      <h2 class="mt-12 font-display text-2xl">Groups and schools</h2>
+      <p class="mt-3 max-w-2xl leading-relaxed text-ink-muted">
+        The museum offers tours to classes and community groups, and Society specialists give
+        talks on a range of local topics. Get in touch to arrange one.
+      </p>
+
+      <h2 class="mt-12 font-display text-2xl">Renting the building</h2>
+      <p class="mt-3 max-w-2xl leading-relaxed text-ink-muted">
+        The building is available for weddings, meetings, reunions and shows. Contact the
+        Society for rates and availability.
+      </p>
+    </div>
+
+    <aside class="h-fit rounded-[1.125rem] border border-rule bg-card p-6 lg:sticky lg:top-24">
+      <OpenStatus />
+
+      <h2 class="mt-5 text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Hours</h2>
+      <ul class="mt-2 space-y-1 text-[0.9375rem]">
+        {hours.map((line) => <li>{line}</li>)}
+        {closed.length > 0 && <li class="text-ink-muted">Closed {closed.join(' and ')}.</li>}
+      </ul>
+
+      <h2 class="mt-6 text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Address</h2>
+      <p class="mt-2 text-[0.9375rem]">{site.address}<br />{site.addressLine2}</p>
+
+      {
+        site.admission && (
+          <>
+            <h2 class="mt-6 text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Admission</h2>
+            <p class="mt-2 text-[0.9375rem]">{site.admission}</p>
+          </>
+        )
+      }
+      {
+        site.allowTime && (
+          <>
+            <h2 class="mt-6 text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Allow</h2>
+            <p class="mt-2 text-[0.9375rem]">{site.allowTime}</p>
+          </>
+        )
+      }
+
+      <h2 class="mt-6 text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Contact</h2>
+      <p class="mt-2 text-[0.9375rem]">
+        <a href={`tel:${site.phone.replace(/[^\d+]/g, '')}`} class="hover:text-brick">{site.phone}</a><br />
+        <a href={`mailto:${site.email}`} class="break-all text-ink-muted hover:text-brick">{site.email}</a>
+      </p>
+    </aside>
+  </div>
+</BaseLayout>

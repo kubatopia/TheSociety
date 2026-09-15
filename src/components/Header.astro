@@ -1,37 +1,52 @@
 ---
+import site from '../data/site.json';
+
 const links = [
-  { href: '/about', label: 'About' },
   { href: '/museum', label: 'Museum' },
-  { href: '/events', label: 'Events' },
+  { href: '/events', label: "What's on" },
   { href: '/news', label: 'News' },
+  { href: '/about', label: 'About' },
   { href: '/board', label: 'Board' },
   { href: '/minutes', label: 'Minutes' },
-  { href: '/contact', label: 'Visit' },
 ];
 
 const { pathname } = Astro.url;
 const isCurrent = (href: string) => pathname === href || pathname.startsWith(`${href}/`);
+
+/** Over the hero photograph the header is transparent; elsewhere it needs a ground. */
+interface Props { overlay?: boolean }
+const { overlay = false } = Astro.props;
 ---
 
-<header class="sticky top-0 z-50 border-b border-rule bg-parchment/95 backdrop-blur">
-  <div class="mx-auto flex max-w-6xl items-center justify-between gap-6 px-5 py-4">
-    <a href="/" class="group flex items-baseline gap-2.5">
-      <span class="font-display text-lg font-semibold tracking-tight text-brick">MHC</span>
-      <span class="hidden text-sm leading-tight text-ink-muted sm:block">
-        Martinsville-Henry County<br />Historical Society
+<header class:list={['w-full', overlay ? 'absolute inset-x-0 top-0 z-20' : 'border-b border-rule bg-parchment']}>
+  <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-5 py-4">
+    <a
+      href="/"
+      class:list={[
+        'font-display text-xl leading-none tracking-wide uppercase',
+        overlay ? 'text-card' : 'text-ink',
+      ]}
+    >
+      MHC
+      <span class:list={['block font-body text-[0.6875rem] tracking-normal normal-case', overlay ? 'text-card/75' : 'text-ink-muted']}>
+        Historical Society
       </span>
-      <span class="text-sm text-ink-muted sm:hidden">Historical Society</span>
     </a>
 
-    <nav aria-label="Main">
-      <ul class="flex flex-wrap justify-end gap-x-5 gap-y-1 text-sm">
+    <nav aria-label="Main" class="hidden md:block">
+      <ul class="flex flex-wrap items-center justify-center gap-x-6 gap-y-1 text-sm">
         {
           links.map((link) => (
             <li>
               <a
                 href={link.href}
                 aria-current={isCurrent(link.href) ? 'page' : undefined}
-                class="inline-block border-b-2 border-transparent py-0.5 text-ink-muted transition-colors hover:text-brick aria-[current=page]:border-gold aria-[current=page]:font-medium aria-[current=page]:text-ink"
+                class:list={[
+                  'inline-block border-b-2 border-transparent py-0.5 transition-colors',
+                  overlay
+                    ? 'text-card/80 hover:text-card aria-[current=page]:border-gold aria-[current=page]:text-card'
+                    : 'text-ink-muted hover:text-brick aria-[current=page]:border-gold aria-[current=page]:text-ink',
+                ]}
               >
                 {link.label}
               </a>
@@ -40,5 +55,36 @@ const isCurrent = (href: string) => pathname === href || pathname.startsWith(`${
         }
       </ul>
     </nav>
+
+    <a
+      href="/visit"
+      class="rounded-full bg-gold px-5 py-2.5 text-sm font-semibold whitespace-nowrap text-gold-ink transition-colors hover:bg-sand"
+    >
+      Plan your visit
+    </a>
   </div>
+
+  <!-- Narrow screens: the nav moves below the wordmark rather than into a menu
+       nobody opens. Six links fit on two lines. -->
+  <nav aria-label="Main" class="border-t border-rule/40 md:hidden">
+    <ul class="mx-auto flex max-w-6xl flex-wrap gap-x-5 gap-y-1 px-5 py-2.5 text-sm">
+      {
+        links.map((link) => (
+          <li>
+            <a
+              href={link.href}
+              aria-current={isCurrent(link.href) ? 'page' : undefined}
+              class:list={[
+                overlay ? 'text-card/80' : 'text-ink-muted',
+                'aria-[current=page]:font-medium',
+                overlay ? 'aria-[current=page]:text-card' : 'aria-[current=page]:text-ink',
+              ]}
+            >
+              {link.label}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </nav>
 </header>

@@ -10,9 +10,11 @@ interface Props {
   description?: string;
   /** Full-bleed pages (the home page) lay out their own containers. */
   bleed?: boolean;
+  /** Lay the header over a hero photograph instead of on its own ground. */
+  overlay?: boolean;
 }
 
-const { title, description = site.tagline, bleed = false } = Astro.props;
+const { title, description = site.tagline, bleed = false, overlay = false } = Astro.props;
 const pageTitle = title ? `${title} — ${site.shortName}` : site.name;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
@@ -34,6 +36,8 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonical} />
     <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:image" content={new URL(site.heroImage, Astro.site)} />
+    <meta property="og:image:alt" content={site.heroAlt} />
     <link rel="sitemap" href="/sitemap-index.xml" />
   </head>
   <body class="antialiased">
@@ -42,7 +46,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
       class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:m-3 focus:rounded focus:bg-brick focus:px-4 focus:py-2 focus:text-parchment"
       >Skip to content</a
     >
-    <Header />
+    <Header overlay={overlay} />
     <main id="main" class={bleed ? '' : 'mx-auto max-w-6xl px-5 py-14'}>
       <slot />
     </main>

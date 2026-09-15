@@ -1,0 +1,26 @@
+---
+interface Props {
+  href: string;
+  eyebrow: string;
+  title: string;
+  image?: string;
+  imageAlt?: string;
+  summary?: string;
+}
+const { href, eyebrow, title, image, imageAlt = '', summary } = Astro.props;
+---
+
+<!--
+  Cards without a photograph close up rather than reserving an empty frame.
+  Most events never get an image, and a row of grey rectangles reads as broken.
+-->
+<article class="group relative overflow-hidden rounded-[1.125rem] border border-rule bg-card">
+  {image && <img src={image} alt={imageAlt} loading="lazy" decoding="async" class="h-40 w-full object-cover" />}
+  <div class:list={['p-5', !image && 'border-t-2 border-gold']}>
+    <p class="text-[0.625rem] font-bold tracking-[0.16em] text-ink-muted uppercase">{eyebrow}</p>
+    <h3 class="mt-1.5 font-display text-xl leading-snug">
+      <a href={href} class="after:absolute after:inset-0 group-hover:text-brick">{title}</a>
+    </h3>
+    {summary && <p class="mt-2 text-sm leading-relaxed text-ink-muted">{summary}</p>}
+  </div>
+</article>

@@ -1,0 +1,121 @@
+---
+import site from '../data/site.json';
+import { summarise, type OpeningDay } from '../lib/hours';
+
+interface Props {
+  /** 'hero' sits on the photograph; 'bar' sits on a light ground. */
+  tone?: 'hero' | 'bar';
+}
+const { tone = 'bar' } = Astro.props;
+
+const hours = site.openingHours as OpeningDay[];
+
+/**
+ * Rendered server-side as a plain summary, then replaced in the browser with
+ * a live "open until 5" line. The build cannot know what day it is when
+ * someone eventually reads the page, so the static text is deliberately the
+ * timeless version rather than a guess that goes stale.
+ */
+const fallback = summarise(hours)[0] ?? '';
+---
+
+<p
+  class:list={['status', tone]}
+  data-open-status
+  data-hours={JSON.stringify(hours)}
+  data-timezone={site.timezone}
+>
+  <span class="dot" aria-hidden="true"></span><span data-status-text>{fallback}</span>
+</p>
+
+<style>
+  .status {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .dot {
+    width: 0.4375rem;
+    height: 0.4375rem;
+    border-radius: 50%;
+    background: currentColor;
+    flex: none;
+  }
+  .hero { color: var(--color-sand); }
+  .bar { color: var(--color-ink-muted); }
+  .status[data-state='open'] .dot { background: var(--color-open); }
+  .status[data-state='closed'] .dot { background: var(--color-closed); }
+</style>
+
+<script>
+  type Entry = { day: string; open: string; close: string };
+
+  const DAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+
+  const pretty = (value: string) => {
+    const [h, m] = value.split(':').map(Number);
+    const suffix = h < 12 ? 'am' : 'pm';
+    const hour = h % 12 === 0 ? 12 : h % 12;
+    return m === 0 ? `${hour}${suffix}` : `${hour}.${String(m).padStart(2, '0')}${suffix}`;
+  };
+
+  const minutes = (value: string) => {
+    const [h, m] = value.split(':').map(Number);
+    return h * 60 + m;
+  };
+
+  /** The museum's own local time, not the visitor's — someone browsing from
+      another time zone still wants to know whether Martinsville is open. */
+  function nowThere(timezone: string) {
+    const parts = new Intl.DateTimeFormat('en-US', {
+      timeZone: timezone,
+      weekday: 'long',
+      hour: '2-digit',
+      minute: '2-digit',
+      hour12: false,
+    }).formatToParts(new Date());
+
+    const get = (type: string) => parts.find((p) => p.type === type)?.value ?? '';
+    const hour = Number(get('hour')) % 24;
+    return { weekday: get('weekday'), minutes: hour * 60 + Number(get('minute')) };
+  }
+
+  function describe(hours: Entry[], timezone: string) {
+    const { weekday, minutes: now } = nowThere(timezone);
+    const byDay = new Map(hours.map((h) => [h.day, h]));
+    const today = byDay.get(weekday);
+
+    if (today && now >= minutes(today.open) && now < minutes(today.close)) {
+      return { state: 'open', text: `Open today until ${pretty(today.close)}` };
+    }
+    if (today && now < minutes(today.open)) {
+      return { state: 'closed', text: `Opens today at ${pretty(today.open)}` };
+    }
+
+    const start = DAYS.indexOf(weekday);
+    for (let step = 1; step <= 7; step += 1) {
+      const next = byDay.get(DAYS[(start + step) % 7]);
+      if (next) {
+        const when = step === 1 ? 'tomorrow' : next.day;
+        return { state: 'closed', text: `Closed · opens ${when} at ${pretty(next.open)}` };
+      }
+    }
+    return { state: 'closed', text: 'Closed' };
+  }
+
+  for (const node of document.querySelectorAll<HTMLElement>('[data-open-status]')) {
+    const hours = JSON.parse(node.dataset.hours ?? '[]') as Entry[];
+    const timezone = node.dataset.timezone || 'America/New_York';
+    if (hours.length === 0) continue;
+
+    const { state, text } = describe(hours, timezone);
+    node.dataset.state = state;
+    const target = node.querySelector('[data-status-text]');
+    if (target) target.textContent = text;
+  }
+</script>

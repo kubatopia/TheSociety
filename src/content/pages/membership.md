@@ -14,7 +14,7 @@ schedule.*
 ## How to join
 
 Email us or call, and we will send a form. Contact details are on the
-[visit page](/contact).
+[visit page](/visit).
 
 ## Sponsors
 

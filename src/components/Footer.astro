@@ -1,54 +1,52 @@
 ---
 import site from '../data/site.json';
+import OpenStatus from './OpenStatus.astro';
+import { summarise, closedDays, type OpeningDay } from '../lib/hours';
+
 const year = new Date().getFullYear();
-const hours = site.hours.split('\n').filter(Boolean);
+const hours = summarise(site.openingHours as OpeningDay[]);
+const closed = closedDays(site.openingHours as OpeningDay[]);
 ---
 
 <footer class="mt-24 bg-bark text-parchment">
   <div class="mx-auto grid max-w-6xl gap-10 px-5 py-14 sm:grid-cols-2 lg:grid-cols-4">
     <div>
-      <p class="font-display text-lg font-semibold">{site.venue}</p>
-      {site.address && <p class="mt-3 text-sm text-parchment/70">{site.address}</p>}
-      {
-        site.phone && (
-          <p class="text-sm">
-            <a href={`tel:${site.phone.replace(/[^\d+]/g, '')}`} class="text-parchment/70 hover:text-gold">
-              {site.phone}
-            </a>
-          </p>
-        )
-      }
-      {
-        site.email && (
-          <p class="text-sm">
-            <a href={`mailto:${site.email}`} class="break-all text-parchment/70 hover:text-gold">
-              {site.email}
-            </a>
-          </p>
-        )
-      }
+      <p class="font-display text-xl">{site.venue}</p>
+      <p class="mt-3 text-sm text-parchment/70">{site.address}</p>
+      <p class="text-sm text-parchment/70">{site.addressLine2}</p>
+      <p class="mt-2 text-sm">
+        <a href={`tel:${site.phone.replace(/[^\d+]/g, '')}`} class="text-parchment/70 hover:text-gold">
+          {site.phone}
+        </a>
+      </p>
+      <p class="text-sm">
+        <a href={`mailto:${site.email}`} class="break-all text-parchment/70 hover:text-gold">
+          {site.email}
+        </a>
+      </p>
     </div>
 
     <div>
-      <h2 class="text-sm font-semibold uppercase tracking-wider text-gold">Hours</h2>
+      <h2 class="text-[0.6875rem] font-bold tracking-[0.13em] text-gold uppercase">Hours</h2>
       <ul class="mt-3 space-y-1 text-sm text-parchment/70">
         {hours.map((line) => <li>{line}</li>)}
+        {closed.length > 0 && <li>Closed {closed.join(' and ')}.</li>}
       </ul>
-      {site.admission && <p class="mt-3 text-sm text-parchment/70">{site.admission}</p>}
+      <div class="mt-3"><OpenStatus tone="hero" /></div>
     </div>
 
     <div>
-      <h2 class="text-sm font-semibold uppercase tracking-wider text-gold">The Society</h2>
+      <h2 class="text-[0.6875rem] font-bold tracking-[0.13em] text-gold uppercase">The Society</h2>
       <ul class="mt-3 space-y-1 text-sm">
         <li><a href="/about" class="text-parchment/70 hover:text-gold">About us</a></li>
-        <li><a href="/board" class="text-parchment/70 hover:text-gold">Board & committees</a></li>
-        <li><a href="/minutes" class="text-parchment/70 hover:text-gold">Minutes & documents</a></li>
+        <li><a href="/board" class="text-parchment/70 hover:text-gold">Board &amp; committees</a></li>
+        <li><a href="/minutes" class="text-parchment/70 hover:text-gold">Minutes &amp; documents</a></li>
         <li><a href="/membership" class="text-parchment/70 hover:text-gold">Membership</a></li>
       </ul>
     </div>
 
     <div>
-      <h2 class="text-sm font-semibold uppercase tracking-wider text-gold">Follow</h2>
+      <h2 class="text-[0.6875rem] font-bold tracking-[0.13em] text-gold uppercase">Follow</h2>
       <ul class="mt-3 space-y-1 text-sm">
         {site.facebook && <li><a href={site.facebook} class="text-parchment/70 hover:text-gold">Facebook</a></li>}
         {site.instagram && <li><a href={site.instagram} class="text-parchment/70 hover:text-gold">Instagram</a></li>}
@@ -58,8 +56,6 @@ const hours = site.hours.split('\n').filter(Boolean);
   </div>
 
   <div class="border-t border-parchment/15">
-    <p class="mx-auto max-w-6xl px-5 py-5 text-xs text-parchment/50">
-      &copy; {year} {site.name}
-    </p>
+    <p class="mx-auto max-w-6xl px-5 py-5 text-xs text-parchment/50">&copy; {year} {site.name}</p>
   </div>
 </footer>

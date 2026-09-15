@@ -3,38 +3,45 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Hero from '../components/Hero.astro';
 import VisitStrip from '../components/VisitStrip.astro';
-import { formatDate, formatEventDay, formatEventMonth, formatEventTime } from '../lib/dates';
+import Card from '../components/Card.astro';
+import site from '../data/site.json';
+import { formatDate, formatEvent } from '../lib/dates';
 
 const now = new Date();
 
 const upcoming = (await getCollection('events', ({ data }) => !data.draft))
   .filter((e) => (e.data.end ?? e.data.start) >= now)
   .sort((a, b) => a.data.start.getTime() - b.data.start.getTime())
-  .slice(0, 4);
+  .slice(0, 3);
 
 const latest = (await getCollection('news', ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0, 3);
 
+const shortDate = new Intl.DateTimeFormat('en-US', {
+  month: 'short',
+  day: 'numeric',
+  timeZone: 'UTC',
+});
 ---
 
-<BaseLayout bleed>
-  <Hero />
+<BaseLayout bleed overlay description={site.tagline}>
+  <Hero lede="Built 1824. Expanded 1929. Retired from county use in 1996, and saved." />
   <VisitStrip />
 
-  <!-- The museum, told as one wide band rather than a wall of cards. -->
+  <!-- The reason to make the drive, told once and properly. -->
   <section class="mx-auto max-w-6xl px-5 py-20">
     <div class="grid items-center gap-12 lg:grid-cols-2">
       <div>
-        <p class="text-xs font-semibold uppercase tracking-wider text-brick">The Heritage Center</p>
-        <h2 class="mt-3 font-display text-3xl font-semibold sm:text-4xl">
+        <p class="text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">The Heritage Center</p>
+        <h2 class="mt-3 font-display text-3xl leading-tight sm:text-4xl">
           A courthouse built in 1824, and everything it has watched over since
         </h2>
         <p class="mt-5 text-lg leading-relaxed text-ink-muted">
           The former Henry County courthouse was expanded in 1929 and retired from county use in
           1996, when the Society formed to preserve it. Inside are exhibits on the tobacco,
-          furniture and textile industries, local music and nightlife, and the people who built the
-          place.
+          furniture and textile industries, local music and nightlife, and the people who built
+          the place.
         </p>
         <p class="mt-4 text-lg leading-relaxed text-ink-muted">
           Behind it, a 13,000-square-foot annex holds the King Collections: Native American
@@ -42,100 +49,76 @@ const latest = (await getCollection('news', ({ data }) => !data.draft))
         </p>
         <p class="mt-7">
           <a href="/museum" class="font-medium text-brick underline underline-offset-4 hover:text-brick-bright">
-            Plan a visit
+            What's inside
           </a>
         </p>
       </div>
 
-      <div class="aspect-4/3 rounded-sm bg-parchment-deep ring-1 ring-rule">
-        <!-- Placeholder until a photograph is uploaded in the CMS. -->
-        <div class="flex h-full items-center justify-center p-8 text-center text-sm text-ink-muted">
-          Add a photograph of the courthouse here
+      <img
+        src="/media/courthouse-lawn.jpg"
+        alt="The Heritage Center & Museum seen across the courthouse lawn"
+        loading="lazy"
+        decoding="async"
+        class="aspect-4/3 w-full rounded-[1.125rem] object-cover"
+      />
+    </div>
+  </section>
+
+  {
+    upcoming.length > 0 && (
+      <section class="mx-auto max-w-6xl px-5 pb-20">
+        <div class="mb-6 flex flex-wrap items-baseline justify-between gap-4 border-b border-rule pb-3">
+          <h2 class="font-display text-3xl sm:text-4xl">What's on</h2>
+          <a href="/events" class="text-sm text-brick underline underline-offset-4">All events</a>
         </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="bg-bark py-20 text-parchment">
-    <div class="mx-auto max-w-6xl px-5">
-      <div class="flex flex-wrap items-baseline justify-between gap-4">
-        <h2 class="font-display text-3xl font-semibold sm:text-4xl">What's on</h2>
-        <a href="/events" class="text-sm text-gold underline underline-offset-4">All events</a>
-      </div>
-
-      {
-        upcoming.length === 0 ? (
-          <p class="mt-6 text-parchment/70">Nothing scheduled right now. Check back soon.</p>
-        ) : (
-          <ul class="mt-8 grid gap-px overflow-hidden rounded-sm bg-parchment/15 sm:grid-cols-2">
-            {upcoming.map((event) => (
-              <li class="bg-bark p-6">
-                <div class="flex gap-5">
-                  <p class="shrink-0 text-center">
-                    <span class="block font-display text-3xl font-semibold text-gold">
-                      {formatEventDay(event)}
-                    </span>
-                    <span class="block text-xs uppercase tracking-wider text-parchment/60">
-                      {formatEventMonth(event)}
-                    </span>
-                  </p>
-                  <div>
-                    <p class="font-display text-lg font-semibold">{event.data.title}</p>
-                    <p class="mt-1 text-sm text-parchment/60">
-                      {formatEventTime(event)}
-                      {event.data.location && ` · ${event.data.location}`}
-                    </p>
-                    {event.data.summary && (
-                      <p class="mt-2 text-sm leading-relaxed text-parchment/75">{event.data.summary}</p>
-                    )}
-                  </div>
-                </div>
-              </li>
-            ))}
-          </ul>
-        )
-      }
-    </div>
-  </section>
-
-  <section class="mx-auto max-w-6xl px-5 py-20">
-    <div class="flex flex-wrap items-baseline justify-between gap-4 border-b border-rule pb-4">
-      <h2 class="font-display text-3xl font-semibold sm:text-4xl">News</h2>
-      <a href="/news" class="text-sm text-brick underline underline-offset-4">All news</a>
-    </div>
-
-    {
-      latest.length === 0 ? (
-        <p class="mt-6 text-ink-muted">Nothing posted yet.</p>
-      ) : (
-        <ul class="mt-8 grid gap-10 sm:grid-cols-3">
-          {latest.map((post) => (
-            <li>
-              <p class="text-xs uppercase tracking-wider text-ink-muted">{formatDate.format(post.data.date)}</p>
-              <h3 class="mt-2 font-display text-xl font-semibold leading-snug">
-                <a href={`/news/${post.id}`} class="hover:text-brick">{post.data.title}</a>
-              </h3>
-              {post.data.summary && (
-                <p class="mt-2 text-sm leading-relaxed text-ink-muted">{post.data.summary}</p>
-              )}
-            </li>
+        <div class="grid gap-5 sm:grid-cols-3">
+          {upcoming.map((event) => (
+            <Card
+              href="/events"
+              eyebrow={`Event · ${shortDate.format(event.data.start)}`}
+              title={event.data.title}
+              summary={event.data.summary}
+            />
           ))}
-        </ul>
-      )
-    }
-  </section>
+        </div>
+      </section>
+    )
+  }
+
+  {
+    latest.length > 0 && (
+      <section class="mx-auto max-w-6xl px-5 pb-20">
+        <div class="mb-6 flex flex-wrap items-baseline justify-between gap-4 border-b border-rule pb-3">
+          <h2 class="font-display text-3xl sm:text-4xl">News</h2>
+          <a href="/news" class="text-sm text-brick underline underline-offset-4">All news</a>
+        </div>
+        <div class="grid gap-5 sm:grid-cols-3">
+          {latest.map((post) => (
+            <Card
+              href={`/news/${post.id}`}
+              eyebrow={formatDate.format(post.data.date)}
+              title={post.data.title}
+              image={post.data.image}
+              imageAlt={post.data.imageAlt}
+              summary={post.data.summary}
+            />
+          ))}
+        </div>
+      </section>
+    )
+  }
 
   <section class="border-t border-rule bg-parchment-deep">
     <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-6 px-5 py-14">
       <div>
-        <h2 class="font-display text-2xl font-semibold">Join the Society</h2>
+        <h2 class="font-display text-2xl">Join the Society</h2>
         <p class="mt-2 max-w-xl text-ink-muted">
           Members keep the archive open and the lights on, and hear about events first.
         </p>
       </div>
       <a
         href="/membership"
-        class="rounded-sm bg-brick px-5 py-3 text-sm font-semibold text-parchment transition-colors hover:bg-brick-bright"
+        class="rounded-full bg-brick px-5 py-3 text-sm font-semibold text-card transition-colors hover:bg-brick-bright"
       >
         Become a member
       </a>
