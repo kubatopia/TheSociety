@@ -14,33 +14,72 @@ const upcoming = all
 const past = all
   .filter((e) => (e.data.end ?? e.data.start) < now)
   .sort((a, b) => b.data.start.getTime() - a.data.start.getTime())
-  .slice(0, 10);
+  .slice(0, 12);
 
-
+const dayFmt = new Intl.DateTimeFormat('en-US', { day: 'numeric', timeZone: 'UTC' });
+const monthFmt = new Intl.DateTimeFormat('en-US', { month: 'short', timeZone: 'UTC' });
+const shortFmt = new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZone: 'UTC' });
 ---
 
-<BaseLayout title="Events" description="Meetings, lectures, and tours.">
-  <PageHeading title="Events" lede="Meetings, lectures, and tours. Board meetings are open to the public." />
+<BaseLayout
+  title="Events"
+  description="Lectures, tours, the Ghost Walk and Sounds on the Square at the MHC Heritage Center & Museum."
+>
+  <PageHeading
+    eyebrow="What's on"
+    title="Events"
+    lede="Lectures, tours, music on the square and the Ghost Walk. Board meetings are open to the public."
+  />
 
-  <h2 class="border-b border-rule pb-2 font-serif text-2xl font-semibold">Upcoming</h2>
+  <h2 class="font-display text-3xl">Upcoming</h2>
   {
     upcoming.length === 0 ? (
-      <p class="mt-4 text-ink-muted">No events scheduled right now.</p>
+      <p class="mt-4 text-ink-muted">Nothing scheduled right now. Check back soon.</p>
     ) : (
-      <ul class="mt-4 divide-y divide-rule">
+      <ul class="mt-6 space-y-10">
         {upcoming.map((event) => (
-          <li class="py-5">
-            <p class="text-sm text-ink-muted">{formatEvent(event)}</p>
-            <p class="text-lg font-medium">{event.data.title}</p>
-            {event.data.location && <p class="text-sm text-ink-muted">{event.data.location}</p>}
-            {event.data.summary && <p class="mt-2 max-w-2xl">{event.data.summary}</p>}
-            {event.data.rsvpUrl && (
-              <p class="mt-2">
-                <a href={event.data.rsvpUrl} class="text-sm text-brick underline">
-                  RSVP
-                </a>
-              </p>
+          <li class="grid gap-6 border-b border-rule pb-10 last:border-0 sm:grid-cols-[minmax(0,18rem)_1fr] sm:gap-8">
+            {/*
+              Posters carry their own text, so they are mounted rather than
+              cropped: object-contain on a warm ground keeps a tall poster and
+              a wide banner both legible in the same row.
+            */}
+            {event.data.image ? (
+              <img
+                src={event.data.image}
+                alt={event.data.imageAlt ?? event.data.title}
+                loading="lazy"
+                decoding="async"
+                class="aspect-4/3 w-full rounded-lg bg-parchment-deep object-contain"
+              />
+            ) : (
+              <div class="flex aspect-4/3 w-full items-center justify-center rounded-lg bg-parchment-deep">
+                <p class="text-center">
+                  <span class="block font-display text-4xl text-brick">{dayFmt.format(event.data.start)}</span>
+                  <span class="label block text-ink-muted">{monthFmt.format(event.data.start)}</span>
+                </p>
+              </div>
             )}
+
+            <div>
+              <p class="label text-brick">{formatEvent(event)}</p>
+              <h3 class="mt-2 font-display text-2xl leading-snug">{event.data.title}</h3>
+              {event.data.location && <p class="mt-1 text-sm text-ink-muted">{event.data.location}</p>}
+              {event.data.summary && (
+                <p class="mt-3 max-w-2xl leading-relaxed text-ink-muted">{event.data.summary}</p>
+              )}
+              {event.data.rsvpUrl && (
+                <p class="mt-5">
+                  <a
+                    href={event.data.rsvpUrl}
+                    rel="noopener"
+                    class="inline-block rounded-full bg-brick px-5 py-2.5 text-sm font-semibold text-card transition-colors hover:bg-brick-bright"
+                  >
+                    Tickets and reservations
+                  </a>
+                </p>
+              )}
+            </div>
           </li>
         ))}
       </ul>
@@ -49,17 +88,31 @@ const past = all
 
   {
     past.length > 0 && (
-      <>
-        <h2 class="mt-14 border-b border-rule pb-2 font-serif text-2xl font-semibold">Recently past</h2>
-        <ul class="mt-4 divide-y divide-rule text-ink-muted">
+      <section class="mt-16">
+        <div class="flex flex-wrap items-baseline justify-between gap-3 border-b border-rule pb-3">
+          <h2 class="font-display text-3xl">Recently past</h2>
+          <p class="text-sm text-ink-muted">What the Society has been running</p>
+        </div>
+        <ul class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
           {past.map((event) => (
-            <li class="flex flex-wrap justify-between gap-2 py-3 text-sm">
-              <span>{event.data.title}</span>
-              <span>{formatEvent(event)}</span>
+            <li>
+              {event.data.image ? (
+                <img
+                  src={event.data.image}
+                  alt={event.data.imageAlt ?? event.data.title}
+                  loading="lazy"
+                  decoding="async"
+                  class="aspect-4/3 w-full rounded-lg bg-parchment-deep object-contain"
+                />
+              ) : (
+                <div class="aspect-4/3 w-full rounded-lg border border-rule bg-parchment-deep" aria-hidden="true" />
+              )}
+              <p class="mt-3 text-sm text-ink-muted">{shortFmt.format(event.data.start)}</p>
+              <h3 class="mt-0.5 font-display text-lg leading-snug">{event.data.title}</h3>
             </li>
           ))}
         </ul>
-      </>
+      </section>
     )
   }
 </BaseLayout>
