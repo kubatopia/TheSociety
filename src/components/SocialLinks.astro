@@ -21,6 +21,8 @@ const accounts = [
         <li>
           <a
             href={account.href}
+            {/* Someone reading the site should not lose it to Facebook. */}
+            target="_blank"
             rel="me noopener"
             aria-label={account.name}
             title={account.name}
