@@ -37,6 +37,19 @@ const sections = [
   title="The Museum"
   description="The King Collections, the exhibits in the 1824 courthouse, and the historic courtroom upstairs."
 >
+  <figure class="mb-12">
+    <img
+      src="/media/courthouse-lawn.jpg"
+      alt="The Heritage Center & Museum seen across the courthouse lawn"
+      class="aspect-2/1 w-full rounded-[1.125rem] object-cover"
+      loading="eager"
+      decoding="async"
+    />
+    <figcaption class="mt-3 text-sm text-ink-muted">
+      The 1824 courthouse from the square. The annex sits behind, joined by a skywalk.
+    </figcaption>
+  </figure>
+
   <!-- Opening: the building, at the scale it deserves. -->
   <header class="mb-14">
     <p class="label text-brick">The Heritage Center &amp; Museum</p>
@@ -49,19 +62,6 @@ const sections = [
       including the historic courtroom upstairs and the annex behind.
     </p>
   </header>
-
-  <figure class="mb-16">
-    <img
-      src="/media/courthouse-lawn.jpg"
-      alt="The Heritage Center & Museum seen across the courthouse lawn"
-      class="w-full rounded-[1.125rem] object-cover"
-      loading="eager"
-      decoding="async"
-    />
-    <figcaption class="mt-3 text-sm text-ink-muted">
-      The 1824 courthouse from the square. The annex sits behind, joined by a skywalk.
-    </figcaption>
-  </figure>
 
   <div class="grid gap-12 lg:grid-cols-[15rem_1fr] lg:gap-16">
     <SectionNav sections={sections} />
