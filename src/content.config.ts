@@ -43,6 +43,21 @@ const events = defineCollection({
   }),
 });
 
+/** Permanent and temporary exhibits, shown as a grid on the museum page. */
+const exhibits = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/exhibits' }),
+  schema: z.object({
+    title: z.string(),
+    summary: z.string().optional(),
+    location: z.enum(['Courthouse', 'Annex', 'Upstairs courtroom']).default('Courthouse'),
+    temporary: z.boolean().default(false),
+    // Public path written by the CMS, e.g. /media/nascar-case.jpg
+    image: z.string().optional(),
+    imageAlt: z.string().optional(),
+    order: z.number().default(99),
+  }),
+});
+
 /** Board and committee roster. */
 const board = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/board' }),
@@ -70,4 +85,4 @@ const minutes = defineCollection({
   }),
 });
 
-export const collections = { pages, news, events, board, minutes };
+export const collections = { pages, news, events, exhibits, board, minutes };

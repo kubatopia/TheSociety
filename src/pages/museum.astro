@@ -1,0 +1,265 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionNav from '../components/SectionNav.astro';
+import OpenStatus from '../components/OpenStatus.astro';
+import site from '../data/site.json';
+import { summarise, type OpeningDay } from '../lib/hours';
+
+const all = await getCollection('exhibits');
+const permanent = all
+  .filter((e) => !e.data.temporary)
+  .sort((a, b) => a.data.order - b.data.order || a.data.title.localeCompare(b.data.title));
+const temporary = all.filter((e) => e.data.temporary).sort((a, b) => a.data.order - b.data.order);
+
+const hours = summarise(site.openingHours as OpeningDay[]);
+
+/**
+ * Until exhibit photographs exist, a grid of empty frames reads as broken.
+ * The same content is laid out as a typographic list instead, which also
+ * hides the fact that an odd number of items leaves one alone in a row.
+ * It flips to the image grid on its own once any exhibit has a photograph.
+ */
+const hasExhibitPhotos = permanent.some((e) => e.data.image);
+
+const sections = [
+  { id: 'annex', label: 'The King Collections' },
+  { id: 'courthouse', label: 'Exhibits in the courthouse' },
+  { id: 'courtroom', label: 'The historic courtroom' },
+  ...(temporary.length > 0 ? [{ id: 'temporary', label: 'Temporary exhibits' }] : []),
+  { id: 'saved', label: 'How the courthouse was saved' },
+  { id: 'garden-club', label: 'Garden Club restoration site' },
+  { id: 'rentals', label: 'Renting the building' },
+  { id: 'shop', label: 'Heritage gift shop' },
+];
+---
+
+<BaseLayout
+  title="The Museum"
+  description="The King Collections, the exhibits in the 1824 courthouse, and the historic courtroom upstairs."
+>
+  <!-- Opening: the building, at the scale it deserves. -->
+  <header class="mb-14">
+    <p class="text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">The Heritage Center &amp; Museum</p>
+    <h1 class="mt-3 max-w-[20ch] font-display text-4xl leading-[1.06] sm:text-5xl lg:text-6xl">
+      A courthouse built in 1824, and everything it has watched over since
+    </h1>
+    <p class="mt-5 max-w-2xl text-lg leading-relaxed text-ink-muted">
+      The former Henry County courthouse was expanded in 1929 and retired from county use in 1996,
+      when the Society formed to preserve it. Everything below is open on a standard visit —
+      including the historic courtroom upstairs and the annex behind.
+    </p>
+  </header>
+
+  <figure class="mb-16">
+    <img
+      src="/media/courthouse-lawn.jpg"
+      alt="The Heritage Center & Museum seen across the courthouse lawn"
+      class="w-full rounded-[1.125rem] object-cover"
+      loading="eager"
+      decoding="async"
+    />
+    <figcaption class="mt-3 text-sm text-ink-muted">
+      The 1824 courthouse from the square. The annex sits behind, joined by a skywalk.
+    </figcaption>
+  </figure>
+
+  <div class="grid gap-12 lg:grid-cols-[15rem_1fr] lg:gap-16">
+    <SectionNav sections={sections} />
+
+    <div>
+      <!-- ============ The star ============ -->
+      <section id="annex" class="scroll-mt-28">
+        <p class="text-[0.6875rem] font-bold tracking-[0.13em] text-gold uppercase">The star of the museum</p>
+        <h2 class="mt-2 font-display text-3xl leading-tight sm:text-4xl">The King Collections in the Annex</h2>
+        <div class="mt-5 max-w-2xl space-y-4 text-lg leading-relaxed text-ink-muted">
+          <p>
+            A 13,000-square-foot annex sits behind the museum, joined to the old courthouse by a
+            skywalk. It holds the King Collections, and it is the reason most people come back a
+            second time.
+          </p>
+          <p>
+            Native American artifacts, trains, tools, a gambling parlor, firearms, ivory, early
+            machines, baskets and pottery, dollhouses, medical devices, steam whistles, locks and
+            horse tack — assembled over a lifetime and rare enough that visitors routinely lose an
+            hour in there without meaning to.
+          </p>
+        </div>
+
+        <ul class="mt-8 grid gap-x-8 gap-y-3 border-t border-rule pt-6 text-[0.9375rem] sm:grid-cols-2 lg:grid-cols-3">
+          {
+            [
+              'Native American artifacts',
+              'Trains and early machines',
+              'Tools and horse tack',
+              'A gambling parlor',
+              'Firearms and ivory',
+              'Baskets and pottery',
+              'Dollhouses',
+              'Medical devices',
+              'Steam whistles and locks',
+            ].map((item) => (
+              <li class="flex gap-2.5 text-ink-muted">
+                <span class="mt-2.5 h-1 w-1 flex-none rounded-full bg-gold" aria-hidden="true" />
+                {item}
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+
+      <!-- ============ Exhibits grid — the Rijksmuseum pattern ============ -->
+      <section id="courthouse" class="mt-20 scroll-mt-28">
+        <h2 class="font-display text-3xl leading-tight sm:text-4xl">Exhibits in the courthouse</h2>
+        <p class="mt-4 max-w-2xl text-lg leading-relaxed text-ink-muted">
+          The industries that built Henry County, and the people who worked in them.
+        </p>
+
+        {
+          hasExhibitPhotos ? (
+            <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              {permanent.map((exhibit) => (
+                <article class="flex flex-col">
+                  {exhibit.data.image ? (
+                    <img
+                      src={exhibit.data.image}
+                      alt={exhibit.data.imageAlt ?? ''}
+                      loading="lazy"
+                      decoding="async"
+                      class="mb-3 aspect-4/3 w-full rounded-lg object-cover"
+                    />
+                  ) : (
+                    <div class="mb-3 aspect-4/3 w-full rounded-lg border border-rule bg-parchment-deep" aria-hidden="true" />
+                  )}
+                  <h3 class="font-display text-xl leading-snug">{exhibit.data.title}</h3>
+                  {exhibit.data.summary && (
+                    <p class="mt-1.5 text-sm leading-relaxed text-ink-muted">{exhibit.data.summary}</p>
+                  )}
+                </article>
+              ))}
+            </div>
+          ) : (
+            <ul class="mt-8 grid gap-x-12 border-t border-rule lg:grid-cols-2">
+              {permanent.map((exhibit) => (
+                <li class="border-b border-rule py-5">
+                  <h3 class="font-display text-xl leading-snug">{exhibit.data.title}</h3>
+                  {exhibit.data.summary && (
+                    <p class="mt-1.5 max-w-prose text-[0.9375rem] leading-relaxed text-ink-muted">
+                      {exhibit.data.summary}
+                    </p>
+                  )}
+                </li>
+              ))}
+            </ul>
+          )
+        }
+      </section>
+
+      <!-- ============ Courtroom ============ -->
+      <section id="courtroom" class="mt-20 scroll-mt-28">
+        <h2 class="font-display text-3xl leading-tight sm:text-4xl">The historic courtroom</h2>
+        <p class="mt-4 max-w-2xl text-lg leading-relaxed text-ink-muted">
+          The courtroom upstairs is open to visitors. Henry County business was heard in this room
+          for the better part of two centuries, and it is left much as it was when the county
+          moved out in 1996.
+        </p>
+      </section>
+
+      {
+        temporary.length > 0 && (
+          <section id="temporary" class="mt-20 scroll-mt-28">
+            <h2 class="font-display text-3xl leading-tight sm:text-4xl">Temporary exhibits</h2>
+            <div class="mt-8 grid gap-6 sm:grid-cols-2">
+              {temporary.map((exhibit) => (
+                <article>
+                  <h3 class="font-display text-xl leading-snug">{exhibit.data.title}</h3>
+                  {exhibit.data.summary && (
+                    <p class="mt-1.5 text-sm leading-relaxed text-ink-muted">{exhibit.data.summary}</p>
+                  )}
+                </article>
+              ))}
+            </div>
+          </section>
+        )
+      }
+
+      <!-- ============ History ============ -->
+      <section id="saved" class="mt-20 scroll-mt-28">
+        <h2 class="font-display text-3xl leading-tight sm:text-4xl">How the courthouse was saved</h2>
+        <div class="mt-5 max-w-2xl space-y-4 text-lg leading-relaxed text-ink-muted">
+          <p>
+            The courthouse was built in 1824 and significantly expanded in 1929. When the county
+            retired it from use in 1996, the building faced an uncertain future — and the
+            Martinsville-Henry County Historical Society was formed to preserve it.
+          </p>
+          <p>
+            Turning a working courthouse into a museum took years. The result is a building that
+            still reads as a courthouse, which is most of the point.
+          </p>
+        </div>
+
+        <figure class="mt-8">
+          <img
+            src="/media/courthouse-square-dusk.jpg"
+            alt="The courthouse square at dusk, with the museum lit"
+            class="w-full rounded-[1.125rem] object-cover"
+            loading="lazy"
+            decoding="async"
+          />
+          <figcaption class="mt-3 text-sm text-ink-muted">The square at dusk.</figcaption>
+        </figure>
+      </section>
+
+      <section id="garden-club" class="mt-20 scroll-mt-28">
+        <h2 class="font-display text-3xl leading-tight sm:text-4xl">A Garden Club of Virginia restoration site</h2>
+        <p class="mt-4 max-w-2xl text-lg leading-relaxed text-ink-muted">
+          The grounds are a Garden Club of Virginia historic restoration site.
+        </p>
+      </section>
+
+      <section id="rentals" class="mt-20 scroll-mt-28">
+        <h2 class="font-display text-3xl leading-tight sm:text-4xl">Renting the building</h2>
+        <p class="mt-4 max-w-2xl text-lg leading-relaxed text-ink-muted">
+          The building is available for weddings, meetings, reunions and shows. Contact the Society
+          for rates and availability.
+        </p>
+        <p class="mt-5">
+          <a href="/visit" class="font-medium text-brick underline underline-offset-4 hover:text-brick-bright">
+            Contact and directions
+          </a>
+        </p>
+      </section>
+
+      <section id="shop" class="mt-20 scroll-mt-28">
+        <h2 class="font-display text-3xl leading-tight sm:text-4xl">Heritage gift shop</h2>
+        <p class="mt-4 max-w-2xl text-lg leading-relaxed text-ink-muted">
+          Books on local history, along with toys and sundries. Proceeds support the museum.
+        </p>
+      </section>
+
+      <!-- Practical close: the page ends where a decision gets made. -->
+      <aside class="mt-20 rounded-[1.125rem] border border-rule bg-card p-7">
+        <OpenStatus />
+        <h2 class="mt-4 font-display text-2xl">Come and see it</h2>
+        <dl class="mt-5 grid gap-6 sm:grid-cols-2">
+          <div>
+            <dt class="text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Hours</dt>
+            <dd class="mt-2 space-y-0.5 text-[0.9375rem]">{hours.map((line) => <p>{line}</p>)}</dd>
+          </div>
+          <div>
+            <dt class="text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Address</dt>
+            <dd class="mt-2 text-[0.9375rem]">{site.address}<br />{site.addressLine2}</dd>
+          </div>
+        </dl>
+        <p class="mt-6">
+          <a
+            href="/visit"
+            class="inline-block rounded-full bg-gold px-5 py-3 text-sm font-semibold text-gold-ink transition-colors hover:bg-sand"
+          >
+            Plan your visit
+          </a>
+        </p>
+      </aside>
+    </div>
+  </div>
+</BaseLayout>

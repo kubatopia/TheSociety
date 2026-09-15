@@ -40,6 +40,24 @@ collections:
       - { label: Draft, name: draft, widget: boolean, default: false }
       - { label: Details, name: body, widget: markdown, required: false }
 
+  - name: exhibits
+    label: Exhibits
+    label_singular: Exhibit
+    folder: src/content/exhibits
+    create: true
+    slug: '{{slug}}'
+    summary: '{{title}}'
+    sortable_fields: [order, title]
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Summary, name: summary, widget: text, required: false, hint: One or two sentences shown on the card. }
+      - { label: Where, name: location, widget: select, options: [Courthouse, Annex, Upstairs courtroom], default: Courthouse }
+      - { label: Temporary exhibit, name: temporary, widget: boolean, default: false, hint: Temporary exhibits are listed separately. }
+      - { label: Photograph, name: image, widget: image, required: false }
+      - { label: Photo description, name: imageAlt, widget: string, required: false, hint: Describe the photo for screen readers. }
+      - { label: Sort order, name: order, widget: number, default: 99, value_type: int, hint: Lower numbers appear first. }
+      - { label: Detail, name: body, widget: markdown, required: false }
+
   - name: board
     label: Board & Committees
     label_singular: Member
