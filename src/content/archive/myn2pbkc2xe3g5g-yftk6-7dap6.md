@@ -3,18 +3,18 @@ title: "May 31 through time"
 date: 2025-05-31
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 A Red Cross Clinic for Crippled Children and Adults was held from 9 a.m. to 5 p.m. at the Grammar School. It was the first such clinic open to adults;…"
+summary: " 100 Years ago - 1925 A Red Cross Clinic for Crippled Children and Adults was held from 9 a.m. to 5 p.m. at the Grammar School. It was the first such clinic open to adults;…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-7dap6.webp
 imageAlt: "May 31 through time"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-7dap6
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 A Red Cross Clinic for Crippled Children and Adults was held from 9 a.m. to 5 p.m. at the Grammar School. It was the first such clinic open to adults; previously, those clinics were only for children under age 14. The clinic was conducted by specialist Dr. W.T. Graham of Richmond. A telegram from him was received on May 25 advising the local Red Cross that he’d be coming; they coordinated those free clinics.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Ginny Wray was a longtime Martinsville Bulletin editor who retired in 2015, and she and her husband, retired Bulletin photographer Mike Wray, now live in Richmond. Both worked at the Bulletin in the early 1970s. Ginny Wray then was Ginny Richards. She started working at the Bulletin in the Accent Department, and in April, she went from Accent Editor to copy editor and education writer. Jane Tarver Drewry, a native of Georgia who had written before for the Bulletin and for the Daily Advance in Lynchburg, replaced Ginny Richards as Accent Editor.
 

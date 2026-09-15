@@ -32,6 +32,6 @@ Workers at Gindy Manufacturing Corp. in Collinsville had been on strike for 40 d
 
 **2000**
 
-The “Clearance Countdown in Uptown Martinsville – Prices are Being Slashed!” ad lists the following stores, which it says are open from 9:30 a.m. to 5:30 p.m.: Shumate & Jessie Furniture uptown on the Square (wardrobes on sale), The Showroom (“save now on occasional furniture”); Flowers by Linda (105 Broad St., “Spring is in the air”), Larry & Alley (“for all your Brand Name appliance needs) and Manufacturers Liquidation Center at 115 E. Church St. (“If we have it, you won’t find a lower price within 100 miles”).
+The “Clearance Countdown in Uptown Martinsville - Prices are Being Slashed!” ad lists the following stores, which it says are open from 9:30 a.m. to 5:30 p.m.: Shumate & Jessie Furniture uptown on the Square (wardrobes on sale), The Showroom (“save now on occasional furniture”); Flowers by Linda (105 Broad St., “Spring is in the air”), Larry & Alley (“for all your Brand Name appliance needs) and Manufacturers Liquidation Center at 115 E. Church St. (“If we have it, you won’t find a lower price within 100 miles”).
 
 *Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

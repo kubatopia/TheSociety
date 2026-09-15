@@ -3,22 +3,22 @@ title: "August 2 through the years"
 date: 2025-08-04
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 Kester Dry Cleaning, at Phone 101, offered quick service in “new process dry cleaning.” 75 years ago – 1950 Boy Scouts from Henry and Patrick counties were…"
+summary: " 100 Years ago - 1925 Kester Dry Cleaning, at Phone 101, offered quick service in “new process dry cleaning.” 75 years ago - 1950 Boy Scouts from Henry and Patrick counties were…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-cenpn.webp
 imageAlt: "August 2 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-cenpn
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 Kester Dry Cleaning, at Phone 101, offered quick service in “new process dry cleaning.”
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 Boy Scouts from Henry and Patrick counties were told to cancel any plans they may have had to attend Camp Powhatan, in Pulaski County, out of concerns of the spread of polio. The Patrick Henry Boy Scout council came to that decision after studying the polio situation in Wythe County, which is near the camp. Members of that committee were Warren Watrous, Leon Globman and doctors E.M. McDaniel and H.H. Price of Fieldale, L.A. Faudree of Bassett and B.A. Hopkins of Stuart.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 A refuge family from South Vietnam went into the home provided for them by First United Methodist Church: Nguyen Luong Thoan and his wife, Dinthi Ky, and children The Nguyen, 10, Luong Than, 4, and Thuy Nga, 4 months. The father was an agricultural technician with the U.S. Agency for International Development. The family had left Fort Chaffee, Ark., at 4 a.m. for their trip to Martinsville. They were met at the airport in Greensboro by a white school bus with church members on it.
 

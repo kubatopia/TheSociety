@@ -3,18 +3,18 @@ title: "Oct. 25"
 date: 2024-10-25
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 For sale at C.W. Holt: German made Cotton Blankets, very good quality, 98 cents each; English Wool Blankets, Good for couch covers or auto robes, $2.95 each;…"
+summary: "100 Years ago - 1924 For sale at C.W. Holt: German made Cotton Blankets, very good quality, 98 cents each; English Wool Blankets, Good for couch covers or auto robes, $2.95 each;…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-frwlt.webp
 imageAlt: "Oct. 25"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-frwlt
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 For sale at C.W. Holt: German made Cotton Blankets, very good quality, 98 cents each; English Wool Blankets, Good for couch covers or auto robes, $2.95 each; long sleeve gowns made from Fruit of the Loom long cloth, $1.95; house dresses $1.19, made from good quality gingham and chambrey. Will launder well. Colors fast. $1.19.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Mrs. Margaret Hurd had a mild case of infantile paralysis (polio). She underwent treatment at the Medical College of Virginia Hospital in Richmond.
 
@@ -24,9 +24,9 @@ City Council approved the construction of a 100,000-square-foot tobacco warehous
 
 The Henry County Board of Supervisors approved two dump sites it the county but still was looking for three more, because the health department had recommended that at least five garbage dumps be established in different areas of the county. Suitable tracts for two sites had been found in the Reed Creek and Horsepasture districts. Together, they were 20 acres. For Bassett, there was a possible site at a ravine near Mary Hunter school, but a dump that close to a school would have to be covered each day, and there wasn’t enough dirt available for that. No sites at all had been found for Ridgeway or Axton.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
-Ad: “If He’s Tall – Thin and Terrific!! He Needs Extra Long Clothing from Martinsville’s Most Talked About Store, Ted’s – especially for guys who are 6 ft. 4 and more. Johnny Carson Suits and Sportcoats in extra long sizes plus Enro dress shirts plus Brad Whitney Corduroy Coats and Shirt Jacs plus Polyester Slax in Long Strides.
+Ad: “If He’s Tall - Thin and Terrific!! He Needs Extra Long Clothing from Martinsville’s Most Talked About Store, Ted’s - especially for guys who are 6 ft. 4 and more. Johnny Carson Suits and Sportcoats in extra long sizes plus Enro dress shirts plus Brad Whitney Corduroy Coats and Shirt Jacs plus Polyester Slax in Long Strides.
 
 **25 years ago - 1999**
 

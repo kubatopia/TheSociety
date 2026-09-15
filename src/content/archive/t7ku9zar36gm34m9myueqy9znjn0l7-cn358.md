@@ -34,7 +34,7 @@ Area gas station managers continued to be worried about the national gas shortag
 
 **25 years ago - 1999**
 
-The $2.50 Cleaners at 1320 Memorial Blvd., in the old Mann’s Building, had a special with a coupon – bring in 10 or more garments and get them cleaned for $1.50 each.
+The $2.50 Cleaners at 1320 Memorial Blvd., in the old Mann’s Building, had a special with a coupon - bring in 10 or more garments and get them cleaned for $1.50 each.
 
 **The Photo:** Taken in 1941 by Marion Post Wolcott, archived in the Library of Congress, with this caption: Floyd W. Fleming, defense worker from Spencer, North Carolina, who lives in new rural home built by FSA Farm Security Administration on T.H. Walters farm near Radford, Virginia
 

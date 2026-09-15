@@ -3,7 +3,7 @@ title: "June 22"
 date: 2024-06-22
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 Ad in the Henry Bulletin for Oldsmobile Six: “Make this cab your ‘personal car.’ Business may come before pleasure, but in…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 Ad in the Henry Bulletin for Oldsmobile Six: “Make this cab your ‘personal car.’ Business may come before pleasure, but in…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-94jtr.webp
 imageAlt: "June 22"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-94jtr
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
-Ad in the Henry Bulletin for Oldsmobile Six: “Make this cab your ‘personal car.’ Business may come before pleasure, but in either this Oldsmobile Six Cab is an equally agreeable companion. The Salesman - will find that he can make more calls each day. This Cab can be parked in an unbelievably small space; it can be turned around in a 36-foot street. Large sample cases can be stowed in its 13 cubic foot rear-deck compartment. Or The Women - use the Cab for shopping, placing their bundles and parcels in the convenient, covered space back of the seat. Or they drive it on afternoon calls, proudly displaying the beauty and refinement of its velour upholstery, its silvered fittings, its wide doors with generous windows so easily regulated to the weather. Men and Women - both enthuse over its attractive lines; the comfort of its Fisher body cradled on springs almost as long as the car itself; the reserve power in its smooth, 40 horsepower engine; the remarkable mileage it gives on fuel and oil. It comes to you complete – at a price hundreds of dollars lower than will buy you its equal. $985. Gerald W. King, Martinsville, Virginia.”
+Ad in the Henry Bulletin for Oldsmobile Six: “Make this cab your ‘personal car.’ Business may come before pleasure, but in either this Oldsmobile Six Cab is an equally agreeable companion. The Salesman - will find that he can make more calls each day. This Cab can be parked in an unbelievably small space; it can be turned around in a 36-foot street. Large sample cases can be stowed in its 13 cubic foot rear-deck compartment. Or The Women - use the Cab for shopping, placing their bundles and parcels in the convenient, covered space back of the seat. Or they drive it on afternoon calls, proudly displaying the beauty and refinement of its velour upholstery, its silvered fittings, its wide doors with generous windows so easily regulated to the weather. Men and Women - both enthuse over its attractive lines; the comfort of its Fisher body cradled on springs almost as long as the car itself; the reserve power in its smooth, 40 horsepower engine; the remarkable mileage it gives on fuel and oil. It comes to you complete - at a price hundreds of dollars lower than will buy you its equal. $985. Gerald W. King, Martinsville, Virginia.”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Only 20 children were enrolled in the city’s day camp for children at a city park, though the city had planned for up to 40 children. Director Lee Moore Jr. attributed the low attendance to children being busy instead with vacation Bible schools. Nevertheless, the City was planning a second two-week day camp to open the following Monday.
 

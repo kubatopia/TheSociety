@@ -3,7 +3,7 @@ title: "April 13"
 date: 2024-04-13
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 The newest automobile dealer in town was Mr. J.R. Gregory Jr., who announced plans of selling Hudson and Essex cars in…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 The newest automobile dealer in town was Mr. J.R. Gregory Jr., who announced plans of selling Hudson and Essex cars in…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-f959p.webp
 imageAlt: "April 13"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-f959p
@@ -12,7 +12,7 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 The newest automobile dealer in town was Mr. J.R. Gregory Jr., who announced plans of selling Hudson and Essex cars in Martinsville in a dealership called Gregory Motor Company. A carload shipment of cars was on the road and expected in town in a few days.
 
@@ -22,7 +22,7 @@ The vehicle of Claude V. Self, a traveling salesman from Chatham, and 14-year-ol
 
 The new Henry County Home Demonstrator, Miss Emma Bratten of Princess Ann County, arrived in the area to live in the home of Mrs. W.L. Penn of Starling Avenue.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 County Agent George Pollard gave a demonstration on how to make a drainage ditch by dynamite explosion. At the farm of Thomas Wilson near Ridgeway, he put pieces measuring one third of a stick of dynamite each 8 inches apart and connected them with a fuse. When he put them off, the explosions blew a trench which was 600 feet long, 4 feet wide and 3 feet deep. About 40 farmers watched the demonstration.
 
@@ -32,11 +32,11 @@ Downtown retail establishments which had customarily been closing at 1 p.m. on W
 
 Every member of the Martinsville Fire Department, along with all equipment, collected on Emmet Street for the final day of annual Spring testing. Every foot of hose was strung the length of the street and screened to ensure that winter had not had any lasting negative effects.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Mrs. Mary S. Martin was nearly the end of year year-long reign as “Mother of the Year.” The next honoree would be chosen on May 13. The award is conferred by the Retail Merchants Association.
 
-**25 years ago – 1999**
+**25 years ago - 1999**
 
 American Electric Power (which became Appalachian Power Company) had to pay the City of Martinsville a $1.64 million refund, in two installments, by the terms of a 1992 rate suit settlement.
 

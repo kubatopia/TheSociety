@@ -26,7 +26,7 @@ Edith Doyle’s Millinery was at 24 ½ E. Main St. It offered fall and winter ha
 
 Bettie’s Beauty Shop (Bettie Gilbert) opened on Jan. 3 at 909 Starling Avenue, tel. 2717. Bettie Gilbert was from Miller & Rhoads in Richmond.
 
-Ad: What’s Cookin’ – Why the Most *Snappy *Fast *Cheerful Service in Town. Eanes Atlantic Service. 624 Bridge St., Phone 5214.
+Ad: What’s Cookin’ - Why the Most *Snappy *Fast *Cheerful Service in Town. Eanes Atlantic Service. 624 Bridge St., Phone 5214.
 
 1974
 
@@ -48,7 +48,7 @@ On Jan. 2, 1924, a 40-year-old old leaf tobacco factory on Lester street, across
 
 1949
 
-Ad: Carter’s Frozen Foods Inc., Roanoke Highway between Collinsville and Martinsville: “Bring Us Your Whole Hog for Processing. Kill your hog any day of the year except Sunday. We will: Chill body heat out of carcass; cut your hog up; cure ham, shoulders and bacon; render your lard; grind and season your sausage; wrap in family size packages; quick freeze fresh meat – put in your locker. Cost only 5 cents per pound dressed weight of hog.”
+Ad: Carter’s Frozen Foods Inc., Roanoke Highway between Collinsville and Martinsville: “Bring Us Your Whole Hog for Processing. Kill your hog any day of the year except Sunday. We will: Chill body heat out of carcass; cut your hog up; cure ham, shoulders and bacon; render your lard; grind and season your sausage; wrap in family size packages; quick freeze fresh meat - put in your locker. Cost only 5 cents per pound dressed weight of hog.”
 
 1974
 
@@ -116,7 +116,7 @@ Bob Hetzel was the executive director of the Southern Virginia Economic Developm
 
 Martinsville Bakery made Quality Bread and Cake, phones 28 and 95. Its advertisement recommends slicing through the loaf as much bread as you’d want for the meal, “press the slices closely together. Pop in on hot oven until heated through. Then pop out. You’ll enjoy it so much you’ll want to eat twice your regular Bread portion. And not a crumb wasted.”
 
-Ad for Schilbes’s Bakery, Martinsville: “It is rumored that a certain fastidious young lady of town kneads bread with gloves on. This incident may be peculiar, but there are others. NOW, we NEED bread our showed on. We need bread with our shirts on. We need bread with our pants on, and unless we can corral more of the business of this vicinity, we will soon need bread without a d\-\-\-\-\-\-\- thing on, and this town will be a Garden of Eden. – Get Busy and Send Your Orders for Home-Made Bread to Schilbe’s Bakery, Martinsville, Virginia.
+Ad for Schilbes’s Bakery, Martinsville: “It is rumored that a certain fastidious young lady of town kneads bread with gloves on. This incident may be peculiar, but there are others. NOW, we NEED bread our showed on. We need bread with our shirts on. We need bread with our pants on, and unless we can corral more of the business of this vicinity, we will soon need bread without a d\-\-\-\-\-\-\- thing on, and this town will be a Garden of Eden. - Get Busy and Send Your Orders for Home-Made Bread to Schilbe’s Bakery, Martinsville, Virginia.
 
 1949
 
@@ -158,7 +158,7 @@ Norman Mills of Axton, a Tultex employee, was on The Price is Right. He won vari
 
 1924
 
-The City Pressing Club on Fayette Street promised “pleating of all kinds – box, knife, accordion.” W.R. Stultz was the manager, and the phone number was 323.
+The City Pressing Club on Fayette Street promised “pleating of all kinds - box, knife, accordion.” W.R. Stultz was the manager, and the phone number was 323.
 
 1949
 
@@ -200,7 +200,7 @@ On Jan. 9, Mr. and Mrs. William M. Bassett of Bassett announced the engagement o
 
 Also on this date in 1974: State Sen. Virgil H. Goode Jr., elected as an independent in the Nov. 6 special election, was admitted to the Senate Democratic Caucus on the eve of the opening of the 1974 General Assembly.
 
-1999: Saturday was a big day in 1999. It started with a pancake breakfast by the Bassett Ruritan Club, for $4. Brunswick stew cost $4 – at the Horsepasture Fire Department Brunswick stew sale. Willard Arnold was the cook. The Rangeley Ruritan Club held a country music show with the Dan River Bluegrass Band on Saturday night, Jan. 9. Over in Patrick County, American Legion Post 105 held a Variety Dance with music by Stagecoach.
+1999: Saturday was a big day in 1999. It started with a pancake breakfast by the Bassett Ruritan Club, for $4. Brunswick stew cost $4 - at the Horsepasture Fire Department Brunswick stew sale. Willard Arnold was the cook. The Rangeley Ruritan Club held a country music show with the Dan River Bluegrass Band on Saturday night, Jan. 9. Over in Patrick County, American Legion Post 105 held a Variety Dance with music by Stagecoach.
 
 2024: [The Dutch Inn once again has a restaurant, now run by Austin Boyd and Justin Hale](https://martinsvillebulletin.com/news/local/business/the-dutch-inn-has-a-restaurant-again/article_404bb632-ae2e-11ee-9a7c-d74ad87ffae0.html#tracking-source=home-top-story)y, the owners of Chopstix, the Martinsville Bulletin reports. It’s the first time the popular eatery will be open since the pandemic.
 
@@ -216,7 +216,7 @@ Also on this date in 1974: State Sen. Virgil H. Goode Jr., elected as an indepen
 
 Also in 1974, City Council called for tougher enforcement of trash ordinances; Councilman W.D. Hartford described alleys as “disgusting,” “in real bad shape” and “too dirty for rats,” the Bulletin reported on Jan. 9, 1974.
 
-**1999,** Martinsville and Henry County had below average results on Standards of Learning testing. Henry County schools were in “Effective Schools Program” started in 1996 to change curriculum to match the changed state standards that were imposed by former Gov. George Allen’s administration. In the city, Druid Hills Elementary School was one of only 39 of the 1,800+ public schools in Virginia that met accreditation standards – if the state’s new accreditation standards were to be in effect. Bill Vickers was the principal there. David Martin was the superintendent of Henry County Public Schools.
+**1999,** Martinsville and Henry County had below average results on Standards of Learning testing. Henry County schools were in “Effective Schools Program” started in 1996 to change curriculum to match the changed state standards that were imposed by former Gov. George Allen’s administration. In the city, Druid Hills Elementary School was one of only 39 of the 1,800+ public schools in Virginia that met accreditation standards - if the state’s new accreditation standards were to be in effect. Bill Vickers was the principal there. David Martin was the superintendent of Henry County Public Schools.
 
 2024, E[ric Phillips wins the special election](https://martinsvillebulletin.com/news/local/government-politics/elections/special-election-henry-pittsylvania-martinsville-virginia-general-assembly-eric-phillips/article_df9d1474-af5a-11ee-a0ef-bf09d7df9837.html#tracking-source=home-top-story) to fill the delegate seat vacated by Les Adams; also, the Martinsville Bulletin reports that [Republican headquarters had been vandalized ](https://martinsvillebulletin.com/news/local/crime/martinsville-henry-county-republican-headquarters-vandalized/article_cdbe5052-af1d-11ee-9a51-3bca3aebe382.html#tracking-source=home-top-story)over the weekend.
 
@@ -230,7 +230,7 @@ Also in 1974, City Council called for tougher enforcement of trash ordinances; C
 
 Also 1949: Bruce Cox was appointed the newly formed Fieldale district of Appalachian Electric Power.
 
-1974: Ad: H&M Shoes, Downtown Martinsville – Special Sale Converse “Coach” $9.97, regular $12; green, purple, red, blue, black, white & gold, light blue, orange
+1974: Ad: H&M Shoes, Downtown Martinsville - Special Sale Converse “Coach” $9.97, regular $12; green, purple, red, blue, black, white & gold, light blue, orange
 
 1999: Bassett Ruritan Club officers for 1999 were Burley Hooker, president; Clifford Adkins, vice president; Joe Varner, treasurer; Inez Adkins, secretary and 3-year director; Nancy Hooker, entertainment director. The late James Adkins was named 199’8s Outstanding Ruritan of the Year.
 
@@ -242,7 +242,7 @@ Also 1949: Bruce Cox was appointed the newly formed Fieldale district of Appalac
 
 **1924:** The Tubise Artificial Silk Co. of Hopewell was advertising as far as Martinsville in the Henry Bulletin for “all members of the family” to come work. Young men and women who “have been thrown out of employment” as well as farmers “are bringing their families to Hopewell. … The Turbise plant makes artificial silk from a cotton base, and a large number of boys, girls and women are employed in the various processes. The work is light and pleasant, and workers quickly become expert. … The company still has a limited number of positions for girls and boys, but entire families having several workers are especially need.”
 
-**1949:** Ad from Rhodes in Bassett and Martinsville: How do you like your shirts? Rhodes offers shirts the way you like them! Without Starch – If you are one of the many men who insist on NO STARCH in your shirts – you will be pleased with RHODES NO STARCH SHIRT SERVICE – or With Starch – Light, medium or heavy. For those of you who like starch, RHODES offers shirt finishing at its best. Crisp and satin smooth. All shirts returned in the No Crush Pax, which insures you a perfect shirt anytime it is desired!
+**1949:** Ad from Rhodes in Bassett and Martinsville: How do you like your shirts? Rhodes offers shirts the way you like them! Without Starch - If you are one of the many men who insist on NO STARCH in your shirts - you will be pleased with RHODES NO STARCH SHIRT SERVICE - or With Starch - Light, medium or heavy. For those of you who like starch, RHODES offers shirt finishing at its best. Crisp and satin smooth. All shirts returned in the No Crush Pax, which insures you a perfect shirt anytime it is desired!
 
 **1974:** Va. Senator Virgil Goode Jr., 27, of Franklin County, was named to committees on General Laws, Local Government and Social Services and Rehabilitation.
 
@@ -298,7 +298,7 @@ Also in 1949, Ad from Bondurant Furniture Corp., located on Main & Clay (Phone 3
 
 **Jan. 16**
 
-1924: On Jan. 16, 1924, the Women’s Christian Temperance Union held a celebration of the fourth anniversary of the Eighteenth Amendment to the constitution – Prohibition – at the Presbyterian Church. Speakers included Rev. C.H. Phipps, and Rev. W.B. Jett of the Methodist church. The slogan of the W.C.T.U. became “a saloonless America by 1920.” Before Prohibition, Jett said in his talk, 24 states had passed prohibition acts, and in Virginia a vote of 40,000 majority had been polled for prohibition. The National Prohibition law went into effect on Jan. 16, 1920.
+1924: On Jan. 16, 1924, the Women’s Christian Temperance Union held a celebration of the fourth anniversary of the Eighteenth Amendment to the constitution - Prohibition - at the Presbyterian Church. Speakers included Rev. C.H. Phipps, and Rev. W.B. Jett of the Methodist church. The slogan of the W.C.T.U. became “a saloonless America by 1920.” Before Prohibition, Jett said in his talk, 24 states had passed prohibition acts, and in Virginia a vote of 40,000 majority had been polled for prohibition. The National Prohibition law went into effect on Jan. 16, 1920.
 
 1949: Two-year-old Billy Harris received a gunshot wound in the abdomen. He was treated at Martinsville General Hospital, where he was said to be in fair condition. He was shot with a .22-calibre rifle while he and his brother were waiting in a car outside the hospital while his father and an aunt visited their mother inside the hospital. In another car, two 4-year-old boys were waiting as well. One of them found a rifle that his father had left in the back of the rear seat.
 
@@ -364,7 +364,7 @@ The Social Welfare Committee was composed of one representative from each of the
 
 **1949**
 
-Seventeen Martinsville and Henry County furniture manufacturing officials were at the Southern Furniture Manufacturers show which opened on this day in High Point, N.C. – from American Furniture Co., W.M. Bassett Furniture Co., Gravely Novelty Furniture Co., Hooker-Bassett Furniture Co., Martinsville Novelty Co., Morris Novelty Furniture Col, Bassett Furniture Co., Stanley Furniture Co.
+Seventeen Martinsville and Henry County furniture manufacturing officials were at the Southern Furniture Manufacturers show which opened on this day in High Point, N.C. - from American Furniture Co., W.M. Bassett Furniture Co., Gravely Novelty Furniture Co., Hooker-Bassett Furniture Co., Martinsville Novelty Co., Morris Novelty Furniture Col, Bassett Furniture Co., Stanley Furniture Co.
 
 Martinsville’s new $500,000 filtration water plant went into operation on this day in 1949. Water was filtered at the new plant on Jones Creek. It has five 1-million-gallons per day filters. The city’s plant was built in 1926, and eight years later a steel reservoir of one and a half million gallon capacity was built. In 1940 to more half-million-gallons per day filters were added.
 
@@ -497,7 +497,7 @@ Total Resources, $85,123.79 (including $63,978.31 in loans); Liabilities, $85,12
 
 **1949**
 
-Mayor Nick Prillaman and the eight members of city council – J.R. Walker, Rieves S. Hodnett, C.P. Craig, W.T. Turner, E.A. Sale, O.V. Hukey and Rives S. Brown Jr., issued a statement urging voters to choose the city manager form of government, which would be decided this day at the polls.
+Mayor Nick Prillaman and the eight members of city council - J.R. Walker, Rieves S. Hodnett, C.P. Craig, W.T. Turner, E.A. Sale, O.V. Hukey and Rives S. Brown Jr., issued a statement urging voters to choose the city manager form of government, which would be decided this day at the polls.
 
 **1974**
 
@@ -505,7 +505,7 @@ Robin Largen, a freshman at Drewry Mason High School, offered baton twirling les
 
 **1999**
 
-Officials were worried and planning ahead for any potential problems caused by Y2K – the worry that computer systems would not be compliant with the arrival of the year 2000. Many computer systems used only a 2-digit method of noting the year, meaning that 1999 would be noted as “99,” so when the year changed to 2000, people thought the system would input that date as “00” and recognize it as 1900. Bob Tuggle was the information services manager for Henry County, working on getting the computers compliant.
+Officials were worried and planning ahead for any potential problems caused by Y2K - the worry that computer systems would not be compliant with the arrival of the year 2000. Many computer systems used only a 2-digit method of noting the year, meaning that 1999 would be noted as “99,” so when the year changed to 2000, people thought the system would input that date as “00” and recognize it as 1900. Bob Tuggle was the information services manager for Henry County, working on getting the computers compliant.
 
 **2024**
 
@@ -517,7 +517,7 @@ The closed[ Patrick County hospital will not reopen after all,](https://martinsv
 
 **1924**
 
-This ad by Roy Prillaman of Martinsville: Choice Cuts – Fresh – Tasty. Come in and see for yourself what splendid fresh Meats we carry and at what reasonable prices. Whenever in need, ’phone us 157-12 for some nice, juicy, fresh Meat and see what fine quality and service we give.”
+This ad by Roy Prillaman of Martinsville: Choice Cuts - Fresh - Tasty. Come in and see for yourself what splendid fresh Meats we carry and at what reasonable prices. Whenever in need, ’phone us 157-12 for some nice, juicy, fresh Meat and see what fine quality and service we give.”
 
 **1949**
 
@@ -599,7 +599,7 @@ C.P. Kearfott & Son of The Square, Martinsville, had for sale the New Columbia: 
 
 **1974**
 
-Ad in the Bulletin: “New Disposable Wigs – Costs less than a trip to the beauty shop. Manufactured to sell for $24.80; The sensational wig idea for the girl on the go, only $4.99. Trans World introduces the new throw-away wig you can wear a week, a month or keep permanently. The set stays on and on. This wig will give you more than a month’s wear for less than it costs to fix your hair. Trans-World Wig Imports, Patrick Henry Mall.
+Ad in the Bulletin: “New Disposable Wigs - Costs less than a trip to the beauty shop. Manufactured to sell for $24.80; The sensational wig idea for the girl on the go, only $4.99. Trans World introduces the new throw-away wig you can wear a week, a month or keep permanently. The set stays on and on. This wig will give you more than a month’s wear for less than it costs to fix your hair. Trans-World Wig Imports, Patrick Henry Mall.
 
 **1999**
 
@@ -623,7 +623,7 @@ The Collinsville Volunteer Fire Department got a new fully equipped fire truck f
 
 **1999**
 
-Henry County Sheriff Frank Cassell announced on Jan. 29 that he would seek a third four-year term in the November general election, but when that term expires he would not run again. (Yet run again he would, in 2003, against challenger Mike McPeek; he won that race by nearly 2,000 votes – but on Nov. 2, 2006, he was arrested by the FBI in connection with an alleged racketeering conspiracy within the Henry County Sheriff’s Office. He went on unpaid administrative leave a week later, retired a week after that; and in September 2007, he was sentenced to 8 months in prison, 2 years of supervised release and a $15,000 fine for making a false statement to a federal agent.)
+Henry County Sheriff Frank Cassell announced on Jan. 29 that he would seek a third four-year term in the November general election, but when that term expires he would not run again. (Yet run again he would, in 2003, against challenger Mike McPeek; he won that race by nearly 2,000 votes - but on Nov. 2, 2006, he was arrested by the FBI in connection with an alleged racketeering conspiracy within the Henry County Sheriff’s Office. He went on unpaid administrative leave a week later, retired a week after that; and in September 2007, he was sentenced to 8 months in prison, 2 years of supervised release and a $15,000 fine for making a false statement to a federal agent.)
 
 **2024**
 
@@ -635,7 +635,7 @@ Henry County Sheriff Frank Cassell announced on Jan. 29 that he would seek a thi
 
 **1924**
 
-Ad for C.W. Holt & Co., “Style of the Times”: Kerchiefs, new, crisp and clean – dainty effects in plain and fancy designs, 19 cents; Dainty Philipine Gowns, Fresh from the makers, $2.25; One Lot Boy’s Union Suits, Very good quality, Wilson Bros. make, sizes 10 to 16 years, 85 cents. Suits and overcoats on clearance sales, with prices ranging from $50 suits re-marked to $39, to $30 suits re-marked to $24.
+Ad for C.W. Holt & Co., “Style of the Times”: Kerchiefs, new, crisp and clean - dainty effects in plain and fancy designs, 19 cents; Dainty Philipine Gowns, Fresh from the makers, $2.25; One Lot Boy’s Union Suits, Very good quality, Wilson Bros. make, sizes 10 to 16 years, 85 cents. Suits and overcoats on clearance sales, with prices ranging from $50 suits re-marked to $39, to $30 suits re-marked to $24.
 
 **1949**
 
@@ -679,7 +679,7 @@ Martin Stables is the host site of a “Stanley Party” to raise money for the 
 
 **1999**
 
-NAFTA – the North American Free Trade Agreement – just had its fifth anniversary. NAFTA at the time was reducing and ultimately would lift tariffs on items bought and sold among the U.S., Canada and Mexico. Local industry leaders, Chamber officials, workers and residents were debating on whether NAFTA was helping or hurting the area.
+NAFTA - the North American Free Trade Agreement - just had its fifth anniversary. NAFTA at the time was reducing and ultimately would lift tariffs on items bought and sold among the U.S., Canada and Mexico. Local industry leaders, Chamber officials, workers and residents were debating on whether NAFTA was helping or hurting the area.
 
 ** **
 

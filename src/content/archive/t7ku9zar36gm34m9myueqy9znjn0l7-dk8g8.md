@@ -16,13 +16,13 @@ A front-page article in the Jan. 30 edition of the Henry Bulletin stated, “Tho
 
 **1950**
 
-Classified ads: ANYONE desiring a ride from Bassett to DuPont, meeting all shifts, call Bassett 3616. Lucille Rakestraw Krontz. / SEWING MACHINES and radios sold and repaired. Parts for all of them. Needles, buttonhole attachments Pinking scissors, motors and sew lights. O.K. Machine & Radio Service. Dial 8289 day, 9145 night. / STARLING AVENUE 104 – Private bedroom, steam heated. Automatic hot water. Dial 9357. / STARLING AVENUE 403 – Brick Haven Apts. Nice room for two girls, with kitchen and laundry privileges. All modern conveniences. Dial 4188. / STARLING AVENUE 214 – Gentleman to share two rooms and bath with another gentleman. References. Dial 5159.
+Classified ads: ANYONE desiring a ride from Bassett to DuPont, meeting all shifts, call Bassett 3616. Lucille Rakestraw Krontz. / SEWING MACHINES and radios sold and repaired. Parts for all of them. Needles, buttonhole attachments Pinking scissors, motors and sew lights. O.K. Machine & Radio Service. Dial 8289 day, 9145 night. / STARLING AVENUE 104 - Private bedroom, steam heated. Automatic hot water. Dial 9357. / STARLING AVENUE 403 - Brick Haven Apts. Nice room for two girls, with kitchen and laundry privileges. All modern conveniences. Dial 4188. / STARLING AVENUE 214 - Gentleman to share two rooms and bath with another gentleman. References. Dial 5159.
 
 Air pollution in Martinsville was getting to be such a problem that residents were complaining about it at City Council meetings, and Council was considering bringing back the Citizens’ Smoke Abatement Committee. Councilman E.E. Stone said the most complaints he had received came from the Forest Street and Rives Road area. City Fire Chief Clay Easterly reported that much of the problem was from improper firing of industrial furnaces, burning waste materials instead of proper fuel. He said that the last time a Citizens’ Committee was on the case, local industries were persuaded to burn fuel properly.
 
 **1961**
 
-Henry County was one of 20 counties in Virginia that had more than 1,000 members of the 4-H clubs during 1960. Pittsylvania had the most – 2,416. Across the state were 2,418 4-H clubs in 1960, with a total of 71,960 members. Their most popular projects were in clothing, food, electric, safety, home grounds beautification, wildlife, forestry, gardening, home management, home furnishings, livestock and entomology.
+Henry County was one of 20 counties in Virginia that had more than 1,000 members of the 4-H clubs during 1960. Pittsylvania had the most - 2,416. Across the state were 2,418 4-H clubs in 1960, with a total of 71,960 members. Their most popular projects were in clothing, food, electric, safety, home grounds beautification, wildlife, forestry, gardening, home management, home furnishings, livestock and entomology.
 
 **1975**
 

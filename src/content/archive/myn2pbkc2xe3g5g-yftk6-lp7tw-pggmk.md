@@ -3,22 +3,22 @@ title: "August 14 through time"
 date: 2025-08-14
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 The Dodge Brothers Special Type-A Sedan came with five balloon tires. It could be purchased at O.D. Ford Motor Company in Martinsville, Bassett Motor Service…"
+summary: " 100 Years ago - 1925 The Dodge Brothers Special Type-A Sedan came with five balloon tires. It could be purchased at O.D. Ford Motor Company in Martinsville, Bassett Motor Service…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-pggmk.webp
 imageAlt: "August 14 through time"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-pggmk
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 The Dodge Brothers Special Type-A Sedan came with five balloon tires. It could be purchased at O.D. Ford Motor Company in Martinsville, Bassett Motor Service in Bassett, Central Garage in Rocky Mount and Stuart Motor Company in Stuart.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 Mrs. H.S. Winn had planted and was caring for a flower plot at the corner of Forest and Chalmers streets.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 The Southeast Region champion Martinsville-Henry County Oilers left English Field for a trip to Farmington, N.M. and the Connie Mack Baseball World Series, on a Greyhound bus.
 

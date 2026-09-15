@@ -3,7 +3,7 @@ title: "April 28"
 date: 2024-04-28
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 J.W. Booker & Co., Phone 70, Martinsville: Yellow Danvers onion sets, 20 cents for a quart; Red Wethersfield onion sets, 20…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 J.W. Booker & Co., Phone 70, Martinsville: Yellow Danvers onion sets, 20 cents for a quart; Red Wethersfield onion sets, 20…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-xrw5s.webp
 imageAlt: "April 28"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-xrw5s
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 J.W. Booker & Co., Phone 70, Martinsville: Yellow Danvers onion sets, 20 cents for a quart; Red Wethersfield onion sets, 20 cents for a quart; Tennessee Green pod beans, 30 cents a quart; Golden Dent seed corn, 15 cents a quart; Boone County seed corn, 15 cents a quart; Hickory King seed corn, 15 cents a quart.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 It was the fifth trial of the Martinsville Seven case, that of Francis DeSales Grayson, 37. Jurors, chosen that morning, were P.H. Flora, McKinley Lovell, Ernest W. Ayers, Mark N. Ivey, Ray L. White, Edwin C. Haynes, Brown P. Thomas, B.M. Jarrett, Cedric J. Beck, George May, D.D. Palmer and Carl B. Burgess, with alternate T.D. Alexander.
 
@@ -26,7 +26,7 @@ Outside of a tax, State law prohibited counties from exercising any control over
 
 At midnight a six-room frame house formerly on Wilson Street was moved down Memorial Boulevard with the goal of moving it to a new site on Rivermont Heights. However, the behemoth load only made it as far as Frank’s Food Fair, where it remained for the rest of the night. The transfer resumed in the morning, and the house assumed its new home without incident, thanks to the efforts of Fire Chief Clay Easterly, Traffic Engineer Irving McGhee, electric and telephone company employees and a number of curious onlookers.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Winners of the Gen. Joseph Martin Chapter Daughters of the American Revolution Good Citizenship Awards were Hubert Staples and Deana DeHart.
 

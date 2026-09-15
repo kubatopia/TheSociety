@@ -3,7 +3,7 @@ title: "July 14"
 date: 2024-07-15
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 More than 100 people attended the two-day South Piedmont District convention of the Christian Church, held at Broad Street…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 More than 100 people attended the two-day South Piedmont District convention of the Christian Church, held at Broad Street…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-h3efa.webp
 imageAlt: "July 14"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-h3efa
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 More than 100 people attended the two-day South Piedmont District convention of the Christian Church, held at Broad Street Christian Church. The local pastor was Rev. C.M. Wales.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 The wet and warm weather was causing brown rot to destroy the peach crop in Henry and Patrick counties.
 
@@ -30,7 +30,7 @@ J.D. Bassett celebrated his 94th birthday in his room at Martinsville General Ho
 
 This notice in the Bulletin’s Stroller column: “Passing over Clearview Drive the other day, we noted an unusual sight for Martinsville. The framework of a small geodesic dome, one of those newfangled igloo shaped structures usually covered with aluminum, is rising near the trailer community there.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Kathy Hylton Anthony taught baton classes Thursday evenings at Bassett American Legion Post No. 11 on Blackberry Road in Bassett.
 

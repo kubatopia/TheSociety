@@ -3,7 +3,7 @@ title: "Three major MHC job transitions"
 date: 2023-12-04
 type: Article
 author: "Holly Kozelsky"
-summary: "By Dr. Barry M. Dorsey, May 15, 2018 From its inception in October 1776, Henry County - and the entire region–have undergone at least three major job transitions, along with several…"
+summary: "By Dr. Barry M. Dorsey, May 15, 2018 From its inception in October 1776, Henry County - and the entire region - have undergone at least three major job transitions, along with several…"
 image: /media/archive/three-major-mhc-job-transitions.webp
 imageAlt: "Three major MHC job transitions"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/three-major-mhc-job-transitions
@@ -12,7 +12,7 @@ draft: false
 
 By **Dr. Barry M. Dorsey**, May 15, 2018
 
-From its inception in October 1776, Henry County - and the entire region–have undergone at least three major job transitions, along with several “lesser” changes.  The region is still adjusting to the last of the changes.
+From its inception in October 1776, Henry County - and the entire region - have undergone at least three major job transitions, along with several “lesser” changes.  The region is still adjusting to the last of the changes.
 
 **The Early Years**
 
@@ -36,7 +36,7 @@ Henry County’s textile industry actually began in 1909 when the Martinsville C
 
 Several of the companies changed hands over time (with such names eventually as Tultex, Sara Lee, and Pillowtex), but the Martinsville area eventually became known as the “Sweatshirt Capital of the World.”
 
-The labor force created by the combination of employees in the furniture-making and textile industries– and augmented by several other smaller companies– formed a giant industrial complex in this area of more than 23,000 persons that continued after World War II, gradually dissipating by the early 2000s. In fact, one of the last of the textile giants, Tultex, closed its doors after announcing bankruptcy in 1999, putting over 1700 employees out of work, according to newspaper reports at the time.
+The labor force created by the combination of employees in the furniture-making and textile industries - and augmented by several other smaller companies - formed a giant industrial complex in this area of more than 23,000 persons that continued after World War II, gradually dissipating by the early 2000s. In fact, one of the last of the textile giants, Tultex, closed its doors after announcing bankruptcy in 1999, putting over 1700 employees out of work, according to newspaper reports at the time.
 
 Ultimately, the combination of lower labor costs, NAFTA (the North American Free Trade Agreement) along with other trade agreements, and new technologies forced the globalization of these industries.  Several became bankrupt, a number consolidated their factories, and many moved some of their operations offshore.  Their loss was a striking blow to the area.
 
@@ -64,4 +64,4 @@ This area has much to commend it.  A potential resident would be hard-pressed t
 
 Another impressive local group of organizations is the non-profits, not only the cultural organizations (some of which might be left over from the DuPont days), but entities such as Grace Network, United Way, Boys and Girls Clubs, Charity League, Boy and Girl Scouts, Community Foundation, MHC Historical Society, etc. People jokingly say that the same population contributes to all the non-profit organizations.
 
-Yet the area lacks a single business or group of businesses - such as textiles– which employ large numbers of Henry Countians.   In this void, residents and governments alike seem to be coalescing  around three areas:  Education (with Patrick Henry Community College, New College Institute, a revamped public school system, and a private, college-preparation institution), Healthcare (with a reorganized hospital into a regional arrangement, SOVAH, the Piedmont Virginia Dental Health Foundation, and the MHC Coalition for Health and Wellness), and a Regional Farming Network.
+Yet the area lacks a single business or group of businesses - such as textiles - which employ large numbers of Henry Countians.   In this void, residents and governments alike seem to be coalescing  around three areas:  Education (with Patrick Henry Community College, New College Institute, a revamped public school system, and a private, college-preparation institution), Healthcare (with a reorganized hospital into a regional arrangement, SOVAH, the Piedmont Virginia Dental Health Foundation, and the MHC Coalition for Health and Wellness), and a Regional Farming Network.

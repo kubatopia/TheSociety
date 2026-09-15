@@ -3,20 +3,20 @@ title: "August 23 through the years"
 date: 2025-08-31
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 A four-room schoolhouse was being proposed for the Firestone Brick Yards and Stanley Furniture Company area, due to the fast growth in population. A…"
+summary: " 100 Years ago - 1925 A four-room schoolhouse was being proposed for the Firestone Brick Yards and Stanley Furniture Company area, due to the fast growth in population. A…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-3b7a2.webp
 imageAlt: "August 23 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-3b7a2
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 A four-room schoolhouse was being proposed for the Firestone Brick Yards and Stanley Furniture Company area, due to the fast growth in population. A machinery and real estate tax yielding $150 per year would take 20 years to pay off the proposed $3,000 school building. In the previous year the school board had employed two teachers for that community. Stanley president T.B. Stanley said there were about 85 children in the community.
 
 More than 60 people attended the E.H. Carter Re-union at the old Carter home, and by the Carter family cemetery, about 5 miles southwest of Martinsville. Three local ministers spoke at the event: Rev. Wilfried Roach, Rev. Chas. M. Wales and Doctor McCabe.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 Martin’s Sandwich Shop on Sawmill Hill in Fieldale (phone 3151) offered plate lunches and private dining. It served steaks, chops, sandwiches and chicken-in-the-basket.
 
@@ -24,7 +24,7 @@ Mrs. R.C. Leibe Jr. was the new manager of the new Glamor Shop. The first Glamor
 
 Another 1,700 people attended the Henry County Industrial Exposition run by the Kiwanis Club. Entertainment included a variety show and a hillbilly band led by Tommy Magness. Hazel Whitlow performed, and also, Paul Zimmerman and his orchestra.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Between 2,000 and 3,000 people attended the bluegrass music festival at Leatherwood Park, hosted by Jim Eanes. Musicians Doc and Merle Watson, Ralph Stanley, Wilma Lee, Stoney Cooper and the Clinch Mountain Clan and the McPeak Brothers performed.
 

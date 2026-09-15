@@ -3,7 +3,7 @@ title: "April 21"
 date: 2024-04-23
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 The Martinsville Town Baseball Team opened its 1924 season on Easter Monday, April 21, with a home game played against the…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 The Martinsville Town Baseball Team opened its 1924 season on Easter Monday, April 21, with a home game played against the…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-44jyx.webp
 imageAlt: "April 21"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-44jyx
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 The Martinsville Town Baseball Team opened its 1924 season on Easter Monday, April 21, with a home game played against the Danville All-Stars.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 The jury trying Joe Henry Hampton, 20, of raping Mrs. Ruby Floyd, 32, on Jan. 8, 1949, in East Martinsville, was chosen after an hour’s interrogation of 29 people. Chosen as jurors were Dudley H. Robertson, E.H. Draper, A.J. Fischer Jr., Ralph Seidle, Percy Compton, W.R. Moss, R.L. Alcorn Jr., James A. Dawson, C.D. Willis, J.V. Richardson, J.E. Jones and Watt M. Clingenpeel. Chalmers McFarland was chosen as alternate. People who were interviewed but not chosen included Ryland Richardson, R.T. Smith, B.S. Parrish, H.L. Nunn, W.S. Slaydon III, W.E. Roadcap, A.B. Via, William Lightfoot, R.G. Atkins, John E. Floyd, Jake Aaron, Everette Hensley, F.I. Richardson, Stan Finney, George K. Wyatt and William S. Foster. Only Lightfoot and Foster were listed as black.
 
@@ -30,7 +30,7 @@ A three day polio clinic was scheduled for the area as enough vaccine was sent f
 
 The state school superintendent, Davis Y. Paschall, spoke at the Druid Hills PTA meeting. He emphasized that the position where the best teachers were needed was in first grade as a child  set his/her direction in life, and that the key to understanding was the spirit of cooperation between school and home. He also recommended reading to the child “when you’re both not tired” to capture “rare moments of close happiness and seal an enduring relationship.”
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 In the Stroller column in the Bulletin: Lewis Walker and Kenneth Meece of Collinsville had caught at the Philpott Reservoir “a string of the finest looking smallmouth bass” they had ever seen. They “bragged to some nearby fellows who had been water-skiing, then did their chores and drove off.” Next, they went to Wickline’s Drugstore in Collinsville to show the fish to more people. “Imagine their chagrin when they brought their friends to the vehicle to see the fish to find that the fish were missing.” They figured the water-skiers had taken them. “I don’t mind that so much,” Walker said; “They can keep the fish. I just wish they’d call Wickline’s and confirm that we did catch them. Nobody believes us.”
 

@@ -3,22 +3,22 @@ title: "Oct. 30 through the years"
 date: 2025-11-05
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 The ladies of Broad Street Christian Church held a Hallowe’en supper in the empty storeroom of the Brown-Lee Building for the benefit of the building fund.…"
+summary: " 100 Years ago - 1925 The ladies of Broad Street Christian Church held a Hallowe’en supper in the empty storeroom of the Brown-Lee Building for the benefit of the building fund.…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-k2d92-d983k.webp
 imageAlt: "Oct. 30 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-k2d92-d983k
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 The ladies of Broad Street Christian Church held a Hallowe’en supper in the empty storeroom of the Brown-Lee Building for the benefit of the building fund.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 Geneva Craig was a patient at St. Mary’s hospital, being treated for serious injury to her knee she got the day before while sitting at a table in a café in Bassett. She had been struck by a bullet. Bubber Akridge was arrested. He told Bassett police that he had been shooting at soda bottles which had been set on top of lumber adjoining Tom’s Café.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Community Hospital on Armistead Street was being offered for sale by the hospital’s bord of directors, which was led by acting chair the Rev. H.C. Eggleston. The hospital had been built about 25 years before as a hospital for black patients, to replace the smaller St. Mary’s Hospital run by Dr. Dana Baldwin on Fayette Street.
 

@@ -26,10 +26,10 @@ Local girls high school basketball teams included the Stuart Kittens and the Cri
 
 **1974**
 
-For Valentines Day, you could get your sweetheart – a “Meaningful” 10K heart inset diamond ring for $39.88. a “Dew Drop Design” with diamond in 10K gold mount for $44.88 or a gold ring with the word “LOVE” sculpted into it, with a little diamond, for $16.88 from Royal Jewelers on East Church Street.
+For Valentines Day, you could get your sweetheart - a “Meaningful” 10K heart inset diamond ring for $39.88. a “Dew Drop Design” with diamond in 10K gold mount for $44.88 or a gold ring with the word “LOVE” sculpted into it, with a little diamond, for $16.88 from Royal Jewelers on East Church Street.
 
 **1999**
 
-Martinsville Ford Body Shop at 201 Commonwealth Blvd. was offering a “Valentine’s Special” – Complete Paint for $675, with a free ’99 Ford Classic calendar.
+Martinsville Ford Body Shop at 201 Commonwealth Blvd. was offering a “Valentine’s Special” - Complete Paint for $675, with a free ’99 Ford Classic calendar.
 
 *Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfiche at the *[*Martinsville Branch Library*](https://Martinsville Branch Library)*.*

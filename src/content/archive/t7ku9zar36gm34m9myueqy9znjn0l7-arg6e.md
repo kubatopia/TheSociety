@@ -3,18 +3,18 @@ title: "July 17"
 date: 2024-07-17
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 Ad: “Come to my house Thursday night a nice pea fowl. Owner can get same by paying for this adv. Mrs. Herbert Frye, R. 1, Ridgeway.” 75 years ago – 1949 Bids…"
+summary: "100 Years ago - 1924 Ad: “Come to my house Thursday night a nice pea fowl. Owner can get same by paying for this adv. Mrs. Herbert Frye, R. 1, Ridgeway.” 75 years ago - 1949 Bids…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-arg6e.webp
 imageAlt: "July 17"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-arg6e
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 Ad: “Come to my house Thursday night a nice pea fowl. Owner can get same by paying for this adv. Mrs. Herbert Frye, R. 1, Ridgeway.”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Bids opened for the construction of a new black high school to be built on a piece of land midway between Horsepasture and Fieldale. The school would replace the former Henry County Training School, which had been in West Martinsville but was destroyed by fire.
 
@@ -26,7 +26,7 @@ William McKinley Bassett, the head of Bassett Furniture, 66, died of a heart att
 
 Jean Ann Turner, 18, of Bassett, was in Washington D.C. for the week representing the Philpott Federation at the national meeting of the Future Homemakers of America convention.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Area crops, including of tobacco, were doing very poorly because of an extended dry spell.
 

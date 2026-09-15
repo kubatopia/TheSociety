@@ -3,18 +3,18 @@ title: "Feb. 7 through the years"
 date: 2025-02-06
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1925 The ladies of the Christian Church held a sale of dressed hens, eggs, cakes, pies and other foods at Roberts Drugstore. 75 years ago – 1950 Collinsville was…"
+summary: "100 Years ago - 1925 The ladies of the Christian Church held a sale of dressed hens, eggs, cakes, pies and other foods at Roberts Drugstore. 75 years ago - 1950 Collinsville was…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-gpt9r.webp
 imageAlt: "Feb. 7 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-gpt9r
 draft: false
 ---
 
-**100 Years ago – 1925**
+**100 Years ago - 1925**
 
 The ladies of the Christian Church held a sale of dressed hens, eggs, cakes, pies and other foods at Roberts Drugstore.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 Collinsville was undergoing a building boom, with more than $150,000 in construction either recently completed or underway. Ground recently had been broken for the construction of four 5-room houses on Cherwood Drive, costing between $6,000 and $6,500 each. Construction was moving along on the new Collinsville Methodist Church at the corner of John Redd Boulevard and Daniel’s Creek Road. The Boaz Ice Cream Company had started a $60,000 addition at its location to provide daily service for dairy products. A new 2-story store and apartment building made by Jesse and Claude Prillaman on Route 220 cost more than $25,000. Mrs. Mike Daneski was having a $10,000 store built on Route 220.
 
@@ -26,7 +26,7 @@ Mrs. H. Grady Moore and Mrs. H. Grady Moore Jr. hosted a luncheon at the former�
 
 City Council voted to start the first phase of a $750,000 water improvements program which would take many year to complete. A firt step would be to install a water storage tank in the Booker Road area.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 HCA-Martin was a technology company which processed and dyed nylon yard for use in making carpets and rugs. It revolutionized the process. The company was listed on the New York Stock Exchange and had 1974 sales of $92 million. Its management team was restructured to Julius Hermes, president; Jack Hankins, vice president of finance and administration; Ronald A. Ressel, vice president of marketing; Robert Newman, vice president of manufacturing and Paul Meunier, vice president of applied technology.
 

@@ -3,7 +3,7 @@ title: "April 7"
 date: 2024-04-07
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 In Henry County Circuit Court April 7, the applications of C.P. Kearfott and Son, Roberts Drug Co., and Central Drug Co., to…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 In Henry County Circuit Court April 7, the applications of C.P. Kearfott and Son, Roberts Drug Co., and Central Drug Co., to…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-jscg5.webp
 imageAlt: "April 7"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-jscg5
@@ -12,7 +12,7 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 In Henry County Circuit Court April 7, the applications of C.P. Kearfott and Son, Roberts Drug Co., and Central Drug Co., to sell ardent spirits for medicinal purposes, as provided by the Prohibition Act, were granted. Also in court, 29 cars, which had been caught transporting illicit liquor, were forfeited.
 
@@ -20,7 +20,7 @@ Local ministers attended a Ministers Conference to make plans for a county-wide 
 
 The people of Martinsville were in heated debate on whether or not to move to a city-manager form of government. [That campaign would not succeed; the first city manager was chosen in 1949.] It was the topic of discussion in the meetings of many civic organizations, including the American Legion Pannill Post 43 on Monday night.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Announcement: Dr. Judith Marie Szulecki of 908 Hunting Ridge Road, Martinsville, will practice dermatology in association with her husband, John T. Bunin, M.D., on 15 Cleveland Ave.
 

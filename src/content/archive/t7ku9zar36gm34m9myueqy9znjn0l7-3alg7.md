@@ -3,7 +3,7 @@ title: "Feb. 20"
 date: 2024-02-20
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 1924 The following projects were selected for the Henry County Boys’s Club: Corn Club – one or more acres; Soy Bean Club – one or more acres;…"
+summary: "By Holly Kozelsky and Pat Pion 1924 The following projects were selected for the Henry County Boys’s Club: Corn Club - one or more acres; Soy Bean Club - one or more acres;…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-3alg7.webp
 imageAlt: "Feb. 20"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-3alg7
@@ -14,7 +14,7 @@ draft: false
 
 **1924**
 
-The following projects were selected for the Henry County Boys’s Club: Corn Club – one or more acres; Soy Bean Club – one or more acres; Tobacco Club – one or more acres; Pig Club – fattening or sow and litter. Club members would enter in friendly competition in the County Fair hoping to win the coveted Blue Ribbon.
+The following projects were selected for the Henry County Boys’s Club: Corn Club - one or more acres; Soy Bean Club - one or more acres; Tobacco Club - one or more acres; Pig Club - fattening or sow and litter. Club members would enter in friendly competition in the County Fair hoping to win the coveted Blue Ribbon.
 
 **1949**
 
@@ -29,7 +29,7 @@ In reaction, bands of other youths, some carrying Confederate flags and wearing 
 
 **1974**
 
-Martinsville Drive-In Theatre opened at 6:30 p.m. and started playing movies at 7:30 p.m. According to their advertisement, they only were showing these “2 Adult Hits”: “‘Teenage Bride’ … The Line Forms at the Rear! ‘It’s OK, Honey – What’s a Brother-in-Law For?’ – ‘And you don’t have to be a stewardess to fly her!’” The other movie was “‘Ready for Anything’ – ‘Meet Penny’ – ‘Anybody can – for a price!’” No one under 18 admitted. Free heaters.
+Martinsville Drive-In Theatre opened at 6:30 p.m. and started playing movies at 7:30 p.m. According to their advertisement, they only were showing these “2 Adult Hits”: “‘Teenage Bride’ … The Line Forms at the Rear! ‘It’s OK, Honey - What’s a Brother-in-Law For?’ - ‘And you don’t have to be a stewardess to fly her!’” The other movie was “‘Ready for Anything’ - ‘Meet Penny’ - ‘Anybody can - for a price!’” No one under 18 admitted. Free heaters.
 
 Playing at Town & Country: “The Way We Were” with “Streisand & Ford together!” / At the Rives Theatre, “They Call Me Trinity” and “Trinity is Still My Name.” / At the Martin Theatre, “Meet ‘Sugar Hill’ and Her Zombie Hit Men!’”
 

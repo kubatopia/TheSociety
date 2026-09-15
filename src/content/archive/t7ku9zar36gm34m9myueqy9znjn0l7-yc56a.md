@@ -3,7 +3,7 @@ title: "May 17"
 date: 2024-05-17
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 Classified ads: LOST or STOLEN, One Sorrel mule weight about 650 lbs. Little spring in front knees, about 12 years old, from…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 Classified ads: LOST or STOLEN, One Sorrel mule weight about 650 lbs. Little spring in front knees, about 12 years old, from…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-yc56a.webp
 imageAlt: "May 17"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-yc56a
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 Classified ads: LOST or STOLEN, One Sorrel mule weight about 650 lbs. Little spring in front knees, about 12 years old, from I.M. Young, Koehler, Va. Vinder Please notify me and receive award. / Dr. G.H. Rice, Dentist, Over Roberts Drug Store. / Tomato and pepper plants for sale. See Taylor Finney at Mr. R.S. Brown’s.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 A severe electric storm wreaked havoc in Martinsville: The Howard home at 904 Spruce Street was struck six or seven times by lightning, cause roof to fall in; city fire department was called to four fire calls, including theirs, all in one hour; damage done to Morris Novelty Furniture Co.; in Forest Park, several electric light bulbs knocked out and Mr. and Mrs. George E. Morris said one bolt was so severe it knocked an electric stove into operation.
 
@@ -26,7 +26,7 @@ The 1960 Miss Martinsville-Henry County Beauty Pageant would be June 3-4.  Ther
 
 Danville City Council voted to hold an advisory referendum on the future of a library being operated for white citizens only in the Confederate Memorial Building. A federal judge had issued an injunction prohibiting the city of Danville from operating the library on a segregated basis and the city had appealed the ruling. The library was currently closed. The vote would occur on June 14. Voters would choose from among five alternatives: Close the library system; close the system if it appeared that private library facilities were available; keep the library open as a reference library; or close the building for public use and dispense books by bookmobile. Danville Library Foundation received a charter from the State Corporation Commission and made plans to operate a private library for white persons if the city voted to close the libraries rather than integrate them. “We believe the people would prefer a private library rather than making any concession to the NAACP,” was the statement made by Stuart Wheatley, director of the foundation.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Help Wanted ads: Two mature persons willing to work, part time, must be 21. Come to Pizza Hut, Virginia Avenue, Collinsville. No phone calls please. / Bassett Printing Company has a fine opening for 2 young men to ear, learn and grow in one of our printing departments. Apply Bassett Printing Co., Bassett.
 

@@ -12,7 +12,7 @@ draft: false
 
 Do YOU want to be the STAR of the show? Join us for “Courthouse Karaoke” and be the Sounds on the Square on Friday, August 4, 2023, on the beautiful brick Plaza of the Historic Henry County Courthouse, 7:00-10:00 P.M.
 
-All levels are welcome! BJ’s Karaoke will guide you through your performance – solo, duet, or group. Everyone will expect an encore!
+All levels are welcome! BJ’s Karaoke will guide you through your performance - solo, duet, or group. Everyone will expect an encore!
 
 Admission is free. Beginning at 5:30 P.M., Scuffle Hill Brewing Company will serve craft beers and wine in non-disposable, collectable event cups. Ella’s Eats will sell Southern comfort food, and Bahama Sno-Shack will sell frozen treats.
 

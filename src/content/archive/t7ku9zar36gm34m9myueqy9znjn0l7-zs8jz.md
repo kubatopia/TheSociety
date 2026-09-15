@@ -3,7 +3,7 @@ title: "June 19"
 date: 2024-06-19
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 Ad in the Henry Bulletin: “Phospho-Lithia Springs Hotel – Now Open for the Season – This well-known health resort near…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 Ad in the Henry Bulletin: “Phospho-Lithia Springs Hotel - Now Open for the Season - This well-known health resort near…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-zs8jz.webp
 imageAlt: "June 19"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-zs8jz
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
-Ad in the Henry Bulletin:  “Phospho-Lithia Springs Hotel – Now Open for the Season – This well-known health resort near Ridgeway, Va., in a delightful woodland valley, about 500 yards from the main road to Martinsville and directly on the N.&W. Railway, affords those seeking rest and recreation to a delightful spot to while away the hot summer months, as well as enjoy the benefit derived from drinking this well-known water. Large dancing floor, bowling alley. Good bath, etc. Frequent subscription dances will be given. Music conducted by the well-known Piedmont Serenaders. Write for rates and Particulars to – Mrs. C.V. Ferguson, Manager, Ridgeway, Va.”**        **
+Ad in the Henry Bulletin:  “Phospho-Lithia Springs Hotel - Now Open for the Season - This well-known health resort near Ridgeway, Va., in a delightful woodland valley, about 500 yards from the main road to Martinsville and directly on the N.&W. Railway, affords those seeking rest and recreation to a delightful spot to while away the hot summer months, as well as enjoy the benefit derived from drinking this well-known water. Large dancing floor, bowling alley. Good bath, etc. Frequent subscription dances will be given. Music conducted by the well-known Piedmont Serenaders. Write for rates and Particulars to - Mrs. C.V. Ferguson, Manager, Ridgeway, Va.”**        **
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Merchants reported heavy buying for Father’s Day during the two-day shopping period of Friday and Saturday, a sign that the holiday was increasing in importance. Father’s Day became a recognized holiday in 1910, but it was not such a big deal until after World War II, when the practice of honoring fathers really picked up.
 

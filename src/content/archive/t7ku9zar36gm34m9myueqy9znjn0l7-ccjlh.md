@@ -3,7 +3,7 @@ title: "Feb. 27"
 date: 2024-02-27
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 1924 Ad: Dr. L.E. Johnson, chiropractor: Offices in Lee-Brown Building; Phones – Office, 112; Residence, 379. Hours: Morning, 9 to 12; afternoon, 2…"
+summary: "By Holly Kozelsky and Pat Pion 1924 Ad: Dr. L.E. Johnson, chiropractor: Offices in Lee-Brown Building; Phones - Office, 112; Residence, 379. Hours: Morning, 9 to 12; afternoon, 2…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-ccjlh.webp
 imageAlt: "Feb. 27"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-ccjlh
@@ -14,7 +14,7 @@ draft: false
 
 **1924**
 
-Ad: Dr. L.E. Johnson, chiropractor: Offices in Lee-Brown Building; Phones – Office, 112; Residence, 379. Hours: Morning, 9 to 12; afternoon, 2 to 5; evening, 7 to 8.
+Ad: Dr. L.E. Johnson, chiropractor: Offices in Lee-Brown Building; Phones - Office, 112; Residence, 379. Hours: Morning, 9 to 12; afternoon, 2 to 5; evening, 7 to 8.
 
 **1949**
 

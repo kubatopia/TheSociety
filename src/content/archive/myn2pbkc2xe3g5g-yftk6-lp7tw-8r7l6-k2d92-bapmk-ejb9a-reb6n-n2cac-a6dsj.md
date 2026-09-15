@@ -3,24 +3,24 @@ title: "March 3 through the years"
 date: 2026-03-03
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1926 The Legislature approved the 500-mile route of what at the time was called “The Virginia Historic Highway” that would take travelers through the tourist areas…"
+summary: "100 Years ago - 1926 The Legislature approved the 500-mile route of what at the time was called “The Virginia Historic Highway” that would take travelers through the tourist areas…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-k2d92-bapmk-ejb9a-reb6n-n2cac-a6dsj.webp
 imageAlt: "March 3 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-k2d92-bapmk-ejb9a-reb6n-n2cac-a6dsj
 draft: false
 ---
 
-**100 Years ago – 1926**
+**100 Years ago - 1926**
 
 The Legislature approved the 500-mile route of what at the time was called “The Virginia Historic Highway” that would take travelers through the tourist areas of the commonwealth. The idea sprung from the Lynchburg Lions Club.
 
-**75 years ago – 1951**
+**75 years ago - 1951**
 
 The Elks Club held a dinner-dance at Club Martinique. The entertainment featured Roanoke performer Madame Fifi, Greensboro dancer Hazel Whitlow, Reed Blackstone and other members of Paul Zimmerman’s orchestra and the quartet of Tom Honore, Mac Nelson, S.E. Fishel and John Floyd. The speaker was U.S. District Attorney for Western Virginia Howard G. Gilmer.
 
 A committee of W.C. Barnes, I.M. Groves Jr. and former Martinsville Mayor Nick Prillaman were appointed by J.R. Walker and asked by the mayor and City Council to investigate the natural gas issue, covering pending requests by the Federal Power commission to get natural gas here. The committee of three chose 22 more to join them.
 
-**50 years ago – 1976**
+**50 years ago - 1976**
 
 Six people in a Collinsville apartment were arrested in a drug raid conducted by a dozen Henry County deputies and State Police. Officers seized a large amount of marijuana, some hashish and some pills.
 

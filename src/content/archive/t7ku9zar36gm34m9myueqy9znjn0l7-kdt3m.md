@@ -3,18 +3,18 @@ title: "Sept. 10"
 date: 2024-09-13
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "1100 Years ago – 1924 Advertisements for the upcoming Henry County Fair promised that an aeroplane would arrive 10 days before the fair to circle around the area and drop…"
+summary: "1100 Years ago - 1924 Advertisements for the upcoming Henry County Fair promised that an aeroplane would arrive 10 days before the fair to circle around the area and drop…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-kdt3m.webp
 imageAlt: "Sept. 10"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-kdt3m
 draft: false
 ---
 
-**1100 Years ago – 1924**
+**1100 Years ago - 1924**
 
 Advertisements for the upcoming Henry County Fair promised that an aeroplane would arrive 10 days before the fair to circle around the area and drop advertising and free tickets. New features at the fairgrounds included a ladies rest room, new quarters for poultry, new stalls for cattle and a new entrance.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 J. Frank Wilson and Lafe Prillaman won most of the livestock awards in the Hereford class at the Tri-County Fair in Leaksville, N.C.
 
@@ -22,7 +22,7 @@ J. Frank Wilson and Lafe Prillaman won most of the livestock awards in the Heref
 
 Rieves S. Hodnett was the chairman of the Martinsville Democratic Executive Committee. Thomas J. Burch was the chairman and Whitney Shumate was the co-chairman for that committee’s committee to conduct a vigorous campaign for Sen. John F. Kennedy, presidential nominee, and Sen. Lyndon Johnson, candidate for vice president.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Dr. Mervyn and Mrs. Virgnia King appeared on a television program on Channel 13 to talk about “antiques and hypnosis.”
 

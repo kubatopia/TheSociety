@@ -38,6 +38,6 @@ BB&T announced that it would give $50,000 to help Henry County and Martinsville 
 
 Postal worker Sheila A. Heyeck, 51, died in a freak accident while she was delivering mail near Colonial Drive in Collinsville. While she was leaning out of her postal truck, the mail truck rolled on its own down the driveway and crashed against a tree.
 
-The Patrick Community Hospital cut 20% of its workforce – 40 jobs – and did not offer its laid-off workers severance packages. The hospital was under Chapter 11 bankruptcy.
+The Patrick Community Hospital cut 20% of its workforce - 40 jobs - and did not offer its laid-off workers severance packages. The hospital was under Chapter 11 bankruptcy.
 
 *Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

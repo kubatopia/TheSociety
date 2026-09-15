@@ -20,18 +20,18 @@ Members of the Maids and Matrons Bridge Club included Mrs. Hugh Hill Chatham, Mr
 
 **1961**
 
-Ad: “For Dietary Weight Control – One Day’s Supply of Food but only 900 Calories. Globman’s Own 900-Calorie Food Concentrate. Only 99 cents for 8 ounces. 6-day course of jars for $5.69; 12-day course of 12 jars for $10.99. New low calorie food supplement in concentrate powder form that tastes like a malted. Helps you shed pounds safely and comfortably. Each 8-oz. jar contains only 900 calories, low enough to help reduce your weight but high enough to take care of your nutritional needs while dieting. … Just mix with water, for a day’s supply. … Flavors: Chocolate, Butterscotch, Vanilla. Accessories, Main Floor.”
+Ad: “For Dietary Weight Control - One Day’s Supply of Food but only 900 Calories. Globman’s Own 900-Calorie Food Concentrate. Only 99 cents for 8 ounces. 6-day course of jars for $5.69; 12-day course of 12 jars for $10.99. New low calorie food supplement in concentrate powder form that tastes like a malted. Helps you shed pounds safely and comfortably. Each 8-oz. jar contains only 900 calories, low enough to help reduce your weight but high enough to take care of your nutritional needs while dieting. … Just mix with water, for a day’s supply. … Flavors: Chocolate, Butterscotch, Vanilla. Accessories, Main Floor.”
 
 **1975**
 
 Henry County Building Inspector Jake Doyle drafted a proposed ordinance to require certification of electricians and plumbers. Blackberry District Supervisor Elmer E. Dalton criticized that, saying that he first should have consulted with the Board of Supervisors.
 
-Nortasha Evette Graves and William Tyrone Moore of Axton were tricked through their kindness into a robbery. She opened the door to a woman at 6 a.m. The woman said she had car trouble and asked to come in to use to phone to call for help, and Graves allowed her to. Then the woman asked if her children could come into warm up, and Graves said “Certainly.” Instead of children, in came a man who said the children were wrapped up in coats – but then came in another man to rob them.
+Nortasha Evette Graves and William Tyrone Moore of Axton were tricked through their kindness into a robbery. She opened the door to a woman at 6 a.m. The woman said she had car trouble and asked to come in to use to phone to call for help, and Graves allowed her to. Then the woman asked if her children could come into warm up, and Graves said “Certainly.” Instead of children, in came a man who said the children were wrapped up in coats - but then came in another man to rob them.
 
 **2000**
 
 Easy Spirit sneakers were on sale at Belk, with three choices at $59.99, one at $54.99 and one at $49.99.
 
-An ad for Taylor’s Supermarket promised “New Produce Management – Friendly Courteous Service – Guaranteed Fresh.” Prices included chicken breast for 99 cents a pound, chicken thighs for 89 cents, chicken legs for $1.09, Jamestown sausage for 89 cents and ribeye steaks for $5.29.
+An ad for Taylor’s Supermarket promised “New Produce Management - Friendly Courteous Service - Guaranteed Fresh.” Prices included chicken breast for 99 cents a pound, chicken thighs for 89 cents, chicken legs for $1.09, Jamestown sausage for 89 cents and ribeye steaks for $5.29.
 
 *Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

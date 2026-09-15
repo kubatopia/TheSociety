@@ -3,18 +3,18 @@ title: "Sept. 29"
 date: 2024-09-29
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 It was the Jewish holiday of Rosh Hashanah, the New Near of the Jes, and several stores and businesses in Martinsville were closed in observance. The holiday…"
+summary: "100 Years ago - 1924 It was the Jewish holiday of Rosh Hashanah, the New Near of the Jes, and several stores and businesses in Martinsville were closed in observance. The holiday…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-629ge.webp
 imageAlt: "Sept. 29"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-629ge
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 It was the Jewish holiday of Rosh Hashanah, the New Near of the Jes, and several stores and businesses in Martinsville were closed in observance. The holiday marked the start of the year 5685 and the first day of the north Tisri. Stores to be closed were: Globman’s Department Store, Sam Kolodny, M. Berlin, The Allen Store, S. Heiner and The Sample Store. They also would be closed again on Oct. 8 for Yom Kippur.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Swift and Company meat packers in Danville was charged in Martinsville police court with selling bad eggs to local food dealers in three separate instances.
 
@@ -26,7 +26,7 @@ Martinsville Kiwanis Club voted to donate $370 for the establishment of a blood 
 
 A new Senior Citizen Club was formed, and it was the first group to make use of Martinsville’s new Community Recreation Center. They got in the building to meet, even though it would not open officially until Oct. 1.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 One South Carolina man was dead and two adults and five children were burned or shot in an early morning attack at a trailer in Axton. The trailer, parked off Va. 615, was set on fire. Thomas Robertson, 23, of South Carolina, was shot in the back as he carried a 2-year-old from the burning trailer.
 

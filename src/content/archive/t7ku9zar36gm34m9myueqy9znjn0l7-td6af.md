@@ -3,18 +3,18 @@ title: "Sept. 25"
 date: 2024-09-25
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 Advertisement in the Henry Bulletin: “AUTO and ELECTRICAL SCHOOL – QUICK TO LEARN – EASY TO MASTER. You are interested! Fill in this blank with your name and…"
+summary: "100 Years ago - 1924 Advertisement in the Henry Bulletin: “AUTO and ELECTRICAL SCHOOL - QUICK TO LEARN - EASY TO MASTER. You are interested! Fill in this blank with your name and…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-td6af.webp
 imageAlt: "Sept. 25"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-td6af
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
-Advertisement in the Henry Bulletin: “AUTO and ELECTRICAL SCHOOL – QUICK TO LEARN – EASY TO MASTER. You are interested! Fill in this blank with your name and address, cut it out and mail us at once. 506 Henry St., S.W., Roanoke, Va. I am interested. Send me full particulars and information. (Sign name here)___________ Town or P.O.___________.”
+Advertisement in the Henry Bulletin: “AUTO and ELECTRICAL SCHOOL - QUICK TO LEARN - EASY TO MASTER. You are interested! Fill in this blank with your name and address, cut it out and mail us at once. 506 Henry St., S.W., Roanoke, Va. I am interested. Send me full particulars and information. (Sign name here)___________ Town or P.O.___________.”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Stocks of coal in Martinsville were running low, and no deliveries were in sight because of a coal strike. Three Martinsville dealers reported low stocks, and a fourth reported that he had enough to last 2 or 3 weeks.
 
@@ -26,7 +26,7 @@ Each of the following groups had an article on it in the “News of Women” sec
 
 The Drewry Mason High School Future Farmers of America had 120 members. They had a prize bull, Zato Heir 51, that they entered in the State Fair in Richmond. Twenty of the members including the bull’s keeper, Larry Robertson of Axton, went to the fair.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Winners at the Patrick County Fair: Warren Rogers of Critz, tobacco spitting contest, prize: cuspidor; Coach Sonny Swails, accuracy, prize: cuspidor;  Jackie Rorrer of Woolwine, watermelon-seed spitting contest (3 feet); Pam Conner, hog-calling, with Doug Light runnerup; Rogers, egg-holding contest (19 eggs in his hands).
 

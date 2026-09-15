@@ -38,4 +38,4 @@ Members of the Jewish community became very involved in the larger community.  
 
 We have much to thank the Jews for choosing to settle, start businesses and raise their families in Martinsville over the years.  They shared their talents, their ambitions, and their community spirit to make Martinsville and Henry County a better place.
 
-***Source:**** Encyclopedia of Southern Jewish Communities – Martinsville, Virginia  by Goldring/Woldenberg Institute of Southern Jewish Life*
+***Source:**** Encyclopedia of Southern Jewish Communities - Martinsville, Virginia  by Goldring/Woldenberg Institute of Southern Jewish Life*

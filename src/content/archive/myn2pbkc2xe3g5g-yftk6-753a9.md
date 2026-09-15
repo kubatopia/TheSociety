@@ -3,22 +3,22 @@ title: "July 26 through the years"
 date: 2025-07-26
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 The Forest Park development, which included Lanier Farm, had just been started. Lots were being purchased for the construction of houses. 75 years ago – 1950…"
+summary: " 100 Years ago - 1925 The Forest Park development, which included Lanier Farm, had just been started. Lots were being purchased for the construction of houses. 75 years ago - 1950…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-753a9.webp
 imageAlt: "July 26 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-753a9
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 The Forest Park development, which included Lanier Farm, had just been started. Lots were being purchased for the construction of houses.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 Mrs. Adie M. Davis, of 10 Cheshire St., received a telegram advising her that her son Corporal Kavange Eddie Davis was Missing in Action in the Korean War. He was the first Martinsville man to be reported MIA in that war. He was born in Axton in 1913 and worked at Bassett Furniture.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Fieldale Police Officer J.A. Stegall turned 70 years old. He was the oldest active police officer in Henry County. Stegall had been a special police officer for Fieldale ever since giving up professional baseball in 1934. He was responsible for crime prevention, law enforcement, directing traffic and administering the picnic shelter and ballpark. Stegall was 11 in 1916, when his family moved from Martinsville to Fieldale. Within a couple of years, he drove a team of horses for his father, who was working on the construction of the Fieldcrest towel mill. Next he worked in the weave room in the mill during winters and played baseball in the summers.
 

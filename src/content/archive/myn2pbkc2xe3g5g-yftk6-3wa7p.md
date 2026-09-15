@@ -3,22 +3,22 @@ title: "May 15 through the years"
 date: 2025-05-17
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 The Martinsville Literary Club presented “‘Springtime’ – a musical comedy of three generations: Hoop Skirts 1868, Bustles 1888, Flappers 1925.” The cast…"
+summary: " 100 Years ago - 1925 The Martinsville Literary Club presented “‘Springtime’ - a musical comedy of three generations: Hoop Skirts 1868, Bustles 1888, Flappers 1925.” The cast…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-3wa7p.webp
 imageAlt: "May 15 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-3wa7p
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
-The Martinsville Literary Club presented “‘Springtime’ – a musical comedy of three generations: Hoop Skirts 1868, Bustles 1888, Flappers 1925.” The cast numbered 130. The show was held at the High School auditorium. Admission cost 75 cents, to benefit crippled children of the county.
+The Martinsville Literary Club presented “‘Springtime’ - a musical comedy of three generations: Hoop Skirts 1868, Bustles 1888, Flappers 1925.” The cast numbered 130. The show was held at the High School auditorium. Admission cost 75 cents, to benefit crippled children of the county.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
-Mail service to all residential areas in Martinsville was cut – down to just one delivery per day. The business district still would receive two deliveries of mail each day, like normal. The cutback on residential delivery was due to an order from the Post Office to cut services across the nation. In response, all routes in the city were consolidated; about 60% of homes would receive mail in the morning, and the other 40% would receive it in the afternoons.
+Mail service to all residential areas in Martinsville was cut - down to just one delivery per day. The business district still would receive two deliveries of mail each day, like normal. The cutback on residential delivery was due to an order from the Post Office to cut services across the nation. In response, all routes in the city were consolidated; about 60% of homes would receive mail in the morning, and the other 40% would receive it in the afternoons.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Carver Parkway in Carver Heights was changed to a dead-end road due to construction of the US 220 Bypass. It had run from Carver Road in Fieldale to State Road 781.
 

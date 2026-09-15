@@ -46,7 +46,7 @@ The gas shortage continued to plague the area, and no gas stations in Bassett ha
 
 **25 years ago: 1999**
 
-The book “The Hairstons – An American Family in Black and White” by Henry Wiencek was released by St. Martin’s Press in New York.
+The book “The Hairstons - An American Family in Black and White” by Henry Wiencek was released by St. Martin’s Press in New York.
 
 **PHOTO:** 1933, store at the corner of Highway 58 and Preston Road: General interior view from the rear of the store: looking south from the top of the steps to the second floor. Historic American Buildings Survey, Creator, John Atkinson, Benjamin Watkins, Paul Clifton, James Lester Roberson, John H Schoolfield, Robert A Schoolfield, et al., Ryan, Robert A, photographer. Horsepasture Store, U.S. Route 58 & State Route 687, Horse Pasture, Henry County, VA. Horse Pasture Henry County Virginia, 1933. translateds by Christianson, Justinemitter, and Mcpartland, Marymitter Documentation Compiled After. Photograph. https://www.loc.gov/item/va1719/.
 

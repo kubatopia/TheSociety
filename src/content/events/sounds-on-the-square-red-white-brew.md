@@ -14,7 +14,7 @@ Join Sounds on the Square as we celebrate “Red, White, & Brew with Elena Flore
 
 Admission is free. Beginning at 5:30 P.M., Scuffle Hill Brewing Company will serve craft beer ($5/16oz) in a non-disposable, collectable event cup, and Palumbo’s will sell food.
 
-Wear your most patriotic attire as we celebrate America’s 247th birthday. Sparklers will be provided for a special expression and song of American pride. Bring a blanket or lawn chair – holiday decorations welcome. Invite your friends and family for an evening of fun and entertainment.
+Wear your most patriotic attire as we celebrate America’s 247th birthday. Sparklers will be provided for a special expression and song of American pride. Bring a blanket or lawn chair - holiday decorations welcome. Invite your friends and family for an evening of fun and entertainment.
 
 Originally from Stafford, Virginia, Elena Flores is a singer/songwriter and performing artist residing in Greensboro, North Carolina. Her artistic approach is shaped from a diverse and dynamic musical background as well as years of formal training. She has a love for emotive melodies and honest expressions, and catches refrains that stem from musical influences like The Beatles, The Supremes, and Queen. She strives for vocal versatility and honest performance as she seeks to touch the hearts of others through music. She holds bachelor’s and master’s degrees in vocal performance.
 

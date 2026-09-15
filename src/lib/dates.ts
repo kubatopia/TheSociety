@@ -66,7 +66,7 @@ export const formatEventDate = (event: { data: { start: Date; allDay: boolean } 
   (event.data.allDay ? eventDateOnly : eventDayFull).format(event.data.start);
 
 /**
- * The time span: "7:00 PM – 10:00 PM".
+ * The time span: "7:00 PM - 10:00 PM".
  *
  * An event that runs past midnight -- the Ghost Walk models both of its nights
  * as one span -- carries the date on each side, or the range reads backwards.
@@ -78,10 +78,10 @@ export const formatEventRange = (event: {
   if (allDay) return 'All day';
   if (!end) return eventTimeOnly.format(start);
   if (localDayKey.format(start) === localDayKey.format(end)) {
-    return `${eventTimeOnly.format(start)} – ${eventTimeOnly.format(end)}`;
+    return `${eventTimeOnly.format(start)} - ${eventTimeOnly.format(end)}`;
   }
   return (
-    `${eventDayShort.format(start)}, ${eventTimeOnly.format(start)} – ` +
+    `${eventDayShort.format(start)}, ${eventTimeOnly.format(start)} - ` +
     `${eventDayShort.format(end)}, ${eventTimeOnly.format(end)}`
   );
 };

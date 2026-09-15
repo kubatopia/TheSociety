@@ -3,18 +3,18 @@ title: "July 22"
 date: 2024-07-22
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 Mrs. B. L. Marshall, 202 Moss St., endorsed Doan’s Pills in an advertisement: “Doan’s Kidney Pills are a standard kidney remedy in our family. I think there…"
+summary: "100 Years ago - 1924 Mrs. B. L. Marshall, 202 Moss St., endorsed Doan’s Pills in an advertisement: “Doan’s Kidney Pills are a standard kidney remedy in our family. I think there…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-5ek3p.webp
 imageAlt: "July 22"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-5ek3p
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 Mrs. B. L. Marshall, 202 Moss St., endorsed Doan’s Pills in an advertisement: “Doan’s Kidney Pills are a standard kidney remedy in our family. I think there is nothing better for a lame back than Doan’s. I highly recommend them. When troubled with kidney complaint, I was relieved through the use of Doan’s Kidney Pills.”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Furniture sales were going strong. Bassett Furniture Industries stock increased from $10.50 to $13 a share, and stock from American Furniture jumped from $1.90 to $2.75, just in the few days of the furniture market.
 
@@ -26,7 +26,7 @@ Someone broke into the chicken house of James C. Eanes of 554 Dillard St. and to
 
 Krazy Bargain Center on Fayette Street had a big sale: boys’ shorty pajamas, 2 pairs for $1.50; girls’ baby doll pajamas, 2 pairs for $1.50’ men’s white socks, 6 pairs for $1; ball point pens, 10 cents; men’s sport belts, 50 cents; boys’ genuine white buck oxfords and loafers, $2; artificial flowers, 6 for $1.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Marie Saul Wray, 23, of Bassett, and her 2-year-old daughter, Robin Michelle, were killed in a two-car wreck near Bassett.
 

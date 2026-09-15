@@ -3,18 +3,18 @@ title: "July 25"
 date: 2024-07-25
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 In Stuart, C.E. Neal was appointed acting postmaster to fill a vacancy caused by the death of former postmaster A.H. Staples. 75 years ago – 1949 Lee…"
+summary: "100 Years ago - 1924 In Stuart, C.E. Neal was appointed acting postmaster to fill a vacancy caused by the death of former postmaster A.H. Staples. 75 years ago - 1949 Lee…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-zrmeb.webp
 imageAlt: "July 25"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-zrmeb
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 In Stuart, C.E. Neal was appointed acting postmaster to fill a vacancy caused by the death of former postmaster A.H. Staples.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Lee Telephone Co. announced “a very slight increase over what is now being paid”: For households, $4 for an individual line, $2.50 for a 2-party line and $2.75 for a rural line; for businesses, $5.75 for an individual line, $5 for a 2-party line and $4 for a rural line. To make space for more office equipment, “it became necessary to tear out the three nice living apartments that were on the second floor of this office building.”
 
@@ -22,7 +22,7 @@ Lee Telephone Co. announced “a very slight increase over what is now being pai
 
 The Martinsville Go-Kart Club held dedication for its 800-foot paved track at Municipal Airport, 3 miles south of the city off Route 220. More than 40 go-carts participated in several races with a total of 265 laps. The track was operated by Buck Smith and Luther Shoemaker.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Wilbur Sims, assistant director of the Martinsville-Henry County Public Library, debuted a new radio series, “A Concatenation of Contiguous Casuistries in the Case of Cantankerous Constance and Her Cuddly Cat, Cora.”
 

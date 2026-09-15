@@ -32,7 +32,7 @@ United Enterprises, operating locally as United Enterprises of Martinsville and 
 
 **25 years ago, 1999**
 
-Bryan Nowlin of Spencer was in his second year of studies at the Henry County Public Schools – Memorial Hospital School of Practical Nursing. He designed a pin for the Region VI Health Occupations Students of America (HOSA), and his design won the contest.
+Bryan Nowlin of Spencer was in his second year of studies at the Henry County Public Schools - Memorial Hospital School of Practical Nursing. He designed a pin for the Region VI Health Occupations Students of America (HOSA), and his design won the contest.
 
 **PHOTO 1933:** Interior view of the 1930s lean-to addition, showing the commercial storage and space and the addition's roof framing; looking north - Horsepasture Store, U.S. Route 58 & State Route 687, Horse Pasture, Henry County. Historic American Buildings Survey, Creator, John Atkinson, Benjamin Watkins, Paul Clifton, James Lester Roberson, John H Schoolfield, Robert A Schoolfield, et al., Ryan, Robert A, photographer. Horsepasture Store, U.S. Route 58 & State Route 687, Horse Pasture, Henry County, VA. Horse Pasture Henry County Virginia, 1933. translateds by Christianson, Justinemitter, and Mcpartland, Marymitter Documentation Compiled After. Photograph. https://www.loc.gov/item/va1719/.
 

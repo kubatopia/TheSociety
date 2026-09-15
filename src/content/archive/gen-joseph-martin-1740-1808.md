@@ -1,5 +1,5 @@
 ---
-title: "Gen. Joseph Martin 1740 – 1808"
+title: "Gen. Joseph Martin 1740 - 1808"
 date: 2023-12-04
 type: Article
 author: "Holly Kozelsky"
@@ -7,7 +7,7 @@ summary: "Whatever the reason, General Joseph Martin has been undeservedly forgo
 topics:
   - Families and people
 image: /media/archive/gen-joseph-martin-1740-1808.webp
-imageAlt: "Gen. Joseph Martin 1740 – 1808"
+imageAlt: "Gen. Joseph Martin 1740 - 1808"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/gen-joseph-martin-1740-1808
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "April 8"
 date: 2024-04-09
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 Classified ad in the Henry Bulletin on April 8, 1924: “FOUND – Man’s suit and Woman’s skirt on Public Square, no questions…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 Classified ad in the Henry Bulletin on April 8, 1924: “FOUND - Man’s suit and Woman’s skirt on Public Square, no questions…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-xmggj.webp
 imageAlt: "April 8"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-xmggj
@@ -12,9 +12,9 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
-Classified ad in the Henry Bulletin on April 8, 1924: “FOUND – Man’s suit and Woman’s skirt on Public Square, no questions asked. Give description and pay for ad. Edgar Winstead.”
+Classified ad in the Henry Bulletin on April 8, 1924: “FOUND - Man’s suit and Woman’s skirt on Public Square, no questions asked. Give description and pay for ad. Edgar Winstead.”
 
 The final of a series of three weekly clinics for typhoid inoculations in Bassett concluded on this day with 263 people fully vaccinated. Average death rate in Henry County from typhoid fever: 1914-1918, 51.78; 1919-1923, 13.52. Reported by Health Officer R.M. Wilson.
 
@@ -28,7 +28,7 @@ The Mayors of Martinsville and Danville decided to begin sounding out sentiment 
 
 The building deficits of the Community Recreation Center on Cleveland Avenue received a $5,000 check from the Martinsville Jaycees, who shared their profit from the operation of Walker Swimming Pool and the Henry County Horse Show. The check reduced the building deficit to $23,000.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 The Stroller column shared this tip from R.W. Jones, horticulture teacher at Laurel Park High School: To propagate azaleas, take some new azalea growth, break it so a joint would be exposed, and insert it int a pot filled with a mixture of peat moss and sand. Water it thoroughly and place a jar over it, inverted, to create a greenhouse effect. In about a month, new roots should have grown, and the new azalea would be ready to be planted.
 

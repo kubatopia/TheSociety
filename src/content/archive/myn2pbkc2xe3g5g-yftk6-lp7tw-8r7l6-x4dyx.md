@@ -3,24 +3,24 @@ title: "What happened on Oct. 16 through the years"
 date: 2025-10-16
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 A Red Cross Clinic for “those handicapped by accident, disease of otherwise” was held from 2-5 p.m. at the Martinsville Grammar School. 75 years ago – 1950…"
+summary: " 100 Years ago - 1925 A Red Cross Clinic for “those handicapped by accident, disease of otherwise” was held from 2-5 p.m. at the Martinsville Grammar School. 75 years ago - 1950…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-x4dyx.webp
 imageAlt: "What happened on Oct. 16 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-x4dyx
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 A Red Cross Clinic for “those handicapped by accident, disease of otherwise” was held from 2-5 p.m. at the Martinsville Grammar School.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 An estimate $51 per hundred pounds was the price paid to farmers, who sold a combined 250,000 pounds of tobacco on the Martinsville market. Some piles of tobacco sold for as high as $69 per 100 pounds.
 
 Only two local people registered at the courthouse for the medical draft. They were Dr. J.C. Commander, a black doctor in Martinsville, and Dr. Clyde V. Stanley, a white doctor in the Stanleytown-Bassett area. The registration for medical men under 50, who received training at government expense and did not serve in the armed forces for at least 21 months during World War II, was nationwide. All dentists and veterinarians in the county and city appeared to be exempt.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 State Sen. Virgil H. Goode Jr. and Wilbur S. Doyle, candidate for State Senate spoke to the Martinsville Exchange Club. Goode said he was in favor of legislation to allow firemen, policemen and teachers the right to public employee bargaining but not the right to strike. Doye said he opposed collective bargaining powers for public employees.
 

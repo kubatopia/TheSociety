@@ -156,7 +156,7 @@ collections:
             name: openingHours
             widget: list
             label_singular: Open day
-            summary: '{{fields.day}} {{fields.open}}–{{fields.close}}'
+            summary: '{{fields.day}} {{fields.open}}-{{fields.close}}'
             hint: Add one row per day the museum is open. Days left out are shown as closed.
             fields:
               - label: Day

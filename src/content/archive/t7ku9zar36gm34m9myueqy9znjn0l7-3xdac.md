@@ -3,7 +3,7 @@ title: "June 17"
 date: 2024-06-17
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 The Henry Bulletin reported that Dr. Newman’s free Clinic for Delicate Children on June 11 “was a great success.” “Dr. Newman’s…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 The Henry Bulletin reported that Dr. Newman’s free Clinic for Delicate Children on June 11 “was a great success.” “Dr. Newman’s…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-3xdac.webp
 imageAlt: "June 17"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-3xdac
@@ -12,7 +12,7 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 The Henry Bulletin reported that Dr. Newman’s free Clinic for Delicate Children on June 11 “was a great success.”  “Dr. Newman’s examination and instruction in nutrition were a revelation. His advice concerning calories, vitamins and many of the other things that food specialists know so well was a valuable lesson. The determination to learn this lesson and apply it with a liberal attitude of common sense is the goal toward which the health work is pointing.” Forty children were examined.  Of them, 75% proved to have malnutrition; 50% had diseased tonsils, and about 15% enlarged adenoids; 30% had decayed teeth. The five primary causes of malnutrition were listed as: 1. Physical defects; 2. Over-fatigue; 3. Lack of home control; 4, Faulty food habits and insufficient food; and 5. Faulty health habits. The secondary causes of malnutrition were listed as: 1. Poverty; 2. Inheritance; 3. Tuberculosis; 4. Syphilis. Signs of malnutrition were listed as: 1. Poor color; 2. Lines under the eyes; 3. Flabby muscles; 4. Poor posture; 5. Slight spinal curvature; 6. Protruding shoulder blades; 7. Protruding abdomen.
 
@@ -20,7 +20,7 @@ The infant daughter of Mr. and Mrs. G.T. Lester of Starling Avenue [the Wedding 
 
 At the City Council meeting, Council agreed to curtail the heavy annual expenses of sidewalk extensions, ordering that from there on out, all sidewalks were to be built at the expense of the contiguous property owner. It was reported that the new sidewalks and street improvements “in some years” amount to a sum almost equal to the entire property tax income of the town, the Henry Bulletin reported. Council also agreed to stop allowing permits to locate gasoline tanks on sidewalks, to avoid further traffic congestion.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 It was discovered that at least eight $20 bills had been circulating in Martinsville. Police Chief Stultz told the public that the way they could identify a bogus bill was to check its serial number, as all were labeled with G97958599C. The bills were similar to the 1934 series which had the picture of President Andrew Jackson. The bills also were discovered in Roanoke, Greensboro, Winston and other cities.
 
@@ -30,7 +30,7 @@ A prolonged spell without rain was causing concern for Henry County agriculture 
 
 A.P. Philpott of Bassett, former commonwealth’s attorney for Henry County and in 1960 a member of the Virginia legislature, was elected president of the Martinsville-Henry County Bar Association.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 The U.S. Comptroller of the Currency turned down applications for the establishment of new national banks in Martinsville. They would have been Patrick Henry National Bank of Bassett and Citizens National Bank of Martinsville. No reasons were given for the denials. John D. French was one of the backers of Citizens National, and Worth Carters was one of the organizers of the proposed Patrick Henry National Bank.
 

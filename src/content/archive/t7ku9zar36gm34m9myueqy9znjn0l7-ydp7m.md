@@ -3,20 +3,20 @@ title: "Nov. 23 through time"
 date: 2024-11-23
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 On the Spencer Road a Dodge tuck with 10 men, driven by Fletcher Boaz of Horsepasture, en route from Mayo to Horsepasture, went off the road in front of the…"
+summary: "100 Years ago - 1924 On the Spencer Road a Dodge tuck with 10 men, driven by Fletcher Boaz of Horsepasture, en route from Mayo to Horsepasture, went off the road in front of the…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-ydp7m.webp
 imageAlt: "Nov. 23 through time"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-ydp7m
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 On the Spencer Road a Dodge tuck with 10 men, driven by Fletcher Boaz of Horsepasture, en route from Mayo to Horsepasture, went off the road in front of the Bill Grogan Farm. Killed were G.F. Boaz whose skull was crushed beneath the tires of the truck and Charlie Hylton, who was thrown against a fence post
 
-Nov. 19-27 was Better Manners Week, and students of Martinsville High School compiled a list of good manners, which was published Nov. 25, 1924, in the Henry Bulletin. They included: Parlor – When sitting down try to take a dignified posture, never loll nor slouch, never, never tilt the chair, let it remain as still as possible, never rock back and forth; never yawn, stretch nor place the arms above the head in company; never walk between anyone and the light or fire; a gentleman should never snoke in the presence of a lady without her permission … Telephone – “If given the wrong number, do not be mad, the other fellow is just as much put out as you, so, ‘I beg your pardon’ or ‘I’m sorry’ is better than a gruff ‘I don’t want you’; be courteous to Central. Ask for your number with a pleasant ‘please.’; don’t carry on a long conversation over the telephone, the telephone is for the use of the public, not you.
+Nov. 19-27 was Better Manners Week, and students of Martinsville High School compiled a list of good manners, which was published Nov. 25, 1924, in the Henry Bulletin. They included: Parlor - When sitting down try to take a dignified posture, never loll nor slouch, never, never tilt the chair, let it remain as still as possible, never rock back and forth; never yawn, stretch nor place the arms above the head in company; never walk between anyone and the light or fire; a gentleman should never snoke in the presence of a lady without her permission … Telephone - “If given the wrong number, do not be mad, the other fellow is just as much put out as you, so, ‘I beg your pardon’ or ‘I’m sorry’ is better than a gruff ‘I don’t want you’; be courteous to Central. Ask for your number with a pleasant ‘please.’; don’t carry on a long conversation over the telephone, the telephone is for the use of the public, not you.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Eleven churches planned together to host one Thanksgiving service in Bassett on this night before Thanksgiving, in the auditorium of John D. Bassett High School: Bassett Church of the Brethren, Fort Trial Baptist Church, Fort Trial Christian Church, Tabernacle Baptist Church, Stanleytown Methodist Church, Pocahontas Bassett Baptist Church, Oak Level Baptist Church, Mt. Hermon Church of the Brethren, First Baptist Church of Bassett, Blackberry Baptist Church and Bassett Memorial Methodist Church. Busses operated from all sections around Bassett to the school to bring people to and from.
 
@@ -28,7 +28,7 @@ Dr. C.P. Kearfott arrived in Martinsville in 1882 on the very first train ever t
 
 It was the Wednesday before Thanksgiving. Mary Washington College students Ola Yeffstig, Francis Goins, Ann Hennessey, Barbara Cotty and Betsy Carper left Fredericksburg at 5:30 p.m. and arrived home in Martinsville at 11:30 p.m.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Prices at Taylor’s Supermarket, Northside & Clearview: Oranges, 3 cents each; bananas, 10 cents a pound; grapefruit, 10 cents each; celery, 29 cents; 1 lb. H&C Coffee, 99 cents; half gallon of Krafts orange juice, 79 cents; and turkeys, 49 cents a pound.
 

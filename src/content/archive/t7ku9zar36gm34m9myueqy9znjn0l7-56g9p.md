@@ -3,18 +3,18 @@ title: "Dec. 22"
 date: 2024-12-23
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 Ad: “Christmas Flowers. Fine Premier and other Roses, per dozen, $3 to $12. Corsages of Roses and Lily of the Valley, each, $5 to $15. Pot Plants, each, $2 to…"
+summary: "100 Years ago - 1924 Ad: “Christmas Flowers. Fine Premier and other Roses, per dozen, $3 to $12. Corsages of Roses and Lily of the Valley, each, $5 to $15. Pot Plants, each, $2 to…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-56g9p.webp
 imageAlt: "Dec. 22"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-56g9p
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 Ad: “Christmas Flowers. Fine Premier and other Roses, per dozen, $3 to $12. Corsages of Roses and Lily of the Valley, each, $5 to $15. Pot Plants, each, $2 to $6. REMEMBER: If your credit is good in Martinsville it is good in Roanoke. We wish to deal directly with the citizens of Martinsville rather than through amiddleman. The more hands an order passes through the harder it is to execute and fix responsibly, with the best intentions on everyone’s part. We are sure we have the largest equipment west of Richmond … Use telephone or telegraph the last few days previous to Christmas rather than the mails. Fallon Florist, Martinsville.”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Most local industrial plants closed for a short holiday which would run from Thursday, Dec. 22, through Tuesday, Dec. 27. Plant officials handed out Christmas gifts, some of them bonuses, to employees. The three Jobbers Pants company plants were the first to close, on Wednesday, Dec. 21.
 

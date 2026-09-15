@@ -3,22 +3,22 @@ title: "August 1 through the years"
 date: 2025-08-04
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 A former minister of the Christian church in Martinsville shot his wife, then killed himself, in Richmond, where they had moved. The Rev. Geo. W. Holder, who…"
+summary: " 100 Years ago - 1925 A former minister of the Christian church in Martinsville shot his wife, then killed himself, in Richmond, where they had moved. The Rev. Geo. W. Holder, who…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-4b4lw.webp
 imageAlt: "August 1 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-4b4lw
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 A former minister of the Christian church in Martinsville shot his wife, then killed himself, in Richmond, where they had moved. The Rev. Geo. W. Holder, who had been the minister of the Christian church, killed his wife while at the breakfast table, then shot himself in the head with the revolver. Their 14-year-old daughter, Grace, ran into the street, told what happened, then fainted. Her father had been complaining for about a week. He had been out of church work for 3 or 3 years due to his health, and had been working at a furniture store for just a couple of months.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 The Patrick County Selective Service Board received an order to call up five more men to be sent to Roanoke for pre-induction physicals. At 25, 24 and 23 years old, they were in what was considered the older age group. The Martinsville National Guard was waiting for word from Washington on whether or not the 29th Division would be included in four National Guard units that would be called into service. Meanwhile, Mrs. Margaret Wilson of 25 Broad Street (the apartment building which most recently housed the offices of the late Ted Balanais) received a message from the Defense Department that her husband, Cpl. Donald E. Wilson, had been missing in action on the Korean front since July 20.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 One hundred local merchants attended a seminar on crime prevention, held at the Holiday Inn. Five law enforcement officers, including a former FBI agent, conducted the program, which was sponsored by The First National Bank of Bassett.
 

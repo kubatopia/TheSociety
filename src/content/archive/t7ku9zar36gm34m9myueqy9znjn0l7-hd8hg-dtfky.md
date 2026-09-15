@@ -3,7 +3,7 @@ title: "March 7 through the years"
 date: 2024-03-07
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 Preston School honor roll: Seventh grade, Annie Wyatt, Dorothy Baker, Russell Robertson; sixth grade, Effie Gilley; fifth…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 Preston School honor roll: Seventh grade, Annie Wyatt, Dorothy Baker, Russell Robertson; sixth grade, Effie Gilley; fifth…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-hd8hg-dtfky.webp
 imageAlt: "March 7 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-hd8hg-dtfky
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
-Preston School honor roll: Seventh grade, Annie Wyatt, Dorothy Baker, Russell Robertson; sixth grade, Effie Gilley; fifth grade, Hubert Gilley, Fred Gilley – Mrs. White, Teacher; fourth grade, Luther Rea, Flora Barrow; third grade, Dudley Robertson, Billy Morris - Kate Koger, teacher.
+Preston School honor roll: Seventh grade, Annie Wyatt, Dorothy Baker, Russell Robertson; sixth grade, Effie Gilley; fifth grade, Hubert Gilley, Fred Gilley - Mrs. White, Teacher; fourth grade, Luther Rea, Flora Barrow; third grade, Dudley Robertson, Billy Morris - Kate Koger, teacher.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 The “Prillaman for Governor” club was organized. That Prillaman running for the state’s leadership role was Mayor Nick Prillaman, who announced his candidacy on Feb. 24. (However, it was John Stewart Battle who won the election and served as governor from 1950-54.)
 
@@ -26,9 +26,9 @@ On this date, Dan A. Greene, Vice President of Globman’s Department Store, ann
 
 Snow was being forecast yet again. Icy pavement had already produced damages to 10 cars in 6 pileups, totaling approximately $3,000, while firemen were busy answering two calls for house fires.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
-For sale at Cockney Corner in Globman’s Church Street Level: “College Town Puts It All Together!” hip-length checked jacket, $19.99; wide-legged pant, $18.99; top with gather at the bust, $9.99. Other outfit – button-up shirt tucked into pants which have squarish looking pockets on the front, “A rib stencil cream tie shirt sparkles out your fashion message,” both pant and shirt floral print – Shirt (jacket), $15.99; T-shirt, $8.99; pant, $17.99.
+For sale at Cockney Corner in Globman’s Church Street Level: “College Town Puts It All Together!” hip-length checked jacket, $19.99; wide-legged pant, $18.99; top with gather at the bust, $9.99. Other outfit - button-up shirt tucked into pants which have squarish looking pockets on the front, “A rib stencil cream tie shirt sparkles out your fashion message,” both pant and shirt floral print - Shirt (jacket), $15.99; T-shirt, $8.99; pant, $17.99.
 
 **25 years ago - 1999**
 

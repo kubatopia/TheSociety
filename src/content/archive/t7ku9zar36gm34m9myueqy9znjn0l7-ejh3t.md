@@ -20,7 +20,7 @@ Vandals broke out the windows of the nearly completed Martinsville Community Hos
 
 **1961**
 
-Ad: “By Popular Demand! This beauty special will extend to February 11th.  Stratowave regulary $20, $10 – 50% off during January. Our luxury permanent wave slashed in price for this month only – wonderful savings plus an exciting bonus – a special certificate entitling you to the same reduction on your next Stratowave! BEAUTY SALON SECOND FLOOR.” The ad did not specify Globman’s, but it was a small block ad attached to a large, tall ad for Globman’s.
+Ad: “By Popular Demand! This beauty special will extend to February 11th.  Stratowave regulary $20, $10 - 50% off during January. Our luxury permanent wave slashed in price for this month only - wonderful savings plus an exciting bonus - a special certificate entitling you to the same reduction on your next Stratowave! BEAUTY SALON SECOND FLOOR.” The ad did not specify Globman’s, but it was a small block ad attached to a large, tall ad for Globman’s.
 
 **1975**
 

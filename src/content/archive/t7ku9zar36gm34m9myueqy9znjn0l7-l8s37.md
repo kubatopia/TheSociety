@@ -3,7 +3,7 @@ title: "March 4 back through time"
 date: 2024-03-04
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 years ago – 1924 Mr. and Mrs. Joseph Leaderman and Mr. Nick Prillaman were riding in Mr. Leaderman’s Cadillac when the that vehicle became…"
+summary: "By Holly Kozelsky and Pat Pion 100 years ago - 1924 Mr. and Mrs. Joseph Leaderman and Mr. Nick Prillaman were riding in Mr. Leaderman’s Cadillac when the that vehicle became…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-l8s37.webp
 imageAlt: "March 4 back through time"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-l8s37
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 years ago – 1924**
+**100 years ago - 1924**
 
 Mr. and Mrs. Joseph Leaderman and Mr. Nick Prillaman were riding in Mr. Leaderman’s Cadillac when the that vehicle became helplessly stalled on the Southern railroad track near Reidsville. The men tried to stop the train by signaling to it when it was about a half mile away from the stuck vehicle, but the train plowed through, shoving the car some distances along the track and damaging it beyond repair. The Leadermans and Mr. Prillaman were driven to Reidsville by a passing car and from thence returned to Martinsville.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Patrick County Post 105 of the American Legion held the Patrick County Oratorical Contest at the High School auditorium in Stuart.
 
@@ -28,7 +28,7 @@ A group of high-ranking engineers toured the Philpott Dam site area, including G
 
 The Fieldale Home Demonstration Club met at Fieldale Baptist Church. Mrs. Morris Eggleston was hostess. They enjoyed a presentation by Frank Fulton, Trust Officer of First National Bank, on estate planning. They voted to sponsor the X-Ray Mobile Unit during the month of May.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Ten-year-old Angela Chappell of South Askin Street did well on a 25-cent investment. Her teacher, Hubert Poole, gave each student a quarter and challenged them to see who could make it grow the most. Angela washed dishes to earn more money, added that to the quarter, bought woven loops to use on a small hand loom and hired people to make potholders. After selling the potholders and paying expenses, she made $10.72.
 

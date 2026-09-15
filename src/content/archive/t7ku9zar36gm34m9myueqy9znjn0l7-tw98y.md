@@ -3,18 +3,18 @@ title: "August 7"
 date: 2024-08-07
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 The Virginia apple market was suffering due to, as apple growers called it, the marketing of inferior apples dishonestly branded. Fruit-growers meeting in…"
+summary: "100 Years ago - 1924 The Virginia apple market was suffering due to, as apple growers called it, the marketing of inferior apples dishonestly branded. Fruit-growers meeting in…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-tw98y.webp
 imageAlt: "August 7"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-tw98y
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 The Virginia apple market was suffering due to, as apple growers called it, the marketing of inferior apples dishonestly branded. Fruit-growers meeting in Harrisonburg voted to institute state inspections to farmers who belong to local organizations, guaranteeing to pack their apples in accordance with standardized grades. The pilot program for that had been done in Frederick County, reportedly to great acclaim.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 The new radio station in Chatham Heights was being built, with cement being poured in this week in 1949.
 
@@ -24,7 +24,7 @@ The new radio station in Chatham Heights was being built, with cement being pour
 
 A&U Mobile Homes Inc. on Route 220 North advertised as being Virginia’s largest mobile homes dealer. It offered for sale the classic-looking singlewide “The Kentuckian,” with “low down payment; financed up to 7 years” and promised 20 mobile homes on display at its lot. They could be reached at  ME 8-7864 during the day and MU 5-3111 at night.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Developers Buena Vista Corp. were requesting a special use permit for the construction of a 32-unit townhouse complex on Pine Hall Road.
 

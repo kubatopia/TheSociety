@@ -3,18 +3,18 @@ title: "February 6 through the years"
 date: 2026-02-06
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1926 Front-page headline and article: “Boxwood Girl Has Eloped. Miss Barker Leaves Public For Life’s School. Axton, Va. – Miss Elsie Barker, daughter of Mr. and…"
+summary: " 100 Years ago - 1926 Front-page headline and article: “Boxwood Girl Has Eloped. Miss Barker Leaves Public For Life’s School. Axton, Va. - Miss Elsie Barker, daughter of Mr. and…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-k2d92-bapmk-ejb9a-reb6n-2zcbt.webp
 imageAlt: "February 6 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-k2d92-bapmk-ejb9a-reb6n-2zcbt
 draft: false
 ---
 
-** 100 Years ago – 1926**
+** 100 Years ago - 1926**
 
-Front-page headline and article: “Boxwood Girl Has Eloped. Miss Barker Leaves Public For Life’s School. Axton, Va. – Miss Elsie Barker, daughter of Mr. and Mrs. J.A. Barker, of Boxwood, a high school pupil, left school last Thursday morning and eloped with Walter Bruen of Durham, to North Carolina, where they were married. They will make their home in Durham.”
+Front-page headline and article: “Boxwood Girl Has Eloped. Miss Barker Leaves Public For Life’s School. Axton, Va. - Miss Elsie Barker, daughter of Mr. and Mrs. J.A. Barker, of Boxwood, a high school pupil, left school last Thursday morning and eloped with Walter Bruen of Durham, to North Carolina, where they were married. They will make their home in Durham.”
 
-**75 years ago – 1951**
+**75 years ago - 1951**
 
 Joint funeral services were conducted at East Martinsville Baptist Church for brothers Howard Lee Hairston, 21, and James Luther Hairston, 23, two of the Martinsville Seven who had been executed. Burial followed in the Reamey cemetery on Route 58 east of Martinsville.
 
@@ -22,9 +22,9 @@ Boy Scout Troops “took over” city government. Scout Edwin Via of Troop 64 se
 
 In Nevada, the fifth atomic bomb test in 11 days rocked the city of Las Vegas. The windows of automobile agencies were splintered by sound waves. Windows rattled as far off as Los Angeles, 300 miles away.
 
-**50 years ago – 1976**
+**50 years ago - 1976**
 
-Ad: “Shop Without Going Shopping – The Amway Way – Call Your Local Distributor. Mr & Mrs. Andrew D. Hodges, Ridgeway, Va.”
+Ad: “Shop Without Going Shopping - The Amway Way - Call Your Local Distributor. Mr & Mrs. Andrew D. Hodges, Ridgeway, Va.”
 
 **25 years ago - 2001**
 

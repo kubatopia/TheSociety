@@ -22,7 +22,7 @@ Martinsville residents who had been victims of polio met at the home of Mr. and 
 
 **1961**
 
-Salaries and expense allowances, as announced by the State Compensation Board: Sheriffs and City Sergeants: Henry, $6,250 and $34,197; Patrick, $5,000 and $16,739; Martinsville, $5,500 and $6,941 – Revenue Commissioners: Henry, $7,750 and $21,010; Patrick, $6,600 and $9,925; Martinsville, $9,000 and $17,190 – Commonwealth’s Attorneys: Henry, $7,000 and $2,750; Patrick, $4,200 and $1,600; Martinsville, $7,260 and $2,520 – County and City Treasurers: Henry, $8,000 and $12,115; Patrick, $5,400 and $9,975; Martinsville, $8,300 and $15,165.
+Salaries and expense allowances, as announced by the State Compensation Board: Sheriffs and City Sergeants: Henry, $6,250 and $34,197; Patrick, $5,000 and $16,739; Martinsville, $5,500 and $6,941 - Revenue Commissioners: Henry, $7,750 and $21,010; Patrick, $6,600 and $9,925; Martinsville, $9,000 and $17,190 - Commonwealth’s Attorneys: Henry, $7,000 and $2,750; Patrick, $4,200 and $1,600; Martinsville, $7,260 and $2,520 - County and City Treasurers: Henry, $8,000 and $12,115; Patrick, $5,400 and $9,975; Martinsville, $8,300 and $15,165.
 
 **1975**
 

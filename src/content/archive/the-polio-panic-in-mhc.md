@@ -22,7 +22,7 @@ The “polio season,” when cases were heaviest, was June through September.
 
 This area long participated in fundraising activities to help stop polio and to help care for people stricken by polio. The Henry County Chapter of the National Foundation for Infantile Paralysis Inc. and its research-supporting arm, the March of Dimes, played a key role in taking care of local polio patients and in raising money. Telethons to support the MHC emergency polio fund were aired each year on WSLS Channel 10 in Roanoke, with local former polio patients and local entertainers.
 
-It was 75 years ago – 1949 – when the local area saw an alarmingly high number of polio cases, a trend which would continue for years, even after the availability of the vaccine in 1955.
+It was 75 years ago - 1949 - when the local area saw an alarmingly high number of polio cases, a trend which would continue for years, even after the availability of the vaccine in 1955.
 
 The Henry Bulletin and Martinsville Bulletin reported on the people who were diagnosed with polio, including follow-up articles on how they were doing, as well as their families, where they lived and where they went to school or, less common, worked.
 
@@ -56,7 +56,7 @@ This is what we have found by reading through old newspapers to compile the “L
 
 **Even After the Vaccine**
 
-We haven’t gotten to the October 1949 newspapers yet, but we skimmed through enough newspapers up through the late 1950s to see that the MHC area would end up having about 20 or more polio cases each year. There were even 34 local polio cases for 1959 by Sept. 30 – 4 years after the polio vaccine had been available locally, including in free clinics sponsored by Charity League, but not everyone was getting it.
+We haven’t gotten to the October 1949 newspapers yet, but we skimmed through enough newspapers up through the late 1950s to see that the MHC area would end up having about 20 or more polio cases each year. There were even 34 local polio cases for 1959 by Sept. 30 - 4 years after the polio vaccine had been available locally, including in free clinics sponsored by Charity League, but not everyone was getting it.
 
 You can read about this and other real-time accounts of our community in days gone by at [www.mhchistoricalsociety.org/looking-back](http://www.mhchistoricalsociety.org/looking-back). If you have memories to share of the days of polio, please contact us at [mhchistoricalsociety@gmail.com](mailto:mhchistoricalsociety@gmail.com) or 276-403-5361.
 

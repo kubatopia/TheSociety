@@ -22,7 +22,7 @@ export function formatTime(value: string): string {
 
 /**
  * Collapse consecutive days sharing the same hours:
- *   Tue,Wed,Thu,Fri 10-17 + Sat 10-16  ->  ["Tuesday–Friday, 10am to 5pm", "Saturday, 10am to 4pm"]
+ *   Tue,Wed,Thu,Fri 10-17 + Sat 10-16  ->  ["Tuesday-Friday, 10am to 5pm", "Saturday, 10am to 4pm"]
  */
 export function summarise(hours: OpeningDay[]): string[] {
   const ordered = [...hours].sort(
@@ -46,7 +46,7 @@ export function summarise(hours: OpeningDay[]): string[] {
 
   return runs.map((run) => {
     const span =
-      run.length === 1 ? run[0].day : `${run[0].day}–${run[run.length - 1].day}`;
+      run.length === 1 ? run[0].day : `${run[0].day}-${run[run.length - 1].day}`;
     return `${span}, ${formatTime(run[0].open)} to ${formatTime(run[0].close)}`;
   });
 }

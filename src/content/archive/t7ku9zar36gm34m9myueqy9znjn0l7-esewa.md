@@ -3,7 +3,7 @@ title: "June 9"
 date: 2024-06-09
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 Mrs. R.S. Brown came home recuperated after a spell as a patient at Lucy Lester Hospital. 75 years ago – 1949 Candidate for…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 Mrs. R.S. Brown came home recuperated after a spell as a patient at Lucy Lester Hospital. 75 years ago - 1949 Candidate for…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-esewa.webp
 imageAlt: "June 9"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-esewa
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 Mrs. R.S. Brown came home recuperated after a spell as a patient at Lucy Lester Hospital.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Candidate for governor Remmie L. Arnold of Petersburg addressed the Kiwanis Club at Club Martinique; his talk was broadcast over WMVA. Arnold’s platform was a protest in a stated sharp rise in state taxes from year to year since 1936. He was the third gubernatorial candidate to speak to the Martinsville Kiwanis, following State Senator John S. Battle and Francis Pickens Miller, both of Petersburg. The fourth candidate, Horace Edwards of Richmond, also was scheduled to speak. (John S. Battle, Democrat, would win the election.)
 
@@ -24,7 +24,7 @@ Candidate for governor Remmie L. Arnold of Petersburg addressed the Kiwanis Club
 
 Jerry Jenkins, 17, of Route 2, Ridgeway, whose graduation from Drewry Mason High School was the next night, had had perfect attendance for all 12 years of school.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Belleview, built in 1783, was designated a Virginia Historic Landmark. The house, between Ridgeway and Horsepasture, was built by John Redd (1755-1850), a pioneer settler of Henry County and a member of the county court for four decades. Mrs. Kennon C. Whittle was living in the house at the time. Her husband, the late Justice Kennon C. Whittle, undertook restoring the house in the mid-1950s. John Redd was Whittle’s fifth great-grandfather. Whittle and his father, Stafford Gorman Whittle, who died in 1919, were trial lawyers and judges. Stafford Whittle served on the Virginia Supreme Court of Appeals from 1901 to 1919, and Kennon Whittle, from 1951 to 1965.
 

@@ -3,7 +3,7 @@ title: "May 26"
 date: 2024-05-28
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 Advertisement (featuring a sketch of a bride and groom) for Peoples National Bank: “You owe her a duty. Deposit your money…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 Advertisement (featuring a sketch of a bride and groom) for Peoples National Bank: “You owe her a duty. Deposit your money…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-ztxl8.webp
 imageAlt: "May 26"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-ztxl8
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 Advertisement (featuring a sketch of a bride and groom) for Peoples National Bank: “You owe her a duty. Deposit your money regularly in our bank. Every man knows that it is his duty to provide for his wife and children … Try it … Begin with what you have in your pocket NOW. We will welcome your account.”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Hay had been on the ground for days, but farmers couldn’t harvest it because it was wet from steady rains.
 
@@ -26,7 +26,7 @@ As spring thunderstorms assailed the Henry/Franklin/Patrick County area, disrupt
 
 Ms. Betty Jo Norton’s government classes at Martinsville High School attended the City Council’s meeting and read along with Manager Hirst’s presentation of the proposed budget for the following year. That was a great session to attend!
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 The Auxiliary of Memorial Hospital of Martinsville and Henry County had about 100 active and five life members, with another 100 inactive members who contributed financially. The organization, still active, raised funds to purchase hospital equipment and provide hospital and patient services. Mrs. James W. Roberts was the Auxiliary president in 1974. The group took in books and magazines for patients and sponsored Candystripers and Red Coat youth volunteers and provided scholarship to 11 nursing students and 39 graduates.
 

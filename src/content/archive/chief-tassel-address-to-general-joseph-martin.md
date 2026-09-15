@@ -16,7 +16,7 @@ draft: false
 
 “Old Tassel” was a beloved statesman and chief of the Overhill Cherokee, whose name became synonymous with integrity and truth. He was a friend of Gen. Joseph Martin and an advocate of peace. Chief Tassel and another chief were murdered by white settlers under a flag of truce at Chilhowee.
 
-In recognition of the cordial relations that existed between that Indian Chief and General Joseph Martin for when this city – Martinsville was named, and in appreciation of the outstanding services for peace that these two distinguished citizens of their respectful races rendered their day and generation.
+In recognition of the cordial relations that existed between that Indian Chief and General Joseph Martin for when this city - Martinsville was named, and in appreciation of the outstanding services for peace that these two distinguished citizens of their respectful races rendered their day and generation.
 
 **Address of Chief Tassel delivered**
 

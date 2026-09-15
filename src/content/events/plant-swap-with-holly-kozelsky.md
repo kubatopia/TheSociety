@@ -12,7 +12,7 @@ draft: false
 
 Hosted by the Martinsville-Henry County Historical Society, “Plant Swap with Holly Kozelsky” will be held on Saturday, October 14, 2023., at the Historic Henry County Courthouse. A potluck luncheon will begin inside at 12:00 P.M. with the plant swap following at 1:00 P.M. on the beautiful brick Plaza.
 
-40 FREE perennials – phlox (a native plant easy to grow and common at old house sites), purple coneflower (echinacea), or iris – will be given away, one per person while supplies last.
+40 FREE perennials - phlox (a native plant easy to grow and common at old house sites), purple coneflower (echinacea), or iris - will be given away, one per person while supplies last.
 
 Attendees will trade plants, seeds, cuttings, divisions, tools, pots, fun, and conversation with other interested gardeners. However, folks do NOT have to bring items to trade to participate as gardeners love nothing better than to share plants and advice. New gardeners are especially welcome. Parking is available around the old courthouse and in the Bridge Street and Depot Street parking lots. Volunteers will be available to help load and unload.
 

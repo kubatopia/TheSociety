@@ -3,24 +3,24 @@ title: "March 7"
 date: 2025-03-10
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1925 Circle No. 4 of the Ladies Aid Society had a sale of “nice things to eat” – cakes, pies, dressed chickens, etc. – at Roberts Drug Store. 75 years ago – 1950…"
+summary: "100 Years ago - 1925 Circle No. 4 of the Ladies Aid Society had a sale of “nice things to eat” - cakes, pies, dressed chickens, etc. - at Roberts Drug Store. 75 years ago - 1950…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-fw54w.webp
 imageAlt: "March 7"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-fw54w
 draft: false
 ---
 
-**100 Years ago – 1925**
+**100 Years ago - 1925**
 
-Circle No. 4 of the Ladies Aid Society had a sale of “nice things to eat” – cakes, pies, dressed chickens, etc. – at Roberts Drug Store.
+Circle No. 4 of the Ladies Aid Society had a sale of “nice things to eat” - cakes, pies, dressed chickens, etc. - at Roberts Drug Store.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 The National Foundation for Infantile Paralysis [polio] commended Henry County, in a letter from its headquarters in New York City to Pannill Post No. 42, for having the highest per capita funds collected in the March of Dimes and the Emergency campaigns, from any county in Virginia.
 
 The Martinsville High School debate team had a practice debate with the George Washington of Danville team. The MHS team members were Buddy Eanes, Mary Evelyn Richardson, Peggy Wortington and Shirley Gregory.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Henry County automobile license decals had a new design. It was a replica of the county seal and colors adapted the previous September by the Board of Supervisors, in green, yellow and red, with symbols representing the county’s industry schools and churches. They replaced the image of the county courthouse which had been on the stickers before.
 

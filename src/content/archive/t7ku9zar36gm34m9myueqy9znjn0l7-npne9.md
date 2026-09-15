@@ -34,6 +34,6 @@ Adult education classes offered by Martinsville City Schools included Beginning 
 
 Fifth District U.S. Rep. Virgil Goode, a lifelong Democrat whose father, Virgil Goode Sr., had been a Democratic state senator, announced that he would run in the 2000 election as an independent. Goode Jr. had built a reputation as an independent, not party-line voter; one of his cross-party votes was a vote to impeach President Bill Clinton during the Monica Lewinsky scandal.
 
-The Textile Worker Relief Act of 2000 was introduced in the General Assembly. It had 83 co-patrons – quite a large amount; most bills had only three or four.
+The Textile Worker Relief Act of 2000 was introduced in the General Assembly. It had 83 co-patrons - quite a large amount; most bills had only three or four.
 
 *Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)*.*

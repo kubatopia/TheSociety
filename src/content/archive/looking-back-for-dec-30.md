@@ -12,7 +12,7 @@ draft: false
 
 **1923**
 
-Prices: Percolators, $12 to 15; toasters, $5 to $10; curling irons, $5 to $6.50; irons, $5 to $6.50; medicine cabinets, bevel plate mirror, $20; cozy Glow heaters, $10.50; bathroom stools, $4; broilers, $21; ranges, installed: $200; royal sweepers, $55; floor lamps, $30 to $42.50; waffle irons, $15 – Richardson Electric Co., Bridge Street
+Prices: Percolators, $12 to 15; toasters, $5 to $10; curling irons, $5 to $6.50; irons, $5 to $6.50; medicine cabinets, bevel plate mirror, $20; cozy Glow heaters, $10.50; bathroom stools, $4; broilers, $21; ranges, installed: $200; royal sweepers, $55; floor lamps, $30 to $42.50; waffle irons, $15 - Richardson Electric Co., Bridge Street
 
 **1948**
 

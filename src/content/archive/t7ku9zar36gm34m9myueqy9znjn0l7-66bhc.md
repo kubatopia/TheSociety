@@ -3,18 +3,18 @@ title: "August 18"
 date: 2024-08-18
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 Ad in the Henry Bulletin: “Cross Laundry – Corner of South and Askin Sts., Martinsville, Virginia. With a new modernly equipped Sanitary Laundry in our new…"
+summary: "100 Years ago - 1924 Ad in the Henry Bulletin: “Cross Laundry - Corner of South and Askin Sts., Martinsville, Virginia. With a new modernly equipped Sanitary Laundry in our new…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-66bhc.webp
 imageAlt: "August 18"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-66bhc
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
-Ad in the Henry Bulletin: “Cross Laundry – Corner of South and Askin Sts., Martinsville, Virginia. With a new modernly equipped Sanitary Laundry in our new modern laundry building offers it services to the public with a guarantee of the most efficient prompt and satisfactory service at reasonable prices and respectfully solicits  your patronage. Our Service” Thrift-T-Service, 7 cents per pound, minimum charge 50 cents. Everything carefully washed and thoroughly rinsed in eight to ten changes of water. The excess water is removed. All flat work is ironed and carefully folded. Other work is returned damp ready for starching. Wet Wash – 5 cents per pound, minimum charge 50 cents. Everything is washed in mild suds and thoroughly rinsed in eight to ten changes of water. The excess water is removed and the bundle returned damp sweet and clean ready to starch and hang up dry.”
+Ad in the Henry Bulletin: “Cross Laundry - Corner of South and Askin Sts., Martinsville, Virginia. With a new modernly equipped Sanitary Laundry in our new modern laundry building offers it services to the public with a guarantee of the most efficient prompt and satisfactory service at reasonable prices and respectfully solicits  your patronage. Our Service” Thrift-T-Service, 7 cents per pound, minimum charge 50 cents. Everything carefully washed and thoroughly rinsed in eight to ten changes of water. The excess water is removed. All flat work is ironed and carefully folded. Other work is returned damp ready for starching. Wet Wash - 5 cents per pound, minimum charge 50 cents. Everything is washed in mild suds and thoroughly rinsed in eight to ten changes of water. The excess water is removed and the bundle returned damp sweet and clean ready to starch and hang up dry.”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Drivers entering Martinsville from the north on U.S. 220 were stopped and questioned on where they were coming from and where they were headed, as part of a traffic survey conducted by the State Highway department. The next day, the motorists were stopped on the other end of 220, and also people going from the DuPont plant who traveled on South Askin street.
 
@@ -30,7 +30,7 @@ The Wesley Guild of First United Methodist Church held a Hobby Luncheon on the t
 
 The fifth annual Henry County Horse Show, which had over 200 entries, opened. It was sponsored by the Jaycees. Fifteen hundred people attended. Of the 12 blue ribbon winners, four were local: Moonlight Mystery, owned by Faye Hurd and ridden by Betty Hurd; Dixie, owned and ridden by Molly Randolph; Night Train, owned by Roy Brooks and ridden by Joy Gibbs; and in the Saddle Seat Equitation, for ages under 18, Millie Ravenel took top honors.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Computerized stop lights were put in at Bridge and Church streets and 12 other intersections in downtown Martinsville.  The computer was put in front of the Henry County Courthouse. These fancy new traffic lights would use detectors built into the roadways throughout the city to measure traffic volume and set light cycles for more efficient flow of traffic. The system cost $134,000.
 

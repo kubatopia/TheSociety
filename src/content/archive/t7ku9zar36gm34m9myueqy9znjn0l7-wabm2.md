@@ -16,7 +16,7 @@ draft: false
 
 State Agent B.A. Anthony and Policeman H.H. Dudley discovered a still set-up half a mile outside Martinsville limits, one-quarter of a mile east of the D&R RR crossing highway bridge and a few hundred yards north of the railroad.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Heavyweight Boxing Champion Joe Louis announced his formal resignation from the sport.
 
@@ -32,7 +32,7 @@ At dawn the US Senate voted 55-6 to continue to filibuster civil rights legislat
 
 Martinsville High School Seniors would present their class play the following Friday in the high school auditorium. Highlights of “Inherit the Wind” would include a real live monkey, a picnic, a revival meeting and several courtroom scenes. Ben Gardner, Walker Holt, Roscoe Reynolds, Barry Greene, Elizabeth Simmons, Anne Morris and Barry Westfall were among the performers. The prior year, this class had performed “Teahouse of the August Moon” to sold-out audiences.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 It was the gas shortage, and tank trucks carrying Martinsville’s March allocations were rolling into town. Lee Sigmon, who operated two American Oil stations, said his March allocation was 75% of his March 1972 sales, but it would only meet 40% of the demand. W.L. Wiseman told the Martinsville Bulletin that motorists are starting to get used to the mandatory even-odd rationing plan, so things should go smoother this month than they had in the past. A 2-cent per gallon pump price went into effect, which would raise prices at some stations to close to 60 cents.
 

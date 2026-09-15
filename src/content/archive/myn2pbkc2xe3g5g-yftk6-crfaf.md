@@ -3,18 +3,18 @@ title: "May 10 through the years"
 date: 2025-05-17
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1925 May 10-17 was designated by Mayor G.A. Brown as “Better Homes Week.” Demonstrations on household-related matters were given throughout the city. Merchants…"
+summary: "100 Years ago - 1925 May 10-17 was designated by Mayor G.A. Brown as “Better Homes Week.” Demonstrations on household-related matters were given throughout the city. Merchants…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-crfaf.webp
 imageAlt: "May 10 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-crfaf
 draft: false
 ---
 
-**100 Years ago – 1925**
+**100 Years ago - 1925**
 
 May 10-17 was designated by Mayor G.A. Brown as “Better Homes Week.” Demonstrations on household-related matters were given throughout the city. Merchants would have special window displays which together would add up to a fully furnished house, such as a bedroom in the C.W. Holt window and a kitchen in Pooles Hardware. Central Drug Co. displayed cleaning agents, and Mr. Townes’ store held a set dining room table. Kearfott’s displayed a small bathroom with all supplies. Richardson Electric showcased items “to please the ladies,” such as stove, sink and curling iron. Henry County children made posters to be displayed in the windows. Demonstrations at various stores included “Use of Sewing Machine Attachments,” In the contest “Henry County Girls to Be Better Homemakers,” girls were offered suggested for improving their rooms, even using old broken furniture.  At the end of 4 months, the girl who has made the most improvement in her room would be awarded first prize.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 The local office of the Virginia State Employment Service listed 50 job openings, especially for skilled work in the lumber and furniture trades. Jobs open were for sawmillers, a veneer taper, a veneer repairman, a hardwood lumber grader, a case fitter, a flooring unit grader, painters, brick masons, salesmen (both male and female), taxi drivers, short order cooks, general office help (both male and female) and store clerks.
 

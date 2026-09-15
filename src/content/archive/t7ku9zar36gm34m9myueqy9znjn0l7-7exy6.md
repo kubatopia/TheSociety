@@ -3,7 +3,7 @@ title: "March 3 through the years"
 date: 2024-03-03
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 years ago – 1924 Pannill Post American Legion and Auxiliary had their “house warming” meeting on March 3, 1924 – their first meeting in their…"
+summary: "By Holly Kozelsky and Pat Pion 100 years ago - 1924 Pannill Post American Legion and Auxiliary had their “house warming” meeting on March 3, 1924 - their first meeting in their…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-7exy6.webp
 imageAlt: "March 3 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-7exy6
@@ -12,15 +12,15 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 years ago – 1924**
+**100 years ago - 1924**
 
-Pannill Post American Legion and Auxiliary had their “house warming” meeting on March 3, 1924 – their first meeting in their new club rooms over the H.A. Ford & Co. offices at the corner of Church and Walnut streets. The Shriners also meet there.
+Pannill Post American Legion and Auxiliary had their “house warming” meeting on March 3, 1924 - their first meeting in their new club rooms over the H.A. Ford & Co. offices at the corner of Church and Walnut streets. The Shriners also meet there.
 
 It was announced that Mr. Percy C. Winter, who is the manager of the Henry Hotel, will relinquish his lease on the hotel, effective April 1, 1924. Members of the board of directors of the hotel company reported that eight applications have been received for the management of the hotel.
 
 The Henry County Tobacco factory and the basement floor which was used as a livery stable burned to the ground at night March 3. At 9 p.m. a passerby roused Jack Johnson, who lived in a room on the third floor. The fire had started on the second floor, where Mr. R.B. Semple, proprietor, had stored between $17,000 and $20,000 worth of cigars, cigarettes, plug tobacco and confectionaries, only insured for $4,250. The building also had 400 bushels of oats, wagons, buggies, harness and feed stuff. Mr. Johnson, of Mountain Valley, who had worked for Mr. Childress for 10 years, lost everything he owned, including 10 years worth of savings, which he had kept in a trunk. The 42 horses and mules in the basement made it out safely, thanks to Mr. Johnson, but they kept coming back and trying to get into their stalls.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Announcement was made that in the prior week, the Patrick County Board of Supervisors presented and adopted a budget with a county levy of $2. It would go for: schools, $1.50; general fund, 40 cents; sinking fund, 10 cents.
 
@@ -32,7 +32,7 @@ The 4 to 8 inches of snow predicted the day before exploded into 12 inches of sn
 
 Lucy Freeman, an Albert Harris High School student, was named fifth-place winner in the state essay contest conducted by the Governor’s Committee on Employment of the Physically Handicapped. Her topic was “Jobs for the Handicapped-Passports to Dignity”. She received a certificate from President Eisenhower for the quality of her essay.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Allan McClain warned local residents not to convert their automobiles to propane gas to beat the gasoline shortage. In the Stroller column in the Martinsville Bulletin, McClain, manager of Midway Bottled Gas Co., said a conversion would cost between $600 and $700, and plus, the cost of propane was going up quickly.
 

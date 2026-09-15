@@ -28,7 +28,7 @@ Today the groundhog saw his shadow and went back into his hole for another six w
 
 **1974**
 
-Sureway Food Fairs on Church Street and Memorial Boulevard in Collinsville offered chicken for frying at 43 cents a pound, three loaves of bread for $1, a dozen Krispy Kreme donuts fir 59 cents; and 3 pounds of cabbage for 29 cents. It gave QS (Quality Stamp Co.) stamps, which look like S&H Stamps – people could collect them and exchange them in certain amounts for merchandise.
+Sureway Food Fairs on Church Street and Memorial Boulevard in Collinsville offered chicken for frying at 43 cents a pound, three loaves of bread for $1, a dozen Krispy Kreme donuts fir 59 cents; and 3 pounds of cabbage for 29 cents. It gave QS (Quality Stamp Co.) stamps, which look like S&H Stamps - people could collect them and exchange them in certain amounts for merchandise.
 
 **1999**
 

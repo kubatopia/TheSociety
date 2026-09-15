@@ -3,18 +3,18 @@ title: "Dec. 18"
 date: 2024-12-18
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1924 Ad: “Ten Gallons Gas Free Every Saturday Night at Church Street Service Station – By Tom Barbour and Booker Carter – Ticket With Every Purchase – Get Yours.”…"
+summary: " 100 Years ago - 1924 Ad: “Ten Gallons Gas Free Every Saturday Night at Church Street Service Station - By Tom Barbour and Booker Carter - Ticket With Every Purchase - Get Yours.”…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-5psxe.webp
 imageAlt: "Dec. 18"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-5psxe
 draft: false
 ---
 
-** 100 Years ago – 1924**
+** 100 Years ago - 1924**
 
-Ad: “Ten Gallons Gas Free Every Saturday Night at Church Street Service Station – By Tom Barbour and Booker Carter – Ticket With Every Purchase – Get Yours.”
+Ad: “Ten Gallons Gas Free Every Saturday Night at Church Street Service Station - By Tom Barbour and Booker Carter - Ticket With Every Purchase - Get Yours.”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 At the County Supervisors’ meeting, W.M. Norman proposed a county ordinance to prohibit taverns in Henry county from staying open for business after midnight. He said that during recent years there had been a lot of troubles and tragedies happening at taverns after midnight. County Attorney Cary Randolph was instructed to study the legality of the proposal and make a report on it by the January meeting.
 
@@ -22,9 +22,9 @@ At the County Supervisors’ meeting, W.M. Norman proposed a county ordinance to
 
 Bassett Furniture Industries sales were at an all-time high, according to a letter mailed by company president J.D. Bassett Jr. Bassett reported net sales of more than $57 million for the fiscal year ending Nov. 30, more than $1 million more than the year before.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
-Bennett and Wilson Realtors remodeled and moved into the house at 818 Starling Ave. – that’s the house with the smiley face on the chimney (you can’t tell from the 1974 picture if the smiley face was on it then). Jim Wilson was the company president and Christine Bennett was the secretary.
+Bennett and Wilson Realtors remodeled and moved into the house at 818 Starling Ave. - that’s the house with the smiley face on the chimney (you can’t tell from the 1974 picture if the smiley face was on it then). Jim Wilson was the company president and Christine Bennett was the secretary.
 
 **25 years ago - 1999**
 

@@ -16,7 +16,7 @@ draft: false
 
 Woody’s Dept. Store in Bassett held a Guessing Contest. Win a free pair of Walkover Shoes: 1. “How many steps would the little man take from the center of the sidewalk to the High School building?” and 2. “How many feet will the walking Walkover Man walk in seven days allowing 15 hours for each day’s walk?”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 A truck driver leapt from his truck in the nick of time, just before it plunged 500 feet down the mountainside near Lover’s Leap in Patrick County. The driver, Clyde Tilley, 23, of North Carolina, told authorities that he had lost control when the wheels locked. He just suffered a slight injury to his leg and managed to walk 8 miles down the mountain, where he reported the accident to the sheriff. It was freezing cold and 1 a.m., but he didn’t have a coat because it had been left in the cab of the truck. The cargo of the truck was 30 or 40 new, empty chicken crates.
 
@@ -30,11 +30,11 @@ The sewer bonds were approved decisively by a margin of 73 per cent. Some voters
 
 The Women’s Association of Grace Presbyterian church held a World Day of Prayer Service. Mrs. George Rollins directed the service.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 The price to send a letter went up to 10 cents, from the previous 8. Robert E. Phillips was the assistant postmaster at the post office on Spruce Street.
 
-**25 years ago – 1999**
+**25 years ago - 1999**
 
 Bassett Furniture Industries was in the midst of a marketing reboot. It was planning to add 30 Bassett Furniture Direct stores and doubling its marketing expenditures to $30 million.
 

@@ -12,7 +12,7 @@ draft: false
 
 Join the Martinsville-Henry County Historical Society and Scuffle Hill Brewing Company for “Beers of Ireland” on Saturday, March 16, 2024, 2:00-4:00 P.M., at the Historic Henry County Courthouse, 1 East Main Street, Uptown Martinsville.
 
-During the first hour, participants will learn the history, ingredients, and production of beer as well as different beer styles, hops, yeast, and beer presentation. During the second hour, attendees will taste Irish Reds and Irish Stouts, totaling approximately two pints. Irish snacks will be served. Wear your most green – prizes will be awarded.
+During the first hour, participants will learn the history, ingredients, and production of beer as well as different beer styles, hops, yeast, and beer presentation. During the second hour, attendees will taste Irish Reds and Irish Stouts, totaling approximately two pints. Irish snacks will be served. Wear your most green - prizes will be awarded.
 
 The event will be taught and led by Jake Abell, owner of Scuffle Hill Brewing Company. He earned a Beer Brewer Professional Certificate from Virginia Tech and the University of Richmond. A Veteran of the U. S. Marine Corps, he graduated from Patrick & Henry Community College and Liberty University. He serves on the Board of Directors of the Martinsville-Henry County Historical Society.
 

@@ -3,7 +3,7 @@ title: "April 3"
 date: 2024-04-03
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 The pupils of Four-A and Two-A grades presented the operetta “Snow White and the Seven Dwarfs” in the High School auditorium.…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 The pupils of Four-A and Two-A grades presented the operetta “Snow White and the Seven Dwarfs” in the High School auditorium.…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-2yca6.webp
 imageAlt: "April 3"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-2yca6
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 The  pupils of Four-A and Two-A grades presented the operetta “Snow White and the Seven Dwarfs” in the High School auditorium. Admission was 25 cents, with proceeds going to buy equipment for the school.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 The Martinsville Bulletin reported, “Construction is moving forward without a hitch on two new schools for Martinsville, with contract superintendents t the new Patrick Henry grammar school and the Albert Harris colored elementary school, both reporting work being on schedule. The grammar school is being built by the John W. Daniel Construction company of Danville, with about 40 men now on the job, and the colored elementary school work is being done by the English Construction Company of Altavista.
 
@@ -32,7 +32,7 @@ Tiros 1, America’s new earth-orbiting weather-eye satellite, radioed back pict
 
 Black students were served at the Kresge lunch counter in Bluefield, W. Va., without incident while picketers protesting sitdowns and backing segregation occurred in Hampton and Norfolk and arrests of demonstrating black students continued in Texas.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 The State Corporation commission dropped a quality-of-service case against the Virginia Telephone & Telegraph’s Martinsville division, after finding that service had steadily improved over the prior six months. From March 6-7, 1973, the SCC held public hearings in Martinsville about the quality of local phone service and determined that more investigation was warranted.
 

@@ -3,7 +3,7 @@ title: "June 2"
 date: 2024-06-03
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 Constable D.H. Harris made seven arrests of people from Danville who were drinking and joy-riding. A woman jumped out of the…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 Constable D.H. Harris made seven arrests of people from Danville who were drinking and joy-riding. A woman jumped out of the…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-klzyp.webp
 imageAlt: "June 2"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-klzyp
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 Constable D.H. Harris made seven arrests of people from Danville who were drinking and joy-riding. A woman jumped out of the car and ran away with the liquor but was caught. Meanwhile, 26 students were graduated from Martinsville High School in a ceremony held in the auditorium of the new Methodist Church. At the Ridgeway high school, the commencement program featured the song “Voice of the Woods,” drill “The March of Months,” song “The Call of Summer,” drama “Oh, What a Family” and finally the song “Softly Fall the Shadows of Evening.”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Twenty-three seniors were graduated in commencement exercises at Spencer-Penn High school. Helen Miles was the valedictorian and Marie aker the salutorian.
 
@@ -30,7 +30,7 @@ The private, segregated Prince Edward School Foundation of Prince Edward County 
 
 The proposed Prince Edward County budget for the next fiscal year contained a line item for $270,000 for educational purposes to provide $100 grants for school age children of all races. That, along with grant laws which already existed in Virginia to support attendance of a child at a private, non-sectarian school with $150 for high school and $125 for elementary school, would help pay for next year’s Prince Edward School Foundation’s recently announced tuition charges. One thousand seven hundred white children at the time attended the private school. There was no formal education program within Prince Edward County for the approximately 1,800 school-aged black children.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Jimmy Frith, the 15-year-old son of J. Burness Frith, jumped his bike over a row of 15 trash cans, a total distance of 25 feet, 8 inches, the culmination of 4 years of practice. Next, he was turning his attention to racing. “My folks want me to quit jumping over things,” he told the Martinsville Bulletin, in an article by Marti Vogel, published June 2, 1974.
 

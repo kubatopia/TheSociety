@@ -3,22 +3,22 @@ title: "March 15 through the years"
 date: 2026-03-16
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1926 J.H. Stanley sold his Wigwam Billiard Parlor and its equipment to Mr. J. Norman, formerly of South Boston, who renamed it the Palace Billiard Parlor. 75…"
+summary: " 100 Years ago - 1926 J.H. Stanley sold his Wigwam Billiard Parlor and its equipment to Mr. J. Norman, formerly of South Boston, who renamed it the Palace Billiard Parlor. 75…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-k2d92-bapmk-ejb9a-reb6n-n2cac-zr37m.webp
 imageAlt: "March 15 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-k2d92-bapmk-ejb9a-reb6n-n2cac-zr37m
 draft: false
 ---
 
-** 100 Years ago – 1926**
+** 100 Years ago - 1926**
 
 J.H. Stanley sold his Wigwam Billiard Parlor and its equipment to Mr. J. Norman, formerly of South Boston, who renamed it the Palace Billiard Parlor.
 
-**75 years ago – 1951**
+**75 years ago - 1951**
 
 Work began again at Philpott Dam with the pouring of concrete. It had stalled because a fire destroyed an electrical control board which regulated mechanical equipment.
 
-**50 years ago – 1976**
+**50 years ago - 1976**
 
 Nearly 1,700 signatures were on petitions calling for an investigation of Lawrence Martin, the fired county accountant who 3 months later was hired as Henry County administrator, but since Martin had just resigned, Henry County Circuit Court Judge John D. Hooker agreed with four members of the petition drive that an investigation would no longer serve any purpose.
 

@@ -3,7 +3,7 @@ title: "May 16"
 date: 2024-05-17
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 Mulberry Street was undergoing tremendous growth in a short period of time. Seven new houses, worth a total cost of at least…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 Mulberry Street was undergoing tremendous growth in a short period of time. Seven new houses, worth a total cost of at least…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-gpm5t.webp
 imageAlt: "May 16"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-gpm5t
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 Mulberry Street was undergoing tremendous growth in a short period of time. Seven new houses, worth a total cost of at least $650, had been or were being erected. Their owners were: Finley and McCoy, contractors, house for sale; W.R. Broaddus, W.R. Broaddus, built by Willis and Walker; W.L. Parker, built by A.B. Johnson; John R. Bradford, built by Williams and Walker; E.G. Acker, built by A.B. Johnson; and T.M. Ford, built by Willis Walker.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Four cows in Henry County died of hydrocyanic acid poisoning, a result of their having eaten wilted leaves of cherry, plum and/or peach trees. Farmers advised not to plant pit-fruit trees near cow pastures.
 
@@ -26,7 +26,7 @@ There was a continuing outbreak of infectious hepatitis in the area, after havin
 
 Franklin Memorial Hospital in Rocky Mount became the first hospital in the area to institute the novel “Candy Striper Program.” The program was developed by the American Hospital Association and involved interested high school junior and senior girls. The girls would receive five one-hour lecture programs and then participate in 30 hours of supervised practice in the hospital. The program name derived from the red and white striped pinafore uniforms the girls wore. The Candy Striper program became very popular among 16- to 18-year-old girls and was adopted by both Martinsville General Hospital and Franklin Memorial Hospital.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 About 420 attendees of the American Iris Society convention in Roanoke toured the iris gardens of Mr. and Mrs. Arthur Davis, south of Oak Level. The Davises had more than 800 varieties of iris on their property. They got their start after Mr. Davis’s mother gave her son a basketful of iris plants from her homeplace in Franklin County about 15 years before. Arthur Davis worked at DuPont.
 

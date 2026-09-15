@@ -30,7 +30,7 @@ City Transit Company, the bus system operated by the city, eliminated seven Satu
 
 **2000**
 
-It snowed again – the third time in a week – this time, though, sneaking past forecasters and surprising everyone. The area got between 1 and 2 inches of snow.
+It snowed again - the third time in a week - this time, though, sneaking past forecasters and surprising everyone. The area got between 1 and 2 inches of snow.
 
 The Henry County  Board of Supervisors voted 6-0 to deny a rezoning request at the Fieldale Lodge. White Oak School had been wanting to rezone the property to move its school there, but neighbors had protested against it.
 

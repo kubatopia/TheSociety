@@ -3,7 +3,7 @@ title: "March 28"
 date: 2024-03-29
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 “Birth of a Nation” was shown Thursday, March 28, through Saturday, March 30, at the Hamilton Theatre. A March 28, 1924,…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 “Birth of a Nation” was shown Thursday, March 28, through Saturday, March 30, at the Hamilton Theatre. A March 28, 1924,…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-eb4m8.webp
 imageAlt: "March 28"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-eb4m8
@@ -12,7 +12,7 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 “Birth of a Nation” was shown Thursday, March 28, through Saturday, March 30, at the Hamilton Theatre.
 
@@ -20,7 +20,7 @@ A March 28, 1924**,** article in the Henry Bulletin on page 8, “Farming by Mot
 
 The Town of Martinsville issued $60,000 in bonds on Saturday, March 28. They were purchased by Seasongood & Mayer of Cincinnati, the highest bidder, for $60,542.55.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Commonwealth’s Attorney J.W. Cubine announced that the trials of the Martinsville Seven would be held in the week starting April 10.
 
@@ -34,11 +34,11 @@ The Albert Harris Student Council presented their annual Talent Show, which offe
 
 The Blue Ridge Garden Club met at the home of Mrs. Eugene Minter. Mrs. Minter and Mrs. Walter Hagood hosted the event. Mrs. J. E. Whitaker gave an interesting talk on “Fabulous Facts of Nature.” She emphasized nature’s way of protecting balance among creatures, thus preserving life on earth.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Martinsville Mayor Francis T. West, who was white, finally accepted an invitation to address the MHC Voters League, which was a largely black organization. About 30 attended as he explained his sometimes controversial positions for about 40 minutes. After various rejections of the group, he accepted the latest offer in an attempt “to soften what I’m told is a brittleness between the black community and me,” the Martinsville Bulletin on March 29 quoted him as saying.
 
-**25 years ago – 1999 **
+**25 years ago - 1999 **
 
 Riddle Chrysler, Plymouth and Dodge of Martinsville had the following vehicles for sale: 1995 Voyager, $8,995; 1999 Honda Civic, $14,635; 1999 Ram Quad Cab S: 4X4, $24,999; 1999 Dakota 4X4, $14,995.
 

@@ -3,20 +3,20 @@ title: "March 9"
 date: 2025-03-10
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1925 In Axton Mr. Tyler Roach had a chopping and that night gave to the choppers an enjoyable dance. Mr. Tom Roach was surprised with a storm dance attended by…"
+summary: "100 Years ago - 1925 In Axton Mr. Tyler Roach had a chopping and that night gave to the choppers an enjoyable dance. Mr. Tom Roach was surprised with a storm dance attended by…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-9cb6h-zggc2.webp
 imageAlt: "March 9"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-9cb6h-zggc2
 draft: false
 ---
 
-**100 Years ago – 1925**
+**100 Years ago - 1925**
 
 In Axton Mr. Tyler Roach had a chopping and that night gave to the choppers an enjoyable dance.
 
 Mr. Tom Roach was surprised with a storm dance attended by Misses Mary Thompson, Elizabeth Barrow, Madline and Clara Garrett, Lula Hobson, Maggie Stone, Pauline Davis, Messrs. Harry Hobson, Rubin and Dawsy Davis, Jess Ramey, Paul Harvey, Henry Winn, Clyde and Lenord Garrett, Dewey Barrow, James Stone, Howard Roach and George Stone.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 It was a wild day in NASCAR’s Dogwood 500 Classic at the Martinsville Speedway. Fans braved 40-degree weather and ended up seeing fires in the cars of Ed Barton, Geoff Bodine, Donald “Satch” Worley, Melvin Chilton and Brian Ross. Ross was thought to be trapped in the fire but ended up with only one injury, a minor burn to a thumb. There also had been a collision and fire involving Roger Giffith’s and Ray Miller’s cars. Carl “Bugs” Stevens won the modified, and Ray Hendrick won the 250-lap late model sportsman race.
 

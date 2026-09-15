@@ -12,7 +12,7 @@ draft: false
 
 **TICKETS HAVE BEEN SOLD OUT**
 
-Step back in time and uncover the hidden tales of our most notable residents with the Martinsville-Henry County Historical Society's Ghost Walk! This free, family-friendly, and informative (but not scary) stroll is scheduled for Saturday, October 19, 2024, from 6:00 P. M. – 8:00 P.M., with tours conducted every thirty minutes.
+Step back in time and uncover the hidden tales of our most notable residents with the Martinsville-Henry County Historical Society's Ghost Walk! This free, family-friendly, and informative (but not scary) stroll is scheduled for Saturday, October 19, 2024, from 6:00 P. M. - 8:00 P.M., with tours conducted every thirty minutes.
 
 This free event promises an evening of storytelling and history unlike any other offered in the fall season. Securing tickets in advance is recommended as tours will be limited in the number of participants for this historically-focused, one-night-only event!
 

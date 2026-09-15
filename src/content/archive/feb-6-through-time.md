@@ -16,7 +16,7 @@ draft: false
 
 The American Legion Pannill Post 42 planned to honor the late Ex-President Woodrow Wilson in one of the local churches at 3 p.m. Wednesday, Feb. 6, the same time as his funeral in Washington. The business houses of the city were asked to be closed for the service. The committee in charge was K.C. Whittle, A.B. Antrim and W.R. Broaddus.
 
-Also 1924, On Wednesday, Feb. 6, the Sutherlin block across Franklin Street from Public Square (the courthouse), cornered on Main Street, were sold, thought to be the largest transaction in Martinsville. It included seven brick stores from T.E. Gravely & Co.’s hardware store on the corner of Main Street and Public Square down to the Army and Navy store. The purchaser was Henry County Development Company – H.A. Ford, M.R. Schottland, T.M. Ford, J.L. English and N.S. Schottland (most also were officers of the H.A. Ford & Co. Inc.), buying the property from the Bassett heirs and their representatives of Birmingham, Ala.
+Also 1924, On Wednesday, Feb. 6, the Sutherlin block across Franklin Street from Public Square (the courthouse), cornered on Main Street, were sold, thought to be the largest transaction in Martinsville. It included seven brick stores from T.E. Gravely & Co.’s hardware store on the corner of Main Street and Public Square down to the Army and Navy store. The purchaser was Henry County Development Company - H.A. Ford, M.R. Schottland, T.M. Ford, J.L. English and N.S. Schottland (most also were officers of the H.A. Ford & Co. Inc.), buying the property from the Bassett heirs and their representatives of Birmingham, Ala.
 
 **1949**
 

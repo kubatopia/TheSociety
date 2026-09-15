@@ -24,7 +24,7 @@ Gravely Furniture Co. Inc. had closed its Martinsville plant, perhaps temporaril
 
 **1975**
 
-Classes offered at Patrick Henry Community College included Banjo Playing, Living Religion, Art for Adults, GED, Interior Decorating, National Electric Code. Virginia Tech offered the class Psychology of Math – Learning and Instruction, at 6:30 p.m. four Fridays in a row.
+Classes offered at Patrick Henry Community College included Banjo Playing, Living Religion, Art for Adults, GED, Interior Decorating, National Electric Code. Virginia Tech offered the class Psychology of Math - Learning and Instruction, at 6:30 p.m. four Fridays in a row.
 
 **2000**
 

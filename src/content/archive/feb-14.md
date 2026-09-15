@@ -38,6 +38,6 @@ Linda Reynolds gave the presentation “Meals to Fit the Budget” to the Shanno
 
 **1999**
 
-On Valentine’s Day 1999, 200 teenagers committed to remain virgins until marriage – during the True Love Waits Rally at First United Methodist Church. They signed True Love Waits Commitment Cards and taped them together, and the string of cards was held up from the ladder of the Martinsville Fire Department’s truck. The string of cards was as tall as the Piedmont Trust Bank building, about 70 feet.
+On Valentine’s Day 1999, 200 teenagers committed to remain virgins until marriage - during the True Love Waits Rally at First United Methodist Church. They signed True Love Waits Commitment Cards and taped them together, and the string of cards was held up from the ladder of the Martinsville Fire Department’s truck. The string of cards was as tall as the Piedmont Trust Bank building, about 70 feet.
 
 *Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfilm at the *[*Martinsville Branch Library.*](https://www.brrl.lib.va.us/)

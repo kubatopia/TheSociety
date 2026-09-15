@@ -3,7 +3,7 @@ title: "June 15"
 date: 2024-06-17
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 Pupils who wished to take s summer course would get information and make arrangements by calling Phone No. 270. / Mr. N.S.…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 Pupils who wished to take s summer course would get information and make arrangements by calling Phone No. 270. / Mr. N.S.…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-s2m96.webp
 imageAlt: "June 15"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-s2m96
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 Pupils who wished to take s summer course would get information and make arrangements by calling Phone No. 270. / Mr. N.S. Schottland was recuperating for having been operated on at Lucy Lester Hospital for appendicitis. / Judge S.G. and Whittle and Miss Flora Whittle were in Lexington for the graduation of Randolph Whittle, in law, from Washington and Lee.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Robert King was hired as the new superintendent of the City Prison farm, at an annual salary of $3,000. King came to the position from a role as superintendent of State Prison Camp 19 at Grundy. He was recommended by Virginia Jails Superintendent W.S. Brent and also by Orchardist W.B. Davidson of Dillwyn, who reported that each year King helped in the harvest of area peaches with 10 convicts, and also, that under King’s management his prison camp was self-sustaining, producing nearly all its food, including meat.
 
@@ -26,9 +26,9 @@ The Retail Merchants Association was holding a “Lucky Dad” contest. Names wo
 
 Mrs. Ike DeHart of Route 40 in the Charity section of Patrick County was tied up  in her home and robbed of $100. Deputies were searching the Fairystone Park section for her two young attackers. Two teenagers from Floyd were arrested for that on June 21, 1960.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
-Martinsville Bulletin reporter Gail Dudley went undercover for three days as an employee for Projects Enterprise, a sales company at 32 Franklin St. The article she wrote (“Sales ‘Pitch’ Questioned,” Martinsville Bulletin, June 16, 1974), explained that sales workers called people out of the phone book, selling light bulbs at $1.73 each, with the pitch that their company provides jobs for handicapped people – but, according to Dudley’s observations during her three days in the call center, that did not appear to be the case at all.
+Martinsville Bulletin reporter Gail Dudley went undercover for three days as an employee for Projects Enterprise, a sales company at 32 Franklin St. The article she wrote (“Sales ‘Pitch’ Questioned,” Martinsville Bulletin, June 16, 1974), explained that sales workers called people out of the phone book, selling light bulbs at $1.73 each, with the pitch that their company provides jobs for handicapped people - but, according to Dudley’s observations during her three days in the call center, that did not appear to be the case at all.
 
 **25 years ago - 1999**
 

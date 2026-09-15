@@ -3,22 +3,22 @@ title: "April 15 through time"
 date: 2025-04-15
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 The Henry Bulletin reported that all of the services at the churches in the city were well attended, in spite of the fact that hundreds left early during the…"
+summary: " 100 Years ago - 1925 The Henry Bulletin reported that all of the services at the churches in the city were well attended, in spite of the fact that hundreds left early during the…"
 image: /media/archive/myn2pbkc2xe3g5g-b3pfr.webp
 imageAlt: "April 15 through time"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-b3pfr
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 The Henry Bulletin reported that all of the services at the churches in the city were well attended, in spite of the fact that hundreds left early during the morning for the Moravian services at Winston-Salem.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 A committee of Brice Eggleston, Judge Kennon C. Whittle, W.M. Bassett, J. Frank Wilson and Sheriff Morton Prillaman were on a committee to study proposals to change the arrangement for Henry County special police. Judge Whittle had told the board of supervisors that he thought the county had too many special officers, whose salaries were paid partly by the large factories and partly by the county. There were five full-time special officers at Bassett and two at Fieldale and two part-time special officers at Stanleytown.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Henry County residents had until midnight to display 1975-76 license decals on their vehicles, and the county treasurer’s office was packed with people catching up. The $10 decals also were sold also at the Collinsville Volunteer Fire Department and at Jerry Young’s Grocery on Va. 57 east, by the Dyer’s Store Fire Department.
 

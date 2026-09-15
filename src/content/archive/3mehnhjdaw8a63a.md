@@ -3,14 +3,14 @@ title: "April 5 through time"
 date: 2025-04-05
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 A telephone system was being installed in Stuart, under the supervision of B.L. Fisher of Rocky Mount. The Kellog Phone and Switchboard was being used, and…"
+summary: " 100 Years ago - 1925 A telephone system was being installed in Stuart, under the supervision of B.L. Fisher of Rocky Mount. The Kellog Phone and Switchboard was being used, and…"
 image: /media/archive/3mehnhjdaw8a63a.webp
 imageAlt: "April 5 through time"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/3mehnhjdaw8a63a
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 A telephone system was being installed in Stuart, under the supervision of B.L. Fisher of Rocky Mount. The Kellog Phone and Switchboard was being used, and the homes in Stuart would be furnished with the Corman Battery System. When finished, it would be connected with either Martinsville or Fieldale by a Copper Trunk Line.
 
@@ -18,11 +18,11 @@ R.W. Morrison, the proprietor of the Patrick Springs hotel, was found dead in be
 
 Several hundred people, including 10 robed klansmen, attended the funeral of Charles D. Taylor of Dry Fork. He had died suddenly while on the stage at Hinesville.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 The Martinsville Junior Chamber of Commerce (Jaycees) was close to the $12,000 goal to finish the Community Hospital for black people. Victor L. Tucker, the campaign director, reported that $4,850 had been pledged, and Mr. and Mrs. O.D. Ford agreed to donate $6,000 if the remaining $1,150 came from the community.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 In South Vietnam, two chartered jumbo jets and two military cargo planes flew nearly 900 orphans from war-torn Vietnam to new adoptive families in America. Another 263 were flown to Canada and Australia. Sadly, the day before and a mile and a half away, the Air Force’s first orphan airlift plane had crashed, with about 200 victims discovered as of April 5, making it the second worse crash in aviation history.
 

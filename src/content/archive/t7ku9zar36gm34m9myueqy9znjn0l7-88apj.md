@@ -3,7 +3,7 @@ title: "Feb. 19"
 date: 2024-02-19
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 1924 Elmore’s Medicine Show advertised that it was “In Martinsville – Opens Tuesday, February 19th. I want all my friends to come out and enjoy a…"
+summary: "By Holly Kozelsky and Pat Pion 1924 Elmore’s Medicine Show advertised that it was “In Martinsville - Opens Tuesday, February 19th. I want all my friends to come out and enjoy a…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-88apj.webp
 imageAlt: "Feb. 19"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-88apj
@@ -14,7 +14,7 @@ draft: false
 
 **1924**
 
-Elmore’s Medicine Show advertised that it was “In Martinsville – Opens Tuesday, February 19th. I want all my friends to come out and enjoy a good clean, free Show. ELMORE’S GREATER PRESCRIPTION, World’s Greatest Tonic.”
+Elmore’s Medicine Show advertised that it was “In Martinsville - Opens Tuesday, February 19th. I want all my friends to come out and enjoy a good clean, free Show. ELMORE’S GREATER PRESCRIPTION, World’s Greatest Tonic.”
 
 Tuesday, Feb. 19, 1924, had the area’s worst sleet storms in many years. Electricity went out. B.W. Dodson of Bachelor’s Hall, owner of the telephone lines running out of Bachelor’s Hall and also superintendent of the Bell line from Danville to Martinsville said 425 telephone poles between Danville and Martinsville were down, and Bachelor’s Hall was without telephone service for the first time in 18 years. Hundreds of big forest trees were broken down between Danville and Martinsville.
 

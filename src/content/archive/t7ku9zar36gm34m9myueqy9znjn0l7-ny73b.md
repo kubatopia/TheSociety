@@ -26,13 +26,13 @@ Mitchell Motor Company in Bassett offered for sale an extra clean ‘58 Mercury 
 
 **50 years ago - 1974**
 
-Peoples Service Drug Store had for sale: Appredine Reducing Plan, box of 42 tablets $2.13, “Enjoy Eating – Lose Weight – Starting Today”
+Peoples Service Drug Store had for sale: Appredine Reducing Plan, box of 42 tablets $2.13, “Enjoy Eating - Lose Weight - Starting Today”
 
 Martinsville City Manager Tom Noland applied to the state energy office for emergency gasoline allocation. He told the Martinsville Bulletin that the city would not be able to get enough gas for the month to continue its regular level of services. To use less gas, the City was instituting measures such as cutting garbage pickup to one day instead of two and to not snowplow residential areas.
 
 **25 years ago - 1999**
 
-The CD-ROM was exciting new technology. The Patrick Henry Development Council made a CD-ROM, “A Vision for Your Future – Martinsville-Henry County Virginia”, with pictures, video and narration. A big-screen demonstration of the CD was made (to great acclaim) during the regular board meeting of the PHDC. The CD cost about $12,000 to produced. Five hundred CDs were ordered initially, and it could be updated and re-ordered 50 at a time. Sherry Ramsey was the PHDC executive director, Rusty Lacy the board chair and Brook Hankins its marketing manager.
+The CD-ROM was exciting new technology. The Patrick Henry Development Council made a CD-ROM, “A Vision for Your Future - Martinsville-Henry County Virginia”, with pictures, video and narration. A big-screen demonstration of the CD was made (to great acclaim) during the regular board meeting of the PHDC. The CD cost about $12,000 to produced. Five hundred CDs were ordered initially, and it could be updated and re-ordered 50 at a time. Sherry Ramsey was the PHDC executive director, Rusty Lacy the board chair and Brook Hankins its marketing manager.
 
 
 

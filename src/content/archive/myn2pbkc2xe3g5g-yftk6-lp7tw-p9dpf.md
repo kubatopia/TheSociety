@@ -3,22 +3,22 @@ title: "August 12 through the years"
 date: 2025-08-12
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1925 LOST DOG announcement: “Between Martinsville and Callands Sunday, Aug. 9, one spayed female bob-tail Fox Terrier with license Nos. 12654, 1924 and 12936, 1925…"
+summary: "100 Years ago - 1925 LOST DOG announcement: “Between Martinsville and Callands Sunday, Aug. 9, one spayed female bob-tail Fox Terrier with license Nos. 12654, 1924 and 12936, 1925…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-p9dpf.webp
 imageAlt: "August 12 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-p9dpf
 draft: false
 ---
 
-**100 Years ago – 1925**
+**100 Years ago - 1925**
 
 LOST DOG announcement: “Between Martinsville and Callands Sunday, Aug. 9, one spayed female bob-tail Fox Terrier with license Nos. 12654, 1924 and 12936, 1925 on collar, Reward for the return of this dog to Charlie Womack, Martinsville, Va.”
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 Attention was on Thomas B. Stanley of Stanleytown as a strong potential candidate for governor of Virginia. He and Attorney General Lindsey Almond were the most active but undeclared candidates. Others being seen as potential candidates were State Senator Charles R. Fenwick of Arlington and Lt. Gov. Pat Collins of Marion. Stanley would go on to be governor from 1954 to 1958.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Memorial Hospital of Martinsville and Henry County was making plans to overhaul its two auxiliary power generators. That was because the week before, during a city power outage, the hospital’s main generator failed and it had to rely on the secondary generator for more than 2 hours. If that one had failed, the hospital would have lost power. It did have battery power to take over in the operating rooms, and respiration devices could have been operated manually in that case.
 

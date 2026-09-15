@@ -3,18 +3,18 @@ title: "September 3"
 date: 2024-09-03
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 Miss Mary Stephens advertised a Private Kindergarten, to be held from 9-11:30 a.m. weekdays in the rooms of Presbyterian Sunday School, and to open on Sept.…"
+summary: "100 Years ago - 1924 Miss Mary Stephens advertised a Private Kindergarten, to be held from 9-11:30 a.m. weekdays in the rooms of Presbyterian Sunday School, and to open on Sept.…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-9kdbh.webp
 imageAlt: "September 3"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-9kdbh
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 Miss Mary Stephens advertised a Private Kindergarten, to be held from 9-11:30 a.m. weekdays in the rooms of Presbyterian Sunday School, and to open on Sept. 8. People interested should call 355.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 The City sent eight electric motors to a company in Greensboro, N.C., for reconditioning. Those motors had been used at the city rock quarry. Those motors would be dried in a baking oven, cleaned and inspected, which would take about a week. At the quarry, J.H. Pharis and Dave Campbell were checking and starting the overhaul of switches and starters. This time of refurbishment was expected to last about 10 days, after which, prison farm labor would begin producing rock.
 
@@ -26,7 +26,7 @@ About 150 Patrick County tobacco farmers were assessing damages of a heavy hail 
 
 A telethon to raise money for the emergency polio fund was held over WSLS Channel 10. Local people on that show included for former polio patients, Mrs. Norma Nelson Plaster, Cynthia Sue Campbell, Larry Truill and Jerry Doss. Local performers on the show included the Four Teens of Bassett, the Chatham Heights Baptist Quartet, soloists Bitsy Fulcher and Dan Manson, both of Martinsville, and a quartet from Stuart.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Harry L. Boaz, a 12-year City Council member, was elected mayor of Martinsville, and William Hobson, the city’s first black councilman, was elected vice mayor.
 

@@ -3,18 +3,18 @@ title: "Oct. 3"
 date: 2024-10-03
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 This Card of Thanks was in the Henry Bulletin on Oct. 3, 1924: “To the many benevolent friends of Martinsville Stuart and elsewhere who have kindly donated…"
+summary: "100 Years ago - 1924 This Card of Thanks was in the Henry Bulletin on Oct. 3, 1924: “To the many benevolent friends of Martinsville Stuart and elsewhere who have kindly donated…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-sxbsm.webp
 imageAlt: "Oct. 3"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-sxbsm
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
-This Card of Thanks was in the Henry Bulletin on Oct. 3, 1924: “To the many benevolent friends of Martinsville Stuart and elsewhere who have kindly donated assistance on account of the burning of our home, so that we are able to keep house again: Unworthy I feel to be, but with kindest wished and grateful thanks I am – Yours Respectfully, W.B. Mise”
+This Card of Thanks was in the Henry Bulletin on Oct. 3, 1924: “To the many benevolent friends of Martinsville Stuart and elsewhere who have kindly donated assistance on account of the burning of our home, so that we are able to keep house again: Unworthy I feel to be, but with kindest wished and grateful thanks I am - Yours Respectfully, W.B. Mise”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Yom Kippur, the Day of Atonement, was observed throughout the day with fasting, religious services, meditation and a memorial service for the dead. They keynote of Yom Kippur is the divine assurance that guilt can be atoned for by penitence, prayer and righteous action. According to Jewish law, each person must pray for himself and resolve to leave behind the mistakes of the previous year and embrace more noble conduct in the future. Many of the major Martinsville stores were owned by Jewish families.
 
@@ -24,7 +24,7 @@ It had been thought that the seven appeals cases of the Martinsville Seven would
 
 The Martinsville tobacco sales market, which had been open for two weeks, hit its highest sales volume: 300,000 pounds, spread across all three tobacco warehouses. Many loads brought in more than $65 per hundred; one load sold by Jincey Adkins of Sago brought in more than $70 per hundred, with one of his baskets commanding $98 per hundred.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 The second phase of improvements to Va. 57 east of Martinsville (Chatham Road) was opened to traffic. This section widened the road from Charlie Redd’s store to Leatherwood Creek. The part before it, from U.S. 58 to Charlie Redd’s store, had been opened earlier. The 4-mile stretch of road cost $1.3 million.
 

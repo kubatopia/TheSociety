@@ -12,7 +12,7 @@ draft: false
 
 Join the Martinsville-Henry County Historical Society for our monthly Sunday Afternoon Lecture, “Toys of Colonial Times” with Gail Vogler, at 3 p.m. Sunday, Feb. 18, at the Historic Henry County Courthouse.
 
-Vogler will share her collection of reproductions of toys of the Colonial period which is the time from European settlers came to North America, at the start of the 17th century, until the colonies became incorporated into the United States almost 200 years later. Toys were made of what was available – wood, string, cloth, and clay. Many of them are earlier or original versions of what children play still play today, such as Bilboquet, jacks, marbles, dominoes, and dice.
+Vogler will share her collection of reproductions of toys of the Colonial period which is the time from European settlers came to North America, at the start of the 17th century, until the colonies became incorporated into the United States almost 200 years later. Toys were made of what was available - wood, string, cloth, and clay. Many of them are earlier or original versions of what children play still play today, such as Bilboquet, jacks, marbles, dominoes, and dice.
 
 Vogler, of Martinsville, is a member of the Joseph Martin Chapter of the Daughters of the American Revolution. She became involved with reenactment with her late husband, Bob, in 1989.
 

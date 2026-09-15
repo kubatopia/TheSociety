@@ -3,7 +3,7 @@ title: "March 9 through the years"
 date: 2024-03-11
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 At the latest meeting of the Mildred Lee Chapter United Daughters of the Confederacy, Miss Judith Hill requested a picture of…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 At the latest meeting of the Mildred Lee Chapter United Daughters of the Confederacy, Miss Judith Hill requested a picture of…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-37hk6.webp
 imageAlt: "March 9 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-37hk6
@@ -12,11 +12,11 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 At the latest meeting of the Mildred Lee Chapter United Daughters of the Confederacy, Miss Judith Hill requested a picture of the Confederate monument on the courthouse square to be used in the history of Henry County that she was writing [this has become one of the two or three main history books of this area], and the chapter also agreed to share its history with Miss Hill for the book.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 M.L. Carter was unanimously elected as superintendent for Martinsville schools for a 4-year term beginning May 1.
 
@@ -30,7 +30,7 @@ City Council decided that moving forward, no more streets would be closed to al
 
 
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 In order to conserve gas for local residents, most local gas station owners planned to close their stations on Sunday, when race fans would be in the area for the Dogwood 500 classic automobile race, and sell at a $3 limit on Saturday. About 20,000 people attended the race, an increase of 2,000 over the prior year.
 

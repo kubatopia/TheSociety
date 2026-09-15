@@ -32,7 +32,7 @@ Ms. Sue Setliff hosted the Hill and Dale 4-H Community Club this week. The busin
 
 **1974**
 
-Ad for Martinsville Drive-In Theatre: Rated X movies starting at 7:30 p.m., free in-car heaters and must show I.D. to enter: “‘Junior Comes of Age,’ and Sassy Sue makes him love it!” Also, “‘The Initiation’ – She wanted to be in and she was willing to pay the price.”
+Ad for Martinsville Drive-In Theatre: Rated X movies starting at 7:30 p.m., free in-car heaters and must show I.D. to enter: “‘Junior Comes of Age,’ and Sassy Sue makes him love it!” Also, “‘The Initiation’ - She wanted to be in and she was willing to pay the price.”
 
 **1999**
 

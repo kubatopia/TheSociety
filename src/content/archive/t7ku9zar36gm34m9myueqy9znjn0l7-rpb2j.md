@@ -3,18 +3,18 @@ title: "August 2"
 date: 2024-08-02
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 The Kiwanis Club meeting was a Bachelor’s Night, put “in the hands of merrymakers who put a lot of fun and pep” into it, the Henry Bulletin reported. After…"
+summary: "100 Years ago - 1924 The Kiwanis Club meeting was a Bachelor’s Night, put “in the hands of merrymakers who put a lot of fun and pep” into it, the Henry Bulletin reported. After…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-rpb2j.webp
 imageAlt: "August 2"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-rpb2j
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 The Kiwanis Club meeting was a Bachelor’s Night, put “in the hands of merrymakers who put a lot of fun and pep” into it, the Henry Bulletin reported. After describing “the mock marriage of Henrietta Gradyana Moore to Charles Pajamas Smith Jr.,” it gave some verses, including, “I never before saw a he-male bride, and never hoped to see one; But, I tell you all right now, I’d rather see than be one.”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Henry County Agricultural Conservation Association Secretary J. Frank Wilson announced that about a dozen Henry county tobacco farmers were planning to destroy the tobacco crop they were growing that exceeded the government allotments. About 60 farmers had planted slightly more than their allotments had allowed. The penalty for overplanting varied with the excess acreage: If the overplanting amounted to 100%, the penalty was 20 cents per pound at market; a smaller penalty, but over the entire crop, was placed on less planting.
 
@@ -30,7 +30,7 @@ Tommy Hall, a Martinsville Explorer Scout, had just returned from the National J
 
 The Rev. James H. Rodgers, 51, and his wife, Melvina Bryant Rodgers, 49, of 207 Wilson St., died in a car crash in Mayodan, N.C. The Rev. Rodgers was a Pentecostal evangelist. The couple had been on their way home from a Pentecostal Holiness Church camp meeting in Greensboro, N.C. Their daughter, Rachel Lou, who the week before had married Kenneth R. Slate, returned from their honeymoon at midnight that same night to learn that her parents had been killed.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 The Henry County Board of Supervisors were being sued by two groups. The first was a suit by 11 residents and landowners who questioned the constitutionality of the county’s subdivision ordinance, which had been highly controversial. The second was by the Axton-Laurel Park Lions Club, who had requested a permit to operate bingo games but were denied.
 

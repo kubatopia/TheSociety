@@ -3,18 +3,18 @@ title: "March 17 through the years"
 date: 2026-03-18
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1926 While workers were clearing away debris of the old Hamilton Hotel, they found small sums of money at different times. A rumor went around town that they had…"
+summary: " 100 Years ago - 1926 While workers were clearing away debris of the old Hamilton Hotel, they found small sums of money at different times. A rumor went around town that they had…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-k2d92-bapmk-ejb9a-reb6n-n2cac-emdac.webp
 imageAlt: "March 17 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-k2d92-bapmk-ejb9a-reb6n-n2cac-emdac
 draft: false
 ---
 
-** 100 Years ago – 1926**
+** 100 Years ago - 1926**
 
 While workers were clearing away debris of the old Hamilton Hotel, they found small sums of money at different times. A rumor went around town that they had discovered $1,200  ($21,900 in today’s dollars) that had been hidden away back in the days before banks. That rumor was unfounded though, it was said, it led the workers to turn over the old bricks more slowly and carefully with attention to what they were uncovering.
 
-**75 years ago – 1951**
+**75 years ago - 1951**
 
 Gov. John S. Battle appointed Commonwealth’s Attorney John Dillard Hooker of Patrick County to the bench of the Seventh Judicial Circuit, a position held by Kennon C. Whittle of Martinsville who had been appointed the week before to the Virginia Supreme Court of Appeals.
 
@@ -22,7 +22,7 @@ Globman’s opened a book department in its department store. Among the bestsell
 
 The Patrick-Henry Civic Music Association presented a concert by lyric soprano Marion Bell.
 
-**50 years ago – 1976**
+**50 years ago - 1976**
 
 The Henry County Board of Supervisors started the process to hire a consultant to plan the completion of the county landfill and make a plan for the next landfill. The firm was Langley, McDonald and Overman, which the county already was using to oppose an annexation suit which may transfer 12.84 acres of Chatham Heights from the County to the City. That firm also had planned the county’s water and sewer program for the Public Service Authority. The landfill in use only had 5 years of life left, and there were problems with it, such as fires in January that started from the dumping of chemicals
 

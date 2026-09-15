@@ -16,7 +16,7 @@ An oil portrait of Patrick Henry hangs in the courtroom of the Old Courthouse in
 
 Patrick Henry was a fiery patriot, laying the groundwork for the colonies’ revolt against the British.  Although Henry is often cited for his early opposition to the Stamp Act, he is perhaps best known for his memorable speech to the House of Burgesses at St. John’s Church in Richmond (“Give me liberty or give me death!”) in 1775.
 
-Having completed a term of one year in the middle of 1777 as the first elected Governor of Virginia  (governors at the time were elected by the legislature),  Henry was subsequently chosen for two more terms–the most he could serve.  In 1779, he moved his family to Leatherwood Plantation in Henry County.  (He owned the 10,000-acre plantation jointly with his first cousin, Ann Wilson Carr and her husband, George Waller.)
+Having completed a term of one year in the middle of 1777 as the first elected Governor of Virginia  (governors at the time were elected by the legislature),  Henry was subsequently chosen for two more terms - the most he could serve.  In 1779, he moved his family to Leatherwood Plantation in Henry County.  (He owned the 10,000-acre plantation jointly with his first cousin, Ann Wilson Carr and her husband, George Waller.)
 
 Henry and his family came to this area during the heart of the American Revolution.  Two of his children were born here, as were other members of the family.  According to one source, Henry saw the Leatherwood Plantation as far removed from the combat in eastern Virginia and thought his family safer from British forces here.  He was also a friend of Joseph Martin, for whom Martinsville is named.  As Governor, Henry had appointed Martin as the state agent to the Cherokee Nation.
 

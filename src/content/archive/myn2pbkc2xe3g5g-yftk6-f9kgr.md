@@ -3,14 +3,14 @@ title: "May 9 through the years"
 date: 2025-05-17
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 Miss Sue Rice of the Soft Wheat Millers’ Association in Nashville, Tennessee, gave two demonstrations in the Home Economics department of Martinsville High…"
+summary: " 100 Years ago - 1925 Miss Sue Rice of the Soft Wheat Millers’ Association in Nashville, Tennessee, gave two demonstrations in the Home Economics department of Martinsville High…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-f9kgr.webp
 imageAlt: "May 9 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-f9kgr
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 Miss Sue Rice of the Soft Wheat Millers’ Association in Nashville, Tennessee, gave two demonstrations in the Home Economics department of Martinsville High School. All women of Martinsville and Henry County were invited to attend. Her program from 10 a.m. to noon covered yeast bread (quick compressed yeast), cheese straws and pastry. Her program from 2-4 p.m. covered cakes, including upside-down and devil’s food, with icing for each cake.
 
@@ -18,7 +18,7 @@ Miss Sue Rice of the Soft Wheat Millers’ Association in Nashville, Tennessee, 
 
 A.T. Nolen was convicted in County Trial Justice Court of killing a raccoon out of season. He was ordered to pay court costs and pay the game warden $10 ($102 in today’s money) to replace the animal. Mr. Nolen said he shot the raccoon near his home in the Blackberry Church community without realizing what kind of animal he was shooting. Game Warden E.T. Lemon told the court that sportsmen in the Bassett area had distributed 30 raccoons in Henry County, shipped in from South Carolina, over the past few months.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Ronnie Harris, 57, of Lancer Lane, died, two weeks after he was burned in a fire at Chatmoss Auto Parts. He was the service manager there. Steve Harris, his co-worker, was in serious condition. The fire happened when they were working in the service pit underneath a Chevy van, installing a fuel pump.
 

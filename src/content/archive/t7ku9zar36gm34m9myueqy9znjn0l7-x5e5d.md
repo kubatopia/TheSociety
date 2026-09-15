@@ -3,18 +3,18 @@ title: "Nov. 12"
 date: 2024-11-12
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 Nearly 100 Legionaires and their friends gathered in the Municipal Building to celebrate the sixth anniversary of the signing of Armistice. The meeting…"
+summary: "100 Years ago - 1924 Nearly 100 Legionaires and their friends gathered in the Municipal Building to celebrate the sixth anniversary of the signing of Armistice. The meeting…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-x5e5d.webp
 imageAlt: "Nov. 12"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-x5e5d
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 Nearly 100 Legionaires and their friends gathered in the Municipal Building to celebrate the sixth anniversary of the signing of Armistice. The meeting featured a dinner prepared by the manager of the Hamilton Hotel and several speakers. A man from overseas talked about the achievements of disabled veterans and their wives. Harry Kester, a veteran of the Spanish-American War, talked about the significance of the War of 98.
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 City Fire Marshal Clay Easterly was leading a citywide inspection of heating units in all public buildings.  The National Board of Fire Underwriters recently had concluded a 10-year study in which it was revealed that 75% of all fires could be traced to four causes. The second ranked case was defective heating appliances, including stoves, furnaces, pipes and chimneys. The fire department also offered to inspect any home heating facilities, upon request.
 
@@ -24,7 +24,7 @@ This day marked the anniversary that Martinsville made it 3 full years without a
 
 Two hundred district Ruritans met at Drewry Mason High School for the convention of the Peaks of Otter District of Ruritan Nationals, which had more than 65 Ruritan Clubs.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Computerized cash registers and UPC codes printed directly on the label were not in Martinsville yet, but they were coming. The managers of A&P, Winn-Dixie and Kroger said having that system would make for faster, more efficient shopping for the customer. The UPC code would replace the purple stamped-on prices or price stickers that were manually put on each product. Store managers predicted that after the computers and UPC codes had been in place for several years, stores would stop putting the individual prices on the items; customers would just have to pay attention to and remember the price marked on the shelf.
 

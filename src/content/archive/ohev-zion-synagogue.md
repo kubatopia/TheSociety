@@ -3,7 +3,7 @@ title: "Ohev Zion Synagogue"
 date: 2023-12-04
 type: Article
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky, Nov. 27, 2023 Over its nearly 100 years, the Ohev Zion Synagogue in Martinsville has gone through the stages of growth, strength, and decline – and appears to…"
+summary: "By Holly Kozelsky, Nov. 27, 2023 Over its nearly 100 years, the Ohev Zion Synagogue in Martinsville has gone through the stages of growth, strength, and decline - and appears to…"
 topics:
   - Churches and congregations
 image: /media/archive/ohev-zion-synagogue.webp
@@ -14,14 +14,14 @@ draft: false
 
 By Holly Kozelsky, Nov. 27, 2023
 
-Over its nearly 100 years, the Ohev Zion Synagogue in Martinsville has gone through the stages of growth, strength, and decline – and appears to be on the rise once again.
+Over its nearly 100 years, the Ohev Zion Synagogue in Martinsville has gone through the stages of growth, strength, and decline - and appears to be on the rise once again.
 Dicky Globman, a member of the congregation and grandson of two of its founders, talked about Martinsville’s synagogue recently during a Sunday Afternoon Lecture at the Martinsville-Henry County Heritage Center & Museum, sponsored by the MHC Historical Society.
 
 The first Jewish person to come to Martinsville was Sam Heiner in 1900, Globman said. Fifteen years later, there were five Jewish families: those of Heiner; Sam Kolodny, whose son and daughter-in-law, Harold and Anita, ran Kolodny’s Ladies Shop; Max Berlin, the father of Ted Berlin who ran Ted’s Men’s Shop; Abe Fusfeld; and Abe Globman. Abe and Masha Globman were the proprietors of Globman’s, Martinsville’s iconic and most famous department store.
 By 1927 Martinsville had 25 Jewish people, who formed the core group that built the synagogue, he said.
 Kolodny and Abe Globman were the original members of the building committee for the synagogue whose name means “Love of Zion.” They chose as its location Moss Street, which was in the area where many of the Jewish families lived.
 Not only was being within walking distance convenient, but it was also crucial, in the following of their Orthodox Jewish practices.
-Most of the families were first-generation American citizens from Eastern Europe, Poland, and Russia, he said, and observed all the Jewish traditions. They observed strict restrictions against any labor on the Sabbath. That includes cooking, cleaning, washing – and driving.
+Most of the families were first-generation American citizens from Eastern Europe, Poland, and Russia, he said, and observed all the Jewish traditions. They observed strict restrictions against any labor on the Sabbath. That includes cooking, cleaning, washing - and driving.
 Construction began in 1927 after $5,000 had been raised, though the construction estimate was at $11,000. Donations and a $3,000 loan from People’s National Bank covered the rest. A crowd of several hundred people were present for the laying of the cornerstone in 1927.
 As Martinsville grew in the 1930s and 1940s, so did the synagogue’s membership. They were a close-knit group, Globman said; pictures from the mid-1900s showed a close-knit community that “did everything together.”
 The first graduations recorded from Ohev Zion’s Sunday school were in 1943, with four. “Sunday school” is the term used for the religious classes which were held on Sundays, while the Sabbath is observed from sundown Friday to after dark on Saturday.

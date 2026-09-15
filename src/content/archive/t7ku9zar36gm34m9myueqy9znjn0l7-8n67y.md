@@ -28,9 +28,9 @@ The Mutual Savings and Loan Association of Martinsville reported an excellent ye
 
 **1975**
 
-A situation in Henry County inspired the introduction of legislation into the House of Delegates: a bill that would prohibit a sheriff, his deputies or his employees from buying property sold by the sheriff’s department. That was because of recent news that Henry County Sheriff C.P. Witt and his deputies had been buying vehicles at sheriff’s auctions – at unusually low prices.
+A situation in Henry County inspired the introduction of legislation into the House of Delegates: a bill that would prohibit a sheriff, his deputies or his employees from buying property sold by the sheriff’s department. That was because of recent news that Henry County Sheriff C.P. Witt and his deputies had been buying vehicles at sheriff’s auctions - at unusually low prices.
 
-Foxtree Apartments on Chatham Heights Road advertised: “2 bedroom townhouse apartments … everything you love is close to you! Excellent location – near schools, churches, shopping, bus service – Modern facilities, dishwasher, no-frost refrigerator, self-clean range, disposal, trash compactor – Central air conditioned, 1 ½ baths, plus shag carpet – vinyl wallpaper in dining area and baths, with a million dollar mountain view – community room, laundry facilities … Wells & Donavant Co., Inc.
+Foxtree Apartments on Chatham Heights Road advertised: “2 bedroom townhouse apartments … everything you love is close to you! Excellent location - near schools, churches, shopping, bus service - Modern facilities, dishwasher, no-frost refrigerator, self-clean range, disposal, trash compactor - Central air conditioned, 1 ½ baths, plus shag carpet - vinyl wallpaper in dining area and baths, with a million dollar mountain view - community room, laundry facilities … Wells & Donavant Co., Inc.
 
 **2000**
 

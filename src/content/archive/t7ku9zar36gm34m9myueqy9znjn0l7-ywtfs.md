@@ -3,7 +3,7 @@ title: "March 25"
 date: 2024-03-25
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 100 Years ago – 1924 MARCH 25 – Circle No. One of the Baptist Aid was joint hostess at a pan cake party from 8-11 p.m. Tuesday, March 25, at the…"
+summary: "By Holly Kozelsky and Pat Pion 100 Years ago - 1924 MARCH 25 - Circle No. One of the Baptist Aid was joint hostess at a pan cake party from 8-11 p.m. Tuesday, March 25, at the…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-ywtfs.webp
 imageAlt: "March 25"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-ywtfs
@@ -12,9 +12,9 @@ draft: false
 
 **By Holly Kozelsky and Pat Pion**
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
-MARCH 25 – Circle No. One of the Baptist Aid was joint hostess at a pan cake party from 8-11 p.m. Tuesday, March 25, at the home of Mrs. C. W. Davis. The cost of admission was one penny for each letter of your name, plus 5 cents for a ticket to the dining room. There was music and guessing, and the guessing winner would take home the pound cake.
+MARCH 25 - Circle No. One of the Baptist Aid was joint hostess at a pan cake party from 8-11 p.m. Tuesday, March 25, at the home of Mrs. C. W. Davis. The cost of admission was one penny for each letter of your name, plus 5 cents for a ticket to the dining room. There was music and guessing, and the guessing winner would take home the pound cake.
 
 A vaccination clinic against typhoid fever was held in Bassett, at the office of the J.D. Bassett Mfg. Co. in North Bassett and the Bassett Furniture Co. in Bassett, starting March 25 for the first treatment and continuing April 1 and April 8 for subsequent treatments. The vaccinations for workers of those two companies were free, and the general public had to pay. Additionally, workers had to pay a 50-cents doctors charge, and the general public had to pay a 75-cents doctors charge.
 
@@ -24,7 +24,7 @@ In Tuesday, March 25, 1924, Henry Bulletin:
 
 Tuesday, March 25, the Martinsville town clerk received the order of election on the matter of changing Martinsville’s form of government to the “Town Manager” style. An election was scheduled for April 26. [Apparently it would not pass, because the change to “City Manager” form of government did not occur until February 1949.]
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Henry County Schools received notice of approval of a $600,000 loan for a new Negro High school, but did not yet know when the money would be available. The new school would be built between Horsepasture and Fieldale. Black students, in the meantime, were being taught at temporary quarters around the city because the previous school had been destroyed by fire.
 
@@ -38,11 +38,11 @@ The demolition of the former First Baptist Church and two adjoining buildings on
 
 The House Appropriations Committee voted for sharp increases in President Eisenhower’s education and health budgets, calling for an all-out war against juvenile delinquency.
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 Miss Stuart Windle’s sixth-grade class at Mary Hunter Elementary School hatched chickens in an incubator and wanted to try with the birds of other eggs such as duck, goose, quail or pheasant. Two of her students were Gracie Baker and Dennis Bowles.
 
-**25 years ago – 1999 **
+**25 years ago - 1999 **
 
 About 30 parents met with their children’s teachers and the principal at John Redd Elementary School for a workshop on the SOLs (state Standards of Learning tests), which were new at the time.
 

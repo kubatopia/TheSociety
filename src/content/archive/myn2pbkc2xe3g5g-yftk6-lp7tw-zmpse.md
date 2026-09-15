@@ -3,14 +3,14 @@ title: "August 15 through the years MHC"
 date: 2025-08-15
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 The John Robinson Circus entertained in Martinsville, starting with a street parade at 11 a.m. The Martinsville Fire Department’s new American-LaFrance Fire…"
+summary: " 100 Years ago - 1925 The John Robinson Circus entertained in Martinsville, starting with a street parade at 11 a.m. The Martinsville Fire Department’s new American-LaFrance Fire…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-zmpse.webp
 imageAlt: "August 15 through the years MHC"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-zmpse
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 The John Robinson Circus entertained in Martinsville, starting with a street parade at 11 a.m.
 
@@ -20,13 +20,13 @@ A delightful dance was held at Phospho Lithia Springs in Ridgeway, hosted by Mrs
 
 Max Berlin’s store was robbed overnight. Thieves stole 15 men’s suits and several dresses, altogether worth $500 or more. It was the third robbery lately in the downtown district.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 Mary Grant, 3, of Axton was admitted to Medical College of Virginia Hospital with polio. Her left leg was partially paralyzed but seemed to be improving. Hers was the fifth case of polio in the area reported in the summer.
 
 In England, Princess Elizabeth gave birth to her second child, a daughter. Her son, Charles, was 21 months old.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Martinsville Jaycees and Jaycettes presented the comedy “Harvey” Friday and Saturday night in the high school auditorium. Actors included John Buck, Brenda Pringle, Doug Wood and Barry Speakman, and the director was Larry Griffin. Admission was $1.
 

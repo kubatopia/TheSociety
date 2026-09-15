@@ -25,7 +25,7 @@ Tour ticket-holders will receive free admission to the museum, which they may to
 
 Built in 1936, this elegant Georgian-style house features Martinsville’s most famous staircase, located in the center of the home and leading to a second-story balcony on each side.
 
-Traditional furniture in reds and neutrals, adorned with tasseled pillows, invites a comfortable stay. Collections throughout the house include Waterford crystal, bottles of champagne (the dog is names after the owner’s favorite – Korbel), and a whimsical collection of elephants for good luck. The sunroom, with plush furniture, provides year-round enjoyment of the outdoors.
+Traditional furniture in reds and neutrals, adorned with tasseled pillows, invites a comfortable stay. Collections throughout the house include Waterford crystal, bottles of champagne (the dog is names after the owner’s favorite - Korbel), and a whimsical collection of elephants for good luck. The sunroom, with plush furniture, provides year-round enjoyment of the outdoors.
 
 When boxwood blight devastated nearly 80 boxwoods on the property and then deer ate down the 50 Hoogendorn hollies that replaced them, Dr. Julian undertook a complete redesign, creating a formal terraced backyard. The new outdoor space features marble furniture beneath a gazebo, a life-sized bronze statue of two girls holding an arch of flowers, and marble lion statues that anchor the symmetrical landscape.
 
@@ -61,6 +61,6 @@ The taking of pictures inside the houses is not allowed, nor is talking on cell 
 
 As well as the regular $25 ticket, which grants admission to all tour properties, there is a children’s ticket for $15, for children ages 5 through 17, available only online. Children under 5 accompanied by an adult are admitted free. The South Region Combo Ticket for $75, available online by April 21, grants admission to the Martinsville tour on Wednesday, Danville-Chatham on Thursday and Roanoke-Salem or Lake Gason on Saturday.
 
-Sponsors who make this year’s tour possible include King’s Grant, Bassett Furniture, Chip Wyatt – State Farm Insurance and Natalie Gongloff of Piedmont Realty.
+Sponsors who make this year’s tour possible include King’s Grant, Bassett Furniture, Chip Wyatt - State Farm Insurance and Natalie Gongloff of Piedmont Realty.
 
 Historic Garden Week was established in 1927 when Garden Club of Virginia raised $7,000 to save trees planted on the Monticello lawn by Thomas Jefferson. Today GCV is a non-profit organization with 48 partnering member clubs and an impressive team of 3,400 volunteers. Funds received from Historic Garden Week support Virginia’s historic public gardens through restoration and preservation, as well as subsidize important study through graduate research fellowships.

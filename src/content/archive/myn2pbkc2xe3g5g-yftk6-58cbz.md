@@ -3,24 +3,24 @@ title: "July 2 through the years"
 date: 2025-07-07
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 The Chataqua program continued, with “The Wit and Wisdom of Chalk and Clay” by J Franklin Caveny, who draws pictures of people in the audience, keeping up a…"
+summary: " 100 Years ago - 1925 The Chataqua program continued, with “The Wit and Wisdom of Chalk and Clay” by J Franklin Caveny, who draws pictures of people in the audience, keeping up a…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-58cbz.webp
 imageAlt: "July 2 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-58cbz
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 The Chataqua program continued, with “The Wit and Wisdom of Chalk and Clay” by J Franklin Caveny, who draws pictures of people in the audience, keeping up a lively banter; music and dance by the Cordin-Te-Ata Company; and “What is the Matter with Europe” by soldier of fortune D. Thomas Curtin.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 A double wedding was held at First Methodist Church in Martinsville. Mrs. Mary Warner Gray of Martinsville and Lumberton, N.C., married J. Walter Thornton of Martinsville. At the same time, that bride’s son, Raymond Hewitt Gray of Raleigh, N.C., married Miss Pearl Giddens of Raleigh. The elder bride wore a gown of blue lace with a matching hat of blue tulle with forget-me-nots, and the younger bride wore a white embroidered organdy dress with a lace straw picture hat. The Thorntons made their home at 13 Moss St., Martinsville, and the Grays made their home in Raleigh.
 
 Martinsville Granite & Marble Co. operated at 1110 South Bridge St., selling tombstones and monuments.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 The FBI joined local authorities in an investigation in Patrick County, in which two teenage girls were slashed. Special Agent James E. Decker, over the Richmond FBI office, said that the Ku Klux Klan may have been involved. The theory was that perpetrators cut KKK symbols onto the girls’ bodies over the girls’ willingness to be friendly with black students at Patrick County High School. Over the recent months, klan symbols had been spray painted on buildings, streets and highways in Patrick County.
 

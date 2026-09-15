@@ -3,7 +3,7 @@ title: "Feb. 10 through time"
 date: 2024-02-10
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "By Holly Kozelsky and Pat Pion 1924 Globman’s celebrated its ninth anniversary with a “Final Clean-Up Sale – Started with a Rush! Still Going Strong!” Offerings included 500 pairs…"
+summary: "By Holly Kozelsky and Pat Pion 1924 Globman’s celebrated its ninth anniversary with a “Final Clean-Up Sale - Started with a Rush! Still Going Strong!” Offerings included 500 pairs…"
 image: /media/archive/feb-10-through-time.webp
 imageAlt: "Feb. 10 through time"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/feb-10-through-time
@@ -14,7 +14,7 @@ draft: false
 
 **1924**
 
-Globman’s celebrated its ninth anniversary with a “Final Clean-Up Sale – Started with a Rush! Still Going Strong!” Offerings included 500 pairs of ladies low heel oxfords and pumps, values to $6 - $1.98; Ladies Waists (shirts), $1.50 value, 49 cents; Corsets, small sizes, 25 cents; Brassieres, 10 cents; men’s Shirts, 88 cents; Gowns, 98 cents.
+Globman’s celebrated its ninth anniversary with a “Final Clean-Up Sale - Started with a Rush! Still Going Strong!” Offerings included 500 pairs of ladies low heel oxfords and pumps, values to $6 - $1.98; Ladies Waists (shirts), $1.50 value, 49 cents; Corsets, small sizes, 25 cents; Brassieres, 10 cents; men’s Shirts, 88 cents; Gowns, 98 cents.
 
 **1949**
 

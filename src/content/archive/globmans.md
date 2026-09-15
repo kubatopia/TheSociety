@@ -33,7 +33,7 @@ Was tied up in the shipment of wares for his store.
 
 When the merchandise arrived Grandpa was told that he had to pay another $40 to pay the freight. He was short $28.  He went to the bank where he was told that the bank would lend him $28 if someone would guarantee the note.  Grandpa replied that he knew noone in town, and if he did know someone that could guarantee the note, he would ask the person to lend him the $28.
 
-> “They told me I needed an endorser and I knew no one in this town.  I had just  gotten off the train myself.  So I went back to the store, sat on a box of shoes and cried… But in walked a local farmer with 13 children in tow, all in need of – that’s right – shoes.  I sold him anything I could to get that $28, and when he left I was in business.”
+> “They told me I needed an endorser and I knew no one in this town.  I had just  gotten off the train myself.  So I went back to the store, sat on a box of shoes and cried… But in walked a local farmer with 13 children in tow, all in need of - that’s right - shoes.  I sold him anything I could to get that $28, and when he left I was in business.”
 
 Shortly after that Grandpa traveled back to Philadelphia to marry Masha on August 17, 1915,  and, after a one-day honeymoon, arrived in Martinsville via the then-famous Danville and Western Railway, commonly known as the Dick and Willie, where the two began from scratch to build a retail business together.
 
@@ -58,13 +58,13 @@ Six months later he finished remodeling and the store opened again.
 
 In 1929 Grandpa decided to try again to run two branches in other cities, and this time it worked.  Grandpa’s sister, Rose, and her husband, Nathan Potolsky, opened Globmans of Galax, and the store did so well that the next year Masha’s sister, Ceil, and her husband, Herman Kessler, opened a store in Leaksville .  Both stores remained successful until the end of Globmans in 1991.
 
-There weren’t many Jews in Martinsville when Grandpa and Masha arrived – the Globmans, the Fusfelds, the Heiners and the Kolodneys to name a few, but they all prayed together on a regular basis, and in 1929, they broke ground on a new synagogue on Moss Street (which is now the Martinsville Center for the Elderly).  The synagogue would have never been built without the help of many non-Jews.
+There weren’t many Jews in Martinsville when Grandpa and Masha arrived - the Globmans, the Fusfelds, the Heiners and the Kolodneys to name a few, but they all prayed together on a regular basis, and in 1929, they broke ground on a new synagogue on Moss Street (which is now the Martinsville Center for the Elderly).  The synagogue would have never been built without the help of many non-Jews.
 
 A good example of the good will shown to the Jewish people of Martinsville is a story that Grandpa used to tell:
 
 > “I decided to move all of the stores basement housewares to a temporary location for a few months.  For years I had been playing cards with one of my best friends, Mike Schottland, who owned a vacant place next to City Hall.  So, in the morning I went to see him.  We dickered for a little about the rent.  I told him, “Mike- what do you care?  You’ll never see a penny of it because we are building a new synagogue….Mike Schottland shook his head in mock despair, and 5 months later he endorsed a sizeable rent check back to the synagogue’s building fund.”
 
-By 1935, Globmans of Martinsville had grown from 2000 sq feet in 1915, to 13,000 sq feet in the building we are now standing – a 3 story building on the square that most of you probably remember as Shumate and Jessie furniture.
+By 1935, Globmans of Martinsville had grown from 2000 sq feet in 1915, to 13,000 sq feet in the building we are now standing - a 3 story building on the square that most of you probably remember as Shumate and Jessie furniture.
 In 1933, Leon graduated from Martinsville High School Valedictorian of his class.  The next year, 1934, my mother graduated Martinsville High School Valedictorian of her class.
 
 Leon went to Virginia and graduated with a BS Degree in Commerce.  He then enrolled in the University’s Law School graduating in 1939 in the top 10% of his class.
@@ -151,18 +151,18 @@ She was the true family matriarch.  She always stayed a step behind her husband
 
 Our three families lived side by side on Dan-Lee Terrace where Masha and Grandpa lived in the middle house. Masha insisted that she know the whereabouts of all her family at all times. We called her Hawkeye. She never went to sleep until the last grandchild was in.  Once she called my mother and asked, “Where’s Leon and Minnie?”  “I don’t know, said mother, “I think they went to a basketball game”  Masha shook her head and asked, “What for?  I don’t even like basketball.”
 
-She was a terrific card player – good at poker, blackjack and canasta.  But, if you sat down to play with her you had to play by “Masha’s rules.” It was hard to beat her because she kept changing Masha’s rules to benefit herself.
+She was a terrific card player - good at poker, blackjack and canasta.  But, if you sat down to play with her you had to play by “Masha’s rules.” It was hard to beat her because she kept changing Masha’s rules to benefit herself.
 
 She taught the people who played with her a new vocabulary.  If you asked her if she had a good hand she said she had “vonson.” Vonson is Yiddish for bedbugs.  If you said you had a good hand she called you an “emeler” which is a fibber, and if she wasn’t scoring well she was “penya” which meant she was going backwards.
 
-Masha was fair in her dealings with people and treated everyone the same regardless of color or economic status.  Her employees fell into two groups – those that loved her and those that feared her.  Usually those who loved her were employees whom Masha felt warmly toward because they performed their jobs conscientiously and efficiently.  People came from all over to see her, and even when failing health prevented Masha from coming to the store, people continued to come to the store with hopes of seeing her.
+Masha was fair in her dealings with people and treated everyone the same regardless of color or economic status.  Her employees fell into two groups - those that loved her and those that feared her.  Usually those who loved her were employees whom Masha felt warmly toward because they performed their jobs conscientiously and efficiently.  People came from all over to see her, and even when failing health prevented Masha from coming to the store, people continued to come to the store with hopes of seeing her.
 
 Her death brought us to the end of an era.  She was the last of a unique generation forget them.
 
-Early in 1985 we opened Globmans of Danville, a 35,000 square feet store in the Piedmont Mall. This brought us to 14 stores – Four Globmans Department Stores in Virginia and ten Lots of Labels stores in North Carolina.
+Early in 1985 we opened Globmans of Danville, a 35,000 square feet store in the Piedmont Mall. This brought us to 14 stores - Four Globmans Department Stores in Virginia and ten Lots of Labels stores in North Carolina.
 
 But, then, in March of 1985, disaster struck.  My mother, Sis Greene, chocked on her food in a New York City restaurant which caused a heart attack, and she passed away.
-Only one month later, Leon died in Florida of acute Leukemia.  It was bizarre – a relatively healthy sister and a brother, ages 67 and 68, died within four weeks of each other of completely unrelated causes – one in Florida and the other in New York.
+Only one month later, Leon died in Florida of acute Leukemia.  It was bizarre - a relatively healthy sister and a brother, ages 67 and 68, died within four weeks of each other of completely unrelated causes - one in Florida and the other in New York.
 
 More problems followed that same year.  Our best salesman in the mens dept, Lloyd Hundley, died of a heart attack and a few weeks later the manager of our shoe department, Bill Scoggins, died of cancer.  The year finally ended with Globmans showing a substantial loss for the year.
 

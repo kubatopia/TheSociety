@@ -30,7 +30,7 @@ The Patrick Henry Tuberculosis Association announced that Dr. Henkel Price, radi
 
 **1974**
 
-The Collinsville Jaycees held their radiothon from 1-6 p.m. Feb. 3 at the National Guard Armory. With a goal of raising $50,000, the event featured bands – Southern Smith River Band, the Ambassadors Quartet, The Lost and Found Band, The Stella Girls, The Hearts of Gold and the Spencer Quartet; and race car drivers Lennie Pond of Ettrick, VA., and Paul Radford of Ferrum.
+The Collinsville Jaycees held their radiothon from 1-6 p.m. Feb. 3 at the National Guard Armory. With a goal of raising $50,000, the event featured bands - Southern Smith River Band, the Ambassadors Quartet, The Lost and Found Band, The Stella Girls, The Hearts of Gold and the Spencer Quartet; and race car drivers Lennie Pond of Ettrick, VA., and Paul Radford of Ferrum.
 
 **1999**
 

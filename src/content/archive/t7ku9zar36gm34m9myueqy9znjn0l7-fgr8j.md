@@ -3,28 +3,28 @@ title: "Feb. 2 1925-1950-1975-2000"
 date: 2025-02-03
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1925 The initial/organization meeting of the stockholders of the Pannill Knitting Co. was held. The proposed knitting mill would make men’s undergarments.…"
+summary: "100 Years ago - 1925 The initial/organization meeting of the stockholders of the Pannill Knitting Co. was held. The proposed knitting mill would make men’s undergarments.…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-fgr8j.webp
 imageAlt: "Feb. 2 1925-1950-1975-2000"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-fgr8j
 draft: false
 ---
 
-**100 Years ago – 1925**
+**100 Years ago - 1925**
 
 The initial/organization meeting of the stockholders of the Pannill Knitting Co. was held. The proposed knitting mill would make men’s undergarments. Directors elected were  C.T. Womack, J.S. Querns, W.L. Panill, R.P. Gravely, H.A. Ford, R.S. Brown and J.R. Smith. Officers were C.T. Womack, president; J.S. Querns, vice-president and W.L. Pannill, secretary-treasurer.
 
-The Martinsville School Board held a special called meeting to develop standards for high school athletes because, board members and school staff said, it appeared that many students only went to school to play sports and did not care about scholastics. The board set a new rule that only students who had passed all classed in the term prior would be allowed to play sports – and that a notice claiming a student’s eligibility to play school sports be published in the Henry Bulletin and mailed to the student’s parents.
+The Martinsville School Board held a special called meeting to develop standards for high school athletes because, board members and school staff said, it appeared that many students only went to school to play sports and did not care about scholastics. The board set a new rule that only students who had passed all classed in the term prior would be allowed to play sports - and that a notice claiming a student’s eligibility to play school sports be published in the Henry Bulletin and mailed to the student’s parents.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 The first forms were laid for the extension of the sidewalk leading west from the new Patrick Henry Elementary School alongside City Park.
 
 **1961**
 
-Lester Bros. Supply on Roanoke Road had an advertisement to sell clothes washer, refrigerator, water heater and clothes dryer, “All of the Above Can Be Financed Thru Your Local Bank” – and “Be Foxy – Install a Flameless Electric Clothes Dryer – 10-Day Free Home Trial – No Obligation – SPECIAL FOR THE LADIES! No. 30 Bowl Brush, only 49 cents; Heavy Duty Dust Mops, Only $1.75, Colors to Choose From.”
+Lester Bros. Supply on Roanoke Road had an advertisement to sell clothes washer, refrigerator, water heater and clothes dryer, “All of the Above Can Be Financed Thru Your Local Bank” - and “Be Foxy - Install a Flameless Electric Clothes Dryer - 10-Day Free Home Trial - No Obligation - SPECIAL FOR THE LADIES! No. 30 Bowl Brush, only 49 cents; Heavy Duty Dust Mops, Only $1.75, Colors to Choose From.”
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Appalachian Power Company customers were due to receive a court-ordered refund of $39.2 million because the West Virginia Public Service Commission determined that the utility company had been overcharging. Apco had begun a series of rate increases in August 1971. Meanwhile, Apco had requested a $36.2 million increase for Virginia. Most of Apco’s power generating plants were located in West Virginia but served both states. The West Virginia ruling was of great concern to the power company and to Virginia.
 

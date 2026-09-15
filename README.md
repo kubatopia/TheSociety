@@ -31,8 +31,8 @@ changes.
 
 Field definitions live in two places and must be kept in step:
 
-- `src/content.config.ts` — the schema the site validates against at build time
-- `src/cms/collections.yml` — the form the CMS shows to board members
+- `src/content.config.ts` - the schema the site validates against at build time
+- `src/cms/collections.yml` - the form the CMS shows to board members
 
 If you add a field to one, add it to the other. A mismatch fails the build with
 a clear error naming the file and field.
@@ -62,11 +62,11 @@ Environment Variables):
 Editor sign-in is handled entirely by DecapBridge, which holds a GitHub token
 scoped to this repository with **Contents** and **Pull requests** read-write.
 If that token expires, every CMS save fails with nothing in the UI to explain
-why — check it there first.
+why - check it there first.
 
 When the custom domain goes live, change `PUBLIC_SITE_URL` in Vercel and
 redeploy. That single value drives canonical links, the sitemap, `robots.txt`
-and the CMS `base_url` — there is nothing else to edit.
+and the CMS `base_url` - there is nothing else to edit.
 
 If `PUBLIC_SITE_URL` is missing, empty or not a URL, the build falls back to the
 default in `astro.config.mjs` rather than failing.

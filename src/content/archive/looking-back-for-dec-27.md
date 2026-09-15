@@ -3,7 +3,7 @@ title: "Looking Back for Dec. 27"
 date: 2023-12-27
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "1923 Shows at New Hamilton Theatre: The All Sisters Quartet – admission adults 50 cents, children 25 cents; Movie “The Town That Forgot God,” “THIS WAY OUT – Let’s Go” and a…"
+summary: "1923 Shows at New Hamilton Theatre: The All Sisters Quartet - admission adults 50 cents, children 25 cents; Movie “The Town That Forgot God,” “THIS WAY OUT - Let’s Go” and a…"
 image: /media/archive/looking-back-for-dec-27.webp
 imageAlt: "Looking Back for Dec. 27"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/looking-back-for-dec-27
@@ -12,7 +12,7 @@ draft: false
 
 **1923**
 
-Shows at New Hamilton Theatre: The All Sisters Quartet – admission adults 50 cents, children 25 cents; Movie “The Town That Forgot God,” “THIS WAY OUT – Let’s Go” and a special vaudeville act with free act in front of the theater at 7 p.m.; “Monte Cristo.”
+Shows at New Hamilton Theatre: The All Sisters Quartet - admission adults 50 cents, children 25 cents; Movie “The Town That Forgot God,” “THIS WAY OUT - Let’s Go” and a special vaudeville act with free act in front of the theater at 7 p.m.; “Monte Cristo.”
 
 **1948**
 

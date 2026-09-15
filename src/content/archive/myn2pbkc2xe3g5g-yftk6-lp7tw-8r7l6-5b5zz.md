@@ -3,24 +3,24 @@ title: "Sept. 8 through the years"
 date: 2025-09-11
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 Headline in Sept. 8, 1925, Henry Bulletin: “Another Useful Man Is Dead. A.M. Dudley Succumbs to Long Illness Saturday.” He had lived on Church Street. He had…"
+summary: " 100 Years ago - 1925 Headline in Sept. 8, 1925, Henry Bulletin: “Another Useful Man Is Dead. A.M. Dudley Succumbs to Long Illness Saturday.” He had lived on Church Street. He had…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-5b5zz.webp
 imageAlt: "Sept. 8 through the years"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-5b5zz
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 Headline in Sept. 8, 1925, Henry Bulletin: “Another Useful Man Is Dead. A.M. Dudley Succumbs to Long Illness Saturday.” He had lived on Church Street. He had been stricken by paralysis in November 1923 while apparently in perfect health. He came to Martinsville from Franklin County in 1900 and he and his brother, G.B. Dudley, worked in tobacco with the W.A. Brown Tobacco Company. A few years later he entered the mercantile trade; and later, he worked in coal and ice and as a contractor.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 Members of the Exchange club saw the movie “Telephone Courtesy,” which demonstrated the proper way to use a telephone. The movie was presented by Garland LaPrade, commercial manager of Lee Telephone Company, Clearance Kearfott was the program chairman, and Stanley Mitchell was the club president.
 
 At a meeting of the Martinsville town council, an additional water supply was assured by the approval of a proposed agreement with the R.A. James Estate. Rights of way would be granted to the town for a supply pipe line through the James property on a 90-year lease with agreeable terms. The water would be pumped from Beaver Creek to the power house site to a settling basin and filtering outfit there, and then on to a standpipe and reservoir. That plan, however, would require the issuance of bonds which might reach $50,000. An auxiliary steam power electric plant also might be included in the proposed bond issue, for $20,000.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Burglars had been breaking into Martinsville homes and stealing silver over the past few months, and the latest victim was Mrs. S.L. Goodman of 603 Mulberry Road. She reported that several thousands of dollars had been stolen from her china cabinet.
 

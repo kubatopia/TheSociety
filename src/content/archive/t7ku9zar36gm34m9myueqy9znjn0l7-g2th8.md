@@ -30,7 +30,7 @@ Henry County’s new computer weighed one ton and cost $103,093 (about $6 millio
 
 **2000**
 
-Stanley Furniture posted record sales for 1999 – net sales of $264.7 million. Net income rose to $19.2 million; it was $14.5 million the year before.
+Stanley Furniture posted record sales for 1999 - net sales of $264.7 million. Net income rose to $19.2 million; it was $14.5 million the year before.
 
 EMI Imaging announced plans to hire 30 employees for jobs in Stuart, bringing the total number of workers there to 104. Six employees worked in Bassett and the rest at its plant on Commerce Street in Stuart which had opened in November. Starting pay would be $6.50 an hour, with bonuses. David Wright was the president.
 

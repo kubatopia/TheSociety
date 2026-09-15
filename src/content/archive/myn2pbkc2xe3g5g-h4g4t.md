@@ -3,24 +3,24 @@ title: "April 29 through time"
 date: 2025-04-29
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 S. Heiner, who operated a store in Martinsville, opened a department store in Bassett, next to the Hamilton Theatre. The ad read: “The live, wide-awake town…"
+summary: " 100 Years ago - 1925 S. Heiner, who operated a store in Martinsville, opened a department store in Bassett, next to the Hamilton Theatre. The ad read: “The live, wide-awake town…"
 image: /media/archive/myn2pbkc2xe3g5g-h4g4t.webp
 imageAlt: "April 29 through time"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-h4g4t
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
-S. Heiner, who operated a store in Martinsville, opened a department store in Bassett, next to the Hamilton Theatre. The ad read: “The live, wide-awake town of Bassett will soon enjoy the service of a real, up-to-date department store, one catering to all the needs of all the people, carrying a complete line of quality merchandise such as is found only in the larger city department stores. This off-spring of the old and popular house of S. Heiner of Martinsville will start business with the same idea and policy that has built the immense business of the parent house – that is of giving the public the most for their money relying on volume of business and quick turnovers for its profits.
+S. Heiner, who operated a store in Martinsville, opened a department store in Bassett, next to the Hamilton Theatre. The ad read: “The live, wide-awake town of Bassett will soon enjoy the service of a real, up-to-date department store, one catering to all the needs of all the people, carrying a complete line of quality merchandise such as is found only in the larger city department stores. This off-spring of the old and popular house of S. Heiner of Martinsville will start business with the same idea and policy that has built the immense business of the parent house - that is of giving the public the most for their money relying on volume of business and quick turnovers for its profits.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 Stafford Whittle, crew leader for City census enumerators, announced that the preliminary figure for Martinsville’s population was 9,902.
 
 The Bassett Section Rally for Boy Scouts was held at the Bassett High School gym, with troops from Stanleytown, Bassett Forks, Sanville and Bassett.
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Salem Carpet Mills Inc. Factory Warehouse Store in the Cloverleaf Shopping Center on 220 South offered a class in Home Decorating, taught by Jan Pinkston. The Tuesday night classes had the topics: 1, Color and How to Use It; 2, Drapery & Fabric Selection and Styling; 3, Wallpaper, Carpet, Floor Covering; and 4, Total Room Concept, “How to Put It All Together.”
 

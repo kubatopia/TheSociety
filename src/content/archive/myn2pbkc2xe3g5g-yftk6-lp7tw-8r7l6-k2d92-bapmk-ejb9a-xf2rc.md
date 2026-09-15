@@ -3,14 +3,14 @@ title: "Nov. 14 through time"
 date: 2025-11-13
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 The Tobacco Growers co-operative Association held a meeting at the Henry County Courthouse, for farmers to vote on a tobacco contract. Three delegates were…"
+summary: " 100 Years ago - 1925 The Tobacco Growers co-operative Association held a meeting at the Henry County Courthouse, for farmers to vote on a tobacco contract. Three delegates were…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-k2d92-bapmk-ejb9a-xf2rc.webp
 imageAlt: "Nov. 14 through time"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-lp7tw-8r7l6-k2d92-bapmk-ejb9a-xf2rc
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 The Tobacco Growers co-operative Association held a meeting at the Henry County Courthouse, for farmers to vote on a tobacco contract. Three delegates were elected by the Growers of Henry County to attend the Nov. 28 meeting in Danville.
 
@@ -18,7 +18,7 @@ The Federal Department of Agriculture and U.S. Census released statistics showin
 
 While rabbit hunting in Patrick County, Abraham Lewis accidentally shot and killed his brother, William G. Lewis. Abraham shouted for help, and Mr. and Mrs. J.P. Cunningham, who lived nearby, heard him and came to aid. They picked up William and put him in their car and drove him toward Stuart for medical treatment, but he died on the way there. The Lewis family had moved to the area from Pennsylvania 2 years before, and the body was sent back to Chester, Pa.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 The city purchased new screens for its operations at the city rock quarry off Mount Olivet Road and going forward would be able to supply fine stone for street patch work. Up until then, it had to buy the fine stone. Trustees from the Prison Farm worked at the city quarry.
 

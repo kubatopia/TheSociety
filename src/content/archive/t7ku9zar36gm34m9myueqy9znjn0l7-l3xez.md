@@ -3,18 +3,18 @@ title: "July 18"
 date: 2024-07-19
 type: Looking Back
 author: "Holly Kozelsky"
-summary: "100 Years ago – 1924 “This town is now possessed with three first-class scouts, Robert Pannill, John Redd Penn and Edwin Penn Jr. The latter is spending the summer at Camp…"
+summary: "100 Years ago - 1924 “This town is now possessed with three first-class scouts, Robert Pannill, John Redd Penn and Edwin Penn Jr. The latter is spending the summer at Camp…"
 image: /media/archive/t7ku9zar36gm34m9myueqy9znjn0l7-l3xez.webp
 imageAlt: "July 18"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/t7ku9zar36gm34m9myueqy9znjn0l7-l3xez
 draft: false
 ---
 
-**100 Years ago – 1924**
+**100 Years ago - 1924**
 
 “This town is now possessed with three first-class scouts, Robert Pannill, John Redd Penn and Edwin Penn Jr. The latter is spending the summer at Camp Jackson,” reads a front-page article in the July 18, 1924, edition of the Henry Bulletin. …”Robert Pannill and John Redd Penn have qualified for ten merit badges and after appearing before the Court of Honor they will then be entitled to wear the life scout and also the rank star scout badge. When this act is performed these boys will rank higher than any other scouts known in the history of Martinsville. Not only are these boys not going to stop at star scouts, but are going to reach the highest honor by becoming an eagle scout. In the first part of last month the American Government sent Eagle Scouts, who are the most advanced scouts in America, to Sweden where contests are being held between different nations of the world. When this trip is repeated in Europe again we hope to send at least two eagle scouts from Martinsville.”
 
-**75 years ago – 1949**
+**75 years ago - 1949**
 
 Seven hundred homes in the area were without phone service after lightning struck several poles the night before. When the pole at the corner of Spring and Starling Avenue was struck, pieces of wood and splinters were strewn all about. The impact from that bolt even knocked chinaware off its shelf in a closet in the home of Glenn Harding. Fuses were knocked out all over the city, especially along Stultz Road, Thomas Heights, Cleveland Avenue, Brown Street and Banks Road.
 
@@ -22,7 +22,7 @@ Seven hundred homes in the area were without phone service after lightning struc
 
 Mrs. Ann Stowe of Martinsville, who was blind, was in Columbus, Ohio, taking a four-week course introducing her to her new seeing-eye dog, Gypsy. She had won the dog in a statewide contest. She wrote home that it was “wonderful to do it [walk around] without causing anyone else to take time from his activities.”
 
-**50 years ago – 1974**
+**50 years ago - 1974**
 
 [In the 1970s, apparently, there weren’t many day care centers, and the ones there were were not inspected. That conclusion comes about by reading the Martinsville Bulletin’s article “Day Care Criticism Misses City,” which is about the U.S. Department Health, Education and Welfare’s “highly critical report.” It was about a three-year study of 20 day care centers in larger metropolitan areas of Virginia and was critical of centers there, but it did not address the Martinsville Day Care Center. “If we get more licensing to inspect day care facilities, we may inspect the Martinsville center,” said Walter Holdaway,  branch manager of the Department’s audit division. Meanwhile, the reported noted that some of the day care centers in Newport News, Hampton and Richmond have received payments for support of children who did not actually attend the centers, and that minimum health and safety standards had not been met. The Martinsville Day Care Center was located on Fourth Stret and run by Mrs. Yvonne Gravely. It received 75% of operational expenses from federal, 15% from state and 10% from local funding and served about 60 children. The Martinsville Day Care Center was licensed by the city Department of Social Services and was inspected regularly by the City Health Department, the Department of Agriculture and local and state Fire Marshals. Children were referred to the day care center by the DSS; some had mothers who worked, and others needed special attention in areas of nutrition or speech or hearing services.
 

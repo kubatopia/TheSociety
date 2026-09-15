@@ -38,6 +38,6 @@ Also 1974, The gas shortage continued to leave gas stations dry. The Martinsvill
 
 **1999**
 
-Democrat Congressman Virgil Goode Jr. of Rocky Mount voted to impeach President Bill Clinton, also a Democrat. Goode told the Martinsville Bulletin that while his father, state legislator Virgil Goode Sr., was a yellow dog Democrat – he’d vote for a yellow dog over a Republican – the son is a Blue Dog, a term for conservative House Democrats unafraid to buck their party.
+Democrat Congressman Virgil Goode Jr. of Rocky Mount voted to impeach President Bill Clinton, also a Democrat. Goode told the Martinsville Bulletin that while his father, state legislator Virgil Goode Sr., was a yellow dog Democrat - he’d vote for a yellow dog over a Republican - the son is a Blue Dog, a term for conservative House Democrats unafraid to buck their party.
 
 *Information from museum records and the Henry Bulletin and the *[*Martinsville Bulletin*](https://martinsvillebulletin.com/)* accessed on microfiche at the *[*Martinsville Branch Library.*](https://www.brrl.lib.va.us/)

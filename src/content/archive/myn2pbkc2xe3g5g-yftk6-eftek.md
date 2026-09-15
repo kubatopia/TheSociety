@@ -3,18 +3,18 @@ title: "July 13"
 date: 2025-07-13
 type: Looking Back
 author: "Holly Kozelsky"
-summary: " 100 Years ago – 1925 Baseball was a popular pastime. Each town had its team. The Martinsville base-ball (that’s how they wrote it then) was doing well with victories over the…"
+summary: " 100 Years ago - 1925 Baseball was a popular pastime. Each town had its team. The Martinsville base-ball (that’s how they wrote it then) was doing well with victories over the…"
 image: /media/archive/myn2pbkc2xe3g5g-yftk6-eftek.webp
 imageAlt: "July 13"
 sourceUrl: https://www.mhchistoricalsociety.org/looking-back/myn2pbkc2xe3g5g-yftk6-eftek
 draft: false
 ---
 
-** 100 Years ago – 1925**
+** 100 Years ago - 1925**
 
 Baseball was a popular pastime. Each town had its team. The Martinsville base-ball (that’s how they wrote it then) was doing well with victories over the Bassett and Fieldale teams.
 
-**75 years ago – 1950**
+**75 years ago - 1950**
 
 The Martinsville Draft Board was ordered to send 10 men for physical examinations at the Army induction center. The men would have to be supplied by July 21. The day before, Henry county had been ordered to send 52 men. H. Hurd Goode was the chairman of the city market. He was at the Summer Furniture Market on the day the draft was called. The other members of the board were O.R. Easley and Harry Nunn.
 
@@ -22,7 +22,7 @@ Martinsville City Council approved the purchase of a fire truck with a $2,000 do
 
 Hanel’s Hobby Shop sold the Admiral walnut television console for $325: “Rectangular tube reproduces picture exactly as the camera sees it.”
 
-**50 years ago – 1975**
+**50 years ago - 1975**
 
 Rudy’s Upholstery and Decorating on 334 Memorial Blvd. had been open since 1957. The labor costs for upholstering, using fabric the customer bought from Rudy’s, included couch, $48.50; sofa be, $28.50’ chair, $18.50; and hide-a-bed, $58.50.
 

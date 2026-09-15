@@ -5,7 +5,7 @@ Newest first.
 
 ---
 
-## DECISION-001 — Board members will sign in with Google, not GitHub
+## DECISION-001 - Board members will sign in with Google, not GitHub
 
 **Status:** implemented and live; fallback removed 15 September 2026
 **Decided:** 15 September 2026
@@ -31,7 +31,7 @@ editor and sign-in, not a change of content model.
   account is structural to it; the OAuth endpoints in `src/pages/api/` only
   remove the token-pasting step, not the account requirement.
 - **Netlify Identity + Git Gateway.** The classic answer to this problem.
-  Git Gateway is deprecated — do not build on it.
+  Git Gateway is deprecated - do not build on it.
 - **Sanity or another hosted CMS.** Better editor, 20 free seats, but content
   leaves the repository and every page needs rewriting against a query API.
   Reconsider only if we also want a materially stronger editor.
@@ -54,7 +54,7 @@ backend block is diffed field by field against the snippet DecapBridge issues.
 
 The GitHub access token held by DecapBridge needs **Contents** and **Pull
 requests** read-write, scoped to this repository only. If that token expires,
-every CMS save fails — with nothing in the UI explaining why.
+every CMS save fails - with nothing in the UI explaining why.
 
 Unset it in Vercel and redeploy to roll back.
 
@@ -64,7 +64,7 @@ Unset it in Vercel and redeploy to roll back.
 migration is a config change rather than a rewrite. This is enforced: the build
 fails if a non-core widget appears (see `src/pages/admin/config.yml.ts`).
 
-Audited 15 September 2026 — widgets in use are `boolean`, `datetime`, `file`,
+Audited 15 September 2026 - widgets in use are `boolean`, `datetime`, `file`,
 `image`, `markdown`, `number`, `select`, `string`, `text`. All Decap core.
 
 ### Remaining work
@@ -75,7 +75,7 @@ removal of the Sveltia + GitHub OAuth fallback.
 Outstanding, and safe to do once a board member has saved an edit successfully:
 
 1. Delete the `GITHUB_OAUTH_ID` and `GITHUB_OAUTH_SECRET` Vercel variables.
-   They are already inert — nothing reads them.
+   They are already inert - nothing reads them.
 2. Delete the "MHC Historical Society CMS" GitHub OAuth app.
 
 **Not yet verified:** an actual save through the gateway. Signing in proves

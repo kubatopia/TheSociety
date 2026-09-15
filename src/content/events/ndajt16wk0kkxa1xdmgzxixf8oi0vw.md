@@ -18,7 +18,7 @@ Stock car racing originated in Virginia and the Carolinas, a natural side effect
 
 To evade law enforcement as they made their illicit deliveries, bootleggers worked on their cars to make them strong and fast enough to outrun police cars. Then they started having fun with their hot rods with races against each other.  This led to the first generation of what would eventually evolve into the cars of stock car racing.
 
-Cars continue to be advanced and improved. At the first NASCAR race in 1949, the cars raced at an average of 68 miles per hour for 200 laps. The current speed record for a stock car is 244.9, set in 2007 by a car made by Joey Arrington. Now Arrington is creating another car with intentions to beat that record – aiming for 250 miles per hour, celebrating the 250th anniversary of Virginia and the United States.
+Cars continue to be advanced and improved. At the first NASCAR race in 1949, the cars raced at an average of 68 miles per hour for 200 laps. The current speed record for a stock car is 244.9, set in 2007 by a car made by Joey Arrington. Now Arrington is creating another car with intentions to beat that record - aiming for 250 miles per hour, celebrating the 250th anniversary of Virginia and the United States.
 
 -
 
