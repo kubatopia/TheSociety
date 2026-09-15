@@ -1,11 +1,18 @@
 {
-  "name": "The Society",
-  "tagline": "Preserving and sharing our community's history.",
-  "email": "info@example.org",
-  "phone": "",
-  "address": "",
+  "name": "Martinsville-Henry County Historical Society",
+  "shortName": "MHC Historical Society",
+  "venue": "MHC Heritage Center & Museum",
+  "tagline": "Your connection to the past and the building blocks of our community's future.",
+  "heroImage": "",
+  "heroAlt": "The 1824 Henry County courthouse on the square in Martinsville",
+  "heroCredit": "",
+  "email": "mhchistoricalsociety@gmail.com",
+  "phone": "(276) 403-5361",
+  "address": "1 East Main Street, Martinsville, VA 24112",
   "mailingAddress": "",
+  "hours": "Tuesday–Friday, 10 a.m. to 5 p.m.\nSaturday, 10 a.m. to 4 p.m.\nClosed Sunday and Monday.",
+  "admission": "",
   "meetingNote": "The board meets monthly. Meetings are open to the public.",
-  "facebook": "",
-  "instagram": ""
+  "facebook": "https://www.facebook.com/",
+  "instagram": "https://www.instagram.com/"
 }

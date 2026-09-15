@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageHeading from '../../components/PageHeading.astro';
+import { formatEvent } from '../../lib/dates';
 
 const now = new Date();
 const all = await getCollection('events', ({ data }) => !data.draft);
@@ -15,14 +16,7 @@ const past = all
   .sort((a, b) => b.data.start.getTime() - a.data.start.getTime())
   .slice(0, 10);
 
-const fmt = new Intl.DateTimeFormat('en-US', {
-  weekday: 'long',
-  month: 'long',
-  day: 'numeric',
-  year: 'numeric',
-  hour: 'numeric',
-  minute: '2-digit',
-});
+
 ---
 
 <BaseLayout title="Events" description="Meetings, lectures, and tours.">
@@ -36,13 +30,13 @@ const fmt = new Intl.DateTimeFormat('en-US', {
       <ul class="mt-4 divide-y divide-rule">
         {upcoming.map((event) => (
           <li class="py-5">
-            <p class="text-sm text-ink-muted">{fmt.format(event.data.start)}</p>
+            <p class="text-sm text-ink-muted">{formatEvent(event)}</p>
             <p class="text-lg font-medium">{event.data.title}</p>
             {event.data.location && <p class="text-sm text-ink-muted">{event.data.location}</p>}
             {event.data.summary && <p class="mt-2 max-w-2xl">{event.data.summary}</p>}
             {event.data.rsvpUrl && (
               <p class="mt-2">
-                <a href={event.data.rsvpUrl} class="text-sm text-accent underline">
+                <a href={event.data.rsvpUrl} class="text-sm text-brick underline">
                   RSVP
                 </a>
               </p>
@@ -61,7 +55,7 @@ const fmt = new Intl.DateTimeFormat('en-US', {
           {past.map((event) => (
             <li class="flex flex-wrap justify-between gap-2 py-3 text-sm">
               <span>{event.data.title}</span>
-              <span>{fmt.format(event.data.start)}</span>
+              <span>{formatEvent(event)}</span>
             </li>
           ))}
         </ul>

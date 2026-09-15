@@ -34,6 +34,8 @@ const events = defineCollection({
     title: z.string(),
     start: z.coerce.date(),
     end: z.coerce.date().optional(),
+    // Set when only the date is known, or the event spans whole days.
+    allDay: z.boolean().default(false),
     location: z.string().optional(),
     summary: z.string().optional(),
     rsvpUrl: z.url().optional(),

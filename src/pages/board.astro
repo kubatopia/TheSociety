@@ -37,7 +37,7 @@ const members = (await getCollection('board')).sort(
             )}
             {member.data.email && (
               <p class="text-sm">
-                <a href={`mailto:${member.data.email}`} class="text-accent">
+                <a href={`mailto:${member.data.email}`} class="text-brick">
                   {member.data.email}
                 </a>
               </p>

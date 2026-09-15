@@ -2,12 +2,12 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageHeading from '../../components/PageHeading.astro';
+import { formatDate } from '../../lib/dates';
 
 const posts = (await getCollection('news', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.date.getTime() - a.data.date.getTime(),
 );
 
-const fmt = new Intl.DateTimeFormat('en-US', { dateStyle: 'long' });
 ---
 
 <BaseLayout title="News" description="Announcements from the Society.">
@@ -20,8 +20,8 @@ const fmt = new Intl.DateTimeFormat('en-US', { dateStyle: 'long' });
       <ul class="divide-y divide-rule">
         {posts.map((post) => (
           <li class="py-5">
-            <p class="text-sm text-ink-muted">{fmt.format(post.data.date)}</p>
-            <a href={`/news/${post.id}`} class="text-lg font-medium hover:text-accent">
+            <p class="text-sm text-ink-muted">{formatDate.format(post.data.date)}</p>
+            <a href={`/news/${post.id}`} class="text-lg font-medium hover:text-brick">
               {post.data.title}
             </a>
             {post.data.summary && <p class="mt-1 max-w-2xl text-ink-muted">{post.data.summary}</p>}

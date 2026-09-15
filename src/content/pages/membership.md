@@ -1,19 +1,22 @@
 ---
 title: Membership
-description: Join the Society and support the archive.
-order: 2
+description: Join the Society and keep the archive open.
+order: 3
 showInNav: true
 ---
 
-Members receive the quarterly newsletter, early notice of events, and free
-admission to members' lectures. Dues run on the calendar year.
+Members keep the Heritage Center open, the collections cared for, and the lecture
+programme running. They also hear about events before anyone else.
 
-| Level | Annual dues |
-| --- | --- |
-| Individual | $25 |
-| Household | $40 |
-| Sustaining | $100 |
+*Dues levels go here — add them in the CMS once the board confirms the current
+schedule.*
 
-To join, email us using the address on the [contact page](/contact).
+## How to join
 
-*Replace this text in the CMS at /admin/ — it is placeholder copy.*
+Email us or call, and we will send a form. Contact details are on the
+[visit page](/contact).
+
+## Sponsors
+
+The Society is grateful to its Gold and Silver level members and sponsors, whose
+support underwrites the museum's operations each year.

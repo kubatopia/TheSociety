@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { Font } from 'astro:assets';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import site from '../data/site.json';
@@ -7,10 +8,12 @@ import site from '../data/site.json';
 interface Props {
   title?: string;
   description?: string;
+  /** Full-bleed pages (the home page) lay out their own containers. */
+  bleed?: boolean;
 }
 
-const { title, description = site.tagline } = Astro.props;
-const pageTitle = title ? `${title} — ${site.name}` : site.name;
+const { title, description = site.tagline, bleed = false } = Astro.props;
+const pageTitle = title ? `${title} — ${site.shortName}` : site.name;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
 
@@ -20,19 +23,27 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <Font cssVariable="--font-display" preload />
+    <Font cssVariable="--font-body" preload />
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    <meta property="og:site_name" content={site.name} />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary_large_image" />
     <link rel="sitemap" href="/sitemap-index.xml" />
   </head>
-  <body class="font-sans antialiased">
-    <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:m-3 focus:rounded focus:bg-accent focus:px-3 focus:py-2 focus:text-white">Skip to content</a>
+  <body class="antialiased">
+    <a
+      href="#main"
+      class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:m-3 focus:rounded focus:bg-brick focus:px-4 focus:py-2 focus:text-parchment"
+      >Skip to content</a
+    >
     <Header />
-    <main id="main" class="mx-auto max-w-5xl px-5 py-12">
+    <main id="main" class={bleed ? '' : 'mx-auto max-w-6xl px-5 py-14'}>
       <slot />
     </main>
     <Footer />

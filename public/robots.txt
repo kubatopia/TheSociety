@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /admin/
 Disallow: /api/
 
-Sitemap: https://thesociety.vercel.app/sitemap-index.xml
+Sitemap: https://the-society.vercel.app/sitemap-index.xml

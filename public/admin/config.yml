@@ -8,7 +8,7 @@ backend:
   branch: main
   # base_url + auth_endpoint must point at THIS site's own OAuth endpoints.
   # Update base_url when the custom domain goes live.
-  base_url: https://thesociety.vercel.app
+  base_url: https://the-society.vercel.app
   auth_endpoint: api/auth
 
 # Uploaded images and PDFs land in public/media and are served from /media.
@@ -16,7 +16,7 @@ media_folder: public/media
 public_folder: /media
 
 publish_mode: simple
-site_url: https://thesociety.vercel.app
+site_url: https://the-society.vercel.app
 
 collections:
   - name: news
@@ -48,6 +48,7 @@ collections:
       - { label: Title, name: title, widget: string }
       - { label: Starts, name: start, widget: datetime }
       - { label: Ends, name: end, widget: datetime, required: false }
+      - { label: All day / date only, name: allDay, widget: boolean, default: false, hint: Hides the start time. Use when the time is not settled or the event runs all day.}
       - { label: Location, name: location, widget: string, required: false }
       - { label: Summary, name: summary, widget: text, required: false }
       - { label: RSVP link, name: rsvpUrl, widget: string, required: false, pattern: ['^https?://', 'Must start with http:// or https://'] }
@@ -110,11 +111,18 @@ collections:
         file: src/data/site.json
         fields:
           - { label: Society name, name: name, widget: string }
-          - { label: Tagline, name: tagline, widget: string }
+          - { label: Short name, name: shortName, widget: string, hint: Used in the header and tight spaces. }
+          - { label: Venue name, name: venue, widget: string }
+          - { label: Tagline, name: tagline, widget: text }
+          - { label: Hero photograph, name: heroImage, widget: image, required: false, hint: Wide landscape photo for the top of the home page. Leave empty to use the plain banner. }
+          - { label: Hero photo description, name: heroAlt, widget: string, required: false, hint: Describe the photo for screen readers. }
+          - { label: Hero photo credit, name: heroCredit, widget: string, required: false }
           - { label: Email, name: email, widget: string, required: false }
           - { label: Phone, name: phone, widget: string, required: false }
-          - { label: Visiting address, name: address, widget: text, required: false }
+          - { label: Street address, name: address, widget: string, required: false }
           - { label: Mailing address, name: mailingAddress, widget: text, required: false }
-          - { label: Meeting note, name: meetingNote, widget: text, required: false }
+          - { label: Opening hours, name: hours, widget: text, required: false, hint: One line per day or range. }
+          - { label: Admission, name: admission, widget: string, required: false, hint: 'e.g. Free, donations welcome' }
+          - { label: Board meeting note, name: meetingNote, widget: text, required: false }
           - { label: Facebook URL, name: facebook, widget: string, required: false }
           - { label: Instagram URL, name: instagram, widget: string, required: false }

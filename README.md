@@ -25,8 +25,8 @@ changes.
 | Events | `src/content/events/` | `/admin/` → Events |
 | Board roster | `src/content/board/` | `/admin/` → Board & Committees |
 | Minutes & PDFs | `src/content/minutes/` | `/admin/` → Minutes & Documents |
-| Free-text pages | `src/content/pages/` | `/admin/` → Pages |
-| Name, contact details | `src/data/site.json` | `/admin/` → Site settings |
+| Free-text pages (About, Museum, Membership) | `src/content/pages/` | `/admin/` → Pages |
+| Name, hours, contact, hero photo | `src/data/site.json` | `/admin/` → Site settings |
 | Uploaded images and PDFs | `public/media/` | uploaded through `/admin/` |
 
 Field definitions live in two places and must be kept in step:
