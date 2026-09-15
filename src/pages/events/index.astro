@@ -63,13 +63,23 @@ const shortFmt = new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZon
 
             <div>
               <p class="label text-brick">{formatEvent(event)}</p>
-              <h3 class="mt-2 font-display text-2xl leading-snug">{event.data.title}</h3>
+              <h3 class="mt-2 font-display text-2xl leading-snug">
+                <a href={`/events/${event.id}`} class="transition-colors hover:text-brick">
+                  {event.data.title}
+                </a>
+              </h3>
               {event.data.location && <p class="mt-1 text-sm text-ink-muted">{event.data.location}</p>}
               {event.data.summary && (
                 <p class="mt-3 max-w-2xl leading-relaxed text-ink-muted">{event.data.summary}</p>
               )}
-              {event.data.rsvpUrl && (
-                <p class="mt-5">
+              <div class="mt-5 flex flex-wrap items-center gap-x-5 gap-y-3">
+                <a
+                  href={`/events/${event.id}`}
+                  class="text-sm font-semibold text-brick transition-colors hover:text-brick-bright"
+                >
+                  See more details &rarr;
+                </a>
+                {event.data.rsvpUrl && (
                   <a
                     href={event.data.rsvpUrl}
                     rel="noopener"
@@ -77,8 +87,8 @@ const shortFmt = new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZon
                   >
                     Tickets and reservations
                   </a>
-                </p>
-              )}
+                )}
+              </div>
             </div>
           </li>
         ))}
@@ -108,7 +118,22 @@ const shortFmt = new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZon
                 <div class="aspect-4/3 w-full rounded-lg border border-rule bg-parchment-deep" aria-hidden="true" />
               )}
               <p class="mt-3 text-sm text-ink-muted">{shortFmt.format(event.data.start)}</p>
-              <h3 class="mt-0.5 font-display text-lg leading-snug">{event.data.title}</h3>
+              <h3 class="mt-0.5 font-display text-lg leading-snug">
+                <a href={`/events/${event.id}`} class="transition-colors hover:text-brick">
+                  {event.data.title}
+                </a>
+              </h3>
+              {event.data.summary && (
+                <p class="mt-2 line-clamp-3 text-sm leading-relaxed text-ink-muted">{event.data.summary}</p>
+              )}
+              <p class="mt-2">
+                <a
+                  href={`/events/${event.id}`}
+                  class="text-sm font-semibold text-brick transition-colors hover:text-brick-bright"
+                >
+                  See more details &rarr;
+                </a>
+              </p>
             </li>
           ))}
         </ul>

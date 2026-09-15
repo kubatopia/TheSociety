@@ -1,0 +1,96 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { formatEventDate, formatEventRange } from '../../lib/dates';
+import { googleCalendarUrl } from '../../lib/calendar';
+
+export async function getStaticPaths() {
+  // Past events keep their pages: the index links to them, and the write-ups
+  // are the record of what the Society has run.
+  const events = await getCollection('events', ({ data }) => !data.draft);
+  return events.map((event) => ({ params: { id: event.id }, props: { event } }));
+}
+
+const { event } = Astro.props;
+const { Content } = await render(event);
+
+const pageUrl = Astro.site ? new URL(`/events/${event.id}`, Astro.site).href : '';
+const google = googleCalendarUrl(
+  {
+    title: event.data.title,
+    start: event.data.start,
+    end: event.data.end,
+    allDay: event.data.allDay,
+    location: event.data.location,
+    summary: event.data.summary,
+  },
+  pageUrl,
+);
+
+const isPast = (event.data.end ?? event.data.start) < new Date();
+const pill =
+  'inline-block rounded-full border border-rule bg-card px-4 py-2 text-sm font-semibold transition-colors hover:border-brick hover:text-brick';
+---
+
+<BaseLayout title={event.data.title} description={event.data.summary}>
+  <p><a href="/events" class="text-sm text-brick">&larr; Back to all events</a></p>
+
+  <div class="mt-8 grid gap-10 lg:grid-cols-[minmax(0,19rem)_1fr] lg:gap-16">
+    {/* The rail carries the facts; the body carries the write-up. */}
+    <div class="lg:sticky lg:top-8 lg:self-start">
+      <h1 class="font-display text-4xl leading-tight">{event.data.title}</h1>
+
+      {isPast && <p class="label mt-4 text-ink-muted">This event has passed</p>}
+
+      <p class="mt-5">{formatEventDate(event)}</p>
+      <p class="text-ink-muted">{formatEventRange(event)}</p>
+      {event.data.location && <p class="mt-3 text-sm text-ink-muted">{event.data.location}</p>}
+
+      {
+        !isPast && (
+          <div class="mt-6 border-t border-rule pt-5">
+            <h2 class="label text-brick">Add to calendar</h2>
+            <div class="mt-3 flex flex-wrap gap-2">
+              <a href={google} target="_blank" rel="noopener" class={pill}>Google Calendar</a>
+              {/* Apple Calendar, Outlook and everything else read .ics. */}
+              <a href={`/events/${event.id}.ics`} class={pill}>Apple or Outlook</a>
+            </div>
+          </div>
+        )
+      }
+
+      {
+        event.data.rsvpUrl && !isPast && (
+          <p class="mt-6">
+            <a
+              href={event.data.rsvpUrl}
+              rel="noopener"
+              class="inline-block rounded-full bg-brick px-5 py-2.5 text-sm font-semibold text-card transition-colors hover:bg-brick-bright"
+            >
+              Tickets and reservations
+            </a>
+          </p>
+        )
+      }
+
+      {
+        event.data.image && (
+          /*
+           * CMS-uploaded media lives in public/, which Astro's optimizer cannot
+           * touch -- a plain <img>, as everywhere else. Posters carry their own
+           * text, so they are mounted rather than cropped.
+           */
+          <img
+            src={event.data.image}
+            alt={event.data.imageAlt ?? event.data.title}
+            loading="lazy"
+            decoding="async"
+            class="mt-8 w-full rounded-lg bg-parchment-deep object-contain"
+          />
+        )
+      }
+    </div>
+
+    <div class="prose"><Content /></div>
+  </div>
+</BaseLayout>

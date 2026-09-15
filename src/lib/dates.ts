@@ -53,3 +53,35 @@ export const formatEventDay = (event: { data: { start: Date; allDay: boolean } }
 /** Calendar-chip month for an event. */
 export const formatEventMonth = (event: { data: { start: Date; allDay: boolean } }) =>
   (event.data.allDay ? formatMonth : local({ month: 'short' })).format(event.data.start);
+
+/* --- Event detail page -------------------------------------------------- */
+
+const eventDayFull = local({ weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
+const eventDayShort = local({ month: 'short', day: 'numeric' });
+/** Only ever compared, never shown: is the end on the same local day? */
+const localDayKey = local({ year: 'numeric', month: '2-digit', day: '2-digit' });
+
+/** The date on its own, for pages that show the time on a second line. */
+export const formatEventDate = (event: { data: { start: Date; allDay: boolean } }) =>
+  (event.data.allDay ? eventDateOnly : eventDayFull).format(event.data.start);
+
+/**
+ * The time span: "7:00 PM – 10:00 PM".
+ *
+ * An event that runs past midnight -- the Ghost Walk models both of its nights
+ * as one span -- carries the date on each side, or the range reads backwards.
+ */
+export const formatEventRange = (event: {
+  data: { start: Date; end?: Date; allDay: boolean };
+}) => {
+  const { start, end, allDay } = event.data;
+  if (allDay) return 'All day';
+  if (!end) return eventTimeOnly.format(start);
+  if (localDayKey.format(start) === localDayKey.format(end)) {
+    return `${eventTimeOnly.format(start)} – ${eventTimeOnly.format(end)}`;
+  }
+  return (
+    `${eventDayShort.format(start)}, ${eventTimeOnly.format(start)} – ` +
+    `${eventDayShort.format(end)}, ${eventTimeOnly.format(end)}`
+  );
+};
