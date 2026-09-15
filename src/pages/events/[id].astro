@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { formatEventDate, formatEventRange } from '../../lib/dates';
 import { googleCalendarUrl } from '../../lib/calendar';
+import LocationMap from '../../components/LocationMap.astro';
 
 export async function getStaticPaths() {
   // Past events keep their pages: the index links to them, and the write-ups
@@ -91,6 +92,10 @@ const pill =
       }
     </div>
 
-    <div class="prose"><Content /></div>
+    <div>
+      <div class="prose"><Content /></div>
+
+      {event.data.location && <LocationMap location={event.data.location} class="mt-12" />}
+    </div>
   </div>
 </BaseLayout>
