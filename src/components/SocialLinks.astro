@@ -19,9 +19,9 @@ const accounts = [
     <ul class="flex flex-wrap gap-2.5">
       {accounts.map((account) => (
         <li>
+          {/* Someone reading the site should not lose it to Facebook. */}
           <a
             href={account.href}
-            {/* Someone reading the site should not lose it to Facebook. */}
             target="_blank"
             rel="me noopener"
             aria-label={account.name}
