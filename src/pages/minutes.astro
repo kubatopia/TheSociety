@@ -1,0 +1,52 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHeading from '../components/PageHeading.astro';
+
+const docs = (await getCollection('minutes')).sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime(),
+);
+
+const fmt = new Intl.DateTimeFormat('en-US', { dateStyle: 'long' });
+
+const byYear = new Map<number, typeof docs>();
+for (const doc of docs) {
+  const year = doc.data.date.getFullYear();
+  byYear.set(year, [...(byYear.get(year) ?? []), doc]);
+}
+const years = [...byYear.keys()].sort((a, b) => b - a);
+---
+
+<BaseLayout title="Minutes & Documents" description="Approved minutes and public documents.">
+  <PageHeading
+    title="Minutes & Documents"
+    lede="Approved minutes, agendas, and public filings. Posted after board approval."
+  />
+
+  {
+    docs.length === 0 ? (
+      <p class="text-ink-muted">No documents posted yet.</p>
+    ) : (
+      years.map((year) => (
+        <section class="mb-10">
+          <h2 class="border-b border-rule pb-2 font-serif text-2xl font-semibold">{year}</h2>
+          <ul class="mt-3 divide-y divide-rule">
+            {byYear.get(year)!.map((doc) => (
+              <li class="flex flex-wrap items-baseline justify-between gap-2 py-3">
+                <div>
+                  <a href={doc.data.file} class="font-medium text-accent underline">
+                    {doc.data.title}
+                  </a>
+                  {doc.data.summary && <p class="text-sm text-ink-muted">{doc.data.summary}</p>}
+                </div>
+                <p class="text-sm text-ink-muted">
+                  {doc.data.body_type} &middot; {fmt.format(doc.data.date)}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))
+    )
+  }
+</BaseLayout>

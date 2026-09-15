@@ -1,0 +1,71 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHeading from '../../components/PageHeading.astro';
+
+const now = new Date();
+const all = await getCollection('events', ({ data }) => !data.draft);
+
+const upcoming = all
+  .filter((e) => (e.data.end ?? e.data.start) >= now)
+  .sort((a, b) => a.data.start.getTime() - b.data.start.getTime());
+
+const past = all
+  .filter((e) => (e.data.end ?? e.data.start) < now)
+  .sort((a, b) => b.data.start.getTime() - a.data.start.getTime())
+  .slice(0, 10);
+
+const fmt = new Intl.DateTimeFormat('en-US', {
+  weekday: 'long',
+  month: 'long',
+  day: 'numeric',
+  year: 'numeric',
+  hour: 'numeric',
+  minute: '2-digit',
+});
+---
+
+<BaseLayout title="Events" description="Meetings, lectures, and tours.">
+  <PageHeading title="Events" lede="Meetings, lectures, and tours. Board meetings are open to the public." />
+
+  <h2 class="border-b border-rule pb-2 font-serif text-2xl font-semibold">Upcoming</h2>
+  {
+    upcoming.length === 0 ? (
+      <p class="mt-4 text-ink-muted">No events scheduled right now.</p>
+    ) : (
+      <ul class="mt-4 divide-y divide-rule">
+        {upcoming.map((event) => (
+          <li class="py-5">
+            <p class="text-sm text-ink-muted">{fmt.format(event.data.start)}</p>
+            <p class="text-lg font-medium">{event.data.title}</p>
+            {event.data.location && <p class="text-sm text-ink-muted">{event.data.location}</p>}
+            {event.data.summary && <p class="mt-2 max-w-2xl">{event.data.summary}</p>}
+            {event.data.rsvpUrl && (
+              <p class="mt-2">
+                <a href={event.data.rsvpUrl} class="text-sm text-accent underline">
+                  RSVP
+                </a>
+              </p>
+            )}
+          </li>
+        ))}
+      </ul>
+    )
+  }
+
+  {
+    past.length > 0 && (
+      <>
+        <h2 class="mt-14 border-b border-rule pb-2 font-serif text-2xl font-semibold">Recently past</h2>
+        <ul class="mt-4 divide-y divide-rule text-ink-muted">
+          {past.map((event) => (
+            <li class="flex flex-wrap justify-between gap-2 py-3 text-sm">
+              <span>{event.data.title}</span>
+              <span>{fmt.format(event.data.start)}</span>
+            </li>
+          ))}
+        </ul>
+      </>
+    )
+  }
+</BaseLayout>

@@ -1,0 +1,50 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHeading from '../components/PageHeading.astro';
+
+const members = (await getCollection('board')).sort(
+  (a, b) => a.data.order - b.data.order || a.data.name.localeCompare(b.data.name),
+);
+---
+
+<BaseLayout title="Board & Committees" description="The people who serve the Society.">
+  <PageHeading title="Board & Committees" lede="The volunteers who serve the Society." />
+
+  {
+    members.length === 0 ? (
+      <p class="text-ink-muted">The roster has not been published yet.</p>
+    ) : (
+      <ul class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+        {members.map((member) => (
+          <li>
+            {member.data.photo && (
+              <img
+                src={member.data.photo}
+                alt={member.data.name}
+                width="320"
+                height="320"
+                loading="lazy"
+                decoding="async"
+                class="mb-3 aspect-square w-full rounded object-cover"
+              />
+            )}
+            <p class="font-medium">{member.data.name}</p>
+            <p class="text-sm text-ink-muted">{member.data.role}</p>
+            {member.data.committee && <p class="text-sm text-ink-muted">{member.data.committee}</p>}
+            {member.data.termEnds && (
+              <p class="text-sm text-ink-muted">Term ends {member.data.termEnds}</p>
+            )}
+            {member.data.email && (
+              <p class="text-sm">
+                <a href={`mailto:${member.data.email}`} class="text-accent">
+                  {member.data.email}
+                </a>
+              </p>
+            )}
+          </li>
+        ))}
+      </ul>
+    )
+  }
+</BaseLayout>

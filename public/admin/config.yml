@@ -1,0 +1,120 @@
+# Sveltia CMS configuration.
+# Board members edit content at /admin/ ; saving commits straight to this repo.
+# Docs: https://sveltiacms.app/en/docs
+
+backend:
+  name: github
+  repo: kubatopia/TheSociety
+  branch: main
+  # base_url + auth_endpoint must point at THIS site's own OAuth endpoints.
+  # Update base_url when the custom domain goes live.
+  base_url: https://thesociety.vercel.app
+  auth_endpoint: api/auth
+
+# Uploaded images and PDFs land in public/media and are served from /media.
+media_folder: public/media
+public_folder: /media
+
+publish_mode: simple
+site_url: https://thesociety.vercel.app
+
+collections:
+  - name: news
+    label: News
+    label_singular: News post
+    folder: src/content/news
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    summary: '{{date}} — {{title}}'
+    sortable_fields: [date, title]
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: datetime, format: yyyy-MM-dd, time_format: false }
+      - { label: Summary, name: summary, widget: text, required: false, hint: One or two sentences shown in listings. }
+      - { label: Image, name: image, widget: image, required: false }
+      - { label: Image description, name: imageAlt, widget: string, required: false, hint: Describe the image for screen readers. }
+      - { label: Draft, name: draft, widget: boolean, default: false, hint: Drafts are not published to the site. }
+      - { label: Body, name: body, widget: markdown }
+
+  - name: events
+    label: Events
+    label_singular: Event
+    folder: src/content/events
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    summary: '{{start}} — {{title}}'
+    sortable_fields: [start, title]
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Starts, name: start, widget: datetime }
+      - { label: Ends, name: end, widget: datetime, required: false }
+      - { label: Location, name: location, widget: string, required: false }
+      - { label: Summary, name: summary, widget: text, required: false }
+      - { label: RSVP link, name: rsvpUrl, widget: string, required: false, pattern: ['^https?://', 'Must start with http:// or https://'] }
+      - { label: Draft, name: draft, widget: boolean, default: false }
+      - { label: Details, name: body, widget: markdown, required: false }
+
+  - name: board
+    label: Board & Committees
+    label_singular: Member
+    folder: src/content/board
+    create: true
+    slug: '{{slug}}'
+    summary: '{{name}} — {{role}}'
+    sortable_fields: [order, name]
+    fields:
+      - { label: Name, name: name, widget: string }
+      - { label: Role, name: role, widget: string, hint: 'e.g. President, Treasurer, Trustee' }
+      - { label: Committee, name: committee, widget: string, required: false }
+      - { label: Term ends, name: termEnds, widget: string, required: false, hint: 'e.g. June 2027' }
+      - { label: Email, name: email, widget: string, required: false }
+      - { label: Photo, name: photo, widget: image, required: false }
+      - { label: Sort order, name: order, widget: number, default: 99, value_type: int, hint: Lower numbers appear first. }
+      - { label: Bio, name: body, widget: markdown, required: false }
+
+  - name: minutes
+    label: Minutes & Documents
+    label_singular: Document
+    folder: src/content/minutes
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    summary: '{{date}} — {{title}}'
+    sortable_fields: [date, title]
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Meeting date, name: date, widget: datetime, format: yyyy-MM-dd, time_format: false }
+      - { label: Body, name: body_type, widget: select, options: [Board, Committee, Annual Meeting], default: Board }
+      - { label: PDF, name: file, widget: file, hint: Upload the approved minutes as a PDF. }
+      - { label: Summary, name: summary, widget: text, required: false }
+      - { label: Notes, name: body, widget: markdown, required: false }
+
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: src/content/pages
+    create: true
+    slug: '{{slug}}'
+    summary: '{{title}}'
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Short description, name: description, widget: text, required: false }
+      - { label: Sort order, name: order, widget: number, default: 99, value_type: int }
+      - { label: Show in navigation, name: showInNav, widget: boolean, default: true }
+      - { label: Body, name: body, widget: markdown }
+
+  - name: settings
+    label: Site settings
+    files:
+      - name: site
+        label: Name & contact details
+        file: src/data/site.json
+        fields:
+          - { label: Society name, name: name, widget: string }
+          - { label: Tagline, name: tagline, widget: string }
+          - { label: Email, name: email, widget: string, required: false }
+          - { label: Phone, name: phone, widget: string, required: false }
+          - { label: Visiting address, name: address, widget: text, required: false }
+          - { label: Mailing address, name: mailingAddress, widget: text, required: false }
+          - { label: Meeting note, name: meetingNote, widget: text, required: false }
+          - { label: Facebook URL, name: facebook, widget: string, required: false }
+          - { label: Instagram URL, name: instagram, widget: string, required: false }

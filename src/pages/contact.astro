@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHeading from '../components/PageHeading.astro';
+import site from '../data/site.json';
+---
+
+<BaseLayout title="Contact" description={`How to reach ${site.name}.`}>
+  <PageHeading title="Contact" lede={site.meetingNote} />
+
+  <dl class="max-w-md space-y-4">
+    {
+      site.email && (
+        <div>
+          <dt class="text-sm text-ink-muted">Email</dt>
+          <dd><a href={`mailto:${site.email}`} class="text-accent underline">{site.email}</a></dd>
+        </div>
+      )
+    }
+    {
+      site.phone && (
+        <div>
+          <dt class="text-sm text-ink-muted">Phone</dt>
+          <dd><a href={`tel:${site.phone}`} class="text-accent underline">{site.phone}</a></dd>
+        </div>
+      )
+    }
+    {
+      site.mailingAddress && (
+        <div>
+          <dt class="text-sm text-ink-muted">Mail</dt>
+          <dd class="whitespace-pre-line">{site.mailingAddress}</dd>
+        </div>
+      )
+    }
+    {
+      site.address && (
+        <div>
+          <dt class="text-sm text-ink-muted">Visit</dt>
+          <dd class="whitespace-pre-line">{site.address}</dd>
+        </div>
+      )
+    }
+  </dl>
+</BaseLayout>

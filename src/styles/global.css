@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+/* ---------------------------------------------------------------
+   Design tokens. These are deliberately neutral placeholders --
+   they get replaced once a visual direction is chosen.
+   --------------------------------------------------------------- */
+@theme {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-serif: ui-serif, Georgia, Cambria, "Times New Roman", serif;
+
+  --color-ink: oklch(0.22 0.01 250);
+  --color-ink-muted: oklch(0.48 0.01 250);
+  --color-paper: oklch(0.99 0.004 90);
+  --color-rule: oklch(0.89 0.006 250);
+  --color-accent: oklch(0.45 0.09 245);
+  --color-accent-soft: oklch(0.95 0.02 245);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+}
+
+/* Readable defaults for CMS-authored Markdown, which has no classes. */
+.prose > * + * {
+  margin-block-start: 1em;
+}
+.prose h2 {
+  font-size: 1.375rem;
+  font-weight: 600;
+  margin-block-start: 1.75em;
+}
+.prose h3 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-block-start: 1.5em;
+}
+.prose ul {
+  list-style: disc;
+  padding-inline-start: 1.25rem;
+}
+.prose ol {
+  list-style: decimal;
+  padding-inline-start: 1.25rem;
+}
+.prose a {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.prose img {
+  border-radius: 0.5rem;
+}

@@ -1,0 +1,82 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import site from '../data/site.json';
+
+const now = new Date();
+
+const upcoming = (await getCollection('events', ({ data }) => !data.draft))
+  .filter((e) => (e.data.end ?? e.data.start) >= now)
+  .sort((a, b) => a.data.start.getTime() - b.data.start.getTime())
+  .slice(0, 3);
+
+const latest = (await getCollection('news', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 3);
+
+const dateFmt = new Intl.DateTimeFormat('en-US', { dateStyle: 'medium' });
+const eventFmt = new Intl.DateTimeFormat('en-US', {
+  weekday: 'short',
+  month: 'short',
+  day: 'numeric',
+  hour: 'numeric',
+  minute: '2-digit',
+});
+---
+
+<BaseLayout>
+  <section class="max-w-2xl">
+    <h1 class="font-serif text-4xl font-semibold tracking-tight sm:text-5xl">{site.name}</h1>
+    <p class="mt-4 text-lg text-ink-muted">{site.tagline}</p>
+    <p class="mt-8 flex flex-wrap gap-3">
+      <a href="/events" class="rounded bg-accent px-4 py-2 text-sm font-medium text-white">Upcoming events</a>
+      <a href="/about" class="rounded border border-rule px-4 py-2 text-sm font-medium">About the Society</a>
+    </p>
+  </section>
+
+  <section class="mt-16">
+    <div class="flex items-baseline justify-between border-b border-rule pb-2">
+      <h2 class="font-serif text-2xl font-semibold">Upcoming</h2>
+      <a href="/events" class="text-sm text-accent">All events</a>
+    </div>
+    {
+      upcoming.length === 0 ? (
+        <p class="mt-4 text-ink-muted">No events scheduled right now. Check back soon.</p>
+      ) : (
+        <ul class="mt-4 divide-y divide-rule">
+          {upcoming.map((event) => (
+            <li class="py-4">
+              <p class="text-sm text-ink-muted">{eventFmt.format(event.data.start)}</p>
+              <p class="font-medium">{event.data.title}</p>
+              {event.data.location && <p class="text-sm text-ink-muted">{event.data.location}</p>}
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </section>
+
+  <section class="mt-16">
+    <div class="flex items-baseline justify-between border-b border-rule pb-2">
+      <h2 class="font-serif text-2xl font-semibold">News</h2>
+      <a href="/news" class="text-sm text-accent">All news</a>
+    </div>
+    {
+      latest.length === 0 ? (
+        <p class="mt-4 text-ink-muted">Nothing posted yet.</p>
+      ) : (
+        <ul class="mt-4 divide-y divide-rule">
+          {latest.map((post) => (
+            <li class="py-4">
+              <p class="text-sm text-ink-muted">{dateFmt.format(post.data.date)}</p>
+              <a href={`/news/${post.id}`} class="font-medium hover:text-accent">
+                {post.data.title}
+              </a>
+              {post.data.summary && <p class="mt-1 text-sm text-ink-muted">{post.data.summary}</p>}
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </section>
+</BaseLayout>

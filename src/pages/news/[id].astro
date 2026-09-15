@@ -1,0 +1,33 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('news', ({ data }) => !data.draft);
+  return posts.map((post) => ({ params: { id: post.id }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const fmt = new Intl.DateTimeFormat('en-US', { dateStyle: 'long' });
+---
+
+<BaseLayout title={post.data.title} description={post.data.summary}>
+  <article class="max-w-2xl">
+    <p class="text-sm text-ink-muted">{fmt.format(post.data.date)}</p>
+    <h1 class="mt-2 font-serif text-3xl font-semibold tracking-tight">{post.data.title}</h1>
+    {
+      post.data.image && (
+        <img
+          src={post.data.image}
+          alt={post.data.imageAlt ?? ''}
+          loading="lazy"
+          decoding="async"
+          class="mt-6 w-full rounded"
+        />
+      )
+    }
+    <div class="prose mt-6"><Content /></div>
+    <p class="mt-10"><a href="/news" class="text-sm text-accent">&larr; All news</a></p>
+  </article>
+</BaseLayout>
