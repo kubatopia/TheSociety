@@ -147,6 +147,12 @@ collections:
           - { label: Admission, name: admission, widget: string, required: false, hint: 'e.g. Free, donations welcome. Left empty, the line is hidden.' }
           - { label: How long to allow, name: allowTime, widget: string, required: false, hint: 'e.g. 90 minutes. Left empty, the line is hidden.' }
           - { label: Parking, name: parking, widget: text, required: false, hint: 'Where to park and whether it costs anything. Left empty, the section is hidden.' }
+          - { label: Accessibility, name: accessibility, widget: text, required: false, hint: 'Step-free access, lifts, accessible parking and toilets. Left empty, the section is hidden.' }
+          - { label: Getting here, name: gettingHere, widget: text, required: false, hint: 'Extra directions — landmarks, which road to come in on, drive times from nearby towns.' }
+          - { label: Photo — groups and schools, name: groupsImage, widget: image, required: false, hint: A class or group visiting. }
+          - { label: Photo description — groups, name: groupsImageAlt, widget: string, required: false }
+          - { label: Photo — renting the building, name: rentalsImage, widget: image, required: false, hint: An event in the building. }
+          - { label: Photo description — rentals, name: rentalsImageAlt, widget: string, required: false }
           - { label: Board meeting note, name: meetingNote, widget: text, required: false }
           - { label: Facebook URL, name: facebook, widget: string, required: false }
           - { label: Instagram URL, name: instagram, widget: string, required: false }

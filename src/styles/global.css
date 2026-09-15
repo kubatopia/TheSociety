@@ -48,6 +48,21 @@ h1, h2, h3, .font-display {
   text-wrap: balance;
 }
 
+/*
+ * Small uppercase labels. A class, not an element rule, so it outranks the
+ * display-serif rule above: Instrument Serif at label size is unreadable, and
+ * these were being set in it wherever the label happened to be an <h2>.
+ * 13px/700 at moderate tracking, rather than 11px/700 at 0.13em.
+ */
+.label {
+  font-family: var(--font-body);
+  font-size: 0.8125rem;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 ::selection { background: var(--color-gold); color: var(--color-gold-ink); }
 
 :focus-visible {

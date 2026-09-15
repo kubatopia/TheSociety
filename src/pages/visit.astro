@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PageHeading from '../components/PageHeading.astro';
+import SectionNav from '../components/SectionNav.astro';
 import OpenStatus from '../components/OpenStatus.astro';
 import site from '../data/site.json';
 import { summarise, closedDays, type OpeningDay } from '../lib/hours';
@@ -11,95 +12,237 @@ const closed = closedDays(site.openingHours as OpeningDay[]);
 const directions = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(
   `${site.venue}, ${site.address}, ${site.addressLine2}`,
 )}`;
+
+/** Sections the board has not filled in stay out of the index as well as the page. */
+const sections = [
+  { id: 'getting-here', label: 'Getting here' },
+  site.parking && { id: 'parking', label: 'Parking' },
+  site.admission && { id: 'admission', label: 'Admission' },
+  { id: 'hour', label: 'If you only have an hour' },
+  site.accessibility && { id: 'accessibility', label: 'Accessibility' },
+  { id: 'groups', label: 'Groups and schools' },
+  { id: 'rentals', label: 'Renting the building' },
+].filter(Boolean) as Array<{ id: string; label: string }>;
 ---
 
 <BaseLayout title="Plan your visit" description={`Hours, directions and admission for the ${site.venue}.`}>
   <PageHeading
     eyebrow="Plan your visit"
     title={site.venue}
-    lede="The former Henry County courthouse, on the square at the top of Main Street."
+    lede="The former Henry County courthouse, on the square at the top of Main Street. Two floors of exhibits, the historic courtroom upstairs, and the King Collections in the annex behind — all open on a standard visit."
   />
 
-  <div class="grid gap-12 lg:grid-cols-[1fr_20rem]">
+  <div class="grid gap-12 lg:grid-cols-[1fr_20rem] lg:gap-14">
     <div>
-      <img
-        src="/media/courthouse-lawn.jpg"
-        alt="The Heritage Center & Museum seen across the courthouse lawn"
-        class="w-full rounded-[1.125rem] object-cover"
-        loading="lazy"
-        decoding="async"
-      />
+      <figure>
+        <img
+          src="/media/courthouse-golden-hour.jpg"
+          alt={site.heroAlt}
+          class="w-full rounded-[1.125rem] object-cover"
+          loading="eager"
+          decoding="async"
+        />
+        <figcaption class="mt-3 text-sm text-ink-muted">
+          The museum from West Main Street. Visitor entrance is on the right-hand side.
+        </figcaption>
+      </figure>
 
-      <h2 class="mt-12 font-display text-2xl">Getting here</h2>
-      <p class="mt-3 max-w-2xl leading-relaxed text-ink-muted">
-        The museum sits on the courthouse square at {site.address}, in downtown Martinsville.
-      </p>
-      <p class="mt-4">
+      <!-- Index, so nobody has to scroll to find parking. -->
+      <div class="mt-10 border-y border-rule py-5 lg:hidden">
+        <SectionNav sections={sections} />
+      </div>
+
+      <section id="getting-here" class="mt-12 scroll-mt-28">
+        <h2 class="font-display text-3xl">Getting here</h2>
+        <p class="mt-4 max-w-2xl leading-relaxed text-ink-muted">
+          The museum sits on the courthouse square at {site.address}, at the top of Main Street in
+          downtown Martinsville. The building is the one with the white portico and the green roof —
+          it is hard to miss.
+        </p>
+        {site.gettingHere && (
+          <p class="mt-4 max-w-2xl leading-relaxed whitespace-pre-line text-ink-muted">{site.gettingHere}</p>
+        )}
+        <p class="mt-6">
+          <a
+            href={directions}
+            class="inline-block rounded-full bg-brick px-5 py-3 text-sm font-semibold text-card transition-colors hover:bg-brick-bright"
+            rel="noopener"
+          >
+            Get directions
+          </a>
+        </p>
+      </section>
+
+      {
+        site.parking && (
+          <section id="parking" class="mt-14 scroll-mt-28">
+            <h2 class="font-display text-3xl">Parking</h2>
+            <p class="mt-4 max-w-2xl leading-relaxed whitespace-pre-line text-ink-muted">{site.parking}</p>
+          </section>
+        )
+      }
+
+      {
+        site.admission && (
+          <section id="admission" class="mt-14 scroll-mt-28">
+            <h2 class="font-display text-3xl">Admission</h2>
+            <p class="mt-4 max-w-2xl leading-relaxed text-ink-muted">{site.admission}</p>
+          </section>
+        )
+      }
+
+      <!-- The out-of-town visitor's real question, answered concretely. -->
+      <section id="hour" class="mt-14 scroll-mt-28">
+        <h2 class="font-display text-3xl">If you only have an hour</h2>
+        <p class="mt-4 max-w-2xl leading-relaxed text-ink-muted">
+          Most people allow longer once they are inside, but if you are passing through:
+        </p>
+        <ol class="mt-6 max-w-2xl space-y-5 border-t border-rule">
+          {
+            [
+              {
+                title: 'Start in the annex',
+                body: 'The King Collections are the reason most people come back. Give them half your time.',
+              },
+              {
+                title: 'Then the courtroom upstairs',
+                body: 'Left much as it was when the county moved out in 1996.',
+              },
+              {
+                title: 'Finish with the industries',
+                body: 'NASCAR, furniture and tobacco — the three things that made Henry County what it is.',
+              },
+            ].map((step, index) => (
+              <li class="flex gap-4 border-b border-rule pb-5">
+                <span class="label mt-1 text-gold tabular-nums">{String(index + 1).padStart(2, '0')}</span>
+                <div>
+                  <h3 class="font-display text-xl leading-snug">{step.title}</h3>
+                  <p class="mt-1 leading-relaxed text-ink-muted">{step.body}</p>
+                </div>
+              </li>
+            ))
+          }
+        </ol>
+      </section>
+
+      {
+        site.accessibility && (
+          <section id="accessibility" class="mt-14 scroll-mt-28">
+            <h2 class="font-display text-3xl">Accessibility</h2>
+            <p class="mt-4 max-w-2xl leading-relaxed whitespace-pre-line text-ink-muted">{site.accessibility}</p>
+          </section>
+        )
+      }
+
+      <section id="groups" class="mt-14 scroll-mt-28">
+        <h2 class="font-display text-3xl">Groups and schools</h2>
+        {
+          site.groupsImage && (
+            <img
+              src={site.groupsImage}
+              alt={site.groupsImageAlt}
+              loading="lazy"
+              decoding="async"
+              class="mt-5 w-full rounded-[1.125rem] object-cover"
+            />
+          )
+        }
+        <div class="mt-4 max-w-2xl space-y-4 leading-relaxed text-ink-muted">
+          <p>
+            The museum offers guided tours to school classes and community groups, and Society
+            specialists give talks on a range of local topics — the furniture and textile years,
+            the tobacco market, the Speedway, or the building itself.
+          </p>
+          <p>
+            Tours run during opening hours and can be arranged outside them for larger groups.
+            Get in touch with a rough date, group size and what you would like to focus on, and
+            the Society will work out the rest.
+          </p>
+        </div>
+        <p class="mt-5">
+          <a href={`mailto:${site.email}`} class="font-medium text-brick underline underline-offset-4 hover:text-brick-bright">
+            Arrange a group visit
+          </a>
+        </p>
+      </section>
+
+      <section id="rentals" class="mt-14 scroll-mt-28">
+        <h2 class="font-display text-3xl">Renting the building</h2>
+        {
+          site.rentalsImage && (
+            <img
+              src={site.rentalsImage}
+              alt={site.rentalsImageAlt}
+              loading="lazy"
+              decoding="async"
+              class="mt-5 w-full rounded-[1.125rem] object-cover"
+            />
+          )
+        }
+        <div class="mt-4 max-w-2xl space-y-4 leading-relaxed text-ink-muted">
+          <p>
+            The courthouse is available to hire for weddings, receptions, meetings, reunions and
+            shows. It is a working piece of Henry County history rather than a function room, which
+            is most of the appeal — the portico, the courtroom and the grounds all photograph well.
+          </p>
+          <p>
+            Rates depend on the space and the day. Contact the Society for availability and to
+            arrange a look around before you book.
+          </p>
+        </div>
+        <p class="mt-5">
+          <a href={`mailto:${site.email}`} class="font-medium text-brick underline underline-offset-4 hover:text-brick-bright">
+            Ask about hiring the building
+          </a>
+        </p>
+      </section>
+    </div>
+
+    <!-- The card the visitor came for. Sticky, so it stays with them. -->
+    <aside class="lg:sticky lg:top-24 lg:h-fit">
+      <div class="rounded-[1.125rem] border border-rule bg-card p-6">
+        <OpenStatus />
+
+        <h2 class="label mt-5 text-brick">Hours</h2>
+        <ul class="mt-2 space-y-1 text-[0.9375rem]">
+          {hours.map((line) => <li>{line}</li>)}
+          {closed.length > 0 && <li class="text-ink-muted">Closed {closed.join(' and ')}.</li>}
+        </ul>
+
+        <h2 class="label mt-6 text-brick">Address</h2>
+        <p class="mt-2 text-[0.9375rem]">{site.address}<br />{site.addressLine2}</p>
+
+        {site.admission && (
+          <>
+            <h2 class="label mt-6 text-brick">Admission</h2>
+            <p class="mt-2 text-[0.9375rem]">{site.admission}</p>
+          </>
+        )}
+        {site.allowTime && (
+          <>
+            <h2 class="label mt-6 text-brick">Allow</h2>
+            <p class="mt-2 text-[0.9375rem]">{site.allowTime}</p>
+          </>
+        )}
+
+        <h2 class="label mt-6 text-brick">Contact</h2>
+        <p class="mt-2 text-[0.9375rem]">
+          <a href={`tel:${site.phone.replace(/[^\d+]/g, '')}`} class="hover:text-brick">{site.phone}</a><br />
+          <a href={`mailto:${site.email}`} class="break-all text-ink-muted hover:text-brick">{site.email}</a>
+        </p>
+
         <a
           href={directions}
-          class="inline-block rounded-full bg-brick px-5 py-3 text-sm font-semibold text-card transition-colors hover:bg-brick-bright"
+          class="mt-6 block rounded-full bg-gold px-5 py-3 text-center text-sm font-semibold text-gold-ink transition-colors hover:bg-sand"
           rel="noopener"
         >
           Get directions
         </a>
-      </p>
+      </div>
 
-      {
-        site.parking ? (
-          <>
-            <h2 class="mt-12 font-display text-2xl">Parking</h2>
-            <p class="mt-3 max-w-2xl leading-relaxed text-ink-muted">{site.parking}</p>
-          </>
-        ) : null
-      }
-
-      <h2 class="mt-12 font-display text-2xl">Groups and schools</h2>
-      <p class="mt-3 max-w-2xl leading-relaxed text-ink-muted">
-        The museum offers tours to classes and community groups, and Society specialists give
-        talks on a range of local topics. Get in touch to arrange one.
-      </p>
-
-      <h2 class="mt-12 font-display text-2xl">Renting the building</h2>
-      <p class="mt-3 max-w-2xl leading-relaxed text-ink-muted">
-        The building is available for weddings, meetings, reunions and shows. Contact the
-        Society for rates and availability.
-      </p>
-    </div>
-
-    <aside class="h-fit rounded-[1.125rem] border border-rule bg-card p-6 lg:sticky lg:top-24">
-      <OpenStatus />
-
-      <h2 class="mt-5 text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Hours</h2>
-      <ul class="mt-2 space-y-1 text-[0.9375rem]">
-        {hours.map((line) => <li>{line}</li>)}
-        {closed.length > 0 && <li class="text-ink-muted">Closed {closed.join(' and ')}.</li>}
-      </ul>
-
-      <h2 class="mt-6 text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Address</h2>
-      <p class="mt-2 text-[0.9375rem]">{site.address}<br />{site.addressLine2}</p>
-
-      {
-        site.admission && (
-          <>
-            <h2 class="mt-6 text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Admission</h2>
-            <p class="mt-2 text-[0.9375rem]">{site.admission}</p>
-          </>
-        )
-      }
-      {
-        site.allowTime && (
-          <>
-            <h2 class="mt-6 text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Allow</h2>
-            <p class="mt-2 text-[0.9375rem]">{site.allowTime}</p>
-          </>
-        )
-      }
-
-      <h2 class="mt-6 text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Contact</h2>
-      <p class="mt-2 text-[0.9375rem]">
-        <a href={`tel:${site.phone.replace(/[^\d+]/g, '')}`} class="hover:text-brick">{site.phone}</a><br />
-        <a href={`mailto:${site.email}`} class="break-all text-ink-muted hover:text-brick">{site.email}</a>
-      </p>
+      <div class="mt-8 hidden lg:block">
+        <SectionNav sections={sections} />
+      </div>
     </aside>
   </div>
 </BaseLayout>

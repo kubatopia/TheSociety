@@ -24,7 +24,7 @@ const facts = [
     {
       facts.map((fact) => (
         <div>
-          <dt class="text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">{fact.term}</dt>
+          <dt class="label text-brick">{fact.term}</dt>
           <dd class="mt-2 space-y-0.5 text-[0.9375rem] leading-relaxed">
             {fact.lines.map((line, index) => (
               <p class={index === 0 ? '' : 'text-ink-muted'}>{line}</p>
@@ -34,7 +34,7 @@ const facts = [
       ))
     }
     <div>
-      <dt class="text-[0.6875rem] font-bold tracking-[0.13em] text-brick uppercase">Ask us</dt>
+      <dt class="label text-brick">Ask us</dt>
       <dd class="mt-2 space-y-0.5 text-[0.9375rem]">
         <p><a href={`tel:${site.phone.replace(/[^\d+]/g, '')}`} class="hover:text-brick">{site.phone}</a></p>
         <p><a href={`mailto:${site.email}`} class="break-all text-ink-muted hover:text-brick">{site.email}</a></p>
