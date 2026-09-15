@@ -1,0 +1,231 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { formatDate } from '../../lib/dates';
+
+const entries = (await getCollection('archive', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime(),
+);
+
+/**
+ * Facets are derived from what has actually been published, never hard-coded.
+ * A type or topic nobody has used yet does not appear, so the filters can
+ * never point at an empty result.
+ */
+const types = [...new Set(entries.map((e) => e.data.type))];
+const topicCounts = new Map<string, number>();
+for (const entry of entries) {
+  for (const topic of entry.data.topics) {
+    topicCounts.set(topic, (topicCounts.get(topic) ?? 0) + 1);
+  }
+}
+const topics = [...topicCounts.entries()].sort(
+  (a, b) => b[1] - a[1] || a[0].localeCompare(b[0]),
+);
+
+/** Press coverage lives elsewhere, so its card links straight out. */
+const hrefFor = (entry: (typeof entries)[number]) =>
+  entry.data.externalUrl || `/archive/${entry.id}`;
+---
+
+<BaseLayout
+  title="Archive"
+  description="Search the Society's archive — Looking Back, press coverage, articles, programmes and videos on Martinsville and Henry County."
+>
+  <header class="mb-10">
+    <p class="label text-brick">Search and explore</p>
+    <h1 class="mt-3 font-display text-5xl leading-[1.02] sm:text-6xl lg:text-7xl">Archive</h1>
+    <p class="mt-5 max-w-2xl text-lg leading-relaxed text-ink-muted">
+      Looking Back, press coverage, articles, programmes and recordings — everything the Society
+      has published about Martinsville and Henry County, in one place.
+    </p>
+  </header>
+
+  <form class="mb-8" role="search" onsubmit="return false">
+    <label for="archive-search" class="sr-only">Search the archive</label>
+    <div class="flex items-center gap-3 rounded-full border border-rule bg-card px-5 py-3.5 focus-within:border-brick">
+      <svg viewBox="0 0 24 24" aria-hidden="true" class="h-5 w-5 flex-none text-ink-muted" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5" stroke-linecap="round"></path>
+      </svg>
+      <input
+        id="archive-search"
+        type="search"
+        placeholder="Search by name, place, subject or year…"
+        autocomplete="off"
+        class="w-full bg-transparent text-[1.0625rem] outline-none placeholder:text-ink-muted/70"
+      />
+    </div>
+  </form>
+
+  <div class="mb-3 flex flex-wrap gap-2" data-facet-group="type">
+    <button type="button" data-facet="" aria-pressed="true" class="facet">Everything</button>
+    {types.map((type) => <button type="button" data-facet={type} aria-pressed="false" class="facet">{type}</button>)}
+  </div>
+
+  {
+    topics.length > 0 && (
+      <div class="mb-8 flex flex-wrap gap-2" data-facet-group="topic">
+        <button type="button" data-facet="" aria-pressed="true" class="facet facet-topic">All topics</button>
+        {topics.map(([topic, count]) => (
+          <button type="button" data-facet={topic} aria-pressed="false" class="facet facet-topic">
+            {topic} <span class="tabular-nums opacity-55">{count}</span>
+          </button>
+        ))}
+      </div>
+    )
+  }
+
+  <p class="mb-6 border-b border-rule pb-3 text-sm text-ink-muted" data-result-count>
+    {entries.length} {entries.length === 1 ? 'entry' : 'entries'}
+  </p>
+
+  {
+    entries.length === 0 ? (
+      <p class="text-ink-muted">Nothing published yet.</p>
+    ) : (
+      <ul class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3" data-archive-grid>
+        {entries.map((entry) => (
+          <li
+            class="group relative flex flex-col"
+            data-entry
+            data-type={entry.data.type}
+            data-topics={entry.data.topics.join('|')}
+            data-search={[
+              entry.data.title,
+              entry.data.summary ?? '',
+              entry.data.topics.join(' '),
+              entry.data.type,
+              entry.data.publication ?? '',
+              entry.data.date.getUTCFullYear(),
+            ]
+              .join(' ')
+              .toLowerCase()}
+          >
+            {entry.data.image ? (
+              <img
+                src={entry.data.image}
+                alt={entry.data.imageAlt ?? ''}
+                loading="lazy"
+                decoding="async"
+                class="mb-3 aspect-4/3 w-full rounded-lg object-cover"
+              />
+            ) : (
+              <div class="mb-3 aspect-4/3 w-full rounded-lg border border-rule bg-parchment-deep" aria-hidden="true" />
+            )}
+
+            <p class="label text-brick">{entry.data.type}</p>
+            <h2 class="mt-1.5 font-display text-xl leading-snug">
+              <a
+                href={hrefFor(entry)}
+                class="after:absolute after:inset-0 group-hover:text-brick"
+                {...(entry.data.externalUrl ? { rel: 'noopener', target: '_blank' } : {})}
+              >
+                {entry.data.title}
+              </a>
+            </h2>
+            <p class="mt-1 text-sm text-ink-muted">
+              {formatDate.format(entry.data.date)}
+              {entry.data.publication && ` · ${entry.data.publication}`}
+            </p>
+            {entry.data.summary && (
+              <p class="mt-2 text-sm leading-relaxed text-ink-muted">{entry.data.summary}</p>
+            )}
+          </li>
+        ))}
+      </ul>
+    )
+  }
+
+  <p class="mt-10 hidden text-ink-muted" data-empty-state>
+    Nothing matches that. <button type="button" class="text-brick underline underline-offset-4" data-clear>Clear the filters</button>.
+  </p>
+</BaseLayout>
+
+<style>
+  .facet {
+    border-radius: 9999px;
+    border: 1px solid var(--color-rule);
+    background: var(--color-card);
+    padding: 0.4375rem 0.875rem;
+    font-size: 0.875rem;
+    color: var(--color-ink-muted);
+    cursor: pointer;
+    transition: color 0.15s, border-color 0.15s, background-color 0.15s;
+  }
+  .facet:hover { border-color: var(--color-brick); color: var(--color-brick); }
+  .facet[aria-pressed='true'] {
+    background: var(--color-brick);
+    border-color: var(--color-brick);
+    color: var(--color-card);
+  }
+  .facet-topic[aria-pressed='true'] {
+    background: var(--color-gold);
+    border-color: var(--color-gold);
+    color: var(--color-gold-ink);
+  }
+</style>
+
+<script>
+  /**
+   * Filtering happens in the browser over cards that are already in the HTML.
+   * No search index to build or ship, everything stays crawlable, and it works
+   * the moment the page paints. Worth revisiting past a few thousand entries.
+   */
+  const search = document.querySelector<HTMLInputElement>('#archive-search');
+  const grid = document.querySelector<HTMLElement>('[data-archive-grid]');
+  const countEl = document.querySelector<HTMLElement>('[data-result-count]');
+  const emptyEl = document.querySelector<HTMLElement>('[data-empty-state]');
+
+  if (search && grid && countEl && emptyEl) {
+    const entries = [...grid.querySelectorAll<HTMLElement>('[data-entry]')];
+    const groups = [...document.querySelectorAll<HTMLElement>('[data-facet-group]')];
+    const chosen: Record<string, string> = { type: '', topic: '' };
+
+    const apply = () => {
+      const term = search.value.trim().toLowerCase();
+      let shown = 0;
+
+      for (const entry of entries) {
+        const topics = (entry.dataset.topics ?? '').split('|').filter(Boolean);
+        const matches =
+          (!chosen.type || entry.dataset.type === chosen.type) &&
+          (!chosen.topic || topics.includes(chosen.topic)) &&
+          (!term || (entry.dataset.search ?? '').includes(term));
+
+        entry.hidden = !matches;
+        if (matches) shown += 1;
+      }
+
+      countEl.textContent = `${shown} ${shown === 1 ? 'entry' : 'entries'}`;
+      emptyEl.hidden = shown > 0;
+    };
+
+    for (const group of groups) {
+      const key = group.dataset.facetGroup ?? '';
+      group.addEventListener('click', (event) => {
+        const button = (event.target as HTMLElement).closest<HTMLButtonElement>('[data-facet]');
+        if (!button) return;
+        chosen[key] = button.dataset.facet ?? '';
+        for (const other of group.querySelectorAll<HTMLButtonElement>('[data-facet]')) {
+          other.setAttribute('aria-pressed', String(other === button));
+        }
+        apply();
+      });
+    }
+
+    search.addEventListener('input', apply);
+
+    document.querySelector('[data-clear]')?.addEventListener('click', () => {
+      search.value = '';
+      for (const group of groups) {
+        const key = group.dataset.facetGroup ?? '';
+        chosen[key] = '';
+        const buttons = group.querySelectorAll<HTMLButtonElement>('[data-facet]');
+        buttons.forEach((b, i) => b.setAttribute('aria-pressed', String(i === 0)));
+      }
+      apply();
+    });
+
+    emptyEl.hidden = true;
+  }
+</script>

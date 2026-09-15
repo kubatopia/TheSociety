@@ -21,7 +21,7 @@ const DECAP_CORE_WIDGETS = new Set([
   'text', 'uuid',
 ]);
 
-const REQUIRED_COLLECTIONS = ['articles', 'events', 'exhibits', 'board', 'minutes', 'pages', 'settings'];
+const REQUIRED_COLLECTIONS = ['archive', 'events', 'exhibits', 'board', 'minutes', 'pages', 'settings'];
 
 type Field = { widget?: string; fields?: Field[] };
 type Collection = { name?: string; fields?: Field[]; files?: Array<{ fields?: Field[] }> };

@@ -1,7 +1,10 @@
 ---
 title: "Looking Back: what happened here 100, 75, 50 and 25 years ago"
 date: 2026-09-15
-series: Looking Back
+type: Looking Back
+topics:
+  - Downtown and Main Street
+  - Families and people
 summary: The Society's daily column on Martinsville and Henry County — the stores and businesses, the clubs and churches, the politics and the big news, as it was.
 draft: false
 ---

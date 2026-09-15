@@ -24,8 +24,10 @@ export default defineConfig({
 
   // The section was called News before it became Articles.
   redirects: {
-    '/news': '/articles',
-    '/news/[id]': '/articles/[id]',
+    '/news': '/archive',
+    '/news/[id]': '/archive/[id]',
+    '/articles': '/archive',
+    '/articles/[id]': '/archive/[id]',
   },
 
   // Fonts are downloaded at build time and served from our own domain:

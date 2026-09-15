@@ -4,23 +4,38 @@ public_folder: /media
 
 
 collections:
-  - name: articles
-    label: Articles
-    label_singular: Article
-    folder: src/content/articles
+  - name: archive
+    label: Archive
+    label_singular: Archive entry
+    folder: src/content/archive
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: "{{date | date('MMM D, YYYY')}} — {{title}}"
-    sortable_fields: [date, title]
+    summary: "{{type}} — {{title}}"
+    sortable_fields: [date, title, type]
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Date, name: date, widget: datetime, format: YYYY-MM-DD, time_format: false }
-      - { label: Summary, name: summary, widget: text, required: false, hint: One or two sentences shown in listings. }
-      - { label: Series, name: series, widget: string, required: false, hint: 'e.g. Looking Back. Groups a recurring column.' }
-      - { label: Image, name: image, widget: image, required: false }
-      - { label: Image description, name: imageAlt, widget: string, required: false, hint: Describe the image for screen readers. }
-      - { label: Draft, name: draft, widget: boolean, default: false, hint: Drafts are not published to the site. }
-      - { label: Body, name: body, widget: markdown }
+      - label: Type
+        name: type
+        widget: select
+        default: Article
+        options: ['Looking Back', 'In the news', 'Article', 'Programme or video']
+        hint: The format. "In the news" is coverage on someone else's site.
+      - { label: Summary, name: summary, widget: text, required: false, hint: One or two sentences shown on the card. }
+      - label: Topics
+        name: topics
+        widget: list
+        required: false
+        allow_add: true
+        field: { label: Topic, name: topic, widget: string }
+        hint: 'Subjects, not exhibit names — e.g. Folk music, The courthouse, Downtown and Main Street, Schools, Churches, Railroads, Mills and manufacturing, Farms, Civil rights, Sport, Families. Reuse existing wording so entries group together.'
+      - { label: Link to the coverage, name: externalUrl, widget: string, required: false, hint: 'For "In the news" — the URL on the newspaper or station site.' }
+      - { label: Publication, name: publication, widget: string, required: false, hint: 'Who published it, e.g. Martinsville Bulletin.' }
+      - { label: Video link, name: videoUrl, widget: string, required: false, hint: 'For a programme or talk recording.' }
+      - { label: Photograph, name: image, widget: image, required: false }
+      - { label: Photo description, name: imageAlt, widget: string, required: false }
+      - { label: Draft, name: draft, widget: boolean, default: false }
+      - { label: Body, name: body, widget: markdown, required: false }
 
   - name: events
     label: Events

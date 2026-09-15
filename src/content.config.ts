@@ -14,19 +14,29 @@ const pages = defineCollection({
 });
 
 /**
- * Evergreen local history: the Looking Back column, features, videos.
- * Replaces the old news collection -- announcements that genuinely need a
- * date are events, and a second dated feed only went stale.
+ * The archive: one collection behind one browsable page.
+ *
+ * Type is the FORMAT (a Looking Back entry, a press clipping, an article, a
+ * programme). Topic is the SUBJECT (folk music, the courthouse, schools).
+ * Keeping them separate is what makes this a research surface rather than
+ * four lists -- one topic can carry an article, a video and a clipping.
  */
-const articles = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
+const archive = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/archive' }),
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
+    type: z
+      .enum(['Looking Back', 'In the news', 'Article', 'Programme or video'])
+      .default('Article'),
     summary: z.string().optional(),
-    /** e.g. "Looking Back" — groups a recurring column. */
-    series: z.string().optional(),
-    // Public path written by the CMS, e.g. /media/spring-tour.jpg
+    /** Subjects, free text so the list can grow without a code change. */
+    topics: z.array(z.string()).default([]),
+    /** Press coverage lives on someone else's site. */
+    externalUrl: z.string().optional(),
+    publication: z.string().optional(),
+    /** A talk or tour recording. */
+    videoUrl: z.string().optional(),
     image: z.string().optional(),
     imageAlt: z.string().optional(),
     draft: z.boolean().default(false),
@@ -91,4 +101,4 @@ const minutes = defineCollection({
   }),
 });
 
-export const collections = { pages, articles, events, exhibits, board, minutes };
+export const collections = { pages, archive, events, exhibits, board, minutes };

@@ -1,0 +1,73 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { formatDate } from '../../lib/dates';
+
+export async function getStaticPaths() {
+  // Press coverage lives on the publisher's site; those entries link straight
+  // out from the archive rather than getting a page here with nothing on it.
+  const entries = await getCollection(
+    'archive',
+    ({ data }) => !data.draft && !data.externalUrl,
+  );
+  return entries.map((entry) => ({ params: { id: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<BaseLayout title={entry.data.title} description={entry.data.summary}>
+  <article class="max-w-2xl">
+    <p class="label text-brick">{entry.data.type}</p>
+    <h1 class="mt-3 font-display text-4xl leading-tight sm:text-5xl">{entry.data.title}</h1>
+    <p class="mt-4 text-sm text-ink-muted">
+      {formatDate.format(entry.data.date)}
+      {entry.data.publication && ` · ${entry.data.publication}`}
+    </p>
+
+    {
+      entry.data.image && (
+        <img
+          src={entry.data.image}
+          alt={entry.data.imageAlt ?? ''}
+          loading="lazy"
+          decoding="async"
+          class="mt-8 w-full rounded-[1.125rem] object-cover"
+        />
+      )
+    }
+
+    {
+      entry.data.videoUrl && (
+        <p class="mt-8">
+          <a
+            href={entry.data.videoUrl}
+            rel="noopener"
+            target="_blank"
+            class="inline-block rounded-full bg-brick px-5 py-3 text-sm font-semibold text-card transition-colors hover:bg-brick-bright"
+          >
+            Watch the recording
+          </a>
+        </p>
+      )
+    }
+
+    <div class="prose mt-8"><Content /></div>
+
+    {
+      entry.data.topics.length > 0 && (
+        <div class="mt-10 border-t border-rule pt-6">
+          <h2 class="label text-brick">Topics</h2>
+          <ul class="mt-3 flex flex-wrap gap-2">
+            {entry.data.topics.map((topic) => (
+              <li class="rounded-full border border-rule bg-card px-3 py-1 text-sm text-ink-muted">{topic}</li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
+
+    <p class="mt-10"><a href="/archive" class="text-sm text-brick">&larr; Back to the archive</a></p>
+  </article>
+</BaseLayout>
