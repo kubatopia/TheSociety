@@ -11,7 +11,7 @@ draft: false
 
 UPDATE MADE ON SEPTEMBER 2: Because of forecasted high heat and potential rain, the Sounds on the Square featuring Rosebud Band originally set for Sept. 4 has been postponed to Saturday, Sept. 19.
 
-Savor the last of the season with Sounds on the Square’s final concert of the year - summer going out with a bang with Rosebud Band. The free concert will be from 7-10 p.m. Saturday, Sept. 5. Food and drinks will be available for purchase, and admission to the MHC Heritage Museum will be half price.
+Savor the last of the season with Sounds on the Square’s final concert of the year - summer going out with a bang with Rosebud Band. The free concert will be from 7-10 p.m. Saturday, Sept. 19. Food and drinks will be available for purchase, and admission to the MHC Heritage Museum will be half price.
 
 The Floyd-based band draws inspiration from long-form improvisation. Rosebud stretches each tune into a living, breathing experience. Members are Ryan Thaw on bass, William Hairston on guitar, Colin Cospel on guitar, Blaine Kaiser on drums and Will Tillery on keyboards.
 
