@@ -156,3 +156,4 @@ collections:
           - { label: Board meeting note, name: meetingNote, widget: text, required: false }
           - { label: Facebook URL, name: facebook, widget: string, required: false }
           - { label: Instagram URL, name: instagram, widget: string, required: false }
+          - { label: TikTok URL, name: tiktok, widget: string, required: false }

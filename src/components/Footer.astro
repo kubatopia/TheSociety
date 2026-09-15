@@ -1,6 +1,7 @@
 ---
 import site from '../data/site.json';
 import OpenStatus from './OpenStatus.astro';
+import SocialLinks from './SocialLinks.astro';
 import { summarise, closedDays, type OpeningDay } from '../lib/hours';
 
 const year = new Date().getFullYear();
@@ -45,21 +46,22 @@ const closed = closedDays(site.openingHours as OpeningDay[]);
 
     <div>
       <h2 class="label text-gold">The Society</h2>
-      <ul class="mt-3 space-y-1 text-sm">
+      <ul class="mt-3 space-y-1.5 text-sm">
+        <li>
+          <a href="/membership" class="font-semibold text-gold hover:text-parchment">Become a member</a>
+        </li>
         <li><a href="/about" class="text-parchment/70 hover:text-gold">About us</a></li>
         <li><a href="/board" class="text-parchment/70 hover:text-gold">Board &amp; committees</a></li>
         <li><a href="/minutes" class="text-parchment/70 hover:text-gold">Minutes &amp; documents</a></li>
-        <li><a href="/membership" class="text-parchment/70 hover:text-gold">Membership</a></li>
       </ul>
     </div>
 
     <div>
       <h2 class="label text-gold">Follow</h2>
-      <ul class="mt-3 space-y-1 text-sm">
-        {site.facebook && <li><a href={site.facebook} class="text-parchment/70 hover:text-gold">Facebook</a></li>}
-        {site.instagram && <li><a href={site.instagram} class="text-parchment/70 hover:text-gold">Instagram</a></li>}
-        <li><a href="/admin/" class="text-parchment/70 hover:text-gold">Board login</a></li>
-      </ul>
+      <div class="mt-3"><SocialLinks /></div>
+      <p class="mt-4 text-sm">
+        <a href="/admin/" class="text-parchment/70 hover:text-gold">Board login</a>
+      </p>
     </div>
   </div>
 
