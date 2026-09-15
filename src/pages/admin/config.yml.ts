@@ -1,4 +1,5 @@
 import type { APIRoute } from 'astro';
+import { parse } from 'yaml';
 import collections from '../../cms/collections.yml?raw';
 
 /**
@@ -29,6 +30,29 @@ site_url: ${origin}
 publish_mode: simple
 
 ${collections}`;
+
+  // Fail the build rather than shipping a config the CMS cannot read. Sveltia
+  // parses strictly -- a duplicate key between the generated header and
+  // collections.yml is silently tolerated by looser parsers but shows up in the
+  // browser only as "The configuration file could not be parsed."
+  let parsed: Record<string, unknown>;
+  try {
+    parsed = parse(yaml) as Record<string, unknown>;
+  } catch (error) {
+    throw new Error(
+      `src/cms/collections.yml produced invalid CMS config: ${(error as Error).message}`,
+    );
+  }
+
+  const expected = ['news', 'events', 'board', 'minutes', 'pages', 'settings'];
+  const found = (parsed.collections as Array<{ name: string }> | undefined)?.map((c) => c.name) ?? [];
+  const missing = expected.filter((name) => !found.includes(name));
+  if (missing.length > 0) {
+    throw new Error(`CMS config is missing collection(s): ${missing.join(', ')}`);
+  }
+  if (!parsed.backend || !(parsed.backend as { base_url?: string }).base_url) {
+    throw new Error('CMS config has no backend.base_url — is PUBLIC_SITE_URL set?');
+  }
 
   return new Response(yaml, {
     headers: {
