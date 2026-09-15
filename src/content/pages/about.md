@@ -13,9 +13,20 @@ History informs, inspires, and defines us. It represents what we are, what we ha
 been, and what we aspire to be. The Martinsville-Henry County Historical Society
 exists to preserve that record and to share it with the community.
 
-The Society was formed in 1996 to save the former Henry County courthouse from
-demolition after the county vacated it. Today the building operates as the MHC
-Heritage Center & Museum.
+## The building
+
+The courthouse was built in 1824 and significantly expanded in 1929. When the
+county retired it from use in 1996, the building faced an uncertain future — and
+the Martinsville-Henry County Historical Society was formed to preserve it.
+
+Turning a working courthouse into a museum took years. The result is a building
+that still reads as a courthouse, which is most of the point. The grounds are a
+Garden Club of Virginia historic restoration site.
+
+![The courthouse square at dusk, with the museum lit](/media/courthouse-square-dusk.jpg)
+
+What is on show inside — the King Collections, the exhibits and the historic
+courtroom — is listed on the [Exhibits page](/exhibits).
 
 ## What we do
 

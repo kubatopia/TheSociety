@@ -27,14 +27,12 @@ const sections = [
   { id: 'courthouse', label: 'Exhibits in the courthouse' },
   { id: 'courtroom', label: 'The historic courtroom' },
   ...(temporary.length > 0 ? [{ id: 'temporary', label: 'Temporary exhibits' }] : []),
-  { id: 'saved', label: 'How the courthouse was saved' },
-  { id: 'garden-club', label: 'Garden Club restoration site' },
   { id: 'also', label: 'Also here' },
 ];
 ---
 
 <BaseLayout
-  title="The Museum"
+  title="Exhibits"
   description="The King Collections, the exhibits in the 1824 courthouse, and the historic courtroom upstairs."
 >
   <figure class="mb-12">
@@ -54,12 +52,12 @@ const sections = [
   <header class="mb-14">
     <p class="label text-brick">The Heritage Center &amp; Museum</p>
     <h1 class="mt-3 max-w-[20ch] font-display text-4xl leading-[1.06] sm:text-5xl lg:text-6xl">
-      A courthouse built in 1824, and everything it has watched over since
+      Everything a courthouse built in 1824 has watched over since
     </h1>
     <p class="mt-5 max-w-2xl text-lg leading-relaxed text-ink-muted">
-      The former Henry County courthouse was expanded in 1929 and retired from county use in 1996,
-      when the Society formed to preserve it. Everything below is open on a standard visit —
-      including the historic courtroom upstairs and the annex behind.
+      Everything below is open on a standard visit — the King Collections in the annex behind, the
+      exhibits through the old courthouse, and the historic courtroom upstairs. The story of the
+      building itself is on <a href="/about" class="text-brick underline underline-offset-4 hover:text-brick-bright">the Society's page</a>.
     </p>
   </header>
 
@@ -181,40 +179,6 @@ const sections = [
           </section>
         )
       }
-
-      <!-- ============ History ============ -->
-      <section id="saved" class="mt-20 scroll-mt-28">
-        <h2 class="font-display text-3xl leading-tight sm:text-4xl">How the courthouse was saved</h2>
-        <div class="mt-5 max-w-2xl space-y-4 text-lg leading-relaxed text-ink-muted">
-          <p>
-            The courthouse was built in 1824 and significantly expanded in 1929. When the county
-            retired it from use in 1996, the building faced an uncertain future — and the
-            Martinsville-Henry County Historical Society was formed to preserve it.
-          </p>
-          <p>
-            Turning a working courthouse into a museum took years. The result is a building that
-            still reads as a courthouse, which is most of the point.
-          </p>
-        </div>
-
-        <figure class="mt-8">
-          <img
-            src="/media/courthouse-square-dusk.jpg"
-            alt="The courthouse square at dusk, with the museum lit"
-            class="w-full rounded-[1.125rem] object-cover"
-            loading="lazy"
-            decoding="async"
-          />
-          <figcaption class="mt-3 text-sm text-ink-muted">The square at dusk.</figcaption>
-        </figure>
-      </section>
-
-      <section id="garden-club" class="mt-20 scroll-mt-28">
-        <h2 class="font-display text-3xl leading-tight sm:text-4xl">A Garden Club of Virginia restoration site</h2>
-        <p class="mt-4 max-w-2xl text-lg leading-relaxed text-ink-muted">
-          The grounds are a Garden Club of Virginia historic restoration site.
-        </p>
-      </section>
 
       <!--
         Rentals, groups and the shop are visitor logistics, so they live on
