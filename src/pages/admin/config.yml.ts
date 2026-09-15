@@ -52,19 +52,41 @@ export const GET: APIRoute = ({ site }) => {
    * OAuth endpoints in src/pages/api/. Unset the variable in Vercel to roll
    * back in a single redeploy.
    */
+  /**
+   * With a DecapBridge site id we speak git-gateway with PKCE auth, and
+   * DecapBridge handles identity: a board member accepts an email invitation
+   * and signs in with Google, never touching GitHub.
+   *
+   * Without one we fall back to Sveltia against GitHub directly, using the
+   * OAuth endpoints in src/pages/api/. Unset the variable in Vercel to roll
+   * back in a single redeploy.
+   *
+   * The author-name / author-login placeholders are DecapBridge's: they put
+   * the actual editor in the commit message, so the repo history says who
+   * changed what.
+   */
   const backend = bridgeSiteId
     ? `backend:
   name: git-gateway
   repo: kubatopia/TheSociety
   branch: main
-  identity_url: https://auth.decapbridge.com/sites/${bridgeSiteId}
+  auth_type: pkce
+  base_url: https://auth.decapbridge.com
+  auth_endpoint: /sites/${bridgeSiteId}/pkce
+  auth_token_endpoint: /sites/${bridgeSiteId}/token
   gateway_url: https://gateway.decapbridge.com
   commit_messages:
-    create: 'Create {{collection}} "{{slug}}"'
-    update: 'Update {{collection}} "{{slug}}"'
-    delete: 'Delete {{collection}} "{{slug}}"'
-    uploadMedia: 'Upload {{path}}'
-    deleteMedia: 'Delete {{path}}'`
+    create: 'Create {{collection}} \u201c{{slug}}\u201d - {{author-name}} <{{author-login}}> via DecapBridge'
+    update: 'Update {{collection}} \u201c{{slug}}\u201d - {{author-name}} <{{author-login}}> via DecapBridge'
+    delete: 'Delete {{collection}} \u201c{{slug}}\u201d - {{author-name}} <{{author-login}}> via DecapBridge'
+    uploadMedia: 'Upload \u201c{{path}}\u201d - {{author-name}} <{{author-login}}> via DecapBridge'
+    deleteMedia: 'Delete \u201c{{path}}\u201d - {{author-name}} <{{author-login}}> via DecapBridge'
+
+auth:
+  email_claim: email
+  first_name_claim: first_name
+  last_name_claim: last_name
+  avatar_url_claim: avatar_url`
     : `backend:
   name: github
   repo: kubatopia/TheSociety
@@ -120,8 +142,8 @@ ${collections}`;
   if (!parsed.backend) {
     throw new Error('CMS config has no backend block.');
   }
-  if (bridgeSiteId && !parsed.backend.identity_url) {
-    throw new Error('DecapBridge backend has no identity_url — is DECAPBRIDGE_SITE_ID valid?');
+  if (bridgeSiteId && !parsed.backend.auth_endpoint?.includes(bridgeSiteId)) {
+    throw new Error('DecapBridge backend auth_endpoint does not carry the site id — is DECAPBRIDGE_SITE_ID valid?');
   }
   if (!bridgeSiteId && !parsed.backend.base_url) {
     throw new Error('GitHub backend has no base_url — is PUBLIC_SITE_URL set?');

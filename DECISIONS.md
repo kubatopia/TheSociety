@@ -46,8 +46,16 @@ variable, so the switch is reversible without touching code:
 
 | `DECAPBRIDGE_SITE_ID` | Editor | Sign-in |
 | --- | --- | --- |
-| set | Decap CMS 3.16.2 | DecapBridge — email invite, then Google |
+| set | Decap CMS 3.16.2 | DecapBridge PKCE — email invite, then Google |
 | unset | Sveltia CMS | GitHub OAuth via `src/pages/api/` |
+
+DecapBridge offers two auth types. We use **PKCE**, which is the one that
+supports Login with Google and needs Decap 3.8.3 or above. The generated
+backend block is diffed field by field against the snippet DecapBridge issues.
+
+The GitHub access token held by DecapBridge needs **Contents** and **Pull
+requests** read-write, scoped to this repository only. If that token expires,
+every CMS save fails — with nothing in the UI explaining why.
 
 Unset it in Vercel and redeploy to roll back.
 
