@@ -5,7 +5,16 @@ import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 
 // TODO: replace with the real domain once DNS is pointed from Squarespace.
-const SITE = process.env.PUBLIC_SITE_URL ?? 'https://the-society.vercel.app';
+const FALLBACK_SITE = 'https://the-society.vercel.app';
+
+/**
+ * Hosts commonly define an env var with an empty value as a placeholder, so
+ * `??` is not enough here -- an empty string would sail through and fail
+ * Astro's URL validation at config time. Only take the override when it is
+ * actually a URL.
+ */
+const override = process.env.PUBLIC_SITE_URL?.trim();
+const SITE = override && URL.canParse(override) ? override : FALLBACK_SITE;
 
 export default defineConfig({
   site: SITE,
