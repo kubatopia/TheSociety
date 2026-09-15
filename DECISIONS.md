@@ -7,7 +7,7 @@ Newest first.
 
 ## DECISION-001 — Board members will sign in with Google, not GitHub
 
-**Status:** implemented, awaiting a live test with a board member
+**Status:** implemented and live; fallback removed 15 September 2026
 **Decided:** 15 September 2026
 
 ### The requirement
@@ -44,10 +44,9 @@ board is invited.
 The editor is chosen at build time by the `DECAPBRIDGE_SITE_ID` environment
 variable, so the switch is reversible without touching code:
 
-| `DECAPBRIDGE_SITE_ID` | Editor | Sign-in |
-| --- | --- | --- |
-| set | Decap CMS 3.16.2 | DecapBridge PKCE — email invite, then Google |
-| unset | Sveltia CMS | GitHub OAuth via `src/pages/api/` |
+Sveltia and the GitHub OAuth endpoints were kept as a fallback during the
+switchover and have since been removed. To restore them, revert the commit that
+deleted `src/pages/api/`.
 
 DecapBridge offers two auth types. We use **PKCE**, which is the one that
 supports Login with Google and needs Decap 3.8.3 or above. The generated
@@ -70,16 +69,18 @@ Audited 15 September 2026 — widgets in use are `boolean`, `datetime`, `file`,
 
 ### Remaining work
 
-Done: the switchable editor, the git-gateway backend, the Decap shell, and the
-build guard.
+Done: the Decap shell, the PKCE git-gateway backend, the build guard, and
+removal of the Sveltia + GitHub OAuth fallback.
 
-Still to do, once a board member has signed in with Google and saved an edit:
+Outstanding, and safe to do once a board member has saved an edit successfully:
 
-1. Delete `src/pages/api/auth.ts` and `src/pages/api/callback.ts`.
-2. Delete the `GITHUB_OAUTH_ID` / `GITHUB_OAUTH_SECRET` Vercel variables.
-3. Delete the "MHC Historical Society CMS" GitHub OAuth app.
-4. Remove the Sveltia branch from `src/pages/admin/index.astro`.
+1. Delete the `GITHUB_OAUTH_ID` and `GITHUB_OAUTH_SECRET` Vercel variables.
+   They are already inert — nothing reads them.
+2. Delete the "MHC Historical Society CMS" GitHub OAuth app.
 
-Keep the fallback until that test passes — do not remove it sooner.
+**Not yet verified:** an actual save through the gateway. Signing in proves
+identity; saving is the first thing that exercises the GitHub token's write
+permission, which was created Read-only and later corrected. Confirm one save
+before inviting the wider board.
 
 Free for 10 collaborators; $9/month or $199 once beyond that.

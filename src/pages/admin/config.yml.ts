@@ -3,14 +3,16 @@ import { parse } from 'yaml';
 import collections from '../../cms/collections.yml?raw';
 
 /**
- * The CMS config is generated rather than hand-written, so two things live in
- * exactly one place each:
+ * The CMS config is generated rather than hand-written so the deployed origin
+ * lives in exactly one place: PUBLIC_SITE_URL (see astro.config.mjs).
  *
- *   PUBLIC_SITE_URL      the deployed origin
- *   DECAPBRIDGE_SITE_ID  which editor and sign-in method to use
- *
- * See DECISIONS.md (DECISION-001).
+ * The DecapBridge site id is not a secret -- it is served to every browser in
+ * this very file -- so it is checked in rather than hidden in an env var that
+ * can go missing. DECAPBRIDGE_SITE_ID overrides it if a second site ever needs
+ * to point at a different bridge.
  */
+const BRIDGE_SITE_ID =
+  process.env.DECAPBRIDGE_SITE_ID?.trim() || '995e38c3-13d7-415d-acfa-d6b483c6f5a9';
 
 /** Widgets shipped by Decap CMS core. */
 const DECAP_CORE_WIDGETS = new Set([
@@ -41,39 +43,23 @@ const widgetsIn = (collectionList: Collection[]): Set<string> => {
 
 export const GET: APIRoute = ({ site }) => {
   const origin = site?.origin ?? '';
-  const bridgeSiteId = process.env.DECAPBRIDGE_SITE_ID?.trim();
 
   /**
-   * With a DecapBridge site id we speak git-gateway and DecapBridge handles
-   * identity: board members accept an email invitation and sign in with
-   * Google, never touching GitHub.
-   *
-   * Without one we fall back to Sveltia against GitHub directly, using the
-   * OAuth endpoints in src/pages/api/. Unset the variable in Vercel to roll
-   * back in a single redeploy.
-   */
-  /**
-   * With a DecapBridge site id we speak git-gateway with PKCE auth, and
-   * DecapBridge handles identity: a board member accepts an email invitation
-   * and signs in with Google, never touching GitHub.
-   *
-   * Without one we fall back to Sveltia against GitHub directly, using the
-   * OAuth endpoints in src/pages/api/. Unset the variable in Vercel to roll
-   * back in a single redeploy.
+   * DecapBridge handles identity and commits on the editor's behalf, so no
+   * board member needs a git account.
    *
    * The author-name / author-login placeholders are DecapBridge's: they put
    * the actual editor in the commit message, so the repo history says who
-   * changed what.
+   * changed what rather than showing a row of identical gateway commits.
    */
-  const backend = bridgeSiteId
-    ? `backend:
+  const backend = `backend:
   name: git-gateway
   repo: kubatopia/TheSociety
   branch: main
   auth_type: pkce
   base_url: https://auth.decapbridge.com
-  auth_endpoint: /sites/${bridgeSiteId}/pkce
-  auth_token_endpoint: /sites/${bridgeSiteId}/token
+  auth_endpoint: /sites/${BRIDGE_SITE_ID}/pkce
+  auth_token_endpoint: /sites/${BRIDGE_SITE_ID}/token
   gateway_url: https://gateway.decapbridge.com
   commit_messages:
     create: 'Create {{collection}} \u201c{{slug}}\u201d - {{author-name}} <{{author-login}}> via DecapBridge'
@@ -86,18 +72,12 @@ auth:
   email_claim: email
   first_name_claim: first_name
   last_name_claim: last_name
-  avatar_url_claim: avatar_url`
-    : `backend:
-  name: github
-  repo: kubatopia/TheSociety
-  branch: main
-  base_url: ${origin}
-  auth_endpoint: api/auth`;
+  avatar_url_claim: avatar_url`;
 
   const yaml = `# CMS configuration -- GENERATED AT BUILD TIME. Do not edit by hand.
 # Collections and fields:  src/cms/collections.yml
 # Site origin:             PUBLIC_SITE_URL
-# Editor and sign-in:      DECAPBRIDGE_SITE_ID (set = Decap + Google, unset = Sveltia + GitHub)
+# Editor and sign-in:      Decap CMS + DecapBridge (Google), see DECISIONS.md
 
 ${backend}
 
@@ -110,7 +90,7 @@ ${collections}`;
   // Fail the build rather than ship a config the CMS cannot read. Both editors
   // parse strictly; a duplicate key is tolerated by looser parsers but surfaces
   // in the browser only as "The configuration file could not be parsed."
-  let parsed: { backend?: Record<string, string>; collections?: Collection[] };
+  let parsed: { backend?: Record<string, string>; collections?: Collection[]; site_url?: string };
   try {
     parsed = parse(yaml);
   } catch (error) {
@@ -142,11 +122,11 @@ ${collections}`;
   if (!parsed.backend) {
     throw new Error('CMS config has no backend block.');
   }
-  if (bridgeSiteId && !parsed.backend.auth_endpoint?.includes(bridgeSiteId)) {
-    throw new Error('DecapBridge backend auth_endpoint does not carry the site id — is DECAPBRIDGE_SITE_ID valid?');
+  if (!parsed.backend.auth_endpoint?.includes(BRIDGE_SITE_ID)) {
+    throw new Error('DecapBridge backend auth_endpoint does not carry the site id.');
   }
-  if (!bridgeSiteId && !parsed.backend.base_url) {
-    throw new Error('GitHub backend has no base_url — is PUBLIC_SITE_URL set?');
+  if (!parsed.site_url) {
+    throw new Error('CMS config has no site_url — is PUBLIC_SITE_URL set?');
   }
 
   return new Response(yaml, {

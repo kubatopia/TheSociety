@@ -39,28 +39,30 @@ a clear error naming the file and field.
 
 ## Giving a board member access
 
-1. They create a free GitHub account.
-2. Add them to this repo: **Settings → Collaborators → Add people**, role `Write`.
-3. They go to `https://<domain>/admin/` and click *Sign in with GitHub*.
+Board members do **not** need a GitHub account.
 
-Removing their collaborator access removes their ability to edit the site.
+1. Go to [DecapBridge](https://decapbridge.com) → this site → **Manage collaborators**.
+2. Enter their email address and send the invitation.
+3. They accept, sign in with Google, and land in the CMS at `/admin/`.
+
+Remove them from the same screen to revoke access. Commits carry the editor's
+name, so repo history shows who changed what.
 
 ## Deployment
 
 Hosted on Vercel, connected to this repo. Pushes to `main` deploy to production.
 
-Required environment variables (Vercel → Project → Settings → Environment
-Variables), used only by the CMS login endpoints:
+One environment variable is required (Vercel → Project → Settings →
+Environment Variables):
 
 | Name | Value |
 | --- | --- |
-| `GITHUB_OAUTH_ID` | Client ID of the GitHub OAuth app |
-| `GITHUB_OAUTH_SECRET` | Client secret of the GitHub OAuth app |
 | `PUBLIC_SITE_URL` | `https://<production domain>` |
 
-The GitHub OAuth app (github.com → Settings → Developer settings → OAuth Apps)
-needs its **Authorization callback URL** set to
-`https://<production domain>/api/callback`.
+Editor sign-in is handled entirely by DecapBridge, which holds a GitHub token
+scoped to this repository with **Contents** and **Pull requests** read-write.
+If that token expires, every CMS save fails with nothing in the UI to explain
+why — check it there first.
 
 When the custom domain goes live, change `PUBLIC_SITE_URL` in Vercel and
 redeploy. That single value drives canonical links, the sitemap, `robots.txt`
@@ -71,9 +73,7 @@ default in `astro.config.mjs` rather than failing.
 
 ## Architecture notes
 
-- The site builds to static HTML. Only `/api/auth` and `/api/callback` run on
-  demand — they are the OAuth handshake that lets the CMS sign board members in
-  against GitHub, so no OAuth secrets ever reach the browser.
+- The site builds to static HTML, with no server-side routes of its own.
 - Images referenced from CMS uploads are plain paths under `/media/`. They are
   served as uploaded rather than passed through Astro's image optimizer, which
   cannot process files in `public/`.

@@ -3,16 +3,13 @@
 Astro 7 + Tailwind 4 + Sveltia CMS, deployed on Vercel. Static output; the only
 on-demand routes are the two OAuth endpoints under `src/pages/api/`.
 
-## Open decision, keep it in view
+## Editors never touch GitHub
 
-Board members will move to **Google sign-in via email invitation** (Decap CMS +
-DecapBridge). GitHub accounts are not acceptable for a non-technical board.
-Implement it **after** design and content strategy are settled — see
-`DECISIONS.md` (DECISION-001).
+Board members sign in with **Google**, via a DecapBridge email invitation. No
+GitHub accounts — the board is non-technical. See `DECISIONS.md` (DECISION-001).
 
-Until then, keep `src/cms/collections.yml` inside **Decap's core widget set** so
-that migration stays a config change. The build enforces this and will fail with
-a pointer to the decision if a non-core widget appears.
+Keep `src/cms/collections.yml` inside **Decap's core widget set**; the build
+fails with a pointer to the decision if a non-core widget appears.
 
 ## Rules of the road
 
@@ -21,8 +18,6 @@ a pointer to the decision if a non-core widget appears.
   added to one and not the other breaks either the build or the editor.
 - Never use `astro:assets` `<Image>` for CMS-uploaded media. Those files land in
   `public/media/` and Astro's optimizer cannot process `public/`. Plain `<img>`.
-- `GITHUB_OAUTH_ID` / `GITHUB_OAUTH_SECRET` are server-only. Do not prefix them
-  with `PUBLIC_` and do not read them from client-side code.
 - The production origin lives in ONE place: the `PUBLIC_SITE_URL` env var.
   `/admin/config.yml` and `/robots.txt` are generated from it at build time.
   Never hard-code a domain in a file.
