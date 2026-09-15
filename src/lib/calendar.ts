@@ -49,7 +49,13 @@ const span = (event: CalendarEvent) => {
   return { start: utcStamp(event.start), end: utcStamp(end), dateOnly: false };
 };
 
-/** A "save this to Google Calendar" link, prefilled. */
+/**
+ * A "save this to Google Calendar" link, prefilled.
+ *
+ * Google's TEMPLATE URL accepts text, dates, details and location and nothing
+ * else -- there is no parameter for a picture, so the poster cannot travel
+ * this way. Only the .ics file can carry one.
+ */
 export const googleCalendarUrl = (event: CalendarEvent, pageUrl: string) => {
   const { start, end } = span(event);
   const params = new URLSearchParams({
@@ -102,6 +108,13 @@ interface IcsOptions {
   /** Globally unique and stable across rebuilds, so re-imports update. */
   uid: string;
   pageUrl: string;
+  /**
+   * Absolute URL of the event's poster. Written as an RFC 7986 IMAGE property,
+   * which Apple Calendar reads and Google Calendar ignores outright; our
+   * posters are also .webp, which few calendar clients decode. Harmless and
+   * correct, so it is included, but nobody should expect to see it.
+   */
+  imageUrl?: string;
   /** Overridable so tests are not tied to the build clock. */
   stamp?: Date;
 }
@@ -126,6 +139,9 @@ export const icsFor = (event: CalendarEvent, options: IcsOptions) => {
   ];
 
   if (event.location) lines.push(`LOCATION:${escapeText(event.location)}`);
+  if (options.imageUrl) {
+    lines.push(`IMAGE;VALUE=URI;DISPLAY=BADGE:${escapeText(options.imageUrl)}`);
+  }
 
   const description = [event.summary, options.pageUrl].filter(Boolean).join('\n\n');
   if (description) lines.push(`DESCRIPTION:${escapeText(description)}`);

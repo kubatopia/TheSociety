@@ -28,7 +28,11 @@ export const GET: APIRoute = ({ props, site }) => {
       location: event.data.location,
       summary: event.data.summary,
     },
-    { uid, pageUrl },
+    {
+      uid,
+      pageUrl,
+      imageUrl: site && event.data.image ? new URL(event.data.image, site).href : undefined,
+    },
   );
 
   return new Response(body, {
