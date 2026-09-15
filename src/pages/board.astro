@@ -11,6 +11,44 @@ const members = (await getCollection('board')).sort(
 <BaseLayout title="Board & Committees" description="The people who serve the Society.">
   <PageHeading title="Board & Committees" lede="The volunteers who serve the Society." />
 
+  <section class="mb-14 max-w-2xl">
+    {/* Carried over when the About page was folded away: the Society's own framing. */}
+    <blockquote class="border-l-2 border-gold pl-5 font-display text-xl leading-snug text-ink-muted">
+      <p>&ldquo;I know of no way of judging the future than by the past.&rdquo;</p>
+      <footer class="mt-2 text-base">
+        &mdash; Patrick Henry (1736&ndash;1799), Founding Father, Virginia Governor and Henry County planter
+      </footer>
+    </blockquote>
+    <p class="mt-6 leading-relaxed text-ink-muted">
+      History informs, inspires, and defines us. It represents what we are, what we have been, and
+      what we aspire to be. The Martinsville-Henry County Historical Society exists to preserve
+      that record and to share it with the community.
+    </p>
+
+    <h2 class="mt-10 font-display text-2xl">What the Society does</h2>
+    <ul class="mt-4 space-y-2 leading-relaxed text-ink-muted">
+      {
+        [
+          'Operates the Heritage Center & Museum at 1 East Main Street',
+          'Cares for the King Collections in the annex behind the museum',
+          'Publishes Looking Back, a daily column on what happened here 100, 75, 50 and 25 years ago',
+          'Runs a programme of lectures, tours and the Sounds on the Square summer music series',
+          'Gives talks and tours to schools and community groups',
+        ].map((item) => (
+          <li class="flex gap-2.5">
+            <span class="mt-2.5 h-1 w-1 flex-none rounded-full bg-gold" aria-hidden="true" />
+            {item}
+          </li>
+        ))
+      }
+    </ul>
+    <p class="mt-6 leading-relaxed text-ink-muted">
+      The Society is governed by the elected board below. Board meetings are open to the public,
+      and approved <a href="/minutes" class="text-brick underline underline-offset-4 hover:text-brick-bright">minutes</a>
+      are posted on this site.
+    </p>
+  </section>
+
   {
     members.length === 0 ? (
       <p class="text-ink-muted">The roster has not been published yet.</p>

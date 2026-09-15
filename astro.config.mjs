@@ -22,10 +22,11 @@ export default defineConfig({
   adapter: vercel(),
   integrations: [sitemap()],
 
-  // The section was called News before it became Articles, and the museum page
-  // was called Museum before the building's own story moved to /about.
+  // The section was called News before it became Articles. The museum page was
+  // briefly called Exhibits; anyone who caught that name still lands.
   redirects: {
-    '/museum': '/exhibits',
+    '/exhibits': '/museum',
+    '/about': '/museum',
     '/news': '/archive',
     '/news/[id]': '/archive/[id]',
     '/articles': '/archive',
