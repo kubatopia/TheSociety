@@ -3,6 +3,17 @@
 Astro 7 + Tailwind 4 + Sveltia CMS, deployed on Vercel. Static output; the only
 on-demand routes are the two OAuth endpoints under `src/pages/api/`.
 
+## Open decision, keep it in view
+
+Board members will move to **Google sign-in via email invitation** (Decap CMS +
+DecapBridge). GitHub accounts are not acceptable for a non-technical board.
+Implement it **after** design and content strategy are settled — see
+`DECISIONS.md` (DECISION-001).
+
+Until then, keep `src/cms/collections.yml` inside **Decap's core widget set** so
+that migration stays a config change. The build enforces this and will fail with
+a pointer to the decision if a non-core widget appears.
+
 ## Rules of the road
 
 - Content schemas live in `src/content.config.ts`. The CMS form that writes that

@@ -44,6 +44,39 @@ ${collections}`;
     );
   }
 
+  // DECISION-001: editors will move to Decap + DecapBridge so board members can
+  // sign in with Google rather than GitHub. Keeping the config inside Decap's
+  // core widget set means that swap stays a config change, not a rewrite. If you
+  // need a widget below, you are choosing to make the migration harder --
+  // that is a decision to take deliberately, not to discover later.
+  const DECAP_CORE_WIDGETS = new Set([
+    'boolean', 'code', 'color', 'datetime', 'file', 'hidden', 'image', 'list',
+    'map', 'markdown', 'number', 'object', 'relation', 'select', 'string',
+    'text', 'uuid',
+  ]);
+
+  const widgetsUsed = new Set<string>();
+  const collectWidgets = (fields: Array<{ widget?: string; fields?: unknown }> = []) => {
+    for (const field of fields) {
+      if (field.widget) widgetsUsed.add(field.widget);
+      if (Array.isArray(field.fields)) collectWidgets(field.fields as typeof fields);
+    }
+  };
+  for (const collection of (parsed.collections as Array<Record<string, unknown>>) ?? []) {
+    collectWidgets(collection.fields as Parameters<typeof collectWidgets>[0]);
+    for (const file of (collection.files as Array<Record<string, unknown>>) ?? []) {
+      collectWidgets(file.fields as Parameters<typeof collectWidgets>[0]);
+    }
+  }
+  const sveltiaOnly = [...widgetsUsed].filter((w) => !DECAP_CORE_WIDGETS.has(w));
+  if (sveltiaOnly.length > 0) {
+    throw new Error(
+      `src/cms/collections.yml uses widget(s) outside Decap's core set: ${sveltiaOnly.join(', ')}. ` +
+        `See DECISIONS.md (DECISION-001) — we are staying Decap-compatible so editors can ` +
+        `move to Google sign-in. Pick a core widget, or amend the decision first.`,
+    );
+  }
+
   const expected = ['news', 'events', 'board', 'minutes', 'pages', 'settings'];
   const found = (parsed.collections as Array<{ name: string }> | undefined)?.map((c) => c.name) ?? [];
   const missing = expected.filter((name) => !found.includes(name));
