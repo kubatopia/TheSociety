@@ -1,0 +1,37 @@
+---
+/**
+ * The CMS shell.
+ *
+ * Which editor loads is decided by one environment variable, so the switch to
+ * Google sign-in is reversible without a code change (see DECISIONS.md):
+ *
+ *   DECAPBRIDGE_SITE_ID set    -> Decap CMS + DecapBridge.
+ *                                 Board members accept an email invitation and
+ *                                 sign in with Google. No GitHub account.
+ *
+ *   DECAPBRIDGE_SITE_ID unset  -> Sveltia CMS + our own GitHub OAuth endpoints.
+ *                                 Requires a GitHub account. The fallback.
+ *
+ * Unset the variable in Vercel and redeploy to roll back.
+ */
+const useBridge = Boolean(process.env.DECAPBRIDGE_SITE_ID?.trim());
+
+const SVELTIA = 'https://unpkg.com/@sveltia/cms@0.212.2/dist/sveltia-cms.js';
+// DecapBridge needs > 3.8.3 for "Login with Google".
+const DECAP = 'https://unpkg.com/decap-cms@3.16.2/dist/decap-cms.js';
+
+const script = useBridge ? DECAP : SVELTIA;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>Content — MHC Historical Society</title>
+  </head>
+  <body>
+    <script src={script} is:inline></script>
+  </body>
+</html>

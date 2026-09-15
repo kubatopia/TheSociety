@@ -7,7 +7,7 @@ Newest first.
 
 ## DECISION-001 — Board members will sign in with Google, not GitHub
 
-**Status:** accepted, not yet implemented
+**Status:** implemented, awaiting a live test with a board member
 **Decided:** 15 September 2026
 
 ### The requirement
@@ -38,8 +38,18 @@ editor and sign-in, not a change of content model.
 
 ### When
 
-**After** the design and content strategy are settled — not before. Sveltia with
-GitHub sign-in is adequate while a single technical person is the only editor.
+Brought forward on 15 September 2026 so the flow could be tested before the
+board is invited.
+
+The editor is chosen at build time by the `DECAPBRIDGE_SITE_ID` environment
+variable, so the switch is reversible without touching code:
+
+| `DECAPBRIDGE_SITE_ID` | Editor | Sign-in |
+| --- | --- | --- |
+| set | Decap CMS 3.16.2 | DecapBridge — email invite, then Google |
+| unset | Sveltia CMS | GitHub OAuth via `src/pages/api/` |
+
+Unset it in Vercel and redeploy to roll back.
 
 ### What this constrains in the meantime
 
@@ -50,15 +60,18 @@ fails if a non-core widget appears (see `src/pages/admin/config.yml.ts`).
 Audited 15 September 2026 — widgets in use are `boolean`, `datetime`, `file`,
 `image`, `markdown`, `number`, `select`, `string`, `text`. All Decap core.
 
-### The migration, when we do it
+### Remaining work
 
-1. Create the site in DecapBridge, connect the GitHub repository.
-2. Swap the script tag in `public/admin/index.html` to Decap CMS.
-3. Replace the generated `backend:` block in `src/pages/admin/config.yml.ts`
-   with the DecapBridge backend.
-4. Delete `src/pages/api/auth.ts` and `src/pages/api/callback.ts`.
-5. Delete the `GITHUB_OAUTH_ID` / `GITHUB_OAUTH_SECRET` Vercel variables and the
-   GitHub OAuth app.
-6. Invite one board member by email and have them edit a page end to end.
+Done: the switchable editor, the git-gateway backend, the Decap shell, and the
+build guard.
 
-Roughly an hour. Free for 10 collaborators; $9/month or $199 once beyond that.
+Still to do, once a board member has signed in with Google and saved an edit:
+
+1. Delete `src/pages/api/auth.ts` and `src/pages/api/callback.ts`.
+2. Delete the `GITHUB_OAUTH_ID` / `GITHUB_OAUTH_SECRET` Vercel variables.
+3. Delete the "MHC Historical Society CMS" GitHub OAuth app.
+4. Remove the Sveltia branch from `src/pages/admin/index.astro`.
+
+Keep the fallback until that test passes — do not remove it sooner.
+
+Free for 10 collaborators; $9/month or $199 once beyond that.
