@@ -18,10 +18,10 @@ const sections = [
   { id: 'getting-here', label: 'Getting here' },
   site.parking && { id: 'parking', label: 'Parking' },
   site.admission && { id: 'admission', label: 'Admission' },
-  { id: 'hour', label: 'If you only have an hour' },
   site.accessibility && { id: 'accessibility', label: 'Accessibility' },
   { id: 'groups', label: 'Groups and schools' },
   { id: 'rentals', label: 'Renting the building' },
+  { id: 'shop', label: 'The gift shop' },
 ].filter(Boolean) as Array<{ id: string; label: string }>;
 ---
 
@@ -90,40 +90,6 @@ const sections = [
           </section>
         )
       }
-
-      <!-- The out-of-town visitor's real question, answered concretely. -->
-      <section id="hour" class="mt-14 scroll-mt-28">
-        <h2 class="font-display text-3xl">If you only have an hour</h2>
-        <p class="mt-4 max-w-2xl leading-relaxed text-ink-muted">
-          Most people allow longer once they are inside, but if you are passing through:
-        </p>
-        <ol class="mt-6 max-w-2xl space-y-5 border-t border-rule">
-          {
-            [
-              {
-                title: 'Start in the annex',
-                body: 'The King Collections are the reason most people come back. Give them half your time.',
-              },
-              {
-                title: 'Then the courtroom upstairs',
-                body: 'Left much as it was when the county moved out in 1996.',
-              },
-              {
-                title: 'Finish with the industries',
-                body: 'NASCAR, furniture and tobacco — the three things that made Henry County what it is.',
-              },
-            ].map((step, index) => (
-              <li class="flex gap-4 border-b border-rule pb-5">
-                <span class="label mt-1 text-gold tabular-nums">{String(index + 1).padStart(2, '0')}</span>
-                <div>
-                  <h3 class="font-display text-xl leading-snug">{step.title}</h3>
-                  <p class="mt-1 leading-relaxed text-ink-muted">{step.body}</p>
-                </div>
-              </li>
-            ))
-          }
-        </ol>
-      </section>
 
       {
         site.accessibility && (
@@ -195,6 +161,20 @@ const sections = [
             Ask about hiring the building
           </a>
         </p>
+      </section>
+      <section id="shop" class="mt-14 scroll-mt-28">
+        <h2 class="font-display text-3xl">The gift shop</h2>
+        <div class="mt-4 max-w-2xl space-y-4 leading-relaxed text-ink-muted">
+          <p>
+            The Heritage gift shop carries books on Martinsville and Henry County history —
+            including titles you will not easily find elsewhere — alongside toys, sundries and
+            small gifts.
+          </p>
+          <p>
+            It is just inside the entrance, so you can browse without paying for admission, and
+            everything it takes goes back into running the museum.
+          </p>
+        </div>
       </section>
     </div>
 

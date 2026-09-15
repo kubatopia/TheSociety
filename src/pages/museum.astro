@@ -29,8 +29,7 @@ const sections = [
   ...(temporary.length > 0 ? [{ id: 'temporary', label: 'Temporary exhibits' }] : []),
   { id: 'saved', label: 'How the courthouse was saved' },
   { id: 'garden-club', label: 'Garden Club restoration site' },
-  { id: 'rentals', label: 'Renting the building' },
-  { id: 'shop', label: 'Heritage gift shop' },
+  { id: 'also', label: 'Also here' },
 ];
 ---
 
@@ -217,24 +216,40 @@ const sections = [
         </p>
       </section>
 
-      <section id="rentals" class="mt-20 scroll-mt-28">
-        <h2 class="font-display text-3xl leading-tight sm:text-4xl">Renting the building</h2>
-        <p class="mt-4 max-w-2xl text-lg leading-relaxed text-ink-muted">
-          The building is available for weddings, meetings, reunions and shows. Contact the Society
-          for rates and availability.
-        </p>
-        <p class="mt-5">
-          <a href="/visit" class="font-medium text-brick underline underline-offset-4 hover:text-brick-bright">
-            Contact and directions
-          </a>
-        </p>
-      </section>
-
-      <section id="shop" class="mt-20 scroll-mt-28">
-        <h2 class="font-display text-3xl leading-tight sm:text-4xl">Heritage gift shop</h2>
-        <p class="mt-4 max-w-2xl text-lg leading-relaxed text-ink-muted">
-          Books on local history, along with toys and sundries. Proceeds support the museum.
-        </p>
+      <!--
+        Rentals, groups and the shop are visitor logistics, so they live on
+        /visit. Pointers rather than copies: duplicated prose drifts apart.
+      -->
+      <section id="also" class="mt-20 scroll-mt-28">
+        <h2 class="font-display text-3xl leading-tight sm:text-4xl">Also here</h2>
+        <ul class="mt-6 divide-y divide-rule border-y border-rule">
+          {
+            [
+              {
+                href: '/visit#groups',
+                title: 'Tours for groups and schools',
+                body: 'Guided tours and talks on local topics, during opening hours or outside them.',
+              },
+              {
+                href: '/visit#rentals',
+                title: 'Renting the building',
+                body: 'Weddings, receptions, meetings, reunions and shows in a working piece of county history.',
+              },
+              {
+                href: '/visit#shop',
+                title: 'The Heritage gift shop',
+                body: 'Books on local history, toys and sundries. Just inside the entrance.',
+              },
+            ].map((item) => (
+              <li class="py-5">
+                <h3 class="font-display text-xl leading-snug">
+                  <a href={item.href} class="hover:text-brick">{item.title}</a>
+                </h3>
+                <p class="mt-1 leading-relaxed text-ink-muted">{item.body}</p>
+              </li>
+            ))
+          }
+        </ul>
       </section>
 
       <!-- Practical close: the page ends where a decision gets made. -->
