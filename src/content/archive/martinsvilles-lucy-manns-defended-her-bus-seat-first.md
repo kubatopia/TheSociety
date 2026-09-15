@@ -4,7 +4,7 @@ date: 2024-09-15
 type: Article
 author: "Holly Kozelsky"
 summary: "Six years before Rosa Parks, Martinsville had Lucy Manns. In October 1949 Manns, who lived on Amy Avenue, boarded a Trailways bus from Martinsville to Mount Airy and took a seat…"
-image: /media/archive/martinsvilles-lucy-manns-defended-her-bus-seat-first.jpg
+image: /media/archive/martinsvilles-lucy-manns-defended-her-bus-seat-first.webp
 imageAlt: "Martinsville’s Lucy Manns defended her bus seat first"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/martinsvilles-lucy-manns-defended-her-bus-seat-first
 draft: false

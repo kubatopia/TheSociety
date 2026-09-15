@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "By Virginia King, May 15, 2018 Many of us old-timers remember the Globman’s department store on Church Street. It was a favorite place to get everything from shoes to china. It…"
 topics:
   - Churches and congregations
-image: /media/archive/the-role-the-jewish-community-played-in-martinsville.jpg
+image: /media/archive/the-role-the-jewish-community-played-in-martinsville.webp
 imageAlt: "The Role the Jewish Community Played in Martinsville"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/the-role-the-jewish-community-played-in-martinsville
 draft: false

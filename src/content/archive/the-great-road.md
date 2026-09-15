@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "By Dr. Barry Dorsey, May 15, 2018 Transportation has always been an issue in this country. Even today, individual states along with the national government can’t build or repair…"
 topics:
   - Roads and travel
-image: /media/archive/the-great-road.jpg
+image: /media/archive/the-great-road.webp
 imageAlt: "The Great Road"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/the-great-road
 draft: false

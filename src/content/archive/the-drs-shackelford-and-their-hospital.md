@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "Oct. 8, 2009 Dr. Jesse Martin Shackelford, MD, was born on December 7, 1869, and reared in Irisburg, Virginia, the son of William George and Pattie Martin Shackelford, a direct…"
 topics:
   - Medicine and health
-image: /media/archive/the-drs-shackelford-and-their-hospital.jpg
+image: /media/archive/the-drs-shackelford-and-their-hospital.webp
 imageAlt: "The Drs. Shackelford and their hospital"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/the-drs-shackelford-and-their-hospital
 draft: false

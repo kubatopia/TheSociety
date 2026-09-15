@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "Oct. 6, 2009 Revolutionary War Army Officer, Virginia planter/farmer, husband, father, and devoted son. Brice was the son of our Immigrant Martin ancestor, Joseph Martin, Sr.,…"
 topics:
   - Families and people
-image: /media/archive/major-bryce-martin.jpeg
+image: /media/archive/major-bryce-martin.webp
 imageAlt: "Major Bryce Martin"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/major-bryce-martin
 draft: false

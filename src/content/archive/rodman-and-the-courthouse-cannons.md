@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "By Johnny E. Nolen, May 15, 2018 In the year 1841, Thomas Jackson Rodman graduated from West Point Military Academy; number 7 in his class of 52. His first assignment from West…"
 topics:
   - The courthouse
-image: /media/archive/rodman-and-the-courthouse-cannons.jpg
+image: /media/archive/rodman-and-the-courthouse-cannons.webp
 imageAlt: "Rodman and the Courthouse Cannons"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/rodman-and-the-courthouse-cannons
 draft: false

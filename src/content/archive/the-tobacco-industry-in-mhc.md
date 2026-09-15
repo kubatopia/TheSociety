@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "By Steve Rucker, May 15, 2018 In Henry County, tobacco was the chief agricultural crop for nearly two centuries and was the backbone of the economy for almost 150 years. Henry…"
 topics:
   - Tobacco trade
-image: /media/archive/the-tobacco-industry-in-mhc.jpg
+image: /media/archive/the-tobacco-industry-in-mhc.webp
 imageAlt: "The tobacco industry in MHC"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/the-tobacco-industry-in-mhc
 draft: false

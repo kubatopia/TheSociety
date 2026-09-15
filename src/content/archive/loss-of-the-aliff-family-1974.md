@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "Vernon Darrell would have been 52 today, Dec. 26, 2024. James would have been 54, Charlotte would have been 58 and Peggy would have been 60. Their mother, Sally Davis Aliff, would…"
 topics:
   - Families and people
-image: /media/archive/loss-of-the-aliff-family-1974.jpg
+image: /media/archive/loss-of-the-aliff-family-1974.webp
 imageAlt: "Loss of the Aliff family, 1974"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/loss-of-the-aliff-family-1974
 draft: false

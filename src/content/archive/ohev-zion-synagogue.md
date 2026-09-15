@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "By Holly Kozelsky, Nov. 27, 2023 Over its nearly 100 years, the Ohev Zion Synagogue in Martinsville has gone through the stages of growth, strength, and decline – and appears to…"
 topics:
   - Churches and congregations
-image: /media/archive/ohev-zion-synagogue.jpg
+image: /media/archive/ohev-zion-synagogue.webp
 imageAlt: "Ohev Zion Synagogue"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/ohev-zion-synagogue
 draft: false

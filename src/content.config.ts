@@ -61,6 +61,8 @@ const events = defineCollection({
     location: z.string().optional(),
     summary: z.string().optional(),
     rsvpUrl: z.url().optional(),
+    image: z.string().optional(),
+    imageAlt: z.string().optional(),
     draft: z.boolean().default(false),
   }),
 });

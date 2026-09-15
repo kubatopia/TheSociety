@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "Four Martinsville lunch counters were integrated on August 8, 1961, in a coordinated effort to end segregation. The incidents leading to the integration were written about in the…"
 topics:
   - Civil rights
-image: /media/archive/martinsville-lunch-counter-integration.jpg
+image: /media/archive/martinsville-lunch-counter-integration.webp
 imageAlt: "Martinsville lunch counter integration"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/martinsville-lunch-counter-integration
 draft: false

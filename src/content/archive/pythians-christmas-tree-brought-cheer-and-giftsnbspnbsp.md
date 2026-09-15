@@ -4,7 +4,7 @@ date: 2024-11-07
 type: Article
 author: "Holly Kozelsky"
 summary: "For 62 years, the Knights of Pythias, whose building was right across the road from the Henry County Courthouse, hosted a Christmas tree and gift-giving for Martinsville children.…"
-image: /media/archive/pythians-christmas-tree-brought-cheer-and-giftsnbspnbsp.jpg
+image: /media/archive/pythians-christmas-tree-brought-cheer-and-giftsnbspnbsp.webp
 imageAlt: "Pythians’ Christmas tree brought cheer and gifts"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/pythians-christmas-tree-brought-cheer-and-giftsnbspnbsp
 draft: false

@@ -30,6 +30,14 @@ const topics = [...topicCounts.entries()].sort(
 /** Press coverage lives elsewhere, so its card links straight out. */
 const hrefFor = (entry: (typeof entries)[number]) =>
   entry.data.externalUrl || `/archive/${entry.id}`;
+
+/**
+ * Rendering every entry produced a 956KB page. The first screenful is served
+ * as HTML so the page is fast and crawlable; everything else arrives from
+ * /archive/index.json the moment someone searches, filters or asks for more.
+ */
+const INITIAL = 48;
+const visible = entries.slice(0, INITIAL);
 ---
 
 <BaseLayout
@@ -88,7 +96,7 @@ const hrefFor = (entry: (typeof entries)[number]) =>
       <p class="text-ink-muted">Nothing published yet.</p>
     ) : (
       <ul class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3" data-archive-grid>
-        {entries.map((entry) => (
+        {visible.map((entry) => (
           <li
             class="group relative flex flex-col"
             data-entry
@@ -144,6 +152,20 @@ const hrefFor = (entry: (typeof entries)[number]) =>
     )
   }
 
+  {
+    entries.length > INITIAL && (
+      <p class="mt-10 text-center">
+        <button
+          type="button"
+          data-show-more
+          class="rounded-full border border-rule bg-card px-6 py-3 text-sm font-semibold transition-colors hover:border-brick hover:text-brick"
+        >
+          Show more
+        </button>
+      </p>
+    )
+  }
+
   <p class="mt-10 hidden text-ink-muted" data-empty-state>
     Nothing matches that. <button type="button" class="text-brick underline underline-offset-4" data-clear>Clear the filters</button>.
   </p>
@@ -174,41 +196,82 @@ const hrefFor = (entry: (typeof entries)[number]) =>
 </style>
 
 <script>
-  /**
-   * Filtering happens in the browser over cards that are already in the HTML.
-   * No search index to build or ship, everything stays crawlable, and it works
-   * the moment the page paints. Worth revisiting past a few thousand entries.
-   */
+  type Item = {
+    h: string; t: string; y: string; d: string; s: string;
+    o: string[]; a: string; p: string; i: string; f: number;
+  };
+
+  const PAGE = 48;
+
   const search = document.querySelector<HTMLInputElement>('#archive-search');
   const grid = document.querySelector<HTMLElement>('[data-archive-grid]');
   const countEl = document.querySelector<HTMLElement>('[data-result-count]');
   const emptyEl = document.querySelector<HTMLElement>('[data-empty-state]');
+  const moreBtn = document.querySelector<HTMLButtonElement>('[data-show-more]');
 
   if (search && grid && countEl && emptyEl) {
-    const entries = [...grid.querySelectorAll<HTMLElement>('[data-entry]')];
-    const groups = [...document.querySelectorAll<HTMLElement>('[data-facet-group]')];
     const chosen: Record<string, string> = { type: '', topic: '' };
+    let index: Item[] | null = null;
+    let shown = PAGE;
 
-    const apply = () => {
-      const term = search.value.trim().toLowerCase();
-      let shown = 0;
+    const dateFmt = new Intl.DateTimeFormat('en-US', { dateStyle: 'long', timeZone: 'UTC' });
 
-      for (const entry of entries) {
-        const topics = (entry.dataset.topics ?? '').split('|').filter(Boolean);
-        const matches =
-          (!chosen.type || entry.dataset.type === chosen.type) &&
-          (!chosen.topic || topics.includes(chosen.topic)) &&
-          (!term || (entry.dataset.search ?? '').includes(term));
-
-        entry.hidden = !matches;
-        if (matches) shown += 1;
+    /** Pulled in only when someone actually searches, filters or asks for more. */
+    const ensureIndex = async () => {
+      if (!index) {
+        const response = await fetch('/archive/index.json');
+        index = (await response.json()) as Item[];
       }
-
-      countEl.textContent = `${shown} ${shown === 1 ? 'entry' : 'entries'}`;
-      emptyEl.hidden = shown > 0;
+      return index;
     };
 
-    for (const group of groups) {
+    const matches = (item: Item, term: string) =>
+      (!chosen.type || item.y === chosen.type) &&
+      (!chosen.topic || item.o.includes(chosen.topic)) &&
+      (!term ||
+        `${item.t} ${item.s} ${item.o.join(' ')} ${item.y} ${item.a} ${item.p} ${item.d}`
+          .toLowerCase()
+          .includes(term));
+
+    const card = (item: Item) => {
+      const li = document.createElement('li');
+      li.className = 'group relative flex flex-col';
+      const external = !item.h.startsWith('/');
+      li.innerHTML = `
+        ${
+          item.i
+            ? `<img src="${item.i}" alt="" loading="lazy" decoding="async" class="mb-3 aspect-4/3 w-full rounded-lg object-cover">`
+            : '<div class="mb-3 aspect-4/3 w-full rounded-lg border border-rule bg-parchment-deep"></div>'
+        }
+        <p class="label flex flex-wrap items-center gap-x-2 text-brick">${item.y}${
+          item.f ? ' <span class="text-gold">&middot; Featured</span>' : ''
+        }</p>
+        <h2 class="mt-1.5 font-display text-xl leading-snug">
+          <a href="${item.h}" class="after:absolute after:inset-0 group-hover:text-brick"${
+            external ? ' rel="noopener" target="_blank"' : ''
+          }>${item.t}</a>
+        </h2>
+        <p class="mt-1 text-sm text-ink-muted">${dateFmt.format(new Date(item.d))}${
+          item.a ? ` · ${item.a}` : ''
+        }${item.p ? ` · ${item.p}` : ''}</p>
+        ${item.s ? `<p class="mt-2 text-sm leading-relaxed text-ink-muted">${item.s}</p>` : ''}`;
+      return li;
+    };
+
+    const paint = async () => {
+      const term = search.value.trim().toLowerCase();
+      const filtering = Boolean(term || chosen.type || chosen.topic);
+      const all = await ensureIndex();
+      const hits = all.filter((item) => matches(item, term));
+      const slice = filtering ? hits : hits.slice(0, shown);
+
+      grid.replaceChildren(...slice.map(card));
+      countEl.textContent = `${hits.length} ${hits.length === 1 ? 'entry' : 'entries'}`;
+      emptyEl.hidden = hits.length > 0;
+      if (moreBtn) moreBtn.hidden = filtering || shown >= hits.length;
+    };
+
+    for (const group of document.querySelectorAll<HTMLElement>('[data-facet-group]')) {
       const key = group.dataset.facetGroup ?? '';
       group.addEventListener('click', (event) => {
         const button = (event.target as HTMLElement).closest<HTMLButtonElement>('[data-facet]');
@@ -217,21 +280,30 @@ const hrefFor = (entry: (typeof entries)[number]) =>
         for (const other of group.querySelectorAll<HTMLButtonElement>('[data-facet]')) {
           other.setAttribute('aria-pressed', String(other === button));
         }
-        apply();
+        void paint();
       });
     }
 
-    search.addEventListener('input', apply);
+    let timer: number;
+    search.addEventListener('input', () => {
+      window.clearTimeout(timer);
+      timer = window.setTimeout(() => void paint(), 120);
+    });
+
+    moreBtn?.addEventListener('click', () => {
+      shown += PAGE;
+      void paint();
+    });
 
     document.querySelector('[data-clear]')?.addEventListener('click', () => {
       search.value = '';
-      for (const group of groups) {
-        const key = group.dataset.facetGroup ?? '';
-        chosen[key] = '';
-        const buttons = group.querySelectorAll<HTMLButtonElement>('[data-facet]');
-        buttons.forEach((b, i) => b.setAttribute('aria-pressed', String(i === 0)));
+      shown = PAGE;
+      for (const group of document.querySelectorAll<HTMLElement>('[data-facet-group]')) {
+        chosen[group.dataset.facetGroup ?? ''] = '';
+        group.querySelectorAll<HTMLButtonElement>('[data-facet]')
+          .forEach((b, i) => b.setAttribute('aria-pressed', String(i === 0)));
       }
-      apply();
+      void paint();
     });
 
     emptyEl.hidden = true;

@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "The unique product in which Martinsville leads the world was celebrated Sunday during the Martinsville-Henry County Historical Society’s Founders Day program. Film production in…"
 topics:
   - Families and people
-image: /media/archive/julius-hermes-martin-processing-now-eastman-and-a-top-world-producer.jpg
+image: /media/archive/julius-hermes-martin-processing-now-eastman-and-a-top-world-producer.webp
 imageAlt: "Julius Hermes’ Martin Processing now Eastman and a top world producer"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/julius-hermes-martin-processing-now-eastman-and-a-top-world-producer
 draft: false

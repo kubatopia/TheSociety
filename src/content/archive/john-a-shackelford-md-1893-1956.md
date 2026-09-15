@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "Oct. 6, 2009 John Armstrong Shackelford, MD, was born in Irisburg, Virginia, 1893, and attended school in Martinsville. He attended Hampden-Sydney College where he was President…"
 topics:
   - Medicine and health
-image: /media/archive/john-a-shackelford-md-1893-1956.jpg
+image: /media/archive/john-a-shackelford-md-1893-1956.webp
 imageAlt: "John A. Shackelford, MD, 1893-1956"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/john-a-shackelford-md-1893-1956
 draft: false

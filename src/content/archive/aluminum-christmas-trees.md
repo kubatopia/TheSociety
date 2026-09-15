@@ -4,7 +4,7 @@ date: 2023-12-19
 type: Article
 author: "Holly Kozelsky"
 summary: "Among the seven differently styled Christmas trees you’ll see at the Martinsville-Henry County Heritage Center & Museum is a classic aluminum tree. While Christmas trees come in…"
-image: /media/archive/aluminum-christmas-trees.jpg
+image: /media/archive/aluminum-christmas-trees.webp
 imageAlt: "Aluminum Christmas Trees"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/aluminum-christmas-trees
 draft: false

@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "By Virginia King, June 15, 2018 We have all heard of the famous Greenbrier and Homestead hotels, but did you know that Ridgeway had a popular mineral springs hotel at one time?…"
 topics:
   - Downtown and Main Street
-image: /media/archive/the-mineral-springs-hotel-of-ridgeway.jpg
+image: /media/archive/the-mineral-springs-hotel-of-ridgeway.webp
 imageAlt: "The mineral springs hotel of Ridgeway"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/the-mineral-springs-hotel-of-ridgeway
 draft: false

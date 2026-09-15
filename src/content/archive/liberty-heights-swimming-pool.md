@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "By Virginia King, July 14, 2018 How did people stay cool in the summers of the 1920s? At that point, Fairystone Park and Philpott Lake had not been built yet. Some may have…"
 topics:
   - Leisure and sport
-image: /media/archive/liberty-heights-swimming-pool.jpg
+image: /media/archive/liberty-heights-swimming-pool.webp
 imageAlt: "Liberty Heights Swimming Pool"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/liberty-heights-swimming-pool
 draft: false

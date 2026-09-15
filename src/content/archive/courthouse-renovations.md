@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "Dec. 21, 2010 The restoration of the Historic Henry County Courthouse is now complete thanks to a Save America’s Treasures grant, a Harvest Foundation grant, the County of Henry,…"
 topics:
   - The courthouse
-image: /media/archive/courthouse-renovations.jpg
+image: /media/archive/courthouse-renovations.webp
 imageAlt: "Courthouse renovations"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/courthouse-renovations
 draft: false

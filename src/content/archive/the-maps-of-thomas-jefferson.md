@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "If you live in northwestern Henry County, it’s only by a near miss that you don’t have to say you live on Wart Mountain. That’s the original English name of Chestnut Knob. Another…"
 topics:
   - Roads and travel
-image: /media/archive/the-maps-of-thomas-jefferson.jpg
+image: /media/archive/the-maps-of-thomas-jefferson.webp
 imageAlt: "The Maps of Thomas Jefferson"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/the-maps-of-thomas-jefferson
 draft: false

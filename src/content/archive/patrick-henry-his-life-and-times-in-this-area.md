@@ -4,7 +4,7 @@ date: 2023-12-04
 type: Article
 author: "Holly Kozelsky"
 summary: "By Dr. Barry M. Dorsey, May 15, 2018 An oil portrait of Patrick Henry hangs in the courtroom of the Old Courthouse in uptown Martinsville. The picture is a reminder not only of…"
-image: /media/archive/patrick-henry-his-life-and-times-in-this-area.jpg
+image: /media/archive/patrick-henry-his-life-and-times-in-this-area.webp
 imageAlt: "Patrick Henry: His Life and Times in This Area"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/patrick-henry-his-life-and-times-in-this-area
 draft: false

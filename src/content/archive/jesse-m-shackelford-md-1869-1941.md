@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "Oct. 6, 2009 Born December 7, 1869 Died October 2, 1941 Dr. Shackelford was born and reared in Irisburg, Virginia, the son of William George and Pattie Martin Shackelford, a…"
 topics:
   - Medicine and health
-image: /media/archive/jesse-m-shackelford-md-1869-1941.jpg
+image: /media/archive/jesse-m-shackelford-md-1869-1941.webp
 imageAlt: "Jesse M. Shackelford, MD, 1869-1941"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/jesse-m-shackelford-md-1869-1941
 draft: false

@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "By Dr. Barry Dorsey, May 15, 2018 The roles of frontier women were, among others, to serve as wives, mothers, and housekeepers. They found it impossible to escape their…"
 topics:
   - Families and people
-image: /media/archive/frontier-women-held-families-together.jpg
+image: /media/archive/frontier-women-held-families-together.webp
 imageAlt: "Frontier women held families together"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/frontier-women-held-families-together
 draft: false

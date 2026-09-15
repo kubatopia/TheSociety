@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: " On January 28, 1985, the Henry County Board of Supervisors held a meeting to permit the erecting of a War Memorial at the Henry County Courthouse in honor of the veterans of the…"
 topics:
   - The courthouse
-image: /media/archive/war-memorial-monument.jpg
+image: /media/archive/war-memorial-monument.webp
 imageAlt: "War Memorial Monument"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/war-memorial-monument
 draft: false

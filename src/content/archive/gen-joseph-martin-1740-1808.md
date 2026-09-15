@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "Whatever the reason, General Joseph Martin has been undeservedly forgotten, and as an act of historical justice I am appealed to write this sketch of him to re-emphasize the…"
 topics:
   - Families and people
-image: /media/archive/gen-joseph-martin-1740-1808.jpg
+image: /media/archive/gen-joseph-martin-1740-1808.webp
 imageAlt: "Gen. Joseph Martin 1740 – 1808"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/gen-joseph-martin-1740-1808
 draft: false

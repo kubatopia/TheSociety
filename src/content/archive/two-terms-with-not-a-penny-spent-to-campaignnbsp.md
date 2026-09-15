@@ -4,7 +4,7 @@ date: 2026-03-05
 type: Article
 author: "Holly Kozelsky"
 summary: "When Mrs. Sallie C. Booker (1857-1944) of Martinsville was 69 years old, she was recruited by her former students, who had become leaders of industry and business, to run for the…"
-image: /media/archive/two-terms-with-not-a-penny-spent-to-campaignnbsp.jpg
+image: /media/archive/two-terms-with-not-a-penny-spent-to-campaignnbsp.webp
 imageAlt: "Two terms with not a penny spent to campaign"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/two-terms-with-not-a-penny-spent-to-campaignnbsp
 draft: false

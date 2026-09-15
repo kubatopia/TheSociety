@@ -4,7 +4,7 @@ date: 2024-01-04
 type: Article
 author: "Holly Kozelsky"
 summary: "By Dr. Barry Dorsey, March 11, 2018 This area has a rich history. It was a stop along the Great Road, through which thousands of immigrants traveled. It was the home of Patrick…"
-image: /media/archive/early-leaders-paved-the-way-for-henry-county.jpg
+image: /media/archive/early-leaders-paved-the-way-for-henry-county.webp
 imageAlt: "Early leaders paved the way for Henry County"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/early-leaders-paved-the-way-for-henry-county
 draft: false

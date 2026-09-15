@@ -4,7 +4,7 @@ date: 2024-02-09
 type: Article
 author: "Holly Kozelsky"
 summary: "Aurora, also known as the “Pink House,” is a favorite site in Patrick County, close to Spencer. Aurora is listed on the Virginia Landmarks Register (1990) and the National…"
-image: /media/archive/aurora-the-pink-house.jpg
+image: /media/archive/aurora-the-pink-house.webp
 imageAlt: "Aurora (the Pink House)"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/aurora-the-pink-house
 draft: false

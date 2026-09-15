@@ -56,6 +56,8 @@ collections:
       - { label: Location, name: location, widget: string, required: false }
       - { label: Summary, name: summary, widget: text, required: false }
       - { label: RSVP link, name: rsvpUrl, widget: string, required: false, pattern: ['^https?://', 'Must start with http:// or https://'] }
+      - { label: Photograph, name: image, widget: image, required: false }
+      - { label: Photo description, name: imageAlt, widget: string, required: false }
       - { label: Draft, name: draft, widget: boolean, default: false }
       - { label: Details, name: body, widget: markdown, required: false }
 

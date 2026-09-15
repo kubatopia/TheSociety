@@ -4,7 +4,7 @@ date: 2023-12-04
 type: Article
 author: "Holly Kozelsky"
 summary: "By Douglas Kyle Frith, Oct. 6, 2009 “A Story About a Boy Going to Town” Introduction: Doug Frith (1931-2013) was an attorney who lived most of his life in Martinsville and Henry…"
-image: /media/archive/the-olden-days-and-more.jpg
+image: /media/archive/the-olden-days-and-more.webp
 imageAlt: "“The Olden Days and More”"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/the-olden-days-and-more
 draft: false

@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "Secrets abound below ground at 1 E. Main St., the former Henry County Courthouse. The courthouse has a cellar divided into two separate chambers, each accessed by its own door at…"
 topics:
   - The courthouse
-image: /media/archive/secrets-under-the-courthouse.jpg
+image: /media/archive/secrets-under-the-courthouse.webp
 imageAlt: "Secrets under the courthouse"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/secrets-under-the-courthouse
 draft: false

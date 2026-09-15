@@ -4,7 +4,7 @@ date: 2023-12-04
 type: Article
 author: "Holly Kozelsky"
 summary: "Oct. 6, 2009 Abo Gleibman was born in 1894 in Ozarich, Russia. He came to the United States in 1911, through Ellis Islan, when he was 16 years old. He came off the boat with $25…"
-image: /media/archive/globmans.jpg
+image: /media/archive/globmans.webp
 imageAlt: "Globman’s"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/globmans
 draft: false

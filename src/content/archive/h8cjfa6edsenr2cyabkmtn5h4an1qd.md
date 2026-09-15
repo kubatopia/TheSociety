@@ -4,7 +4,7 @@ date: 2023-11-28
 type: Article
 author: "Holly Kozelsky"
 summary: "By the Martinsville-Henry County Historical Society The National Highway was created as part of the Glidden Tours. The Glidden Tours began in 1904 as a way to give people along…"
-image: /media/archive/h8cjfa6edsenr2cyabkmtn5h4an1qd.jpeg
+image: /media/archive/h8cjfa6edsenr2cyabkmtn5h4an1qd.webp
 imageAlt: "National Highway and Glidden Tours"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/h8cjfa6edsenr2cyabkmtn5h4an1qd
 draft: false

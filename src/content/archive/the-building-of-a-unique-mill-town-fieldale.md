@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "By Bea Bullard, May 15, 2018 In the early 1900s, Marshall Field and Company wanted to expand their textile operations from North Carolina to another location. So they chose this…"
 topics:
   - Mills and manufacturing
-image: /media/archive/the-building-of-a-unique-mill-town-fieldale.jpeg
+image: /media/archive/the-building-of-a-unique-mill-town-fieldale.webp
 imageAlt: "The building of a unique mill town: Fieldale"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/the-building-of-a-unique-mill-town-fieldale
 draft: false

@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "Chief Tassel “Old Tassel” was a beloved statesman and chief of the Overhill Cherokee, whose name became synonymous with integrity and truth. He was a friend of Gen. Joseph Martin…"
 topics:
   - Families and people
-image: /media/archive/chief-tassel-address-to-general-joseph-martin.jpg
+image: /media/archive/chief-tassel-address-to-general-joseph-martin.webp
 imageAlt: "Chief Tassel Address to General Joseph Martin"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/chief-tassel-address-to-general-joseph-martin
 draft: false

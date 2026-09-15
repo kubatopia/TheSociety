@@ -4,7 +4,7 @@ date: 2023-12-04
 type: Article
 author: "Holly Kozelsky"
 summary: "By Virginia King, March 31, 2018 C. B. Bryant 1842-1915 “Charles B. Bryant was one of the most brilliant men and unique characters that ever lived in Henry County.” That was…"
-image: /media/archive/cb-bryant-left-his-mark.jpg
+image: /media/archive/cb-bryant-left-his-mark.webp
 imageAlt: "C.B. Bryant left his mark"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/cb-bryant-left-his-mark
 draft: false

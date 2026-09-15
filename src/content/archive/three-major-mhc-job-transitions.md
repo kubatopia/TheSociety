@@ -4,7 +4,7 @@ date: 2023-12-04
 type: Article
 author: "Holly Kozelsky"
 summary: "By Dr. Barry M. Dorsey, May 15, 2018 From its inception in October 1776, Henry County—and the entire region–have undergone at least three major job transitions, along with several…"
-image: /media/archive/three-major-mhc-job-transitions.png
+image: /media/archive/three-major-mhc-job-transitions.webp
 imageAlt: "Three major MHC job transitions"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/three-major-mhc-job-transitions
 draft: false

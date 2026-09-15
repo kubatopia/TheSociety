@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "By Virginia King, May 15, 2018 Free public education was not available in colonial days. Wealthy planters in Colonial Virginia either hired a tutor, sent them to a private school…"
 topics:
   - Schools
-image: /media/archive/early-education-in-henry-county.jpg
+image: /media/archive/early-education-in-henry-county.webp
 imageAlt: "Early education in Henry County"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/early-education-in-henry-county
 draft: false

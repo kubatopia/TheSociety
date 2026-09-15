@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "By Doug Stegall History in the weeds. Melvin Parcell’s favorite hobby is making walking canes, When I visited him he gave me one and also wanted me to see his garden, especially…"
 topics:
   - Tobacco trade
-image: /media/archive/the-brown-tobacco-warehouse-bell.jpg
+image: /media/archive/the-brown-tobacco-warehouse-bell.webp
 imageAlt: "The Brown Tobacco Warehouse Bell"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/the-brown-tobacco-warehouse-bell
 draft: false

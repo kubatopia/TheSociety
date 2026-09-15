@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "By Jarred Marlowe - June 6, 2021 When one often thinks of key figures of the Revolutionary War time period, names like Washington, Lafayette, and Jefferson come to mind. While…"
 topics:
   - Families and people
-image: /media/archive/general-joseph-martin-biography.jpg
+image: /media/archive/general-joseph-martin-biography.webp
 imageAlt: "General Joseph Martin Biography"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/general-joseph-martin-biography
 draft: false

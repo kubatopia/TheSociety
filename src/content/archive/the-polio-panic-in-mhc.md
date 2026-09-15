@@ -6,7 +6,7 @@ author: "Holly Kozelsky"
 summary: "It’s one thing to read about topics in history in summation, years after they happened. It’s entirely another to see history unfold as it happens, so to speak, by reading daily…"
 topics:
   - Medicine and health
-image: /media/archive/the-polio-panic-in-mhc.png
+image: /media/archive/the-polio-panic-in-mhc.webp
 imageAlt: "The polio panic in MHC"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/the-polio-panic-in-mhc
 draft: false

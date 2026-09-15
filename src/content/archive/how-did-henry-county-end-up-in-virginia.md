@@ -4,7 +4,7 @@ date: 2024-01-04
 type: Article
 author: "Holly Kozelsky"
 summary: "By Joyce Staples, July 25, 2017 MARTINSVILLE- Inquiring minds may wonder how the states of our nation were divided, especially Virginia and North Carolina, considering Henry…"
-image: /media/archive/how-did-henry-county-end-up-in-virginia.jpg
+image: /media/archive/how-did-henry-county-end-up-in-virginia.webp
 imageAlt: "How did Henry County end up in Virginia?"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/how-did-henry-county-end-up-in-virginia
 draft: false

@@ -4,7 +4,7 @@ date: 2023-12-04
 type: Article
 author: "Holly Kozelsky"
 summary: "By Avis Turner, Aug. 7, 2018 I was born in my grandmother’s house on a hill in downtown Bassett. She rented two houses from the Bassett family. She lived in one house and kept…"
-image: /media/archive/avis-carter-turner-growing-up-in-bassett.jpg
+image: /media/archive/avis-carter-turner-growing-up-in-bassett.webp
 imageAlt: "Avis Carter Turner: Growing up in Bassett"
 sourceUrl: https://www.mhchistoricalsociety.org/articles/avis-carter-turner-growing-up-in-bassett
 draft: false
