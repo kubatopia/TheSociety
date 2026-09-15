@@ -10,11 +10,11 @@ collections:
     folder: src/content/news
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: '{{date}} — {{title}}'
+    summary: "{{date | date('MMM D, YYYY')}} — {{title}}"
     sortable_fields: [date, title]
     fields:
       - { label: Title, name: title, widget: string }
-      - { label: Date, name: date, widget: datetime, format: yyyy-MM-dd, time_format: false }
+      - { label: Date, name: date, widget: datetime, format: YYYY-MM-DD, time_format: false }
       - { label: Summary, name: summary, widget: text, required: false, hint: One or two sentences shown in listings. }
       - { label: Image, name: image, widget: image, required: false }
       - { label: Image description, name: imageAlt, widget: string, required: false, hint: Describe the image for screen readers. }
@@ -27,7 +27,7 @@ collections:
     folder: src/content/events
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: '{{start}} — {{title}}'
+    summary: "{{start | date('MMM D, YYYY')}} — {{title}}"
     sortable_fields: [start, title]
     fields:
       - { label: Title, name: title, widget: string }
@@ -64,11 +64,11 @@ collections:
     folder: src/content/minutes
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: '{{date}} — {{title}}'
+    summary: "{{date | date('MMM D, YYYY')}} — {{title}}"
     sortable_fields: [date, title]
     fields:
       - { label: Title, name: title, widget: string }
-      - { label: Meeting date, name: date, widget: datetime, format: yyyy-MM-dd, time_format: false }
+      - { label: Meeting date, name: date, widget: datetime, format: YYYY-MM-DD, time_format: false }
       - { label: Body, name: body_type, widget: select, options: [Board, Committee, Annual Meeting], default: Board }
       - { label: PDF, name: file, widget: file, hint: Upload the approved minutes as a PDF. }
       - { label: Summary, name: summary, widget: text, required: false }
