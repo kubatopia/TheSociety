@@ -6,6 +6,7 @@ topics:
   - Downtown and Main Street
   - Families and people
 summary: The Society's daily column on Martinsville and Henry County — the stores and businesses, the clubs and churches, the politics and the big news, as it was.
+featured: true
 draft: false
 ---
 

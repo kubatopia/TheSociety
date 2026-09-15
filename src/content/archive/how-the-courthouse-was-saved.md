@@ -6,6 +6,7 @@ topics:
   - The courthouse
   - Downtown and Main Street
 summary: Built in 1824, expanded in 1929, retired from county use in 1996 — and the year it stopped being a courthouse is the year it started being a museum.
+featured: true
 draft: false
 ---
 

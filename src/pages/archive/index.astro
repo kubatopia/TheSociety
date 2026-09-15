@@ -3,8 +3,12 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { formatDate } from '../../lib/dates';
 
+// Featured first, then newest. Filtering preserves this order, so a pinned
+// entry stays near the top of whatever the reader has narrowed to.
 const entries = (await getCollection('archive', ({ data }) => !data.draft)).sort(
-  (a, b) => b.data.date.getTime() - a.data.date.getTime(),
+  (a, b) =>
+    Number(b.data.featured) - Number(a.data.featured) ||
+    b.data.date.getTime() - a.data.date.getTime(),
 );
 
 /**
@@ -113,7 +117,10 @@ const hrefFor = (entry: (typeof entries)[number]) =>
               <div class="mb-3 aspect-4/3 w-full rounded-lg border border-rule bg-parchment-deep" aria-hidden="true" />
             )}
 
-            <p class="label text-brick">{entry.data.type}</p>
+            <p class="label flex flex-wrap items-center gap-x-2 text-brick">
+              {entry.data.type}
+              {entry.data.featured && <span class="text-gold">&middot; Featured</span>}
+            </p>
             <h2 class="mt-1.5 font-display text-xl leading-snug">
               <a
                 href={hrefFor(entry)}
@@ -125,6 +132,7 @@ const hrefFor = (entry: (typeof entries)[number]) =>
             </h2>
             <p class="mt-1 text-sm text-ink-muted">
               {formatDate.format(entry.data.date)}
+              {entry.data.author && ` · ${entry.data.author}`}
               {entry.data.publication && ` · ${entry.data.publication}`}
             </p>
             {entry.data.summary && (

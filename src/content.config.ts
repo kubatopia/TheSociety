@@ -30,6 +30,12 @@ const archive = defineCollection({
       .enum(['Looking Back', 'In the news', 'Article', 'Programme or video'])
       .default('Article'),
     summary: z.string().optional(),
+    /** Credit the person who wrote it. */
+    author: z.string().optional(),
+    /** Pinned to the top of the archive's default view. */
+    featured: z.boolean().default(false),
+    /** Where it was first published, when migrated from the old site. */
+    sourceUrl: z.string().optional(),
     /** Subjects, free text so the list can grow without a code change. */
     topics: z.array(z.string()).default([]),
     /** Press coverage lives on someone else's site. */

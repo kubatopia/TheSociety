@@ -6,6 +6,7 @@ topics:
   - Folk music and traditions
   - Downtown and Main Street
 summary: The Society's summer music series on the courthouse square, closing each year with a headline act from the region.
+featured: true
 draft: false
 ---
 

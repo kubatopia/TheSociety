@@ -22,6 +22,9 @@ collections:
         options: ['Looking Back', 'In the news', 'Article', 'Programme or video']
         hint: The format. "In the news" is coverage on someone else's site.
       - { label: Summary, name: summary, widget: text, required: false, hint: One or two sentences shown on the card. }
+      - { label: Author, name: author, widget: string, required: false }
+      - { label: Featured, name: featured, widget: boolean, default: false, hint: Pins this to the top of the archive. }
+      - { label: Original URL, name: sourceUrl, widget: string, required: false, hint: Where this was first published, if it was moved here from the old site. }
       - label: Topics
         name: topics
         widget: list
