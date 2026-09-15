@@ -32,7 +32,7 @@ changes.
 Field definitions live in two places and must be kept in step:
 
 - `src/content.config.ts` — the schema the site validates against at build time
-- `public/admin/config.yml` — the form the CMS shows to board members
+- `src/cms/collections.yml` — the form the CMS shows to board members
 
 If you add a field to one, add it to the other. A mismatch fails the build with
 a clear error naming the file and field.
@@ -62,9 +62,12 @@ The GitHub OAuth app (github.com → Settings → Developer settings → OAuth A
 needs its **Authorization callback URL** set to
 `https://<production domain>/api/callback`.
 
-When the custom domain goes live, update the domain in three places:
-`public/admin/config.yml` (`base_url` and `site_url`), `public/robots.txt`, and
-the `PUBLIC_SITE_URL` environment variable.
+When the custom domain goes live, change `PUBLIC_SITE_URL` in Vercel and
+redeploy. That single value drives canonical links, the sitemap, `robots.txt`
+and the CMS `base_url` — there is nothing else to edit.
+
+If `PUBLIC_SITE_URL` is missing, empty or not a URL, the build falls back to the
+default in `astro.config.mjs` rather than failing.
 
 ## Architecture notes
 
@@ -74,3 +77,8 @@ the `PUBLIC_SITE_URL` environment variable.
 - Images referenced from CMS uploads are plain paths under `/media/`. They are
   served as uploaded rather than passed through Astro's image optimizer, which
   cannot process files in `public/`.
+- `/admin/config.yml` and `/robots.txt` are generated at build time from
+  `PUBLIC_SITE_URL`, so the deployed origin is never hard-coded in a file.
+- Date-only front matter (`2026-09-20`) parses as UTC midnight. Format those
+  values through `src/lib/dates.ts`, never with a bare `Intl.DateTimeFormat`, or
+  they render a day early.

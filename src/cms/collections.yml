@@ -1,22 +1,8 @@
-# Sveltia CMS configuration.
-# Board members edit content at /admin/ ; saving commits straight to this repo.
-# Docs: https://sveltiacms.app/en/docs
-
-backend:
-  name: github
-  repo: kubatopia/TheSociety
-  branch: main
-  # base_url + auth_endpoint must point at THIS site's own OAuth endpoints.
-  # Update base_url when the custom domain goes live.
-  base_url: https://the-society.vercel.app
-  auth_endpoint: api/auth
-
 # Uploaded images and PDFs land in public/media and are served from /media.
 media_folder: public/media
 public_folder: /media
 
 publish_mode: simple
-site_url: https://the-society.vercel.app
 
 collections:
   - name: news

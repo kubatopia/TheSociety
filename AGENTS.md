@@ -6,14 +6,19 @@ on-demand routes are the two OAuth endpoints under `src/pages/api/`.
 ## Rules of the road
 
 - Content schemas live in `src/content.config.ts`. The CMS form that writes that
-  content lives in `public/admin/config.yml`. **Change both together** — a field
+  content lives in `src/cms/collections.yml`. **Change both together** — a field
   added to one and not the other breaks either the build or the editor.
 - Never use `astro:assets` `<Image>` for CMS-uploaded media. Those files land in
   `public/media/` and Astro's optimizer cannot process `public/`. Plain `<img>`.
 - `GITHUB_OAUTH_ID` / `GITHUB_OAUTH_SECRET` are server-only. Do not prefix them
   with `PUBLIC_` and do not read them from client-side code.
-- The production domain appears in `public/admin/config.yml`, `public/robots.txt`
-  and the `PUBLIC_SITE_URL` env var. Update all three together.
+- The production origin lives in ONE place: the `PUBLIC_SITE_URL` env var.
+  `/admin/config.yml` and `/robots.txt` are generated from it at build time.
+  Never hard-code a domain in a file.
+- Env vars can arrive defined-but-empty from a host. Guard with a truthiness or
+  validity check, not `??` — that is what broke the first two deployments.
+- Date-only front matter parses as UTC midnight. Always format through
+  `src/lib/dates.ts`; a bare `Intl.DateTimeFormat` renders it a day early.
 
 ## Before pushing
 
