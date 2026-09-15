@@ -6,6 +6,7 @@ import { summarise, closedDays, type OpeningDay } from '../lib/hours';
 
 const year = new Date().getFullYear();
 const hours = summarise(site.openingHours as OpeningDay[]);
+const sponsors = site.sponsors.split('\n').map((name) => name.trim()).filter(Boolean);
 const closed = closedDays(site.openingHours as OpeningDay[]);
 ---
 
@@ -63,6 +64,26 @@ const closed = closedDays(site.openingHours as OpeningDay[]);
       </p>
     </div>
   </div>
+
+  {
+    site.sponsorsIntro && sponsors.length > 0 && (
+      <div class="border-t border-parchment/15">
+        <div class="mx-auto max-w-6xl px-5 py-8">
+          <h2 class="label text-gold">With thanks</h2>
+          <p class="mt-3 max-w-4xl text-sm text-parchment/70">{site.sponsorsIntro}</p>
+          {/* A list, not a run-on sentence: 24 names joined by dashes is unreadable. */}
+          <ul class="mt-3 flex flex-wrap gap-x-3 gap-y-1 text-sm text-parchment/60">
+            {sponsors.map((name, index) => (
+              <li>
+                {name}
+                {index < sponsors.length - 1 && <span class="ml-3 text-gold/50" aria-hidden="true">&middot;</span>}
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    )
+  }
 
   <div class="border-t border-parchment/15">
     <p class="mx-auto max-w-6xl px-5 py-5 text-xs text-parchment/50">&copy; {year} {site.name}</p>

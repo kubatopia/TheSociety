@@ -158,3 +158,5 @@ collections:
           - { label: Facebook URL, name: facebook, widget: string, required: false }
           - { label: Instagram URL, name: instagram, widget: string, required: false }
           - { label: TikTok URL, name: tiktok, widget: string, required: false }
+          - { label: Sponsors — opening line, name: sponsorsIntro, widget: text, required: false, hint: 'Update the fiscal year here each time. Left empty, the whole thank-you is hidden.' }
+          - { label: Sponsors — names, name: sponsors, widget: text, required: false, hint: One name per line. }
