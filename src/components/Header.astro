@@ -20,17 +20,15 @@ const { overlay = false } = Astro.props;
 
 <header class:list={['w-full', overlay ? 'absolute inset-x-0 top-0 z-20' : 'border-b border-rule bg-parchment']}>
   <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-5 py-4">
-    <a
-      href="/"
-      class:list={[
-        'font-display text-xl leading-none tracking-wide uppercase',
-        overlay ? 'text-card' : 'text-ink',
-      ]}
-    >
-      MHC
-      <span class:list={['block font-body text-[0.6875rem] tracking-normal normal-case', overlay ? 'text-card/75' : 'text-ink-muted']}>
-        Historical Society
-      </span>
+    <a href="/" class="flex-none">
+      {/* Knockout over the hero photograph, where the black wordmark would vanish. */}
+      <img
+        src={overlay ? '/media/mhc-logo-light.png' : '/media/mhc-logo.png'}
+        alt={site.name}
+        width="900"
+        height="522"
+        class:list={['h-auto w-auto', overlay ? 'max-h-16 sm:max-h-[4.75rem]' : 'max-h-14 sm:max-h-16']}
+      />
     </a>
 
     <nav aria-label="Main" class="hidden md:block">
